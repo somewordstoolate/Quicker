@@ -1,0 +1,10 @@
+1	exp Dementia/
+2	(Dement$ or Alzheimer$ or Amnes$ or Parkinson$ or Huntington$ or lewy$ bod$ or pick$ disease or Posterior cortical atrophy or aphasia or (brain adj1 (disease$ or syndrome$)) or binswanger* or Progressive supranuclear palsy or Steele-Richardson-Olszewski syndrome or Frontotemporal disorder$ or Frontotemporal degeneration or Corticobasal degeneration or Corticobasal syndrome or cognitive disorder$ or Vascular cognitive).ti,ab,kw,ot.
+3	*Amnesia/
+4	exp Parkinsonian Disorders/
+5	*Huntington Disease/
+6	*Supranuclear Palsy, Progressive/
+7	1 or 2 or 3 or 4 or 5 or 6
+8	(home or house or apartment or building).ti,ab,kw,ot.
+9	(memor$ adj3 clinic$).ti,ab,kw,ot.
+10	7 and 8 and 9

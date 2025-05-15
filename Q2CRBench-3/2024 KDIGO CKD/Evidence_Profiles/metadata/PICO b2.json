@@ -1,0 +1,155 @@
+{
+    "Question": "What is the effect of uric acid–lowering therapy compared with placebo, usual care, or an active comparator among people with CKD and hyperuricemia in terms of mortality, progression of CKD, complications of CKD, and adverse events?",
+    "References": {
+        "69": "Gunawardhana L, Becker MA, Whelton A, et al. Efficacy and safety of febuxostat extended release and immediate release in patients with gout and moderate renal impairment: phase II placebo-controlled study. Arthritis research & therapy 2018; 20: 99.",
+        "70": "Saag KG, Whelton A, Becker MA, et al. Impact of Febuxostat on Renal Function in Gout Patients With Moderate-to-Severe Renal Impairment. Arthritis and Rheumatology 2016; 68: 2035-2043.",
+        "71": "Tanaka K, Nakayama M, Kanno M, et al. Renoprotective effects of febuxostat in hyperuricemic patients with chronic kidney disease: a parallel-group, randomized, controlled trial. Clinical and experimental nephrology 2015; 19: 1044‐1053.",
+        "72": "Wada T, Hosoya T, Honda D, et al. Uric acid-lowering and renoprotective effects of topiroxostat, a selective xanthine oxidoreductase inhibitor, in patients with diabetic nephropathy and hyperuricemia: a randomized, double-blind, placebo-controlled, parallel-group study (UPWARD study). Clinical and Experimental Nephrology 2018; 22: 860-870."
+    },
+    "Explanations": {
+        "a": "One of the included trials had a high risk of bias.",
+        "b": "There was a total of 15 events among the 285 participants enrolled in the two trials. The total number of events is lower than the number needed to reach the optimal information size (i.e., 300).",
+        "c": "I-squared was greater than 50%.",
+        "d": "There was a total of 2 events among the 234 participants enrolled in the two trials. The total number of events is lower than the number needed to reach the optimal information size (i.e., 300).",
+        "e": "One of the included trials had a high risk of bias and another had some concerns with risk of bias.",
+        "f": "There was a total of 2 events among the 201 participants enrolled in the three trials. The total number of events is lower than the number needed to reach the optimal information size (i.e., 300)."
+    },
+    "Outcome": {
+        "Progression of CKD to kidney failure* (follow-up: range 3 months to 12 months)": {
+            "No of studies": [
+                "69",
+                "70"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "serious",
+                "a"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "serious",
+                "b"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "ULT": [
+                    "5/215 (2.3%)"
+                ],
+                "Placebo or usual care": [
+                    "10/70 (14.3%)"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "RR 0.23 (0.06 to 0.88)"
+                ],
+                "Absolute (95% CI)": [
+                    "110 fewer per 1,000 (from 134 fewer to 17 fewer)"
+                ]
+            },
+            "Certainty": [
+                "⨁⨁◯◯ Low"
+            ]
+        },
+        "Cutaneous reactions and hypersensitivity (follow-up: mean 3 months)": {
+            "No of studies": [
+                "69",
+                "71"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "not serious"
+            ],
+            "Inconsistency": [
+                "serious",
+                "c"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "very serious",
+                "d"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "ULT": [
+                    "1/176 (0.6%)"
+                ],
+                "Placebo or usual care": [
+                    "1/58 (1.7%)"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "RR 0.46 (0.02 to 12.16)"
+                ],
+                "Absolute (95% CI)": [
+                    "9 fewer per 1,000 (from 17 fewer to 192 more)"
+                ]
+            },
+            "Certainty": [
+                "⨁◯◯◯ Very low"
+            ]
+        },
+        "Hepatotoxicity (follow-up: range 3 months to 12 months)": {
+            "No of studies": [
+                "70",
+                "71",
+                "72"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "serious",
+                "e"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "very serious",
+                "f"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "ULT": [
+                    "2/128 (1.6%)"
+                ],
+                "Placebo or usual care": [
+                    "0/73 (0.0%)"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "RR 1.55 (0.16 to 14.51)"
+                ],
+                "Absolute (95% CI)": [
+                    "0 fewer per 1,000 (from 0 fewer to 0 fewer)"
+                ]
+            },
+            "Certainty": [
+                "⨁◯◯◯ Very low"
+            ]
+        }
+    }
+}

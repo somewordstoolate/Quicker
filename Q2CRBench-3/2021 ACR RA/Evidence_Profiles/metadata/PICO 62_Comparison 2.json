@@ -1,0 +1,81 @@
+{
+  "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)": {
+    "No of studies": [
+      "5"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": [
+      "serious",
+      "a"
+    ],
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Continue the same dose of the boDMARD or tsDMARD": "73",
+      "Increase the interval between the doses of the boDMARD or tsDMARD": "64"
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 0.2 lower (0.56 lower to 0.16 higher)"
+    },
+    "Certainty": "MODERATE",
+    "Importance": "CRITICAL"
+  },
+  "Flare (follow up: 18 months)": {
+    "No of studies": [
+      "5",
+      "6"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": [
+      "serious",
+      "b"
+    ],
+    "Inconsistency": [
+      "serious",
+      "c"
+    ],
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Continue the same dose of the boDMARD or tsDMARD": "50/132 (37.9%)",
+      "Increase the interval between the doses of the boDMARD or tsDMARD": "137/185 (74.1%)"
+    },
+    "Effect": {
+      "Relative (95% CI)": "RR 0.48 (0.38 to 0.62)",
+      "Absolute (95% CI)": "385 fewer per 1,000 (from 459 fewer to 281 fewer)"
+    },
+    "Certainty": "LOW",
+    "Importance": "CRITICAL"
+  },
+  "Disability (follow up: 3 months; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)": {
+    "No of studies": [
+      "5"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": [
+      "serious",
+      "a"
+    ],
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "serious",
+      "d"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Continue the same dose of the boDMARD or tsDMARD": "73",
+      "Increase the interval between the doses of the boDMARD or tsDMARD": "64"
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 0.09 lower (0.41 lower to 0.23 higher)"
+    },
+    "Certainty": "LOW",
+    "Importance": "IMPORTANT"
+  }
+}

@@ -1,0 +1,47 @@
+{
+    "DAS remission (follow up: 1 year; assessed with DAS44 ≤ 1.6)": {
+        "No of studies": "1",
+        "Study design": "observational studies",
+        "Risk of bias": [
+            "not serious",
+            "a",
+            "b"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "a treatment goal of low disease activity": "40/133 (30.1%)",
+            "a treatment goal of remission": "89/175 (50.9%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.59 (0.44 to 0.80)",
+            "Absolute (95% CI)": "209 fewer per 1,000 (from 285 fewer to 102 fewer)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: 1 year; assessed with DAS-44 (Lower values – > benefit) (MCID -1.2)": {
+        "No of studies": "1",
+        "Study design": "observational studies",
+        "Risk of bias": [
+            "not serious",
+            "a"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "a treatment goal of low disease activity": "133",
+            "a treatment goal of remission": "175"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.1 lower (0.35 lower to 0.15 higher)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "CRITICAL"
+    }
+}

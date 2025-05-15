@@ -1,0 +1,149 @@
+[
+    {
+        "outcome_uid": "e777dcd1",
+        "clinical_question": "What are the effects of non\u2013vitamin K antagonist oral anticoagulants (NOACs) (also known as direct-acting oral anticoagulants [DOACs]) with or without warfarin compared with placebo or warfarin alone among people with CKD and atrial fibrillation in terms of stroke and bleeding risks?",
+        "population": "Adults and/or children with CKD and atrial fibrillation",
+        "intervention": "NOAC/DOAC (dabigatran, apixaban, edoxaban, rivaroxaban) with warfarin and NOAC/DOAC alone",
+        "comparator": "Warfarin, placebo",
+        "outcome": "Any stroke (follow-up: range 1.9 years to 2.8 years)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "c0f8d542",
+            "bc897c67",
+            "1cd94b34",
+            "54a711dd"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "The total number of events among the 6083 participants of the 4 trials was estimated to be less than the number needed to reach the optimal information size (i.e., 300). One study did not report the number of events (Hori 2013)."
+                },
+                "Other considerations": {
+                    "result": "publication bias strongly suspected",
+                    "rationales": "Only some of the 7 studies reported on outcome."
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "NOAC": "133/3067 (4.3%)",
+                    "Warfarin": "143/3016 (4.7%)"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "HR 0.93 (0.73 to 1.18)()",
+                    "Absolute Effect (95% CI)": "3 fewer per 1,000 (from 13 fewer to 8 more)()"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "0e221e06",
+        "clinical_question": "What are the effects of non\u2013vitamin K antagonist oral anticoagulants (NOACs) (also known as direct-acting oral anticoagulants [DOACs]) with or without warfarin compared with placebo or warfarin alone among people with CKD and atrial fibrillation in terms of stroke and bleeding risks?",
+        "population": "Adults and/or children with CKD and atrial fibrillation",
+        "intervention": "NOAC/DOAC (dabigatran, apixaban, edoxaban, rivaroxaban) with warfarin and NOAC/DOAC alone",
+        "comparator": "Warfarin, placebo",
+        "outcome": "Ischemic stroke (follow-up: range 1.8 years to 2.8 years)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "c0f8d542",
+            "1cd94b34",
+            "54a711dd",
+            "24f8f876",
+            "e3444fca"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "The total number of events among the participants of the 5 trials was estimated to be less than the number needed to reach the optimal information size (i.e., 300). The number of events and the number of participants were not always reported."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "NOAC": "NE",
+                    "Warfarin": "NE"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "HR 0.87 (0.69 to 1.10)()",
+                    "Absolute Effect (95% CI)": "1 fewer per 1,000 (from 1 fewer to 1 fewer)()"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "12d65682",
+        "clinical_question": "What are the effects of non\u2013vitamin K antagonist oral anticoagulants (NOACs) (also known as direct-acting oral anticoagulants [DOACs]) with or without warfarin compared with placebo or warfarin alone among people with CKD and atrial fibrillation in terms of stroke and bleeding risks?",
+        "population": "Adults and/or children with CKD and atrial fibrillation",
+        "intervention": "NOAC/DOAC (dabigatran, apixaban, edoxaban, rivaroxaban) with warfarin and NOAC/DOAC alone",
+        "comparator": "Warfarin, placebo",
+        "outcome": "Hemorrhagic stroke (follow-up: range 1.9 years to 2.8 years)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "c0f8d542",
+            "1cd94b34",
+            "54a711dd"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "The total number of events among the 6083 participants of the 4 trials was estimated to be less than the number needed to reach the optimal information size (i.e., 300). One study did not report the number of events (Hori 2013)."
+                },
+                "Other considerations": {
+                    "result": "publication bias strongly suspected",
+                    "rationales": "Only some of the 7 studies reported on outcome."
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "NOAC": "23/2994 (0.8%)",
+                    "Warfarin": "36/2980 (1.2%)"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "HR 0.62 (0.36 to 1.04)()",
+                    "Absolute Effect (95% CI)": "5 fewer per 1,000 (from 8 fewer to 0 fewer)()"
+                }
+            }
+        }
+    }
+]

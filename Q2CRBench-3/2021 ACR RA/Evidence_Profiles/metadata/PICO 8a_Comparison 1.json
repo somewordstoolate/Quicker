@@ -1,0 +1,155 @@
+{
+    "Disease activity (follow up: 2 years; assessed with: DAS28-ESR)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": "not serious",
+      "Other considerations": "none",
+      "No of patients": {
+        "csDMARDs + long-term low-dose GCs": ["116","b"],
+        "csDMARDs monotherapy": ["126","c"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 0.5 lower (0.84 lower to 0.16 lower)"
+      },
+      "Certainty": "MODERATE",
+      "Importance": "CRITICAL"
+    },
+    "Remission (follow up: 2 years; assessed with: DAS28-ESR<2.6)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": "not serious",
+      "Other considerations": "none",
+      "No of patients": {
+        "csDMARDs + long-term low-dose GCs": ["64/116 (55.2%)","b"],
+        "csDMARDs monotherapy": ["41/126 (32.5%)","c"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 1.70 (1.26 to 2.29)",
+        "Absolute (95% CI)": "228 more per 1,000 (from 85 more to 420 more)"
+      },
+      "Certainty": "MODERATE",
+      "Importance": "CRITICAL"
+    },
+    "Radiographic progression (follow up: 2 years; assessed with: Sharp/van der Heijde score)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["not serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["serious", "d"],
+      "Other considerations": "none",
+      "No of patients": {
+        "csDMARDs + long-term low-dose GCs": ["108","b"],
+        "csDMARDs monotherapy": ["117","c"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 3.9 lower (7 lower to 0.8 lower)"
+      },
+      "Certainty": "MODERATE",
+      "Importance": "IMPORTANT"
+    },
+    "Disability (follow up: 2 years; assessed with: HAQ Swedish version)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["serious", "d"],
+      "Other considerations": "none",
+      "No of patients": {
+        "csDMARDs + long-term low-dose GCs": ["116","b"],
+        "csDMARDs monotherapy": ["126","c"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 0.2 lower (0.34 lower to 0.06 lower)"
+      },
+      "Certainty": "LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Withdrawal due to adverse events (follow up: 2 years)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious", "e"],
+      "Other considerations": "none",
+      "No of patients": {
+        "csDMARDs + long-term low-dose GCs": ["26/116 (22.4%)","b"],
+        "csDMARDs monotherapy": ["24/126 (19.0%)","c"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 1.18 (0.72 to 1.93)",
+        "Absolute (95% CI)": "34 more per 1,000 (from 53 fewer to 177 more)"
+      },
+      "Certainty": "VERY LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Death (follow up: 2 years)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious", "f"],
+      "Other considerations": "none",
+      "No of patients": {
+        "csDMARDs + long-term low-dose GCs": ["1/116 (0.9%)","b"],
+        "csDMARDs monotherapy": ["0/126 (0.0%)","c"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 3.26 (0.13 to 79.15)",
+        "Absolute (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)"
+      },
+      "Certainty": "VERY LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Death (age-adjusted) (follow up: 10 years)": {
+      "No of studies": ["2"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious", "e"],
+      "Other considerations": "none",
+      "No of patients": {
+        "csDMARDs + long-term low-dose GCs": ["119 participants","-"],
+        "csDMARDs monotherapy": ["111 participants","8.1%"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "HR 1.60 (0.61 to 4.18)",
+        "Absolute (95% CI)": "45 more per 1,000 (from 31 fewer to 216 more)"
+      },
+      "Certainty": "VERY LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Composite Cardiovascular events (age-adjusted) (follow up: 10 years)": {
+      "No of studies": ["2"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["serious", "e"],
+      "Other considerations": "none",
+      "No of patients": {
+        "csDMARDs + long-term low-dose GCs": ["119 participants","-"],
+        "csDMARDs monotherapy": ["111 participants","13.5%"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "HR 1.8 (0.9 to 3.6)",
+        "Absolute (95% CI)": "95 more per 1,000 (from 13 fewer to 272 more)"
+      },
+      "Certainty": "LOW",
+      "Importance": "IMPORTANT"
+    }
+  }
+  

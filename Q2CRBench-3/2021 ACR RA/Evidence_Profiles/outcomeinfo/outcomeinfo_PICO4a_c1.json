@@ -1,0 +1,306 @@
+[
+    {
+        "outcome_uid": "2dc7a609",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive csDMARD monotherapy or combination (double or triple) therapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA who have moderate to high disease activity",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD double combination therapy",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: DAS 44 (Lower values \u2013 > benefit) (MCID -1.2 based on the EULAR criteria)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "fd4777bd",
+            "d7a31839"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment in both studies, high risk of attrition bias in one of the two studies."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "csDMARD double therapy": "104",
+                    "csDMARD monotherapy": "206"
+                },
+                "Annotation": {
+                    "data": "1. csDMARD double therapy includes: MTZ+SSZ\n2. csDMARD monotherapy includes: MTX or SSZ\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.3 lower (0.57 lower to 0.02 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "9132f476",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive csDMARD monotherapy or combination (double or triple) therapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA who have moderate to high disease activity",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD double combination therapy",
+        "outcome": "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values \u2013 > benefit) (MCID -0.22)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "fd4777bd",
+            "d7a31839"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment in both studies, high risk of attrition bias in one of the two studies."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "csDMARD double therapy": "104",
+                    "csDMARD monotherapy": "206"
+                },
+                "Annotation": {
+                    "data": "1. csDMARD double therapy includes: MTZ+SSZ\n2. csDMARD monotherapy includes: MTX or SSZ\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.01 lower (0.16 lower to 0.14 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "f87e2ec4",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive csDMARD monotherapy or combination (double or triple) therapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA who have moderate to high disease activity",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD double combination therapy",
+        "outcome": "Pain (follow up: 1 year; assessed with: VAS 0-100 (Lower values \u2013 > benefit) (MCID -11.9)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d7a31839"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Low sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "csDMARD double therapy": "36",
+                    "csDMARD monotherapy": "69"
+                },
+                "Annotation": {
+                    "data": "1. csDMARD double therapy includes: MTZ+SSZ\n2. csDMARD monotherapy includes: MTX or SSZ\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.05 higher (10.89 lower to 10.99 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "be11ef8f",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive csDMARD monotherapy or combination (double or triple) therapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA who have moderate to high disease activity",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD double combination therapy",
+        "outcome": "Serious adverse events (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d7a31839"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence intervals include both values suggesting benefit and values suggesting harm. Small sample size, very low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "csDMARD double therapy": "0/36 (0.0%)",
+                    "csDMARD monotherapy": "3/69 (4.3%)"
+                },
+                "Annotation": {
+                    "data": "1. csDMARD double therapy includes: MTZ+SSZ\n2. csDMARD monotherapy includes: MTX or SSZ\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.27 (0.01 to 5.09)",
+                    "Absolute Effect (95% CI)": "32 fewer per 1,000 (from 43 fewer to 178 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "f297c8dc",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive csDMARD monotherapy or combination (double or triple) therapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA who have moderate to high disease activity",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD double combination therapy",
+        "outcome": "Withdrawal due to lack of efficacy (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "fd4777bd",
+            "d7a31839"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment in both studies, high risk of attrition bias in one of the two studies."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence intervals include both values suggesting benefit and values suggesting harm. Small sample size, very low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "csDMARD double therapy": "4/104 (3.8%)",
+                    "csDMARD monotherapy": "15/206 (7.3%)"
+                },
+                "Annotation": {
+                    "data": "1. csDMARD double therapy includes: MTZ+SSZ\n2. csDMARD monotherapy includes: MTX or SSZ\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.53 (0.18 to 1.56)",
+                    "Absolute Effect (95% CI)": "34 fewer per 1,000 (from 60 fewer to 41 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "6e5debf6",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive csDMARD monotherapy or combination (double or triple) therapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA who have moderate to high disease activity",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD double combination therapy",
+        "outcome": "Withdrawal due to Adverse events (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "fd4777bd",
+            "d7a31839"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment in both studies, high risk of attrition bias in one of the two studies."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence intervals include both values suggesting benefit and values suggesting harm. Small sample size, very low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "csDMARD double therapy": "14/104 (13.5%)",
+                    "csDMARD monotherapy": "28/206 (13.6%)"
+                },
+                "Annotation": {
+                    "data": "1. csDMARD double therapy includes: MTZ+SSZ\n2. csDMARD monotherapy includes: MTX or SSZ\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.99 (0.54 to 1.79)",
+                    "Absolute Effect (95% CI)": "1 fewer per 1,000 (from 63 fewer to 107 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

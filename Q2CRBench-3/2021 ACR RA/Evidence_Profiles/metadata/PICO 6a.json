@@ -1,0 +1,72 @@
+{
+    "Question": " Should patients with MTX-naïve and non-MTX csDMARDs naïve RA and moderate to high disease activity receive MTX monotherapy or boDMARD with MTX or tsDMARD with MTX?",
+    "Comparison": {
+        "TNF Inhibitor + MTX versus MTX monotherapy": {
+            "filename": "PICO 6a_Comparison 1.json",
+            "Explanations": {
+                "a": "Concern about risk of bias associated with lack of allocation concealment and incomplete outcome data in one study is taken into account when rating down for imprecision.",
+                "b": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit. According to the Cochrane's handbook, Cohen suggested that SMD=0.2 be considered a 'small' effect size, 0.5 represents a 'medium' effect size and 0.8 a 'large' effect size. This means that if two groups' means do not differ by 0.2 standard deviations or more, the difference is trivial, even if it is statistically significant.",
+                "c": "TNFis include etanercept (ETN), certolizumab (CZP) and adalimumab (ADA).",
+                "d": "Concern about risk of bias associated with lack of allocation concealment and incomplete outcome data in one study is taken into account when rating down for inconsistency.",
+                "e": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=51%.",
+                "f": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment in 2 studies.",
+                "g": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=78%.",
+                "h": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=58%.",
+                "i": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment.",
+                "j": "The study EMPIRE found that the RR of developing no radiographic progression (change in mTSS ≤0.5) was 0.86 (95%CI 0.57 to 1.3), absolute risk reduction 77 fewer per 1000 (95%CI 237 fewer to 165 more).",
+                "k": "Concern about risk of bias associated with lack of allocation concealment taken into account when rating down for imprecision.",
+                "l": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm.",
+                "m": "The study C-EARLY found that the RR of having HAQ-DI ≤0.5 at 1 year was 1.35 (95%CI 1.11 to 1.64), absolute risk increase 125 more per 1000 (95%CI 39 more to 228 more).",
+                "n": "Downgraded by one level due to serious imprecision. Low number of events.",
+                "o": "Concern about risk of bias associated with lack of allocation concealment in two studies taken into account when rating down for inconsistency and imprecision.",
+                "p": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=72%.",
+                "q": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and incomplete outcome data in one study."
+            }
+        },
+        "Abatacept + MTX versus MTX monotherapy ": {
+            "filename": "PICO 6a_Comparison 2.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and lack of blinding of non-radiographic outcome assessors.",
+                "b": "Downgraded by one level due to serious indirectness. The evidence is based on a non-MTX csDMARD exposed population.",
+                "c": "The study AGREE found that the RR of developing no radiographic progression (change in mTSS ≤0) was 1.6 (95%CI 0.99 to 1.36), absolute risk increase 84 more per 1000 (95%CI 5 fewer to 190 more).",
+                "d": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit.",
+                "e": "The studies AGREE and AVERT found that the RR of improvement in HAQ-DI (≥0.3 change from baseline) was 1.25 (95%CI 1.12 to 1.39), absolute risk increase 141 more per 1000 (95%CI 668 more to 220 more).",
+                "f": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm.",
+                "g": "Downgraded by two levels due to serious imprecision. Confidence interval includes both values suggesting harm and values suggesting benefit. Low number of events.",
+                "h": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting harm and values suggesting benefit."
+            }
+        },
+        "Rituximab + MTX versus MTX monotherapy": {
+            "filename": "PICO 6a_Comparison 3.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment.",
+                "b": "Downgraded by one level due to serious indirectness. The evidence is based on a non-MTX csDMARD exposed population.",
+                "c": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit.",
+                "d": "The study IMAGE found that the RR of improvement in HAQ-DI (≥0.22 change from baseline) was 1.12 (95%CI 1.03 to 1.21), absolute risk increase 93 more per 1000 (95%CI 23 more to 162 more).",
+                "e": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm."
+            }
+        },
+        "IL-6 Receptor Inhibitor + MTX versus MTX monotherapy": {
+            "filename": "PICO 6a_Comparison 4.json",
+            "Explanations": {
+                "a": "Rated down by one level for lack of allocation concealment",
+                "b": "Downgraded by one level due to serious indirectness. The evidence is based on a non-MTX csDMARD exposed population.",
+                "c": "Rated down by one level for imprecision as the CI includes both values suggesting no effect and values suggesting harm",
+                "d": "Rated down by two levels for imprecision as the CI includes both values suggesting benefit and values suggesting harm"
+            }
+        }
+    },
+    "References": {
+        "1": "Emery P. Certolizumab pegol in combination with dose-optimised methotrexate in DMARD-naive patients with early, active rheumatoid arthritis with poor prognostic factors: 1-year results from C-EARLY, a randomised, double-blind, placebo-controlled phase III study. Annals of the Rheumatic Diseases. 2017;76(1):96.",
+        "2": "Detert J. Induction therapy with adalimumab plus methotrexate for 24 weeks followed by methotrexate monotherapy up to week 48 versus methotrexate therapy alone for DMARD-naive patients with early rheumatoid arthritis: HIT HARD, an investigator-initiated study. Annals of the Rheumatic Diseases. 2013;72(6):844.",
+        "3": "Nam JL, Villeneuve E, Hensor EM, Wakefield RJ, Conaghan PG, Green MJ, et al. A randomised controlled trial of etanercept and methotrexate to induce remission in early inflammatory arthritis: the EMPIRE trial. Annals of the Rheumatic Diseases. 2014;73(6):1027.",
+        "4": "Lopez-Olivo MAT, J.H; Martinez-Lopez, J.A.; Pollono, E.N.; Cueto, J.P.; Gonzales-Crespo, M.R.; Fulton, S.; Suarez-Almazor, M.E. Risk of malignancies in patients with rheumatoid arthritis treated with biologic therapy: a meta-analysis. JAMA. 2012;308(9):898.",
+        "5": "Westhovens Rea. Clinical efficacy and safety of abatacept in methotrexate-naive patients with early rheumatoid arthritis and poor prognostic factors. Ann Rheum Dis BMJ. 2009;68(12):1870-7.",
+        "6": "Emery P. Evaluating drug-free remission with abatacept in early rheumatoid arthritis: Results from the phase 3b, multicentre, randomised, active-controlled AVERT study of 24 months, with a 12-month, double-blind treatment period. Annals of the Rheumatic Diseases. 2015;74(1):19.",
+        "7": "Tak PPea. Sustained inhibition of progressive joint damage with rituximab plus methotrexate in early active rheumatoid arthritis: 2-year results from the randomised controlled trial IMAGE. Ann Rheum Dis BMJ. 2011;71(3):351-7.",
+        "8": "Burmester GR. Tocilizumab in early progressive rheumatoid arthritis: FUNCTION, a randomised controlled trial. Annals of the Rheumatic Diseases. 2016;75(6):1081.",
+        "9": "Campbell LC, C.; Bhagat, S. S.; Parker, R. A.; Ostor, A. J. K. Risk of adverse events including serious infections in rheumatoid arthritis patients treated with tocilizumab: a systematic literature review and meta-analysis of randomized controlled trials. Rheumatology (Oxford academic). 2010;50(3):552-62.",
+        "10": "Spalding JR. Cost Effectiveness of Tumour Necrosis Factor-α Inhibitors as First-Line Agents in Rheumatoid Arthritis. Pharmacoeconomics 2006;24(12):1221-32.",
+        "11": "RIGBY WF, G.; GREENWALD, M.; ZAZUETA-MONTIEL, B.; et. al. Effect of Rituximab on Physical Function and Quality of Life in Patients With Rheumatoid Arthritis Previously Untreated With Methotrexate. American College of Rheumatology. 2011;63(5):711-20."
+    }
+}

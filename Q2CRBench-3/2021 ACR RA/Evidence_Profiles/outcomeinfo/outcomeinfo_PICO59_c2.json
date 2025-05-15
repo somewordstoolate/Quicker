@@ -1,0 +1,386 @@
+[
+    {
+        "outcome_uid": "fba2e58c",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target withdraw (taper off or abruptly stop) MTX or withdraw (taper off or abruptly stop) the boDMARD or the tsDMARD?",
+        "population": "Patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target",
+        "intervention": "Withdraw (taper off or abruptly stop) MTX",
+        "comparator": "Continue same management",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "fab0cce3"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Concern with risk of bias. Missing data was not appropriately handled in the trial."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Very small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Continue": "80",
+                    "Withdraw (Taper/Stop) MTX": "79"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.07 lower (0.4 lower to 0.27 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "c1ea71ee",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target withdraw (taper off or abruptly stop) MTX or withdraw (taper off or abruptly stop) the boDMARD or the tsDMARD?",
+        "population": "Patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target",
+        "intervention": "Withdraw (taper off or abruptly stop) MTX",
+        "comparator": "Continue same management",
+        "outcome": "Disability (follow up: 3 months; assessed with: HAQ-DI (Lower values \u2013 > benefit) (MCID -0.22)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "fab0cce3"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Concern with risk of bias. Missing data was not appropriately handled in the trial."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Very small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Continue": "82",
+                    "Withdraw (Taper/Stop) MTX": "82"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.04 higher (0.11 lower to 0.19 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "62de13cd",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target withdraw (taper off or abruptly stop) MTX or withdraw (taper off or abruptly stop) the boDMARD or the tsDMARD?",
+        "population": "Patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target",
+        "intervention": "Withdraw (taper off or abruptly stop) MTX",
+        "comparator": "Continue same management",
+        "outcome": "Quality of life (follow up: 3 months; assessed with: SF-36 PCS (Higher values \u2013 > benefit) (MCID 4.4)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "fab0cce3"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Concern with risk of bias. Missing data was not appropriately handled in the trial."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit. Very small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Continue": "82",
+                    "Withdraw (Taper/Stop) MTX": "82"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 3.38 higher (0.69 higher to 6.07 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "e3029d33",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target withdraw (taper off or abruptly stop) MTX or withdraw (taper off or abruptly stop) the boDMARD or the tsDMARD?",
+        "population": "Patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target",
+        "intervention": "Withdraw (taper off or abruptly stop) MTX",
+        "comparator": "Continue same management",
+        "outcome": "Quality of life (follow up: 3 months; assessed with:  SF-36 MCS (Higher values \u2013 > benefit) (MCID 3.1)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "fab0cce3"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Concern with risk of bias. Missing data was not appropriately handled in the trial."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Very small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Continue": "82",
+                    "Withdraw (Taper/Stop) MTX": "82"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 1.88 lower (4.78 lower to 1.02 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "38450c06",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target withdraw (taper off or abruptly stop) MTX or withdraw (taper off or abruptly stop) the boDMARD or the tsDMARD?",
+        "population": "Patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target",
+        "intervention": "Withdraw (taper off or abruptly stop) MTX",
+        "comparator": "Continue same management",
+        "outcome": "Serious adverse events (follow up: 3 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "fab0cce3"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Concern with risk of bias. Missing data was not appropriately handled in the trial."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, and low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Continue": "1/83 (1.2%)",
+                    "Withdraw (Taper/Stop) MTX": "4/82 (4.9%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.25 (0.03 to 2.16)",
+                    "Absolute Effect (95% CI)": "37 fewer per 1,000 (from 47 fewer to 57 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "1cc42739",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target withdraw (taper off or abruptly stop) MTX or withdraw (taper off or abruptly stop) the boDMARD or the tsDMARD?",
+        "population": "Patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target",
+        "intervention": "Withdraw (taper off or abruptly stop) MTX",
+        "comparator": "Continue same management",
+        "outcome": "Withdrawal due to lack of efficacy (follow up: 3 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "fab0cce3"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Concern with risk of bias. Missing data was not appropriately handled in the trial."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, and low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Continue": "0/83 (0.0%)",
+                    "Withdraw (Taper/Stop) MTX": "1/82 (1.2%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.33 (0.01 to 7.97)",
+                    "Absolute Effect (95% CI)": "8 fewer per 1,000 (from 12 fewer to 85 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "a5c515ab",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target withdraw (taper off or abruptly stop) MTX or withdraw (taper off or abruptly stop) the boDMARD or the tsDMARD?",
+        "population": "Patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target",
+        "intervention": "Withdraw (taper off or abruptly stop) MTX",
+        "comparator": "Continue same management",
+        "outcome": "Withdrawal due to adverse events (follow up: 3 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "fab0cce3"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Concern with risk of bias. Missing data was not appropriately handled in the trial."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit. Very small sample size, and low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Continue": "3/83 (3.6%)",
+                    "Withdraw (Taper/Stop) MTX": "1/82 (1.2%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 2.96 (0.31 to 27.91)",
+                    "Absolute Effect (95% CI)": "24 more per 1,000 (from 8 fewer to 328 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "f1bceaf4",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target withdraw (taper off or abruptly stop) MTX or withdraw (taper off or abruptly stop) the boDMARD or the tsDMARD?",
+        "population": "Patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target",
+        "intervention": "Withdraw (taper off or abruptly stop) MTX",
+        "comparator": "Continue same management",
+        "outcome": "Death (follow up: 3 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "fab0cce3"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Concern with risk of bias. Missing data was not appropriately handled in the trial."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Very small sample size, and very low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Continue": "0/83 (0.0%)",
+                    "Withdraw (Taper/Stop) MTX": "0/82 (0.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "not estimable",
+                    "Absolute Effect (95% CI)": "",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

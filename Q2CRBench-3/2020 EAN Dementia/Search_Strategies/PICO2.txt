@@ -1,0 +1,44 @@
+1	exp Dementia/
+2	(Dement$ or Alzheimer$ or Amnes$ or Parkinson$ or Huntington$ or lewy$ bod$ or pick$ disease or Posterior cortical atrophy or aphasia or (brain adj1 (disease$ or syndrome$)) or binswanger* or Progressive supranuclear palsy or Steele-Richardson-Olszewski syndrome or Frontotemporal disorder$ or Frontotemporal degeneration or Corticobasal degeneration or Corticobasal syndrome or cognitive disorder$ or Vascular cognitive).ti,ab,kw,ot.
+3	*Amnesia/
+4	exp Parkinsonian Disorders/
+5	*Huntington Disease/
+6	*Supranuclear Palsy, Progressive/
+7	1 or 2 or 3 or 4 or 5 or 6
+8	Atrial Fibrillation/
+9	((atrial adj3 fibrillat$) or (atrium adj3 fibrillat*) or (auricular* adj3 fibrillat*) or (irregular adj1 heart beat) or atrial arrhythmi*).ti,ab,kw,ot.
+10	8 or 9
+11	exp *Hypertension/
+12	(hypertension or hyper tension or (high adj (blood pressure or BP))).ti,ab,kw.
+13	11 or 12
+14	*Hypercholesterolemia/
+15	(hypercholesterolemia or (high adj cholesterol)).ti,ab,kw.
+16	14 or 15
+17	exp Diabetes Mellitus, Type 2/
+18	diabet$.ti,ab,kw.
+19	17 or 18
+20	10 or 13 or 16 or 19
+21	7 and 20
+22	randomized controlled trial.pt.
+23	controlled clinical trial.pt.
+24	randomized.ab.
+25	placebo.ab.
+26	clinical trials as topic.sh.
+27	randomly.ab.
+28	trial.ti.
+29	22 or 23 or 24 or 25 or 26 or 27 or 28
+30	Epidemiologic studies/
+31	exp case control studies/
+32	exp cohort studies/
+33	Case control.tw.
+34	(cohort adj (study or studies)).tw.
+35	Cohort analy$.tw.
+36	(Follow up adj (study or studies)).tw.
+37	(observational adj (study or studies)).tw.
+38	Longitudinal.tw.
+39	Retrospective.tw.
+40	Cross sectional.tw.
+41	Cross-sectional studies/
+42	30 or 31 or 32 or 33 or 34 or 35 or 36 or 37 or 38 or 39 or 40 or 41
+43	29 or 42
+44	21 and 43

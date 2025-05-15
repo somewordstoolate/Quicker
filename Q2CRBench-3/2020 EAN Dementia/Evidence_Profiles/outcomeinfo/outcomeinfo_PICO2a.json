@@ -1,0 +1,167 @@
+[
+    {
+        "outcome_uid": "b79389f0",
+        "clinical_question": "Should patients with dementia (without previous stroke) and atrial fibrillation and indication for treatment with anti-coagulants be treated with anti-coagulants?",
+        "population": "Patients with dementia and atrial fibrillation and indication for treatment with anti-coagulants and no previous stroke or TCI",
+        "intervention": "Treatment with NOACs or warfarin",
+        "comparator": "No treatment with NOACs or warfarin",
+        "outcome": "Major hemorrhagic event",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "39c02ac0"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NONE",
+                    "rationales": "Risk of bias for this observational study was carried out using The Newcastle-Ottawa Scale (NOS) for assessing the quality of non-randomized studies in meta-analyses. The study received maximum score on all items except one. There is no data on previous hemorrhagic events in the population, and hence no way to ascertain whether patients were not treated due to previous hemorrhagic events. This may introduce bias, since the reason for not anticoagulating may be affected by this. See Supplementary table S4 for further detail."
+                },
+                "Inconsistency": {
+                    "result": "NOT_APPLICABLE",
+                    "rationales": "Only one study, therefore not possible to assess"
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Population (Stroke-free patients with atrial fibrillation), intervention (Treatment with warfarin) and outcome (Major hemorrhagic event, ischemic stroke, mortality) measures are deemed to be adequately similar to those in the PICO question. The summary data were provided by the author for the stroke-free population of the original cohort published in the original study (Subic et al 2018)"
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Only data from one study. CI straddles 1.0. Optimal information size (OIS) was not met (control event rate 0.066; total events 144 observed; total events required 220-660 (RRR 20-30 %). Less than 400 events but more than 100. Wide confidence intervals."
+                },
+                "Publication bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "None",
+                    "rationales": ""
+                },
+                "Study design": "Observational Study",
+                "Certainty": "VERY LOW",
+                "Risk": {
+                    "No treatment (comparator) mean (SD)": {
+                        "39c02ac0": "66/1000"
+                    },
+                    "Treatment with anticoagulants (intervention) mean (SD)": {
+                        "39c02ac0": "76/1000"
+                    }
+                },
+                "Effect": {
+                    "Mean difference": {
+                        "39c02ac0": "1.07 (0.82 - 1.39) (Hazard ratio (95 % confidence interval))"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "664e86e1",
+        "clinical_question": "Should patients with dementia (without previous stroke) and atrial fibrillation and indication for treatment with anti-coagulants be treated with anti-coagulants?",
+        "population": "Patients with dementia and atrial fibrillation and indication for treatment with anti-coagulants and no previous stroke or TCI",
+        "intervention": "Treatment with NOACs or warfarin",
+        "comparator": "No treatment with NOACs or warfarin",
+        "outcome": "Mortality",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "39c02ac0"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NONE",
+                    "rationales": "Risk of bias for this observational study was carried out using The Newcastle-Ottawa Scale (NOS) for assessing the quality of non-randomized studies in meta-analyses. The study received maximum score on all items except one. There is no data on previous hemorrhagic events in the population, and hence no way to ascertain whether patients were not treated due to previous hemorrhagic events. This may introduce bias, since the reason for not anticoagulating may be affected by this. See Supplementary table S4 for further detail."
+                },
+                "Inconsistency": {
+                    "result": "NOT_APPLICABLE",
+                    "rationales": "Only one study, therefore not possible to assess"
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Population (Stroke-free patients with atrial fibrillation), intervention (Treatment with warfarin) and outcome (Major hemorrhagic event, ischemic stroke, mortality) measures are deemed to be adequately similar to those in the PICO question. The summary data were provided by the author for the stroke-free population of the original cohort published in the original study (Subic et al 2018)"
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Only data from one study. CI straddles 1.0. Optimal information size (OIS) was met (control event rate 0.364; total events 630 observed; total events required 200-450 (RRR 20-30 %). Wide confidence intervals"
+                },
+                "Publication bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "None",
+                    "rationales": ""
+                },
+                "Study design": "Observational Study",
+                "Certainty": "VERY LOW",
+                "Risk": {
+                    "No treatment (comparator) mean (SD)": {
+                        "39c02ac0": "364/1000"
+                    },
+                    "Treatment with anticoagulants (intervention) mean (SD)": {
+                        "39c02ac0": "266/1000"
+                    }
+                },
+                "Effect": {
+                    "Mean difference": {
+                        "39c02ac0": "0.88 (0.77 - 1.01) (Hazard ratio (95 % confidence interval))"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "ba86aefa",
+        "clinical_question": "Should patients with dementia (without previous stroke) and atrial fibrillation and indication for treatment with anti-coagulants be treated with anti-coagulants?",
+        "population": "Patients with dementia and atrial fibrillation and indication for treatment with anti-coagulants and no previous stroke or TCI",
+        "intervention": "Treatment with NOACs or warfarin",
+        "comparator": "No treatment with NOACs or warfarin",
+        "outcome": "Ischemic stroke",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "39c02ac0"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NONE",
+                    "rationales": "Risk of bias for this observational study was carried out using The Newcastle-Ottawa Scale (NOS) for assessing the quality of non-randomized studies in meta-analyses. The study received maximum score on all items except one. There is no data on previous hemorrhagic events in the population, and hence no way to ascertain whether patients were not treated due to previous hemorrhagic events. This may introduce bias, since the reason for not anticoagulating may be affected by this. See Supplementary table S4 for further detail."
+                },
+                "Inconsistency": {
+                    "result": "NOT_APPLICABLE",
+                    "rationales": "Only one study, therefore not possible to assess"
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Population (Stroke-free patients with atrial fibrillation), intervention (Treatment with warfarin) and outcome (Major hemorrhagic event, ischemic stroke, mortality) measures are deemed to be adequately similar to those in the PICO question. The summary data were provided by the author for the stroke-free population of the original cohort published in the original study (Subic et al 2018)"
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Only data from one study. CI straddles 1.0. Optimal information size (OIS) was not met (control event rate 0.053; total events 95 observed; total events required 230-670 (RRR 20-30 %). Less than 100 events."
+                },
+                "Publication bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "None",
+                    "rationales": ""
+                },
+                "Study design": "Observational Study",
+                "Certainty": "VERY LOW",
+                "Risk": {
+                    "No treatment (comparator) mean (SD)": {
+                        "39c02ac0": "53/1000"
+                    },
+                    "Treatment with anticoagulants (intervention) mean (SD)": {
+                        "39c02ac0": "42/1000"
+                    }
+                },
+                "Effect": {
+                    "Mean difference": {
+                        "39c02ac0": "0.74 (0.54 - 1.03) (Hazard ratio (95 % confidence interval))"
+                    }
+                }
+            }
+        }
+    }
+]

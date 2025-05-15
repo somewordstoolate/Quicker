@@ -1,0 +1,58 @@
+{
+    "Question": "this is a question?",
+    "Comparison": {
+        "Add SSZ and HCQ versus add TNF Inhibitor. Data based on direct RCT evidence.": {
+            "filename": "PICO 19_Comparison 2.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment.",
+                "b": "Downgraded by two levels due to very serious imprecision. Confidence intervals includes both values suggesting benefit and values suggesting harm. Concern about risk of bias associated with lack of allocation concealment taken into account when rating down for imprecision.",
+                "c": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting harm and values suggesting no effect."
+            }
+        },
+        "Add TNF Inhibitor versus add JAK Inhibitor. Data based on direct RCT evidence.": {
+            "filename": "PICO 19_Comparison 8.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting harm and values suggesting no effect.",
+                "b": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=83%.",
+                "c": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=73%.",
+                "d": "Downgraded by one level due to serious risk of bias. Lack of blinding of outcome assessors.",
+                "e": "Downgraded by two levels due to very serious inconsistency. Unexplained heterogeneity I2=93%.",
+                "f": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting harm and values suggesting benefit.",
+                "g": "The study ORAL Standard and ORAL Strategy found that the RR of improvement in SF-36 PCS ≥ 2.5 was 0.98 (95% CI 0.92 to 1.05), absolute risk reduction 15 fewer per 1000 (95%CI 61 fewer to 38 more).",
+                "h": "The study ORAL Standard and ORAL Strategy found that the RR of improvement in SF-36 MCS ≥ 2.5 was 0.93 (95% CI 0.78 to 1.11), absolute risk reduction 43 fewer per 1000 (95%CI 134 fewer to 67 more).",
+                "i": "The study ORAL Standard and ORAL Strategy found that the RR of improvement in VAS-pain ≥ 10 was 0.97 (95% CI 0.9 to 1.04), absolute risk reduction 22 fewer per 1000 (95%CI 75 fewer to 30 more).",
+                "j": "The study ORAL Standard and ORAL Strategy found that the RR of improvement in FACIT-F≥ 4 was 0.96 (95% CI 0.87 to 1.05), absolute risk reduction 26 fewer per 1000 (95%CI 85 fewer to 33 more).",
+                "k": "Downgraded by two levels due to very serious imprecision. Very low number of events."
+            }
+        },
+        "Add Abatacept versus add TNF Inhibitor. Data based on direct evidence.": {
+            "filename": "PICO 19_Comparison 9.json",
+            "Explanations": {
+                "a": "Downgraded by two levels due to very serious risk of bias. Lack of allocation concealment and lack of blinding in the study contributing with the bigger weight.",
+                "b": "Downgraded by one level due to serious inconsistency. I2=84%",
+                "c": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit.",
+                "d": "Downgraded by one level due to serious inconsistency. I2=64%",
+                "e": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting harm and values suggesting benefit.",
+                "f": "Downgraded by one level due to serious inconsistency. I2=88%",
+                "g": "According to the Cochrane's handbook, Cohen suggested that SMD=0.2 be considered a 'small' effect size, 0.5 represents a 'medium' effect size and 0.8 a 'large' effect size. This means that if two groups' means do not differ by 0.2 standard deviations or more, the difference is trivial, even if it is statistically significant. CI suggesting some imprecision, taken into consideration when rating down for inconsistency and risk of bias.",
+                "h": "Downgraded by one level due to serious inconsistency. I2=68%",
+                "i": "Downgraded by two levels due to very serious risk of bias. Lack of allocation concealment and lack of blinding.",
+                "j": "The study AMPLE found that the RR of developing radiographic non-progression (change in mTSS ≤0.5) was 0.97 (95%CI 0.87to 1.08), absolute risk reduction 22 fewer per 1000 (95%CI 95 fewer to 58 more).",
+                "k": "The studies AMPLE and ATTEST found that the RR of improvement in disability (change in HAQ-DI ≥ 0.3) was 1.10 (95%CI 0.98 to 124), absolute risk increase 50 more per 1000 (95%CI 10 fewer to 120 more).",
+                "l": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Low number of events."
+            }
+        }
+    },
+    "References": {
+        "1": "O' Dell JR, Mikuls TR, Taylor TH, Ahluwalia V, Brophy M, Warren SR, et al. Therapies for active rheumatoid arthritis after methotrexate failure. New England Journal of Medicine. 2013;369(4):307.",
+        "2": "Lopez-Olivo MAT, J.H; Martinez-Lopez, J.A.; Pollono, E.N.; Cueto, J.P.; Gonzales-Crespo, M.R.; Fulton, S.; Suarez-Almazor, M.E. Risk of malignancies in patients with rheumatoid arthritis treated with biologic therapy: a meta-analysis. JAMA. 2012;308(9):898.",
+        "3": "Vollenhoven RFv. Tofacitinib or adalimumab versus placebo in rheumatoid arthritis.[Erratum appears in N Engl J Med. 2013 Jul 18;369(3):293]. New England Journal of Medicine. 2012;367(6):508.",
+        "4": "Fleischmann R. Efficacy and safety of tofacitinib monotherapy, tofacitinib with methotrexate, and adalimumab with methotrexate in patients with rheumatoid arthritis (ORAL Strategy): a phase 3b/4, double-blind, head-to-head, randomised controlled trial. The Lancet. 2017;390(10093):457.",
+        "5": "Fleischmann Rea. Upadacitinib Versus Placebo or Adalimumab in Patients With Rheumatoid Arthritis and an Inadequate Response to Methotrexate: Results of a Phase III, Double- Blind, Randomized Controlled Trial. Arthritis & Rheumatism. 2019;71(11):1788-800.",
+        "6": "Strand V, Vollenhoven RFv, Lee EB, Fleischmann R, Zwillich SH, Gruben D, et al. Tofacitinib or adalimumab versus placebo: patient-reported outcomes from a phase 3 study of active rheumatoid arthritis. Rheumatology. 2016;55(6):1031.",
+        "7": "Strand V, et al. Patient-reported outcomes for tofacitinib with and without methotrexate, or adalimumab with methotrexate, in rheumatoid arthritis: a phase IIIB/IV trial. RMD Open. 2019;",
+        "8": "Schiff M, Weinblatt ME, Valente R, Heijde Dvd, Citera G, Elegbe A, et al. Head-to-head comparison of subcutaneous abatacept versus adalimumab for rheumatoid arthritis: two-year efficacy and safety findings from AMPLE trial. Annals of the Rheumatic Diseases. 2014;73(1):86.",
+        "9": "Schiff M. Efficacy and safety of abatacept or infliximab vs placebo in ATTEST: a phase III, multi-centre, randomised, double-blind, placebo-controlled study in patients with rheumatoid arthritis and an inadequate response to methotrexate. Annals of the Rheumatic Diseases. 2008;67(8):1096.",
+        "10": "Fleischmann R, Weinblatt ME, Schiff M, Khanna D, Maldonado MA, Nadkarni A, et al. Patient-Reported Outcomes From a Two-Year Head-to-Head Comparison of Subcutaneous Abatacept and Adalimumab for Rheumatoid Arthritis. Arthritis care & research. 2016;68(7):907."
+    }
+}

@@ -1,0 +1,85 @@
+{
+  "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)": {
+    "No of studies": [
+      "1"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": [
+      "serious",
+      "a"
+    ],
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Withdraw one DMARD": "64",
+      "Continue current therapy": "73"
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 0.1 higher (0.02 higher to 0.18 higher)"
+    },
+    "Certainty": "MODERATE",
+    "Importance": "CRITICAL"
+  },
+  "Flare (follow up: range 11 months to 18 months)": {
+    "No of studies": [
+      "1",
+      "2",
+      "3"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": [
+      "serious",
+      "c"
+    ],
+    "Inconsistency": [
+      "serious",
+      "d"
+    ],
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Withdraw one DMARD": "645",
+      "Continue current therapy": [
+        "382",
+        "25.4%"
+      ]
+    },
+    "Effect": {
+      "Relative (95% CI)": "HR 2.61 (2.11 to 3.23)",
+      "Absolute (95% CI)": "281 more per 1,000 (from 207 more to 358 more)"
+    },
+    "Certainty": "LOW",
+    "Importance": "CRITICAL"
+  },
+  "Disability (follow up: 3 months; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)": {
+    "No of studies": [
+      "1"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": [
+      "serious",
+      "a"
+    ],
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "serious",
+      "e"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Withdraw one DMARD": "64",
+      "Continue current therapy": "73"
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 0.09 higher (0.11 lower to 0.29 higher)"
+    },
+    "Certainty": "LOW",
+    "Importance": "IMPORTANT"
+  }
+}

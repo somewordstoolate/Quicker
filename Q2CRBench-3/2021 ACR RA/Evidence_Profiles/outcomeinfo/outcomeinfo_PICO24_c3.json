@@ -1,0 +1,290 @@
+[
+    {
+        "outcome_uid": "e0734d5d",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to IL-6 Receptor Inhibitor",
+        "outcome": "Disease activity (follow up: 6 months; assessed with: DAS 28-ESR)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "05c073e4"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Observational Study",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to 2nd TNFi": "390",
+                    "Switch to IL-6 inhibitor": "147"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 1.3 lower (1.63 lower to 0.97 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "f540f84e",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to IL-6 Receptor Inhibitor",
+        "outcome": "Low disease activity (follow up: 6 months; assessed with: DAS28-ESR <3.2)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "05c073e4"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Observational Study",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Switch to 2nd TNFi": "43/103 (41.7%)",
+                    "Switch to IL-6 inhibitor": "29/44 (65.9%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.63 (0.46 to 0.87)",
+                    "Absolute Effect (95% CI)": "244 fewer per 1,000 (from 356 fewer to 86 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "2bc8f148",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to IL-6 Receptor Inhibitor",
+        "outcome": "Pain (follow up: 6 months; assessed with: VAS 100)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "05c073e4"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Observational Study",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Switch to 2nd TNFi": "185",
+                    "Switch to IL-6 inhibitor": "74"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 1.1 lower (7.52 lower to 5.32 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "b8a0dd44",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to IL-6 Receptor Inhibitor",
+        "outcome": "Disability (follow up: 6 months; assessed with: HAQ-DI)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "05c073e4"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Observational Study",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to 2nd TNFi": "185",
+                    "Switch to IL-6 inhibitor": "74"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.2 lower (0.4 lower to 0)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "043a48e4",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to IL-6 Receptor Inhibitor",
+        "outcome": "Withdrawal due to adverse events (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "05c073e4"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Observational Study",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Switch to 2nd TNFi": "49/217 (22.6%)",
+                    "Switch to IL-6 inhibitor": "19/35 (54.3%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.42 (0.28 to 0.62)",
+                    "Absolute Effect (95% CI)": "315 fewer per 1,000 (from 391 fewer to 206 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "de3b109f",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to IL-6 Receptor Inhibitor",
+        "outcome": "Withdrawal due to lack of efficacy (follow up: 6 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "05c073e4"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Observational Study",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Switch to 2nd TNFi": "137/217 (63.1%)",
+                    "Switch to IL-6 inhibitor": "11/35 (31.4%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 2.01 (1.22 to 3.31)",
+                    "Absolute Effect (95% CI)": "317 more per 1,000 (from 69 more to 726 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

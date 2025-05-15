@@ -1,0 +1,15 @@
+[
+    {
+        "title": "Treatment of Atrial Fibrillation in Patients with Dementia: A Cohort Study from the Swedish Dementia Registry Subic A, Cermakova P, Religa D, Han S, von Euler M, Kareholt I, Johnell K, Fastbom J, Bognandi L, Winblad B, Kramberger MG, Eriksdotter M, Garcia-Ptacek S J Alz Dis 2018;61(3):1119-1128",
+        "paper_uid": "39c02ac0",
+        "reference": "Treatment of Atrial Fibrillation in Patients with Dementia: A Cohort Study from the Swedish Dementia Registry Subic A, Cermakova P, Religa D, Han S, von Euler M, Kareholt I, Johnell K, Fastbom J, Bognandi L, Winblad B, Kramberger MG, Eriksdotter M, Garcia-Ptacek S J Alz Dis 2018;61(3):1119-1128",
+        "save_folder_path": null,
+        "study_design": "Observational Study",
+        "characteristics": {
+            "Total study population": "3724",
+            "Patients not treated": "2181",
+            "Baseline age (mean (SD))": "82.3 (6.5) (patients without treatment); 80.8 (5.8) (patients with treatment)",
+            "Baseline MMSE (median (IQR))": "21 (7); (patients without treatment); 23 (5) (patients with treatment)"
+        }
+    }
+]

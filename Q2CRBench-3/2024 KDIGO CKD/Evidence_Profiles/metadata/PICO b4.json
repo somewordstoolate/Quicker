@@ -1,0 +1,309 @@
+{
+    "Question": "What is the effect of aspirin compared with placebo in terms of the primary prevention of cardiovascular disease (CVD) and safety among people with CKD?",
+    "References": {
+        "98": "Wolfe R, Wetmore JB, Woods RL, et al. Subgroup analysis of the ASPirin in Reducing Events in the Elderly randomized clinical trial suggests aspirin did not improve outcomes in older adults with chronic kidney disease. Kidney Int 2021; 99: 466-474.",
+        "99": "Jardine MJ, Ninomiya T, Perkovic V, et al. Aspirin is beneficial in hypertensive patients with chronic kidney disease: a post-hoc subgroup analysis of a randomized controlled trial. J Am Coll Cardiol 2010; 56: 956-965.",
+        "100": "Goicoechea M, de Vinuesa SG, Quiroga B, et al. Aspirin for Primary Prevention of Cardiovascular Disease and Renal Disease Progression in Chronic Kidney Disease Patients: a Multicenter Randomized Clinical Trial (AASER Study). Cardiovasc Drugs Ther 2018; 32: 255-263.",
+        "101": "Mann JFE, Joseph P, Gao P, et al. Effects of aspirin on cardiovascular outcomes in patients with chronic kidney disease. Kidney Int 2023; 103: 403-410.",
+        "102": "Saito Y, Morimoto T, Ogawa H, et al. Low-dose aspirin therapy in patients with type 2 diabetes and reduced glomerular filtration rate: subanalysis from the JPAD trial. Diabetes Care 2011; 34: 280-285."
+    },
+    "Explanations": {
+        "a": "There were some concerns with the risk of bias of the 2 largest trials (Wolfe 2021 and Jardine 2010) because they were both post hoc subgroup analyses. ",
+        "b": "There were some concerns with risk of bias because one study (Goicoechea 2018) did not blind patients nor carers.",
+        "c": "There were only 185 events among the 7952 participants enrolled in the 3 trials. The total number of events is lower than the number needed to reach the optimal information size (i.e., 300).",
+        "d": "There were some concerns with 2 trials (Goicoechea 2018 and Saito 2011) because they did not blind patients nor carers.",
+        "e": "There were some concerns with the risk of bias because 4 of the 5 trials were post hoc subgroup analyses.",
+        "f": "I2 from meta-analysis was greater than 50%, suggesting some heterogeneity in results. There was a wide range of effect estimates.",
+        "g": "There were only 205 events among the 7952 participants enrolled in the 3 trials. The total number of events is lower than the number needed to reach the optimal information size (i.e., 300).",
+        "h": "There were only 198 events among the 7952 participants enrolled in the 3 trials. The total number of events is lower than the number needed to reach the optimal information size (i.e., 300).",
+        "i": "Not enough information is reported to assess precision.",
+        "j": "There were some concerns with risk of bias because 2 studies were post hoc subgroup analyses and the other study did not blind patients nor carers."
+    },
+    "Outcome": {
+        "Cardiovascular mortality (follow-up: range 3.8 years to 5.4 years)": {
+            "No of studies": [
+                "98",
+                "99",
+                "100"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "serious",
+                "a",
+                "b"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "serious",
+                "c"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "Aspirin": [
+                    "56/3956 (1.4%)"
+                ],
+                "Placebo": [
+                    "78/3996 (2.0%)"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "RR 0.73 (0.52 to 1.03)"
+                ],
+                "Absolute (95% CI)": [
+                    "5 fewer per 1,000 (from 9 fewer to 1 more)"
+                ]
+            },
+            "Certainty": [
+                "⨁⨁◯◯ Low"
+            ]
+        },
+        "Composite cardiovascular events (follow-up: range 3.8 years to 5.4 years)": {
+            "No of studies": [
+                "98",
+                "99",
+                "100",
+                "101",
+                "102"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "serious",
+                "d",
+                "e"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "not serious"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "Aspirin": [
+                    "242/4800 (5.0%)"
+                ],
+                "Placebo": [
+                    "305/4767 (6.4%)"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "RR 0.79 (0.62 to 1.00)"
+                ],
+                "Absolute (95% CI)": [
+                    "13 fewer per 1,000 (from 24 fewer to 0 fewer)"
+                ]
+            },
+            "Certainty": [
+                "⨁⨁⨁◯ Moderate"
+            ]
+        },
+        "Myocardial infarction (follow-up: range 3.8 years to 5.4 years)": {
+            "No of studies": [
+                "98",
+                "99",
+                "100"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "serious",
+                "a"
+            ],
+            "Inconsistency": [
+                "serious",
+                "f"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "serious",
+                "g"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "Aspirin": [
+                    "88/3956 (2.2%)"
+                ],
+                "Placebo": [
+                    "117/3996 (2.9%)"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "RR 0.73 (0.43 to 1.22)"
+                ],
+                "Absolute (95% CI)": [
+                    "8 fewer per 1,000 (from 17 fewer to 6 more)"
+                ]
+            },
+            "Certainty": [
+                "⨁◯◯◯ Very low"
+            ]
+        },
+        "Stroke (follow-up: range 3.8 years to 5.4 years)": {
+            "No of studies": [
+                "98",
+                "99",
+                "100"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "serious",
+                "a",
+                "b"
+            ],
+            "Inconsistency": [
+                "serious",
+                "f"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "serious",
+                "h"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "Aspirin": [
+                    "86/3956 (2.2%)"
+                ],
+                "Placebo": [
+                    "112/3996 (2.8%)"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "RR 0.86 (0.51 to 1.44)"
+                ],
+                "Absolute (95% CI)": [
+                    "4 fewer per 1,000 (from 14 fewer to 12 more)"
+                ]
+            },
+            "Certainty": [
+                "⨁◯◯◯ Very low"
+            ]
+        },
+        "Major bleeding (follow-up: range 3.8 years to 5.4 years)": {
+            "No of studies": [
+                "98",
+                "99",
+                "100",
+                "101",
+                "102"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "serious",
+                "d",
+                "e"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "serious",
+                "i"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "Aspirin": [
+                    "-/4800"
+                ],
+                "Placebo": [
+                    "-/4767"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "HR 1.31 (1.01 to 1.70)"
+                ],
+                "Absolute (95% CI)": [
+                    "-- per 1,000 (from -- to --)"
+                ]
+            },
+            "Certainty": [
+                "⨁⨁◯◯ Low"
+            ]
+        },
+        "Minor bleeding (follow-up: range 3.8 years to 5.4 years)": {
+            "No of studies": [
+                "99",
+                "100",
+                "101"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "serious",
+                "j"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "serious",
+                "i"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "Aspirin": [
+                    "-/2079"
+                ],
+                "Placebo": [
+                    "-/2098"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "HR 2.25 (1.22 to 4.14)"
+                ],
+                "Absolute (95% CI)": [
+                    "-- per 1,000 (from -- to --)"
+                ]
+            },
+            "Certainty": [
+                "⨁⨁◯◯ Low"
+            ]
+        }
+    }
+}

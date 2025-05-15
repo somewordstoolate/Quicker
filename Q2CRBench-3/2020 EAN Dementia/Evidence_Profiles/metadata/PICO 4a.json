@@ -1,0 +1,462 @@
+{
+    "Question": "Should patients with dementia and agitation\/aggressive behaviour be treated with atypical anti-psychotics compared to no pharmacological treatment?",
+    "References": {
+        "1": "Quetiapine to treat agitation in dementia: a randomized double-blind placebo-controlled study Zhong KX, Tariot PN, Mintzer J, Minkwitz MC, Devine NA. Curr Alzheimer Res 2007;4(1):81-93",
+        "2": "Quetiapine for agitation or psychosis in patients with dementia and parkinsonism Kurlan R, Cummings J, Raman R, Thal L. Neurology 2007;68(17):1356-1363",
+        "3": "Olanzapine treatment of psychotic and behavioral symptoms in patients with Alzheimer disease in nursing care facilities: a double-blind randomized placebo-controlled trial The HGEU Study Group. Street JS, Clark WS, Gannon KS, Cummings JL, Bymaster FP, Tamura RN, Mitan SJ, Kadam DL, Sanger TM, Feldman PD, al et. Arch Gen Psychiatry; 200057(10):968-976",
+        "4": "Clinical symptom responses to atypical antipsychotic medications in Alzheimer's disease: Phase 1 outcomes from the CATIE-AD effectiveness trial. Sultzer DL, Davis SM, Tariot PN, Dagerman KS, Lebowitz BD, Lyketsos CG, Rosenheck RA, Hsiao JK, Lieberman JA, Schneider LS. Am J Psychiatry 2008;165(7):844-854",
+        "5": "Effectiveness of Atypical Antipsychotic Drugs in Patients with Alzheimer's Disease. Schneider LS, Tariot PN, Dagerman KS, Davis SM, Hsiao JK, Ismail M, Lebowitz BD, Lyketsos CG, Ryan J, Stroup T, Sultzer DL, Weintraub D, Lieberman JA.  NEJM 2006;355(15): 1525-1538",
+        "6": "Quetiapine and rivastigmine and cognitive decline in Alzheimer's disease: Randomised double blind placebo controlled trial. Ballard C, Margallo-Lana M, Juszczak E, Douglas S, Swann A, Thomas A, O'Brien J, Everatt A, Sadler S, Maddison C, Lee L, Bannister C, Elvish R, Jacoby R. BMJ 2005;330(7496):874",
+        "7": "A randomized placebo-controlled trial of risperidone for the treatment of aggression agitation and psychosis of dementia. Brodaty H, Ames D, Snowdon J, Woodward M, Kirwan J, Clarnette R, Lee E, Lyons B, Grossman FJ Clin Psych 2003;64(2):134-43"
+    },
+    "Characteristics": {
+        "1": [
+            {
+                "Number of patients randomized": "333",
+                "Age placebo": "83.2 (7.2)",
+                "Age intervention 1": "83.5 (8.0) ",
+                "Age intervention 2": "83 (7.9)",
+                "MMSE placebo": "5.6 (3.6) ",
+                "MMSE intervention 1": "4.8 (4.0) ",
+                "MMSE intervention 2": "5.5 (4) "
+            }
+        ],
+        "2": [
+            {
+                "Number of patients randomized": "40 (AD patients: 8; PD+dementia 9; LBD: 23)",
+                "Age placebo": "74.1 (6.1) ",
+                "Age intervention": "73.5 (5.8)",
+                "MMSE placebo": "17.2 (5.9)",
+                "MMSE intervention": "19.2 (6.5)"
+            }
+        ],
+        "3": [
+            {
+                "Number of patients randomized": "206",
+                "Age placebo": "81.4 (6.7)",
+                "Age intervention 1": "82.9 (6.5)",
+                "Age intervention 2": "83.6 (6.5)",
+                "Age intervention 3": "83 (6.7)",
+                "MMSE placebo": "7.3 (6.3)",
+                "MMSE intervention 1": "7.3 (6.5)",
+                "MMSE intervention 2": "6.6 (6.7)",
+                "MMSE intervention 3": "6.4 (6.7)"
+            }
+        ],
+        "4": [
+            {
+                "Number of patients randomized": "421",
+                "Age placebo": "77.3 (7.1)",
+                "Age intervention 1": "78.8 (7.3)",
+                "Age intervention 2": "77.3 (8.7)",
+                "Age intervention 3": "78.4 (7.1)",
+                "MMSE placebo": "14.7 (5.8)",
+                "MMSE intervention 1": "15.0 (5.4)",
+                "MMSE intervention 2": "14.9 (6.1)",
+                "MMSE intervention 3": "15.7 (6.1)"
+            },
+            "z"
+        ],
+        "5": [
+            {
+                "Number of patients randomized": "421",
+                "Age placebo": "77.3 (7.1)",
+                "Age intervention 1": "78.8 (7.3)",
+                "Age intervention 2": "77.3 (8.7)",
+                "Age intervention 3": "78.4 (7.1)",
+                "MMSE placebo": "14.7 (5.8)",
+                "MMSE intervention 1": "15.0 (5.4)",
+                "MMSE intervention 2": "14.9 (6.1)",
+                "MMSE intervention 3": "15.7 (6.1)"
+            },
+            "y"
+        ],
+        "6": [
+            {
+                "Number of patients randomized": "62",
+                "Age placebo": "83.0 (6.8)",
+                "Age intervention": "84.3 (7.8)",
+                "SIB placebo": "59.4 (30.5)",
+                "SIB intervention": "69.0 (28.2)"
+            }
+        ],
+        "7": [
+            {
+                "Number of patients randomized": "345",
+                "Age placebo": "82.7 (0.64)",
+                "Age intervention": "83.2 (0.51)",
+                "MMSE placebo": "5.1 (0.5)",
+                "MMSE intervention": "5.78 (0.46)"
+            }
+        ]
+    },
+    "Explanations": {
+        "z": "Intervention 1: Olanzapine; ",
+        "y": "The study was designed with a lead-in period of 2 weeks in which the patient could be switched to another treatment if the clinician found that the initial treatment was not effective.",
+        "a": "Wide confidence intervals, few patients",
+        "b": "SD not reported for change scores",
+        "c": "Point estimates vary widely, the direction of the effect is not consistent between the included studies",
+        "d": "Wide confidence intervals, few patients",
+        "e": "Few patients",
+        "f": "RR and percentage mortality includes 30-day follow-up. Nine Deaths occurred during the trial and 10 in the 30-day follow-up period",
+        "g": "Due to no events in one or both arms RR cannot be calculated",
+        "h": "No studies reported on caregiver burden"
+    },
+    "Outcome": {
+        "Mortality": {
+            "No of studies": [
+                "1",
+                "3",
+                "5",
+                "6",
+                "7"
+            ],
+            "Study design": "randomised trials",
+            "Risk of bias": [
+                "No serious"
+            ],
+            "Inconsistency": [
+                "No serious"
+            ],
+            "Indirectness": [
+                "No serious"
+            ],
+            "Imprecision": [
+                "Very serious",
+                "a"
+            ],
+            "Publication bias": [
+                "No serious"
+            ],
+            "Other considerations": [
+                "None"
+            ],
+            "Risk": {
+                "No treatment (comparator) mean change score (SD) OR n/N": {
+                    "1": [
+                        "3.3% (placebo)"
+                    ],
+                    "3": [
+                        "0/46"
+                    ],
+                    "5": [
+                        "3/139"
+                    ],
+                    "6": [
+                        "0/31"
+                    ],
+                    "7": [
+                        "4/166"
+                    ]
+                },
+                "Treatment with typical antipsychotics (intervention) mean change score (SD) OR n/N": {
+                    "1": [
+                        "5.1% (quetiapine 200 mg/day), 7.3% (queti- apine 100 mg/day)"
+                    ],
+                    "3": [
+                        "0/160"
+                    ],
+                    "5": [
+                        "5/274"
+                    ],
+                    "6": [
+                        "1/30"
+                    ],
+                    "7": [
+                        "6/161"
+                    ]
+                }
+            },
+            "Effect": {
+                "Mean difference in change score OR Relative risk (95 % CI)": {
+                    "1": [
+                        "RR 2.08 (95% CI: 0.61 - 7.16)",
+                        "f"
+                    ],
+                    "3": [
+                        "NA",
+                        "g"
+                    ],
+                    "5": [
+                        "RR 0.85 (95% CI: 0.21 to 3.50)"
+                    ],
+                    "6": [
+                        "NA",
+                        "g"
+                    ],
+                    "7": [
+                        "RR 1.53 (95% CI: 0.44 - 5.31)"
+                    ]
+                }
+            },
+            "Certainty": [
+                "LOW"
+            ],
+            "Importance": [
+                "CRITICAL"
+            ]
+        },
+        "Agitation/aggression": {
+            "No of studies": [
+                "1",
+                "3",
+                "4",
+                "6",
+                "7"
+            ],
+            "Study design": "randomised trials",
+            "Risk of bias": [
+                "No serious"
+            ],
+            "Inconsistency": [
+                "Serious",
+                "c"
+            ],
+            "Indirectness": [
+                "No serious"
+            ],
+            "Imprecision": [
+                "Serious",
+                "d"
+            ],
+            "Publication bias": [
+                "No serious"
+            ],
+            "Other considerations": [
+                "None"
+            ],
+            "Risk": {
+                "No treatment (comparator) mean change score (SD) OR n/N": {
+                    "1": [
+                        "-2.5 (SD 0.9)"
+                    ],
+                    "3": [
+                        "-2.1 (SD 4.6)"
+                    ],
+                    "4": [
+                        "-0.1 (1.0)"
+                    ],
+                    "6": [
+                        "-9.0 (16.5)"
+                    ],
+                    "7": [
+                        "-3.1"
+                    ]
+                },
+                "Treatment with typical antipsychotics (intervention) mean change score (SD) OR n/N": {
+                    "1": [
+                        "Intervention 1: - 2.5 (0.9); intervention 2: -1.8 (0.8)"
+                    ],
+                    "3": [
+                        "Intervention 1: -4.1 (3.7) Intervention 2: -3.9 (4.2) Intervention 3: -3.1 (4.1) "
+                    ],
+                    "4": [
+                        "Intervention 1: -0.4 (2.1) Intervention 2: -0.3 (1.0) Intervention 3: -0.2 (1.1) "
+                    ],
+                    "6": [
+                        "-8.1 (12.7)"
+                    ],
+                    "7": [
+                        "-7.5"
+                    ]
+                }
+            },
+            "Effect": {
+                "Mean difference in change score OR Relative risk (95 % CI)": {
+                    "1": [
+                        "Intervention 1: 0 (95% CI: -0.25 to 0.25); Intervention 2 (95% CI 0.46 to 0.94)"
+                    ],
+                    "3": [
+                        "Intervention 1: -2 (95% CI -3.53 - 0.48); Intervention 2: -1.8, (95% CI -3.48 to 0.13); Intervention 3: -1 (95% CI 2.63 to -0.63,)"
+                    ],
+                    "4": [
+                        "Intervention 1: -0.3 (95% CI -0.70 to 0.10,); Intervention 2: -0.2 (95% CI -0.46 to 0.06); Intervnetion 3: - 0.1 (95% CI -0.38 to 0.18)"
+                    ],
+                    "6": [
+                        "0.9 (95% CI -6.58 to 8.38)"
+                    ],
+                    "7": [
+                        "-4.4",
+                        "b"
+                    ]
+                }
+            },
+            "Certainty": [
+                "LOW"
+            ],
+            "Importance": [
+                "IMPORTANT"
+            ]
+        },
+        "Global cognitive function": {
+            "No of studies": [
+                "2",
+                "3",
+                "4",
+                "6"
+            ],
+            "Study design": "randomised trials",
+            "Risk of bias": [
+                "No serious"
+            ],
+            "Inconsistency": [
+                "No serious"
+            ],
+            "Indirectness": [
+                "No serious"
+            ],
+            "Imprecision": [
+                "Serious",
+                "e"
+            ],
+            "Publication bias": [
+                "No serious"
+            ],
+            "Other considerations": [
+                "None"
+            ],
+            "Risk": {
+                "No treatment (comparator) mean change score (SD) OR n/N": {
+                    "2": [
+                        "Not reported"
+                    ],
+                    "3": [
+                        "-0.3 (2.2) "
+                    ],
+                    "4": [
+                        "-0.7 (2.7) "
+                    ],
+                    "6": [
+                        "3.3 (17.4) "
+                    ]
+                },
+                "Treatment with typical antipsychotics (intervention) mean change score (SD) OR n/N": {
+                    "2": [
+                        "Not reported"
+                    ],
+                    "3": [
+                        "Intervention 1: -0.5 (3.3); Intervention 2: -1 (3.1); Intervention 3: -0.3 (2.2) "
+                    ],
+                    "4": [
+                        "Intervention 1: -0.1 (3.7); Intervention 2: -0.8 (3.8); Intervention 3: -0.8 (3.2)"
+                    ],
+                    "6": [
+                        "-11.3 (15.6)"
+                    ]
+                }
+            },
+            "Effect": {
+                "Mean difference in change score OR Relative risk (95 % CI)": {
+                    "2": [
+                        "-0.1 (-2.9 to 2.6)"
+                    ],
+                    "3": [
+                        "Intervention 1: -0.2, (95% CI -0.92 to 1.32); Intervention 2: -0.7 (95% CI -0.39 to 1.79); Intervention 3: 0 (95% CI -0.88 to 0.88)"
+                    ],
+                    "4": [
+                        "Intervention 1: 0.6 (95% CI -0.21 to 1.41); Intervention 2: -0.1 (95% CI -0.93 to 0.73); Intervention 3: -0.1 (95% CI -0.88 to 0.68)"
+                    ],
+                    "6": [
+                        "−15.4 (−27.0 to −3.8)"
+                    ]
+                }
+            },
+            "Certainty": [
+                "MODERATE"
+            ],
+            "Importance": [
+                "IMPORTANT"
+            ]
+        },
+        "SAEs": {
+            "No of studies": [
+                "1",
+                "2",
+                "5",
+                "6",
+                "7"
+            ],
+            "Study design": "randomised trials",
+            "Risk of bias": [
+                "No serious"
+            ],
+            "Inconsistency": [
+                "No serious"
+            ],
+            "Indirectness": [
+                "No serious"
+            ],
+            "Imprecision": [
+                "Very serious",
+                "a"
+            ],
+            "Publication bias": [
+                "No serious"
+            ],
+            "Other considerations": [
+                "None"
+            ],
+            "Risk": {
+                "No treatment (comparator) mean change score (SD) OR n/N": {
+                    "1": [
+                        "9/83"
+                    ],
+                    "2": [
+                        "2/18"
+                    ],
+                    "5": [
+                        "19/123"
+                    ],
+                    "6": [
+                        "1/30 "
+                    ],
+                    "7": [
+                        "15/155"
+                    ]
+                },
+                "Treatment with typical antipsychotics (intervention) mean change score (SD) OR n/N": {
+                    "1": [
+                        "21/220"
+                    ],
+                    "2": [
+                        "2/18"
+                    ],
+                    "5": [
+                        "40/239"
+                    ],
+                    "6": [
+                        "1/30"
+                    ],
+                    "7": [
+                        "28/139"
+                    ]
+                }
+            },
+            "Effect": {
+                "Mean difference  in change score OR Relative risk (95 % CI)": {
+                    "1": [
+                        "RR: 0.89 (95% CI: 0.42 to 1.87)"
+                    ],
+                    "2": [
+                        "RR: 1 (95% CI: 0.16 to 6.42)"
+                    ],
+                    "5": [
+                        "RR: 1.07 (95% CI: 0.65 to 1.78)"
+                    ],
+                    "6": [
+                        "RR: 1 (95% CI: 0.07 to 15.28)"
+                    ],
+                    "7": [
+                        "RR: 1.9 (95% CI: 1.05 to 3.43)"
+                    ]
+                }
+            },
+            "Certainty": [
+                "LOW"
+            ],
+            "Importance": [
+                "CRITICAL"
+            ]
+        }
+    }
+}

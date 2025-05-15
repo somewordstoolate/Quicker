@@ -1,0 +1,678 @@
+[
+    {
+        "outcome_uid": "492992b6",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to Rituximab",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 20)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "b6823603"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to RTX": "12/28 (42.9%)",
+                    "Switch to a 2nd TNFi": "17/31 (54.8%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.78 (0.46 to 1.33)",
+                    "Absolute Effect (95% CI)": "121 fewer per 1,000 (from 296 fewer to 181 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "d3cc1c8d",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to Rituximab",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 50)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "b6823603"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to RTX": "6/29 (20.7%)",
+                    "Switch to a 2nd TNFi": "9/31 (29.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.71 (0.29 to 1.75)",
+                    "Absolute Effect (95% CI)": "84 fewer per 1,000 (from 206 fewer to 218 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "3c20d126",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to Rituximab",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 70)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "b6823603"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to RTX": "3/30 (10.0%)",
+                    "Switch to a 2nd TNFi": "5/31 (16.1%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.62 (0.16 to 2.37)",
+                    "Absolute Effect (95% CI)": "61 fewer per 1,000 (from 135 fewer to 221 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "0a4849d2",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to Rituximab",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: DAS28 ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "b6823603",
+            "fba7b4bd"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding and lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to RTX": "73",
+                    "Switch to a 2nd TNFi": "80"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.13 higher (0.44 lower to 0.7 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "300715a0",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to Rituximab",
+        "outcome": "Remission (follow up: 1 year; assessed with: DAS28-ESR <2.6)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "b6823603",
+            "fba7b4bd"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding and lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to RTX": "16/73 (21.9%)",
+                    "Switch to a 2nd TNFi": "17/80 (21.3%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.96 (0.38 to 2.40)",
+                    "Absolute Effect (95% CI)": "9 fewer per 1,000 (from 132 fewer to 298 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "d19c1efc",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to Rituximab",
+        "outcome": "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values \u2013 > benefit) (MCID -0.22)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "b6823603",
+            "fba7b4bd"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding and lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Very small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to RTX": "76",
+                    "Switch to a 2nd TNFi": "81"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.08 higher (0.13 lower to 0.29 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "39e60e52",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to Rituximab",
+        "outcome": "Quality of life (follow up: 1 year; assessed with: RAQol (Lower values \u2013 > benefit) (MCID 2)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "b6823603"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to RTX": "30",
+                    "Switch to a 2nd TNFi": "30"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.5 higher (4.56 lower to 5.56 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "1e7a3259",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to Rituximab",
+        "outcome": "Pain (follow up: 1 year; assessed with: VAS 0-100 (Lower values \u2013 > benefit) (MCID -11.9)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "b6823603"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to RTX": "30",
+                    "Switch to a 2nd TNFi": "31"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 8 higher (6.43 lower to 22.43 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "295c7f44",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to Rituximab",
+        "outcome": "Serious adverse events (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "b6823603",
+            "fba7b4bd"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding and lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to RTX": "4/74 (5.4%)",
+                    "Switch to a 2nd TNFi": "1/65 (1.5%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 4.10 (0.48 to 35.11)",
+                    "Absolute Effect (95% CI)": "48 more per 1,000 (from 8 fewer to 525 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "c719dd1d",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to Rituximab",
+        "outcome": "Withdrawal due to lack of efficacy (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "b6823603"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to RTX": "0/40 (0.0%)",
+                    "Switch to a 2nd TNFi": "2/41 (4.9%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.20 (0.01 to 4.14)",
+                    "Absolute Effect (95% CI)": "39 fewer per 1,000 (from 48 fewer to 153 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "fdabfb2c",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to Rituximab",
+        "outcome": "Withdrawal due to adverse events (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "b6823603"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Very small sample size, very low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to RTX": "0/40 (0.0%)",
+                    "Switch to a 2nd TNFi": "0/41 (0.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "not estimable",
+                    "Absolute Effect (95% CI)": "-",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "5ffdb388",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to Rituximab",
+        "outcome": "Death (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "b6823603"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Very small sample size, very low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to RTX": "1/40 (2.5%)",
+                    "Switch to a 2nd TNFi": "0/41 (0.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 3.07 (0.13 to 73.28)",
+                    "Absolute Effect (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "283b6da5",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to Rituximab",
+        "outcome": "CVD (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "fba7b4bd"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding and lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to RTX": "2/34 (5.9%)",
+                    "Switch to a 2nd TNFi": "2/24 (8.3%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.71 (0.11 to 4.67)",
+                    "Absolute Effect (95% CI)": "24 fewer per 1,000 (from 74 fewer to 306 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "1b03ddfe",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 2nd TNF Inhibitor",
+        "comparator": "Switch to Rituximab",
+        "outcome": "Malignancy (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "fba7b4bd"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding and lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Very small sample size, very low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to RTX": "3/34 (8.8%)",
+                    "Switch to a 2nd TNFi": "0/24 (0.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 5.00 (0.27 to 92.56)",
+                    "Absolute Effect (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

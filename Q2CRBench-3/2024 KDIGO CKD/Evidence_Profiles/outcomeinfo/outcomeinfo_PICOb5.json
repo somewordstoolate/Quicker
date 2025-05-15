@@ -1,0 +1,244 @@
+[
+    {
+        "outcome_uid": "b442b3a6",
+        "clinical_question": "What are the effects of angiography or coronary revascularization compared with medical treatment among people with CKD and ischemic heart disease in terms of mortality, CVD events, kidney failure, and acute kidney injury (AKI)?",
+        "population": "Adults and/or children with CKD and ischemic heart disease",
+        "intervention": "Angiography or coronary revascularization",
+        "comparator": "Medical treatment",
+        "outcome": "All-cause mortality (follow-up: range 2 years to 10 years)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "55956477",
+            "1d2f3b00",
+            "60f1ece6",
+            "823b40fa"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "There were at least some concerns with the risk of bias for all trials. While it is not possible to blind patients/carers, not all of the trials stated that outcome assessors were blinded (Johnston 2006). Many patients needed to cross-over to the other treatment arm (Hastings 2012, Sedlis 2009), but this information was not always reported in the trials (Johnston 2006). Most of the studies were post hoc analyses of trials (Hastings 2012, Lopes 2009, Sedlis 2009). "
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "There were only 280 events among the 2243participants enrolled in the 8 trials. The total number of events is lower than the number needed to reach the optimal information size (i.e., 300)."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Coronary revascularization": "127/1114 (11.4%)",
+                    "Optimal medical therapy": "153/1129 (13.6%)"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.80 (0.64 to 0.99)()",
+                    "Absolute Effect (95% CI)": "27 fewer per 1,000 (from 49 fewer to 1 fewer)()"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "211a52b9",
+        "clinical_question": "What are the effects of angiography or coronary revascularization compared with medical treatment among people with CKD and ischemic heart disease in terms of mortality, CVD events, kidney failure, and acute kidney injury (AKI)?",
+        "population": "Adults and/or children with CKD and ischemic heart disease",
+        "intervention": "Angiography or coronary revascularization",
+        "comparator": "Medical treatment",
+        "outcome": "Cardiovascular mortality (follow-up: range 4.6 years to 5.6 years)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "55956477",
+            "1d2f3b00"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "There were at least some concerns with the risk of bias for all trials. Many patients needed to cross-over to the other treatment arm (Hastings 2012, Sedlis 2009). Most of the studies were post hoc analyses of trials (Hastings 2012, Sedlis 2009). "
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Not enough information is reported to assess precision. The total number of events is likely to be lower than the number needed to reach the optimal information size (i.e., 300)."
+                },
+                "Other considerations": {
+                    "result": "publication bias strongly suspected",
+                    "rationales": "Only 2 of the 5 trials reported on this outcome, even though all the trials assessed mortality and cardiovascular events."
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Coronary revascularization": "-/300",
+                    "Optimal medical therapy": "-/340"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "HR 0.67 (0.37 to 1.20)()",
+                    "Absolute Effect (95% CI)": "-- per 1,000 (from -- to --)()"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "2d14263f",
+        "clinical_question": "What are the effects of angiography or coronary revascularization compared with medical treatment among people with CKD and ischemic heart disease in terms of mortality, CVD events, kidney failure, and acute kidney injury (AKI)?",
+        "population": "Adults and/or children with CKD and ischemic heart disease",
+        "intervention": "Angiography or coronary revascularization",
+        "comparator": "Medical treatment",
+        "outcome": "Composite cardiovascular events (follow-up: range 2 years to 10 years)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "1d2f3b00",
+            "60f1ece6",
+            "823b40fa",
+            "121015f5"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "There were at least some concerns with the risk of bias for all trials. While it is not possible to blind patients/carers, not all of the trials stated that outcome assessors were blinded (Johnston 2006). Many patients needed to cross-over to the other treatment arm (Hastings 2012, Sedlis 2009), but this information was not always reported in the trials (Johnston 2006). Most of the studies were post hoc analyses of trials (Hastings 2012, Lopes 2009, Sedlis 2009). "
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "CI crosses 1."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Coronary revascularization": "-/965",
+                    "Optimal medical therapy": "-/958"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.83 (0.67 to 1.02)()",
+                    "Absolute Effect (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)()"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "8f296d07",
+        "clinical_question": "What are the effects of angiography or coronary revascularization compared with medical treatment among people with CKD and ischemic heart disease in terms of mortality, CVD events, kidney failure, and acute kidney injury (AKI)?",
+        "population": "Adults and/or children with CKD and ischemic heart disease",
+        "intervention": "Angiography or coronary revascularization",
+        "comparator": "Medical treatment",
+        "outcome": "Myocardial infarction (follow-up: range 2 years to 10 years)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "55956477",
+            "1d2f3b00",
+            "60f1ece6",
+            "823b40fa",
+            "121015f5"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "There were at least some concerns with the risk of bias for all trials. While it is not possible to blind patients/carers, not all of the trials stated that outcome assessors were blinded (Johnston 2006). Many patients needed to cross-over to the other treatment arm (Hastings 2012, Sedlis 2009), but this information was not always reported in the trials (Johnston 2006). Most of the studies were post hoc analyses of trials (Hastings 2012, Lopes 2009, Sedlis 2009). "
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "We cannot estimate the total number of events that occurred. There were at least 211 events among the 2243 participants enrolled in the 8 trials. The total number of events is lower than the number needed to reach the optimal information size (i.e., 300)."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Coronary revascularization": "-/1114",
+                    "Optimal medical therapy": "-/1129"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.84 (0.64 to 1.11)()",
+                    "Absolute Effect (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)()"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "79975a9c",
+        "clinical_question": "What are the effects of angiography or coronary revascularization compared with medical treatment among people with CKD and ischemic heart disease in terms of mortality, CVD events, kidney failure, and acute kidney injury (AKI)?",
+        "population": "Adults and/or children with CKD and ischemic heart disease",
+        "intervention": "Angiography or coronary revascularization",
+        "comparator": "Medical treatment",
+        "outcome": "Heart failure (follow-up: range 3 years to 5.6 years)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "55956477",
+            "1d2f3b00"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "There were at least some concerns with the risk of bias for all trials. Many patients needed to cross-over to the other treatment arm (Hastings 2012, Sedlis 2009). Most of the studies were post hoc analyses of trials (Hastings 2012, Sedlis 2009). "
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "There were only 73 events among the 640 participants enrolled in the 2 trials. The total number of events is lower than the number needed to reach the optimal information size (i.e., 300)."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Coronary revascularization": "30/300 (10.0%)",
+                    "Optimal medical therapy": "43/340 (12.6%)"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.80 (0.52 to 1.23)()",
+                    "Absolute Effect (95% CI)": "25 fewer per 1,000 (from 61 fewer to 29 more)()"
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,398 @@
+[
+    {
+        "outcome_uid": "f8037ebf",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity, receive long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs and mono- or combination csDMARDs or mono or combination csDMARDs alone?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "Mono or combination csDMARDs with long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs",
+        "comparator": "mono or combination csDMARDs alone (i.e. without long-term GCs)",
+        "outcome": "Disease activity (follow up: 2 years; assessed with: DAS28-ESR)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "1b777329"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Patients, personnel, and outcome assessors of non-radiographic outcomes were not blinded. Patients, personnel, and outcome assessors of radiographic outcomes were blinded"
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "csDMARDs + long-term low-dose GCs": "116",
+                    "csDMARDs monotherapy": "126"
+                },
+                "Annotation": {
+                    "data": "1. csDMARD (51% started with MTX and 32% with SSZ, 8% with antimalarials, 8% with gold) + long-term (>= 3 months) prednisolone (7.5mg/day)\n2. csDMARD (55% started with MTX and 34% with SSZ, 4% with antimalarials, 7% with gold)\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.5 lower (0.84 lower to 0.16 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "c7144959",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity, receive long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs and mono- or combination csDMARDs or mono or combination csDMARDs alone?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "Mono or combination csDMARDs with long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs",
+        "comparator": "mono or combination csDMARDs alone (i.e. without long-term GCs)",
+        "outcome": "Remission (follow up: 2 years; assessed with: DAS28-ESR<2.6)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "1b777329"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Patients, personnel, and outcome assessors of non-radiographic outcomes were not blinded. Patients, personnel, and outcome assessors of radiographic outcomes were blinded"
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "csDMARDs + long-term low-dose GCs": "64/116 (55.2%)",
+                    "csDMARDs monotherapy": "41/126 (32.5%)"
+                },
+                "Annotation": {
+                    "data": "1. csDMARD (51% started with MTX and 32% with SSZ, 8% with antimalarials, 8% with gold) + long-term (>= 3 months) prednisolone (7.5mg/day)\n2. csDMARD (55% started with MTX and 34% with SSZ, 4% with antimalarials, 7% with gold)\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.70 (1.26 to 2.29)",
+                    "Absolute Effect (95% CI)": "228 more per 1,000 (from 85 more to 420 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "71751a33",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity, receive long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs and mono- or combination csDMARDs or mono or combination csDMARDs alone?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "Mono or combination csDMARDs with long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs",
+        "comparator": "mono or combination csDMARDs alone (i.e. without long-term GCs)",
+        "outcome": "Radiographic progression (follow up: 2 years; assessed with: Sharp/van der Heijde score)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "1b777329"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Patients, personnel, and outcome assessors of non-radiographic outcomes were not blinded. Patients, personnel, and outcome assessors of radiographic outcomes were blinded"
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "csDMARDs + long-term low-dose GCs": "108",
+                    "csDMARDs monotherapy": "117"
+                },
+                "Annotation": {
+                    "data": "1. csDMARD (51% started with MTX and 32% with SSZ, 8% with antimalarials, 8% with gold) + long-term (>= 3 months) prednisolone (7.5mg/day)\n2. csDMARD (55% started with MTX and 34% with SSZ, 4% with antimalarials, 7% with gold)\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 3.9 lower (7 lower to 0.8 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "619f45f3",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity, receive long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs and mono- or combination csDMARDs or mono or combination csDMARDs alone?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "Mono or combination csDMARDs with long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs",
+        "comparator": "mono or combination csDMARDs alone (i.e. without long-term GCs)",
+        "outcome": "Disability (follow up: 2 years; assessed with: HAQ Swedish version)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "1b777329"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Patients, personnel, and outcome assessors of non-radiographic outcomes were not blinded. Patients, personnel, and outcome assessors of radiographic outcomes were blinded"
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "csDMARDs + long-term low-dose GCs": "116",
+                    "csDMARDs monotherapy": "126"
+                },
+                "Annotation": {
+                    "data": "1. csDMARD (51% started with MTX and 32% with SSZ, 8% with antimalarials, 8% with gold) + long-term (>= 3 months) prednisolone (7.5mg/day)\n2. csDMARD (55% started with MTX and 34% with SSZ, 4% with antimalarials, 7% with gold)\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.2 lower (0.34 lower to 0.06 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "47ba5bac",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity, receive long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs and mono- or combination csDMARDs or mono or combination csDMARDs alone?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "Mono or combination csDMARDs with long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs",
+        "comparator": "mono or combination csDMARDs alone (i.e. without long-term GCs)",
+        "outcome": "Withdrawal due to adverse events (follow up: 2 years)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "1b777329"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Patients, personnel, and outcome assessors of non-radiographic outcomes were not blinded. Patients, personnel, and outcome assessors of radiographic outcomes were blinded"
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "csDMARDs + long-term low-dose GCs": "26/116 (22.4%)",
+                    "csDMARDs monotherapy": "24/126 (19.0%)"
+                },
+                "Annotation": {
+                    "data": "1. csDMARD (51% started with MTX and 32% with SSZ, 8% with antimalarials, 8% with gold) + long-term (>= 3 months) prednisolone (7.5mg/day)\n2. csDMARD (55% started with MTX and 34% with SSZ, 4% with antimalarials, 7% with gold)\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.18 (0.72 to 1.93)",
+                    "Absolute Effect (95% CI)": "34 more per 1,000 (from 53 fewer to 177 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "1c6e268f",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity, receive long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs and mono- or combination csDMARDs or mono or combination csDMARDs alone?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "Mono or combination csDMARDs with long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs",
+        "comparator": "mono or combination csDMARDs alone (i.e. without long-term GCs)",
+        "outcome": "Death (follow up: 2 years)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "1b777329"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Patients, personnel, and outcome assessors of non-radiographic outcomes were not blinded. Patients, personnel, and outcome assessors of radiographic outcomes were blinded"
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Very low number of events"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "csDMARDs + long-term low-dose GCs": "1/116 (0.9%)",
+                    "csDMARDs monotherapy": "0/126 (0.0%)"
+                },
+                "Annotation": {
+                    "data": "1. csDMARD (51% started with MTX and 32% with SSZ, 8% with antimalarials, 8% with gold) + long-term (>= 3 months) prednisolone (7.5mg/day)\n2. csDMARD (55% started with MTX and 34% with SSZ, 4% with antimalarials, 7% with gold)\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 3.26 (0.13 to 79.15)",
+                    "Absolute Effect (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "1eee3a1a",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity, receive long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs and mono- or combination csDMARDs or mono or combination csDMARDs alone?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "Mono or combination csDMARDs with long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs",
+        "comparator": "mono or combination csDMARDs alone (i.e. without long-term GCs)",
+        "outcome": "Death (age-adjusted) (follow up: 10 years)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "1a7c95b6"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Patients, personnel, and outcome assessors of non-radiographic outcomes were not blinded. Patients, personnel, and outcome assessors of radiographic outcomes were blinded"
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "csDMARDs + long-term low-dose GCs": "119 participants(-)",
+                    "csDMARDs monotherapy": "111 participants(8.1%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "HR 1.60 (0.61 to 4.18)",
+                    "Absolute Effect (95% CI)": "45 more per 1,000 (from 31 fewer to 216 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "06201c5e",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity, receive long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs and mono- or combination csDMARDs or mono or combination csDMARDs alone?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "Mono or combination csDMARDs with long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs",
+        "comparator": "mono or combination csDMARDs alone (i.e. without long-term GCs)",
+        "outcome": "Composite Cardiovascular events (age-adjusted) (follow up: 10 years)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "1a7c95b6"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Patients, personnel, and outcome assessors of non-radiographic outcomes were not blinded. Patients, personnel, and outcome assessors of radiographic outcomes were blinded"
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "csDMARDs + long-term low-dose GCs": "119 participants(-)",
+                    "csDMARDs monotherapy": "111 participants(13.5%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "HR 1.8 (0.9 to 3.6)",
+                    "Absolute Effect (95% CI)": "95 more per 1,000 (from 13 fewer to 272 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

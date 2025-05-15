@@ -1,0 +1,808 @@
+[
+    {
+        "outcome_uid": "9b96b387",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Disease activity (follow up: 2 years; assessed with: ACR 20 )",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "eafc116f",
+            "2140c6ee"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=65%."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "TNFi": "207/467 (44.3%)",
+                    "MTX monotherapy": "205/459 (44.7%)"
+                },
+                "Annotation": {
+                    "data": "1. TNFi includes ETN or ADA.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.99 (0.86 to 1.15)",
+                    "Absolute Effect (95% CI)": "4 fewer per 1,000 (from 63 fewer to 67 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "935c1d75",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Disease activity (follow up: 2 years; assessed with: ACR 50)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "eafc116f",
+            "2140c6ee"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=75%."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "TNFi": "188/451 (41.7%)",
+                    "MTX monotherapy": "182/426 (42.7%)"
+                },
+                "Annotation": {
+                    "data": "1. TNFi includes ETN or ADA.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.98 (0.84 to 1.14)",
+                    "Absolute Effect (95% CI)": "9 fewer per 1,000 (from 68 fewer to 60 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "671a18dc",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Disease activity (follow up: 2 years; assessed with: ACR 70)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "eafc116f",
+            "2140c6ee"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "TNFi": "128/451 (28.4%)",
+                    "MTX monotherapy": "113/426 (26.5%)"
+                },
+                "Annotation": {
+                    "data": "1. TNFi includes ETN or ADA.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.07 (0.86 to 1.33)",
+                    "Absolute Effect (95% CI)": "19 more per 1,000 (from 37 fewer to 88 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "a8897d6e",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Remission (follow up: 2 years; assessed with: DAS28-ESR <2.6)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "2140c6ee"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "TNFi": "69/274 (25.2%)",
+                    "MTX monotherapy": "64/257 (24.9%)"
+                },
+                "Annotation": {
+                    "data": "1. TNFi includes ETN or ADA.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.01 (0.75 to 1.36)",
+                    "Absolute Effect (95% CI)": "2 more per 1,000 (from 62 fewer to 90 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "8f52efc9",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Radiographic progression (follow up: 2 years; assessed with: mTSS (Lower values \u2013 > benefit) (MCID 4.6)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "eafc116f"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "TNFi": "177",
+                    "MTX monotherapy": "169"
+                },
+                "Annotation": {
+                    "data": "1. TNFi includes ETN or ADA.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 1.9 lower (3.19 lower to 0.61 lower)(The study PREMIER found that the RR of developing no radiographic progression (change in mTSS \u22640.5) was 1.33 (95%CI 1.07 to 1.65), absolute risk increase 112 more per 1000 (95%CI 24 more to 220 more).)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "e1eeb0a4",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Disability (follow up: range 1 year to 2 years; assessed with: HAQ-DI (Lower values \u2013 > benefit) (MCID -0.22)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "2140c6ee",
+            "1059324c"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "TNFi": "481",
+                    "MTX monotherapy": "474"
+                },
+                "Annotation": {
+                    "data": "1. TNFi includes ETN or ADA.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.01 higher (0.07 lower to 0.1 higher)(The study PREMIER found that the RR of improvement in HAQ-DI (\u22650.22 change from baseline) was 0.92 (95%CI 0.80 to 1.06), absolute risk reduction 50 fewer per 1000 (95%CI 126 fewer to 38 more).)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "b3d7016c",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Fatigue (follow up: 2 years; assessed with: FACIT-F (Higher values \u2013 > benefit) (MCID 15.9)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "c45ae481"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "TNFi": "272",
+                    "MTX monotherapy": "254"
+                },
+                "Annotation": {
+                    "data": "1. TNFi includes ETN or ADA.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 1.7 lower (3.09 lower to 0.31 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "c3ab3d50",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Pain (follow up: 2 years; assessed with: VAS 0-100 (Lower values \u2013 > benefit) (MCID -11.9)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "c45ae481"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "TNFi": "273",
+                    "MTX monotherapy": "256"
+                },
+                "Annotation": {
+                    "data": "1. TNFi includes ETN or ADA.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 7.1 higher (4.34 higher to 9.86 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "32d3d419",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Quality of life (follow up: range 1 year to 2 years; assessed with: SF-36 PCS (Higher values \u2013 > benefit) (MCID 4.4)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "1059324c",
+            "c45ae481"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious inconsistency. I2=67%. Question whether heterogeneity might be related to the use of different TNFis."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "TNFi": "471",
+                    "MTX monotherapy": "464"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.56 lower (1.73 lower to 0.6 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "08b87e42",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Quality of life (follow up: range 1 year to 2 years; assessed with: SF-36 MCS (Higher values \u2013 > benefit) (MCID 3.1)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "1059324c",
+            "c45ae481"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Indication of serious inconsistency I2=59% (taken into consideration when downgrading for imprecision). Question whether heterogeneity might be related to the use of different TNFis."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "TNFi": "471",
+                    "MTX monotherapy": "464"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 1.98 lower (3.18 lower to 0.78 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "dd2c804f",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Serious adverse events (follow up: 2 years)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "2140c6ee"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "TNFi": "92/274 (33.6%)",
+                    "MTX monotherapy": "68/257 (26.5%)"
+                },
+                "Annotation": {
+                    "data": "1. TNFi includes ETN or ADA.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.27 (0.98 to 1.65)",
+                    "Absolute Effect (95% CI)": "71 more per 1,000 (from 5 fewer to 172 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "7097b643",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Withdrawal due to lack of efficacy (2 years)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "eafc116f",
+            "2140c6ee"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "TNFi": "68/481 (14.1%)",
+                    "MTX monotherapy": "69/474 (14.6%)"
+                },
+                "Annotation": {
+                    "data": "1. TNFi includes ETN or ADA.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.95 (0.70 to 1.30)",
+                    "Absolute Effect (95% CI)": "7 fewer per 1,000 (from 44 fewer to 44 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "379466a0",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Withdrawal due to adverse events (follow up: 2 years)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "eafc116f",
+            "2140c6ee"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=72%."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "TNFi": "41/481 (8.5%)",
+                    "MTX monotherapy": "46/474 (9.7%)"
+                },
+                "Annotation": {
+                    "data": "1. TNFi includes ETN or ADA.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.88 (0.59 to 1.32)",
+                    "Absolute Effect (95% CI)": "12 fewer per 1,000 (from 40 fewer to 31 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "461e0a1b",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Death (follow up: 2 years)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "2140c6ee"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "TNFi": "4/274 (1.5%)",
+                    "MTX monotherapy": "1/257 (0.4%)"
+                },
+                "Annotation": {
+                    "data": "1. TNFi includes ETN or ADA.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 3.75 (0.42 to 33.35)",
+                    "Absolute Effect (95% CI)": "11 more per 1,000 (from 2 fewer to 126 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "63042a49",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Malignancy (follow up: 2 years)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "eafc116f",
+            "2140c6ee"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "TNFi": "8/481 (1.7%)",
+                    "MTX monotherapy": "7/474 (1.5%)"
+                },
+                "Annotation": {
+                    "data": "1. TNFi includes ETN or ADA.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.13 (0.41 to 3.08)",
+                    "Absolute Effect (95% CI)": "2 more per 1,000 (from 9 fewer to 31 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "63181cbf",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Malignancy (from SRs on harms)",
+        "related_paper_list": [
+            "2bf70fbf"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "result_interpretation": "The systematic review RefID=3394, 2014 (RCTs=28, n=11741) comparing any TNFi vs placebo + MTX among RA showed that for cancer, the result was OR=1.30 (95% CI 0.80,2.14 Modified ITT model) [OR=1.06 (95% CI 0.64,1.75; p=0.82) Per protocol model]",
+                "Study design": "Systematic Review"
+            }
+        }
+    },
+    {
+        "outcome_uid": "0b489433",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Cardiovascular disease (from SRs on harms)",
+        "related_paper_list": [
+            "542001cd"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "result_interpretation": "The systematic review RefID=1105, 2017 (NRS=7, n=49003) comparing any TNFi vs csDMARDs among RA showed that for Cardiovascular disease, the result was RR = 0.62 (95% CI 0.44\u20130.88), p=0.007",
+                "Study design": "Systematic Review"
+            }
+        }
+    },
+    {
+        "outcome_uid": "8cad3342",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor",
+        "outcome": "Death (from SRs on harms)",
+        "related_paper_list": [
+            "542001cd"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "result_interpretation": "The systematic review RefID=1105, 2017 (NRS=5, n=41579) comparing any TNFi vs csDMARD among RA showed that for Death, the result was RR = 0.60 (95% CI 0.38\u20130.94), p=0.03",
+                "Study design": "Systematic Review"
+            }
+        }
+    }
+]

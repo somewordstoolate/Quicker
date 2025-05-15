@@ -1,0 +1,19 @@
+Effect of sodium-glucose cotransporter-2 inhibitors (SGLT2i) among people with CKD (Search date: April 2023)
+PubMed 
+1. Randomized controlled trial[pt]
+2. Controlled clinical trial[pt]
+3. Randomized[tiab]
+4. Placebo[tiab]
+5. “Clinical trials as topic”[mh:noexp]
+6. Randomly[tiab]
+7. Trial[ti]
+8. #1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7
+9. “Sodium-glucose transporter 2 inhibitors”[mh]
+10. SGLT2[tiab] OR SGLT-2[tiab]
+11. “Sodium-glucose transporter 2”[mh]
+12. "Sodium-glucose co-transporter”[tiab] OR “sodium-glucose cotransporter”[tiab]
+13. Canagliflozin[tiab] OR dapagliflozin[tiab] OR empagliflozin[tiab] OR ertugliflozin[tiab] OR ipragliflozin[tiab] OR luseogliflozin[tiab] OR remogliflozin[tiab] OR sotagliflozin[tiab] OR tofogliflozin[tiab]
+14. #9 OR #10 OR #11 OR #12 OR #13
+15. #8 AND #14
+16. Animals[mh] NOT humans[mh]
+17. #15 NOT #16

@@ -1,0 +1,79 @@
+{
+    "Disease Activity (follow up: 3 months; assessed with: DAS 28-ESR)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["serious", "a"],
+      "Other considerations": "none",
+      "No of patients": {
+        "MTX 15 mg/week": "53",
+        "<MTX 15mg/week as initial dose": ["47","b"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 0.08 lower (0.41 lower to 0.25 higher)"
+      },
+      "Certainty": "MODERATE",
+      "Importance": "CRITICAL"
+    },
+    "Disability (follow up: 3 months; assessed with: HAQ-DI)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious", "c"],
+      "Other considerations": "none",
+      "No of patients": {
+        "MTX 15 mg/week": "53",
+        "<MTX 15mg/week as initial dose": ["47","b"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 0.11 lower (0.29 lower to 0.07 higher)"
+      },
+      "Certainty": "LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Withdrawal due to lack of efficacy (follow up: 3 months)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious", "d"],
+      "Other considerations": "none",
+      "No of patients": {
+        "MTX 15 mg/week": "0/53 (0.0%) ",
+        "<MTX 15mg/week as initial dose": ["2/47 (4.3%)", "b"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.18 (0.01 to 3.61)",
+        "Absolute (95% CI)": "35 fewer per 1,000 (from 42 fewer to 111 more)"
+      },
+      "Certainty": "LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Withdrawal due to adverse events (follow up: 3 months)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious", "d"],
+      "Other considerations": "none",
+      "No of patients": {
+        "MTX 15 mg/week": "2/53 (3.8%) ",
+        "<MTX 15mg/week as initial dose": ["2/47 (4.3%)", "b"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.89 (0.13 to 6.05)",
+        "Absolute (95% CI)": "5 fewer per 1,000 (from 37 fewer to 215 more)"
+      },
+      "Certainty": "LOW",
+      "Importance": "IMPORTANT"
+    }
+  }
+  

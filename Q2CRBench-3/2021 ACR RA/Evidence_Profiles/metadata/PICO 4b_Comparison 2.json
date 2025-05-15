@@ -1,0 +1,78 @@
+{
+    "Disease activity (follow up: 6 months; assessed with: DAS 28-ESR (Lower values – > benefit) (MCID -1.17)": {
+      "No of studies": ["3"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": "not serious",
+      "Other considerations": "none",
+      "No of patients": {
+        "csDMARD triple therapy": ["132", "a"],
+        "csDMARD monotherapy": ["379", "b"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 0.64 lower (0.95 lower to 0.33 lower)"
+      },
+      "Certainty": "HIGH",
+      "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: 6 months; assessed with: ACR 20)": {
+      "No of studies": ["3"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": "not serious",
+      "Other considerations": "none",
+      "No of patients": {
+        "csDMARD triple therapy": ["73/132 (55.3%)" ,"a"],
+        "csDMARD monotherapy": ["150/379 (39.6%)" ,"b"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 1.40 (1.15 to 1.70)",
+        "Absolute (95% CI)": "158 more per 1,000 (from 59 more to 277 more)"
+      },
+      "Certainty": "HIGH",
+      "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: 6 months; assessed with: ACR 50)": {
+      "No of studies": ["3"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": "not serious",
+      "Other considerations": "none",
+      "No of patients": {
+        "csDMARD triple therapy": ["41/132 (31.1%)", "a"],
+        "csDMARD monotherapy": ["73/379 (19.3%)" ,"b"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 1.61 (1.16 to 2.24)",
+        "Absolute (95% CI)": "117 more per 1,000 (from 31 more to 239 more)"
+      },
+      "Certainty": "HIGH",
+      "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: 6 months; assessed with: ACR 70)": {
+      "No of studies": ["3"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["serious", "c"],
+      "Other considerations": "none",
+      "No of patients": {
+        "csDMARD triple therapy": ["11/132 (8.3%)" ,"a"],
+        "csDMARD monotherapy": ["13/379 (3.4%)" ,"b"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 2.43 (1.12 to 5.29)",
+        "Absolute (95% CI)": "49 more per 1,000 (from 4 more to 147 more)"
+      },
+      "Certainty": "MODERATE",
+      "Importance": "CRITICAL"
+    }
+  }

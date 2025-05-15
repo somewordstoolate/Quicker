@@ -1,0 +1,13 @@
+Diagnostic and prognostic benefit and safety of kidney biopsy (Search date: March 2023)
+PubMed 
+1. “Biopsy/adverse effects”[mh:noexp] OR “biopsy/complications”[mh:noexp] OR “biopsy/mortality”[mh:noexp]
+2. “Biopsy, needle”[mh]
+3. “Image-guided biopsy”[mh]
+4. biops*[ti]
+5. #1 OR #2 OR #3 OR #4
+6. “Renal insufficiency, chronic”[mh]
+7. CKD[tiab] OR “chronic kidney”[tiab] OR “chronic renal”[tiab] OR “progressive kidney”[tiab] OR “progressive renal”[tiab] OR “kidney insufficiency”[tiab] OR “renal insufficiency”[tiab]
+8. #6 OR #7
+9. #5 AND #8
+10. Animals[mh] NOT humans[mh]
+11. #9 NOT #10

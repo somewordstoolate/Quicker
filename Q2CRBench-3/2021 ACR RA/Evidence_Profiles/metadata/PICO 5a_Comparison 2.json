@@ -1,0 +1,148 @@
+{
+    "Remission (follow up: 1 year; assessed with: DAS28 - CRP < 2.6)": {
+        "No of studies": "8",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "a"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "ABA": "48/113 (42.5%)",
+            "MTX monotherapy": "52/115 (45.2%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.94 (0.70 to 1.26)",
+            "Absolute (95% CI)": "27 fewer per 1,000 (from 136 fewer to 118 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "CRITICAL"
+    },
+
+    "Disability (follow up: 1 year; assessed with: HAQ - DI ≥ 0.3)": {
+        "No of studies": "8",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "a"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "ABA": "61/113 (54.0%)",
+            "MTX monotherapy": "51/115 (44.3%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.22 (0.93 to 1.59)",
+            "Absolute (95% CI)": "98 more per 1,000 (from 31 fewer to 262 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Serious adverse events (1 year)": {
+        "No of studies": "8",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "a"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "ABA": "14/116 (12.1%)",
+            "MTX monotherapy": "9/116 (7.8%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.56 (0.70 to 3.45)",
+            "Absolute (95% CI)": "43 more per 1,000 (from 23 fewer to 190 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Withdrawal due to adverse events (follow up: 1 year)": {
+        "No of studies": "8",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "a"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "ABA": "8/116 (6.9%)",
+            "MTX monotherapy": "5/116 (4.3%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.60 (0.54 to 4.75)",
+            "Absolute (95% CI)": "26 more per 1,000 (from 20 fewer to 162 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Withdrawal due to lack of efficacy (follow up: 1 year)": {
+        "No of studies": "8",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "a"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "ABA": "6/116 (5.2%)",
+            "MTX monotherapy": "11/116 (9.5%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.55 (0.21 to 1.43)",
+            "Absolute (95% CI)": "43 fewer per 1,000 (from 75 fewer to 41 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Death (follow up: 1 year)": {
+        "No of studies": "8",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "b"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "ABA": "0/116 (0.0%)",
+            "MTX monotherapy": "0/116 (0.0%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "not estimable",
+            "Absolute (95% CI)": ""
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Malignancy (follow up: 1 year)": {
+        "No of studies": "8",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "b"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "ABA": "2/116 (1.7%)",
+            "MTX monotherapy": "1/116 (0.9%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 2.00 (0.18 to 21.75)",
+            "Absolute (95% CI)": "9 more per 1,000 (from 7 fewer to 179 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Malignancy (from SR of harms) ABA vs MTX": {
+        "No of studies": "9",
+        "content": "The Systematic Review RefID=1220, 2017 (RCTs=4, n=Not provided) comparing Abatacept vs Placebo + csDMARD among RA and showed that for Cancer, the result was Peto OR=1.12 (0.33, 3.81)",
+        "Certainty": "-",
+        "Importance": "IMPORTANT"
+    }
+}

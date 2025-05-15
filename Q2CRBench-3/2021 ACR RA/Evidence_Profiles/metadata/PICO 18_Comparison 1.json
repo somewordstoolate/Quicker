@@ -1,0 +1,98 @@
+{
+    "Disease activity (follow up: 6 months; assessed with: ACR 20)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["very serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["serious", "b"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Switch to SC MTX": ["43/46 (93.5%)","c"],
+        "Increase dose of oral MTX": ["36/46 (78.3%)","d"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 1.19 (1.01 to 1.42)",
+        "Absolute (95% CI)": "149 more per 1,000 (from 8 more to 329 more)"
+      },
+      "Certainty": "VERY LOW",
+      "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: 6 months; assessed with: ACR 50)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["very serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["serious", "b"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Switch to SC MTX": ["41/46 (89.1%)","c"],
+        "Increase dose of oral MTX": ["33/46 (71.7%)","d"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 1.24 (1.01 to 1.53)",
+        "Absolute (95% CI)": "172 more per 1,000 (from 7 more to 380 more)"
+      },
+      "Certainty": "VERY LOW",
+      "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: 6 months; assessed with: ACR 70)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["very serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious", "e"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Switch to SC MTX": ["5/46 (10.9%)","c"],
+        "Increase dose of oral MTX": ["4/46 (8.7%)","d"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 1.25 (0.36 to 4.36)",
+        "Absolute (95% CI)": "22 more per 1,000 (from 56 fewer to 292 more)"
+      },
+      "Certainty": "VERY LOW",
+      "Importance": "CRITICAL"
+    },
+    "Disability (follow up: 6 months; assessed with: HAQ)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["very serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["serious", "b"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Switch to SC MTX": ["46","c"],
+        "Increase dose of oral MTX": ["46","d"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 2.3 lower (4.06 lower to 0.54 lower)"
+      },
+      "Certainty": "VERY LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Pain (follow up: 6 months; assessed with: VAS 0-10)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["very serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["serious", "b"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Switch to SC MTX": ["46","c"],
+        "Increase dose of oral MTX": ["46","d"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 1.43 lower (2.05 lower to 0.81 lower)"
+      },
+      "Certainty": "VERY LOW",
+      "Importance": "IMPORTANT"
+    }
+  }
+  

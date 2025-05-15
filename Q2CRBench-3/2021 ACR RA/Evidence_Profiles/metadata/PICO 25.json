@@ -1,0 +1,60 @@
+{
+    "Question": "Should patients with RA on their 2nd TNF Inhibitor who are NOT at target, switch to a 3rd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+    "Comparison": {
+        "Switch to Abatacept versus switch to a 3rd TNF Inhibitor. Data based on indirect RCT evidence.": {
+            "filename": "PICO 25_Comparison 1.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious risk of bias. Lack of blinding.",
+                "b": "Downgraded by one level due to serious indirectness. The evidence is based on a population on their first TNF Inhibitor who are NOT at target and the intervention is second TNFi rather than third TNFi.",
+                "c": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, low number of events.",
+                "d": "Downgraded by one level due to serious risk of bias. Lack of blinding and lack of allocation concealment.",
+                "e": "Downgraded by two levels due to very serious imprecision. Very small sample size, low number of events.",
+                "f": "Downgraded by one level due to serious imprecision. Very small sample size.",
+                "g": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Very small sample size.",
+                "h": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Very small sample size, low number of events."
+            }
+        },
+        "Switch to a 3rd TNF Inhibitor versus switch to Rituximab. Data based on direct NRS evidence.": {
+            "filename": "PICO 25_Comparison 2.json",
+            "Explanations": {
+                "a": "'Other limitations of this observational study are the relative low numbers of patients and the high number of missing data.'",
+                "b": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect. Small sample size.",
+                "c": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Small sample size.",
+                "d": "Downgraded by one level due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Small sample size."
+            }
+        },
+        "Switch to a 3rd TNF Inhibitor versus continue same management. Data based on indirect RCT evidence.": {
+            "filename": "PICO 25_Comparison 5.json",
+            "Explanations": {
+                "a": "Downgraded by two levels due to serious risk of bias. Lack of blinding (except for radiographic outcomes) and lack of allocation concealment.",
+                "b": "Downgraded by one level due to serious indirectness. The evidence is based on a population on their first TNF Inhibitor who are NOT at target and the intervention is second TNFi rather than third TNFi.",
+                "c": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, very low number of events.",
+                "d": "Switch to IFX.",
+                "e": "Continue ETN.",
+                "f": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect. Very small sample size.",
+                "g": "Downgraded by two levels due to very serious imprecision. Very small sample size, very low number of events.",
+                "h": "Downgraded by one level due to serious risk of bias. Lack of blinding of patients and personnel and lack of allocation concealment. Outcome assessors for radiographic outcomes were blinded.",
+                "i": "Downgraded by two levels due to very serious imprecision. Very small sample size."
+            }
+        },
+        "Switch to IL-6 Receptor Inhibitor versus switch to Abatacept. Data based on indirect RCT evidence.": {
+            "filename": "PICO 25_Comparison 6.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and lack of blinding.",
+                "b": "Downgraded by one level due to serious indirectness. The evidence is based on a population on their first TNF Inhibitor who are NOT at target.",
+                "c": "Downgraded by one level due to serious imprecision. Low sample size.",
+                "d": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Low sample size."
+            }
+        }
+    },
+    "References": {
+        "1": "Brown S, Everett CC, Naraghi. Alternative tumour necrosis factor inhibitors (TNFi) or abatacept or rituximab following failure of initial TNFi in rheumatoid arthritis: the SWITCH RCT. Health Technology Assessment (Winchester, England). 2018;22(34):1.",
+        "2": "Manders SH, et al. Cost-effectiveness of abatacept, rituximab, and TNFi treatment after previous failure with TNFi treatment in rheumatoid arthritis: a pragmatic multi-centre randomised trial. BioMed Central. 2015;17.",
+        "3": "Tarp S, Furst DE, Boers M, Luta G, Bliddal H, Tarp U, et al. Risk of serious adverse effects of biological and targeted drugs in patients with rheumatoid arthritis: a systematic review meta-analysis. [Review]. Rheumatology. 2017;56(3):417.",
+        "4": "BLOMley MJ. Effectiveness of a Third Tumor Necrosis Factor-a-blocking Agent Compared with Rituximab After Failure of 2 TNF-blocking Agents in Rheumatoid Arthritis. The Journal of Rheumatology. 2017;38(11):2355-61.",
+        "5": "Furst DE, Gaylis N, Bray V, Olech E, Yocum D, Ritter J, et al. Open-label, pilot protocol of patients with rheumatoid arthritis who switch to infliximab after an incomplete response to etanercept: the opposite study. Annals of the Rheumatic Diseases. 2007;66(7):893.",
+        "6": "Singh JA WG, Christensen R, Tanjong Ghogomu E, Maxwell LJ, MacDonald JK, Filippini G, Skoetz N, Francis DK, Lopes LC, Guyatt GH, Schmitt J, La Mantia L, Weberschock T, Roos JF, Siebert H, Hershan S, Cameron C, Lunn MPT, Tugwell P, Buchbinder R. Adverse effects of biologics: a network meta-analysis and Cochrane overview (Review). Cochrane Library. 2016(4).",
+        "7": "Elmedany SH. Efficacy and safety profile of intravenous tocilizumab versus intravenous abatacept in treating female Saudi Arabian patients with active moderate-to-severe rheumatoid arthritis. Clin Rheumatol. 2019;38:2109-17.",
+        "8": "Beresniak A. Cost-effectiveness simulation model of biologic strategies for treating to target rheumatoid arthritis in Germany. Clinical & Experimental Rheumatology. 2013;31(3):400."
+    }
+}

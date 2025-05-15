@@ -1,0 +1,36 @@
+Effects of aspirin in terms of primary prevention of CVD and safety among people with CKD (Search date: August 2022)
+PubMed 
+1. “Renal insufficiency, chronic”[mh]
+2. CKD[tiab] OR kidney[tiab] OR nephro*[tiab] OR renal[tiab]
+3. #1 OR #2
+4. Aspirin[mh]
+5. Aspirin[tiab] OR *salicyl*[tiab] OR asa[tiab] OR anti-platelet[tiab] OR antiplatelet[tiab]
+6. #4 OR #5
+7. "Randomized controlled trial"[pt]
+8. "Controlled clinical trial"[pt]
+9. Randomized[tiab]
+10. Placebo[tiab]
+11. "Drug therapy"[sh]
+12. Randomly[tiab]
+13. Trial[tiab]
+14. Groups[tiab]
+15. #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14
+16. #3 AND #6 AND #15
+17. Infant[mh] OR “infant health”[mh] OR “infant welfare”[mh]
+18. prematur*[tiab] OR pre-matur*[tiab] OR preterm*[tiab] OR preterm*[tiab] OR infan*[tiab] OR newborn*[tiab] OR new-born*[tiab] OR perinat*[tiab] OR peri-nat*[tiab] OR neonat*[tiab] OR neonat*[tiab] OR baby*[tiab] OR babies[tiab] OR toddler*[tiab]
+19. Child[mh] OR “child behavior”[mh] OR “child health”[mh] OR “child welfare”[mh]
+20. Minors[mh]
+21. Child*[tiab] OR minor[tiab] OR minors[tiab] OR boy*[tiab] OR girl*[tiab] OR kid[tiab] OR kids[tiab] OR young*[tiab]
+22. Pediatrics[mh]
+23. Pediatric*[tiab] OR paediatric*[tiab] OR peadiatric*[tiab]
+24. Adolescent[mh] OR “adolescent health”[mh] OR “adolescent behavior”[mh]
+25. Puberty[mh]
+26. adolescen*[tiab] OR pubescen*[tiab] OR prepubescen*[tiab] OR pre-pubescen*[tiab] OR pubert*[tiab] OR prepubert*[tiab] OR prepubert*[tiab] OR teen*[tiab] OR preteen*[tiab] OR preteen*[tiab] OR juvenil*[tiab] OR youth*[tiab] OR under*age*[tiab]
+27. Schools[mh]
+28. Child Day Care Centers[mh] or Nurseries[mh] or Schools, Nursery[mh]
+29. pre-school*[tiab] OR preschool*[tiab] OR kindergar*[tiab] OR daycare[tiab] OR day-care[tiab] OR nurser*[tiab] OR school*[tiab] OR pupil*[tiab] OR student*[tiab]
+30. "under 18*"[tiab] OR "under eighteen*"[tiab] OR "under 25*"[tiab] OR "under twenty five*"[tiab]
+31. #17 OR #18 OR #19 OR #20 OR #21 OR #22 OR #23 OR #24 OR #25 OR #26 OR #27 OR #28 OR #29 OR #30
+32. #16 AND #31
+33. Animals[mh] NOT humans[mh]
+34. #32 NOT #33

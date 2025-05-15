@@ -1,0 +1,466 @@
+{
+    "Disease activity (follow up: range 6 months to 1 year; assessed with: ACR 20)": {
+        "No of studies": [
+            "1",
+            "2"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "not serious",
+            "a"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": [
+            "serious",
+            "b"
+        ],
+        "Other considerations": "none",
+        "No of patients": {
+            "TNFi + MTX": [
+                "521/742 (70.2%)",
+                "c"
+            ],
+            "MTX monotherapy": "188/298 (63.1%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.14 (1.03 to 1.26)",
+            "Absolute (95% CI)": "88 more per 1,000 (from 19 more to 164 more)"
+        },
+        "Certainty": "MODERATE",
+        "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: 6 months; assessed with: ACR 50)": {
+        "No of studies": [
+            "1",
+            "2"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "not serious",
+            "a"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": [
+            "serious",
+            "b"
+        ],
+        "Other considerations": "none",
+        "No of patients": {
+            "TNFi + MTX": "426/742 (57.4%)",
+            "MTX monotherapy": "148/298 (49.7%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.17 (1.02 to 1.33)",
+            "Absolute (95% CI)": "84 more per 1,000 (from 10 more to 164 more)"
+        },
+        "Certainty": "MODERATE",
+        "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: range 6 months to 12 months; assessed with: ACR 70)": {
+        "No of studies": [
+            "1",
+            "2"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "not serious",
+            "d"
+        ],
+        "Inconsistency": [
+            "serious",
+            "e"
+        ],
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "No of patients": {
+            "TNFi + MTX": "378/742 (50.9%)",
+            "MTX monotherapy": "108/298 (36.2%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.36 (1.15 to 1.61)",
+            "Absolute (95% CI)": "130 more per 1,000 (from 54 more to 221 more)"
+        },
+        "Certainty": "MODERATE",
+        "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: range 6 months to 12 months; assessed with: DAS28 or DAS44 (Lower values -> benefit) (values>0.2 are considered clinically important)": {
+        "No of studies": [
+            "2",
+            "3"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "serious",
+            "f"
+        ],
+        "Inconsistency": [
+            "serious",
+            "g"
+        ],
+        "Indirectness": "not serious",
+        "Imprecision": [
+            "serious",
+            "b"
+        ],
+        "Other considerations": "none",
+        "No of patients": {
+            "TNFi + MTX": [
+                "0",
+                "c"
+            ],
+            "MTX monotherapy": "0"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "SMD 0.21 lower (0.37 lower to 0.05 lower)"
+        },
+        "Certainty": "VERY LOW",
+        "Importance": "CRITICAL"
+    },
+    "Remission (follow up: range 6 months to 12 months; assessed with: DAS28<2.6)": {
+        "No of studies": [
+            "1",
+            "2",
+            "3"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "serious",
+            "f"
+        ],
+        "Inconsistency": [
+            "serious",
+            "h"
+        ],
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "No of patients": {
+            "TNFi + MTX": [
+                "359/797 (45.0%)",
+                "c"
+            ],
+            "MTX monotherapy": "116/353 (32.9%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.49 (1.25 to 1.77)",
+            "Absolute (95% CI)": "161 more per 1,000 (from 82 more to 253 more)"
+        },
+        "Certainty": "LOW",
+        "Importance": "CRITICAL"
+    },
+    "Radiographic progression (follow up: 1 year; assessed with: mTSS (Lower values – > benefit) (MCID 4.6)": {
+        "No of studies": [
+            "3"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "serious",
+            "i"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "No of patients": {
+            "TNFi + MTX": [
+                "0",
+                "c"
+            ],
+            "MTX monotherapy": "0"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0 (0.64 lower to 0.64 higher)"
+        },
+        "Certainty": "MODERATE",
+        "Importance": "IMPORTANT"
+    },
+    "Fatigue (follow up: 1 year; assessed with: VAS fatigue (Lower values – > benefit) (MCID -1.12 to -0.82))": {
+        "No of studies": [
+            "3"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "not serious",
+            "k"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": [
+            "very serious",
+            "l"
+        ],
+        "Other considerations": "none",
+        "No of patients": {
+            "TNFi + MTX": [
+                "55",
+                "c"
+            ],
+            "MTX monotherapy": "55"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 5.2 lower (17.17 lower to 6.77 higher)"
+        },
+        "Certainty": "LOW",
+        "Importance": "IMPORTANT"
+    },
+    "Pain (follow up: 1 year; assessed with: VAS pain (Lower values – > benefit) (MCID -11.9)": {
+        "No of studies": [
+            "3"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "not serious",
+            "k"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": [
+            "serious",
+            "b"
+        ],
+        "Other considerations": "none",
+        "No of patients": {
+            "TNFi + MTX": [
+                "55",
+                "c"
+            ],
+            "MTX monotherapy": "55"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 18.4 lower (30.88 lower to 5.92 lower)"
+        },
+        "Certainty": "MODERATE",
+        "Importance": "IMPORTANT"
+    },
+    "Disability (follow up: range 6 months to 12 months; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)": {
+        "No of studies": [
+            "1",
+            "2",
+            "3"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "serious",
+            "f"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": [
+            "serious",
+            "b"
+        ],
+        "Other considerations": "none",
+        "No of patients": {
+            "TNFi + MTX": [
+                "0",
+                "c"
+            ],
+            "MTX monotherapy": "0"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.18 lower (0.25 lower to 0.1 lower)"
+        },
+        "Certainty": "LOW",
+        "Importance": "IMPORTANT"
+    },
+    "Quality of Life (follow up: range 6 months to 12 months; assessed with: SF-36 PCS (Higher values – > benefit) (MCID 4.4)": {
+        "No of studies": [
+            "2",
+            "3"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "serious",
+            "f"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": [
+            "serious",
+            "b"
+        ],
+        "Other considerations": "none",
+        "No of patients": {
+            "TNFi + MTX": [
+                "0",
+                "c"
+            ],
+            "MTX monotherapy": "0"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 3.21 higher (0.63 higher to 5.79 higher)"
+        },
+        "Certainty": "LOW",
+        "Importance": "IMPORTANT"
+    },
+    "Quality of Life (follow up: range 6 months to 12 months; assessed with: SF-36 MCS (Higher values – > benefit) (MCID 3.1)": {
+        "No of studies": [
+            "2",
+            "3"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "serious",
+            "f"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "No of patients": {
+            "TNFi + MTX": [
+                "0",
+                "c"
+            ],
+            "MTX monotherapy": "0"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.54 lower (2.98 lower to 1.89 higher)"
+        },
+        "Certainty": "MODERATE",
+        "Importance": "IMPORTANT"
+    },
+    "Withdrawal due to lack of efficacy (follow up: range 6 months to 12 months)": {
+        "No of studies": [
+            "1",
+            "2",
+            "3"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "serious",
+            "f"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "No of patients": {
+            "TNFi + MTX": [
+                "21/802 (2.6%)",
+                "c"
+            ],
+            "MTX monotherapy": "24/359 (6.7%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.38 (0.21 to 0.69)",
+            "Absolute (95% CI)": "41 fewer per 1,000 (from 53 fewer to 21 fewer)"
+        },
+        "Certainty": "MODERATE",
+        "Importance": "IMPORTANT"
+    },
+    "Withdrawal due to adverse events (follow up: range 6 months to 12 months)": {
+        "No of studies": [
+            "1",
+            "2",
+            "3"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "serious",
+            "f"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": [
+            "serious",
+            "n"
+        ],
+        "Other considerations": "none",
+        "No of patients": {
+            "TNFi + MTX": [
+                "61/801 (7.6%)",
+                "c"
+            ],
+            "MTX monotherapy": "24/357 (6.7%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.94 (0.60 to 1.49)",
+            "Absolute (95% CI)": "4 fewer per 1,000 (from 27 fewer to 33 more)"
+        },
+        "Certainty": "LOW",
+        "Importance": "IMPORTANT"
+    },
+    "Serious adverse events (follow up: range 6 months to 12 months)": {
+        "No of studies": [
+            "1",
+            "2",
+            "3"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "not serious",
+            "o"
+        ],
+        "Inconsistency": [
+            "serious",
+            "p"
+        ],
+        "Indirectness": "not serious",
+        "Imprecision": [
+            "very serious",
+            "n"
+        ],
+        "Other considerations": "none",
+        "No of patients": {
+            "TNFi + MTX": [
+                "91/801 (11.4%)",
+                "c"
+            ],
+            "MTX monotherapy": "45/357 (12.6%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.00 (0.71 to 1.43)",
+            "Absolute (95% CI)": "0 fewer per 1,000 (from 37 fewer to 54 more)"
+        },
+        "Certainty": "VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+    "Death (follow up: range 6 months to 12 months)": {
+        "No of studies": [
+            "1",
+            "2"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "serious",
+            "q"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": [
+            "serious",
+            "n"
+        ],
+        "Other considerations": "none",
+        "No of patients": {
+            "TNFi + MTX": [
+                "2/746 (0.3%)",
+                "c"
+            ],
+            "MTX monotherapy": "1/302 (0.3%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.66 (0.06 to 7.23)",
+            "Absolute (95% CI)": "1 fewer per 1,000 (from 3 fewer to 21 more)"
+        },
+        "Certainty": "LOW",
+        "Importance": "IMPORTANT"
+    },
+    "Malignancy (from SRs on harms)": {
+        "No of studies": [
+            "4"
+        ],
+        "content": "The Systematic Review RefID=4638, 2012 (RCTs=3, n=1842) comparing certolizumab + MTX vs placebo + MTX among RA showed that for cancer, the result was RR=2.8 (0.36-21.6) at 1 year and RR=1.3 (0.24-7.3) at all time points. "
+    }
+}

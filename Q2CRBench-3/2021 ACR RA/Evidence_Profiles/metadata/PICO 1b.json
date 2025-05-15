@@ -1,0 +1,18 @@
+{
+    "Question": "Should patients with MTX-naïve and non-MTX csDMARDs exposed and low disease activity receive MTX monotherapy or an alternative csDMARD monotherapy?",
+    "Comparison": {
+        "MTX monotherapy versus LEF. Data based on indirect RCT evidence.": {
+            "filename": "PICO 1b_Comparison 3.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious indirectness. The evidence is based on a population with moderate to high disease activity.",
+                "b": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm.",
+                "c": "Downgraded by one level due to serious risk of bias. Lack of blinding of patients, personnel, and outcome assessors.",
+                "d": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect. Small sample size."
+            }
+        }
+    },
+    "References": {
+        "1": "Strand V, Cohen S, Schiff M, Weaver A, Fleischmann R, Cannon G, et al. Treatment of active rheumatoid arthritis with leflunomide compared with placebo and methotrexate. Leflunomide Rheumatoid Arthritis Investigators Group. Archives of Internal Medicine. 1999;159(21):2542.",
+        "2": "Fiehn C, Jacki S, Heilig B, Lampe M, Wiesmullerr G, Richter C, et al. Eight versus 16-week re-evaluation period in rheumatoid arthritis patients treated with leflunomide or methotrexate accompanied by moderate dose prednisone. Rheumatology International. 2007;27(10):975."
+    }
+}

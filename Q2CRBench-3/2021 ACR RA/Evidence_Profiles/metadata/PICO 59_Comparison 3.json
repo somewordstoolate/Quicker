@@ -1,0 +1,224 @@
+{
+    "Disease activity (follow up: 1 year; assessed with: DAS28-ESR/CRP)": {
+        "No of studies": [
+            "2",
+            "3"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue": "305",
+            "Withdraw (Taper/Stop boDMARD or tsDMARD)": [
+                "499",
+                "b"
+            ]
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "SMD 0.45 lower (0.6 lower to 0.3 lower)"
+        },
+        "Certainty": "⨁⨁⨁⨁ HIGH",
+        "Importance": "CRITICAL"
+    },
+    "Flare (follow up: range 7 months to 11 months)": {
+        "No of studies": [
+            "4",
+            "5",
+            "e"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "very serious",
+            "f"
+        ],
+        "Inconsistency": [
+            "serious",
+            "g"
+        ],
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue": "39 participants",
+            "Withdraw (Taper/Stop boDMARD or tsDMARD)": [
+                "65 participants",
+                "41.5%"
+            ]
+        },
+        "Effect": {
+            "Relative (95% CI)": "HR 0.57 (0.38 to 0.85) [Flare ]",
+            "Absolute (95% CI)": [
+                "152 fewer per 1,000 (from 231 fewer to 49 fewer)",
+                "152 fewer per 1,000 (from 231 fewer to 49 fewer)"
+            ]
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "CRITICAL"
+    },
+    "Radiographic progression (follow up: 1; assessed with: mTSS (Lower values – > benefit) (MCID 4.6)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": [
+            "very serious",
+            "h"
+        ],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue": "184",
+            "Withdraw (Taper/Stop boDMARD or tsDMARD)": [
+                "351",
+                "b"
+            ]
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 1.84 higher (8.4 lower to 12.08 higher)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+    "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)": {
+        "No of studies": [
+            "2",
+            "3"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": [
+            "serious",
+            "i"
+        ],
+        "Indirectness": "not serious",
+        "Imprecision": [
+            "serious",
+            "j"
+        ],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue": "306",
+            "Withdraw (Taper/Stop boDMARD or tsDMARD)": [
+                "500",
+                "b"
+            ]
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.16 lower (0.23 lower to 0.08 lower)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+    "Quality of life (follow up: 1 year; assessed with: EQ-5D (Higher values – > benefit) (MCID 0.1)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue": "201",
+            "Withdraw (Taper/Stop boDMARD or tsDMARD)": [
+                "398",
+                "b"
+            ]
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0 (0.04 lower to 0.04 higher)"
+        },
+        "Certainty": "⨁⨁⨁⨁ HIGH",
+        "Importance": "IMPORTANT"
+    },
+    "Withdrawal due to adverse events (follow up: 1 year)": {
+        "No of studies": "2",
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "serious",
+            "k"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": [
+            "very serious",
+            "h"
+        ],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue": "3/105 (2.9%)",
+            "Withdraw (Taper/Stop boDMARD or tsDMARD)": [
+                "7/102 (6.9%)",
+                "b"
+            ]
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.42 (0.11 to 1.57)",
+            "Absolute (95% CI)": "40 fewer per 1,000 (from 61 fewer to 39 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+    "Pain (follow up: 1 year; assessed with: VAS 0-100 (Lower values – > benefit) (MCID -11.9)": {
+        "No of studies": [
+            "2",
+            "3"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": [
+            "serious",
+            "l"
+        ],
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue": "305",
+            "Withdraw (Taper/Stop boDMARD or tsDMARD)": [
+                "500",
+                "b"
+            ]
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 6.56 lower (9.32 lower to 3.81 lower)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "IMPORTANT"
+    },
+    "Serious adverse events (follow up: 1 year)": {
+        "No of studies": [
+            "2",
+            "3"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": [
+            "very serious",
+            "h"
+        ],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue": "24/307 (7.8%)",
+            "Withdraw (Taper/Stop boDMARD or tsDMARD)": [
+                "33/504 (6.5%)",
+                "b"
+            ]
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.07 (0.64 to 1.79)",
+            "Absolute (95% CI)": "5 more per 1,000 (from 24 fewer to 52 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    }
+}

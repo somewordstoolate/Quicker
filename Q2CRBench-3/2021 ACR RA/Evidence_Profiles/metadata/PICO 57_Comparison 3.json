@@ -1,0 +1,21 @@
+{
+    "Relapse (follow up: 1 year; assessed with DAS28 CRP>2.7 )": {
+        "No of studies": "1",
+        "Study design": "observational studies",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "b"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Abruptly withdraw DMARD": "8/16 (50.0%)",
+            "continue DMARD at same dose": "2/20 (10.0%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 5.00 (1.23 to 20.34)",
+            "Absolute (95% CI)": "400 more per 1,000 (from 23 more to 1,000 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "CRITICAL"
+    }
+}

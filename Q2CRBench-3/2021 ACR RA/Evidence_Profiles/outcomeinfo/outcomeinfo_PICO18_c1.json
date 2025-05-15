@@ -1,0 +1,252 @@
+[
+    {
+        "outcome_uid": "ec153cb0",
+        "clinical_question": "Should patients with RA on oral MTX monotherapy 15 mg per week who are NOT at target increase the dose of oral MTX or switch to SC MTX?",
+        "population": "Patients with RA on oral MTX monotherapy 15 mg per week who are not at target",
+        "intervention": "Increase the dose of oral MTX",
+        "comparator": "Switch to SC MTX",
+        "outcome": "Disease activity (follow up: 6 months; assessed with: ACR 20)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "dd941abe"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious risk of bias. Lack of blinding and lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Very small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to SC MTX": "43/46 (93.5%)",
+                    "Increase dose of oral MTX": "36/46 (78.3%)"
+                },
+                "Annotation": {
+                    "data": "1. SC 20mg MTX for 4 weeks, then 25mg MTX for 8 weeks.\n2. PO 20mg MTX for 4 weeks, then 25mg MTX for 8 weeks.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.19 (1.01 to 1.42)",
+                    "Absolute Effect (95% CI)": "149 more per 1,000 (from 8 more to 329 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "213390a6",
+        "clinical_question": "Should patients with RA on oral MTX monotherapy 15 mg per week who are NOT at target increase the dose of oral MTX or switch to SC MTX?",
+        "population": "Patients with RA on oral MTX monotherapy 15 mg per week who are not at target",
+        "intervention": "Increase the dose of oral MTX",
+        "comparator": "Switch to SC MTX",
+        "outcome": "Disease activity (follow up: 6 months; assessed with: ACR 50)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "dd941abe"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious risk of bias. Lack of blinding and lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Very small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to SC MTX": "41/46 (89.1%)",
+                    "Increase dose of oral MTX": "33/46 (71.7%)"
+                },
+                "Annotation": {
+                    "data": "1. SC 20mg MTX for 4 weeks, then 25mg MTX for 8 weeks.\n2. PO 20mg MTX for 4 weeks, then 25mg MTX for 8 weeks.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.24 (1.01 to 1.53)",
+                    "Absolute Effect (95% CI)": "172 more per 1,000 (from 7 more to 380 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "6758372e",
+        "clinical_question": "Should patients with RA on oral MTX monotherapy 15 mg per week who are NOT at target increase the dose of oral MTX or switch to SC MTX?",
+        "population": "Patients with RA on oral MTX monotherapy 15 mg per week who are not at target",
+        "intervention": "Increase the dose of oral MTX",
+        "comparator": "Switch to SC MTX",
+        "outcome": "Disease activity (follow up: 6 months; assessed with: ACR 70)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "dd941abe"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious risk of bias. Lack of blinding and lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to SC MTX": "5/46 (10.9%)",
+                    "Increase dose of oral MTX": "4/46 (8.7%)"
+                },
+                "Annotation": {
+                    "data": "1. SC 20mg MTX for 4 weeks, then 25mg MTX for 8 weeks.\n2. PO 20mg MTX for 4 weeks, then 25mg MTX for 8 weeks.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.25 (0.36 to 4.36)",
+                    "Absolute Effect (95% CI)": "22 more per 1,000 (from 56 fewer to 292 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "166c79bb",
+        "clinical_question": "Should patients with RA on oral MTX monotherapy 15 mg per week who are NOT at target increase the dose of oral MTX or switch to SC MTX?",
+        "population": "Patients with RA on oral MTX monotherapy 15 mg per week who are not at target",
+        "intervention": "Increase the dose of oral MTX",
+        "comparator": "Switch to SC MTX",
+        "outcome": "Disability (follow up: 6 months; assessed with: HAQ)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "dd941abe"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious risk of bias. Lack of blinding and lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Very small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to SC MTX": "46",
+                    "Increase dose of oral MTX": "46"
+                },
+                "Annotation": {
+                    "data": "1. SC 20mg MTX for 4 weeks, then 25mg MTX for 8 weeks.\n2. PO 20mg MTX for 4 weeks, then 25mg MTX for 8 weeks.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 2.3 lower (4.06 lower to 0.54 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "3379c301",
+        "clinical_question": "Should patients with RA on oral MTX monotherapy 15 mg per week who are NOT at target increase the dose of oral MTX or switch to SC MTX?",
+        "population": "Patients with RA on oral MTX monotherapy 15 mg per week who are not at target",
+        "intervention": "Increase the dose of oral MTX",
+        "comparator": "Switch to SC MTX",
+        "outcome": "Pain (follow up: 6 months; assessed with: VAS 0-10)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "dd941abe"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious risk of bias. Lack of blinding and lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Very small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to SC MTX": "46",
+                    "Increase dose of oral MTX": "46"
+                },
+                "Annotation": {
+                    "data": "1. SC 20mg MTX for 4 weeks, then 25mg MTX for 8 weeks.\n2. PO 20mg MTX for 4 weeks, then 25mg MTX for 8 weeks.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 1.43 lower (2.05 lower to 0.81 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

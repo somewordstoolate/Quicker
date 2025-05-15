@@ -1,0 +1,87 @@
+{
+    "Question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+    "Comparison": 
+    {
+        "Taper off DMARDs versus abruptly withdraw DMARDs. ": 
+        {   "filename": "PICO 52_Comparison 1.json",
+            "Explanations": 
+            {
+                "a": "Downgraded by two levels due to very serious inconsistency. Unexplained heterogeneity I2=84%",
+                "b": "Downgraded by two levels due to very serious inconsistency. Unexplained heterogeneity I2=95%",
+                "c": "Study contributing most of the weight is at risk of bias associated with missing data and selective outcome reporting",
+                "d": "Downgraded by two levels due to very serious inconsistency. Unexplained heterogeneity I2=93%",
+                "e": "CI includes both values suggesting benefit and values suggesting no effect",
+                "f": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=78%",
+                "g": "Small number of events",
+                "h": "The study PRESERVE found that the RR of developing no radiographic progression (change in mTSS ≤0.5) was 1.07 (95%CI 0.98 to 1.17), absolute risk increase 58 more per 1000 (95%CI 17 fewer to 140 more)",
+                "i": "I2=16%",
+                "j": "Risk of bias associated with missing data and selective outcome reporting",
+                "k": "The study PRIZE found that the RR of improvement in SF-36 PCS (≥5 change from baseline) was 1.03 (95%CI 0.86 to 1.24), absolute risk increase 23 more per 1000 (95%CI 108 fewer to 185 more)",
+                "l": "The study PRIZE found that the RR of improvement in SF-36 MCS (≥5 change from baseline) was 1.27 (95%CI 0.91 to 1.78), absolute risk increase 125 more per 1000 (95%CI 42 fewer to 360 more)",
+                "m": "The study PRESERVE found that the RR of improvement in HAQ-DI (≥0.22 change from baseline) was 1.41 (95%CI 1.21 to 1.67), absolute risk increase 214 more per 1000 (95%CI 107 more to 342 more)",
+                "n": "CI includes both values suggesting benefit and values suggesting harm",
+                "o": "CI includes both values suggesting harm and values suggesting no effect"
+              }
+        },
+        "Continue DMARDs at same doses versus taper off DMARDs. ": 
+        {   "filename": "PICO 52_Comparison 2.json",
+            "Explanations": 
+            {
+                "a": "CI includes both values suggesting benefit and values suggesting harm",
+                "b": "Pooled results reported as HR and RR in the 2 respective studies",
+                "c": "Downgraded for risk of bias associated with lack of blinding of participants, providers and outcome assessors",
+                "d": "Downgraded for risk of bias associated with lack of allocation concealment",
+                "e": "Downgraded by one level due to serious inconsistency. I2= 77%",
+                "f": "The study PRESERVE found that the RR of developing no radiographic progression (change in mTSS ≤0.5) was 1.01 (95%CI 0.94 to 1.08), absolute risk increase 9 more per 1000 (95%CI 53 fewer to 71 more)",
+                "g": "The study PRESERVE found that the RR of improvement in HAQ-DI (≥0.22 change from baseline) was 1.00 (95%CI 0.88 to 1.13), absolute risk reduction 0 fewer per 1000 (95%CI 87 fewer to 94 more)",
+                "h": "Small number of events",
+                "i": "CI includes both values suggesting harm and values suggesting no effect"
+              }
+        },
+        "Continue DMARDs at same doses versus abruptly withdraw DMARDs. ": 
+        {   "filename": "PICO 52_Comparison 3.json",
+            "Explanations": 
+            {
+                "a": "Concern about risk of bias associated with incomplete outcome data (48% drop-out) in a study contributing to a large percentage of the weight.",
+                "b": "Downgraded by two levels due to very serious inconsistency. Unexplained heterogeneity I2=98%.",
+                "c": "Downgraded by two levels due to very serious inconsistency. Unexplained heterogeneity I2=96%.",
+                "d": "Concern about risk of bias associated with incomplete outcome data (48% drop-out and inappropriate handling of missing data) in two studies contributing to a large percentage of the weight. However, a study with no risk of bias contributes a large proportion of the weight, and sensitivity analysis removing studies with incomplete outcome data do not change the results substantively.",
+                "e": "According to the Cochrane's handbook, Cohen suggested that SMD=0.2 be considered a 'small' effect size, 0.5 represents a 'medium' effect size and 0.8 a 'large' effect size. This means that if two groups' means do not differ by 0.2 standard deviations or more, the difference is trivial, even if it is statistically significant.",
+                "f": "Pooled results reported as HR and RR in the 2 respective studies",
+                "g": "Downgraded by two levels due to very serious inconsistency. Unexplained heterogeneity I2=89%.",
+                "h": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=88%.",
+                "i": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit.",
+                "j": "The study PRESERVE found that the RR of improvement in HAQ-DI (≥0.22 change from baseline) was 1.42 (95%CI 1.21 to 1.67), absolute risk increase 214 more per 1000 (95%CI 107 more to 342 more).",
+                "k": "Concern about risk of bias associated with incomplete outcome data (48% drop-out) in a study contributing to a 99.7% of the weight.",
+                "l": "The studies OPTIMA and PRESERVE found that the RR of developing no radiographic progression (change in mTSS ≤0.5) was 1.09 (95%CI 1.02 to 1.17), absolute risk increase 74 more per 1000 (95%CI 16 more to 139 more).",
+                "m": "Downgraded by two levels due to very serious inconsistency. Unexplained heterogeneity I2=94%.",
+                "n": "Concern about risk of bias associated with incomplete outcome data (inappropriate handling of missing data).",
+                "o": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit. Low sample size",
+                "p": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Low sample size",
+                "q": "Low number of events",
+                "r": "I2=31%",
+                "s": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Low number of events.",
+                "t": "Downgraded by two levels due to very serious imprecision. Low number of events.",
+                "u": "Downgraded by two levels due to very serious imprecision. Very low number of events."
+              }
+        }
+
+    },
+    "References": 
+    {
+        "1": "Smolen JS. Maintenance, reduction, or withdrawal of etanercept after treatment with etanercept and methotrexate in patients with moderate rheumatoid arthritis (PRESERVE): A randomised controlled trial. The Lancet. 2013;381(9870):918.",
+        "2": "Emery P. Sustained Remission with Etanercept Tapering in Early Rheumatoid Arthritis. New England Journal of Medicine. 2014;371:1781-92.",
+        "3": "Weinblatt ME. A Phase III Study Evaluating Continuation, Tapering, and Withdrawal of Certolizumab Pegol After One Year of Therapy in Patients With Early Rheumatoid Arthritis. Arthritis & Rheumatology. 2017;69(10):1937.",
+        "4": "van Vollenhoven RF. Full dose, reduced dose or discontinuation of etanercept in rheumatoid arthritis. Ann Rheum Dis BMJ. 2016;75:52-8.",
+        "5": "Strand V. The impact of rheumatoid arthritis on work and predictors of overall work impairment from three therapeutic scenarios. International Journal of Clinical Rheumatology. 2015;10(5):317.",
+        "6": "Wiland P, Dudler J, Veale D, Tahir H, Pedersen R, Bukowski J, et al. The Effect of Reduced or Withdrawn Etanercept-methotrexate Therapy on Patient-reported Outcomes in Patients with Early Rheumatoid Arthritis. Journal of Rheumatology. 2016;43(7):1268.",
+        "7": "van Herwaarden N, van der Maas A, Minten MJ, van den Hoogen FH, Kievit W, van Vollenhoven RF, et al. Disease activity guided dose reduction and withdrawal of adalimumab or etanercept compared with usual care in rheumatoid arthritis: Open label, randomised controlled, non-inferiority trial. BMJ (Online). 2015;350(no pagination).",
+        "8": "Smolen JS. Adjustment of therapy in rheumatoid arthritis on the basis of achievement of stable low disease activity with adalimumab plus methotrexate or methotrexate alone: the randomised controlled OPTIMA trial.[Erratum appears in Lancet. 2014 Jan 25;383(9914):308]. Lancet. 2014;383(9914):321.",
+        "9": "Pablos JL. Efficacy of tocilizumab monotherapy after response to combined tocilizumab and methotrexate in patients with rheumatoid arthritis: the randomised JUST-ACT study. Clinical & Experimental Rheumatology. 2019;37:437-44.",
+        "10": "Moghadam MG. Stopping Tumor Necrosis Factor Inhibitor Treatment in Patients With Established Rheumatoid Arthritis in Remission or With Stable Low Disease Activity. ARTHRITIS & RHEUMATOLOGY. 2016;68(8):1810-7.",
+        "11": "Pavelka K. Maintenance of remission with combination etanercept-DMARD therapy versus DMARDs alone in active rheumatoid arthritis: results of an international treat-to-target study conducted in regions with limited biologic access. Rheumatology International. 2017;37(9):1469.",
+        "12": "Kievit W, van Herwaarden N, van den Hoogen FH, van Vollenhoven RF, Bijlsma JW, van den Bemt BJ, et al. Disease activity-guided dose optimisation of adalimumab and etanercept is a cost-effective strategy compared with non-tapering tight control rheumatoid arthritis care: analyses of the DRESS study. Annals of the Rheumatic Diseases. 2016;75(11):1939.",
+        "13": "Tran-Duy A, Hein JBM. An Economic Evaluation of Stopping Versus Continuing Tumor Necrosis Factor Inhibitor Treatment in Rheumatoid Arthritis Patients With Disease Remission or Low Disease Activity: Results From a Pragmatic Open-Label Trial. Arthritis and Rheumatology. 2018(no pagination).",
+        "14": "Kobelt G. Treating to target with etanercept in rheumatoid arthritis: cost-effectiveness of dose reductions when remission is achieved. Value in Health. 2014;17(5):537."
+      }
+}

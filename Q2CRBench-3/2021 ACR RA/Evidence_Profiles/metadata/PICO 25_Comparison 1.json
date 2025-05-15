@@ -1,0 +1,287 @@
+{
+    "Disease activity (follow up: 1 year; assessed with: ACR 20)": {
+        "No of studies": "1",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to ABA": "11/31 (35.5%)",
+            "switch to a 3rd TNFi": "17/31 (54.8%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.65 (0.37 to 1.15)",
+            "Absolute (95% CI)": "192 fewer per 1,000 (from 345 fewer to 82 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "CRITICAL"
+    },
+
+    "Disease activity (follow up: 1 year; assessed with: ACR 50)": {
+        "No of studies": "1",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to ABA": "6/32 (18.8%)",
+            "switch to a 3rd TNFi": "9/31 (29.0%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.65 (0.26 to 1.60)",
+            "Absolute (95% CI)": "102 fewer per 1,000 (from 215 fewer to 174 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "CRITICAL"
+    },
+
+    "Disease activity (follow up: 1 year; assessed with: ACR 70)": {
+        "No of studies": "1",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to ABA": "3/32 (9.4%)",
+            "switch to a 3rd TNFi": "5/31 (16.1%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.58 (0.15 to 2.23)",
+            "Absolute (95% CI)": "68 fewer per 1,000 (from 137 fewer to 198 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "CRITICAL"
+    },
+
+    "Remission (follow up: 1 year; assessed with: DAS28-ESR <2.6)": {
+        "No of studies": ["1", "2"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "d"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["serious", "e"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to ABA": "6/76 (7.9%)",
+            "switch to a 3rd TNFi": "17/80 (21.3%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.38 (0.16 to 0.91)",
+            "Absolute (95% CI)": "132 fewer per 1,000 (from 179 fewer to 19 fewer)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "CRITICAL"
+    },
+
+    "Disease activity (follow up: 1 year; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)": {
+        "No of studies": ["1", "2"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "d"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["serious", "f"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to ABA": "76",
+            "switch to a 3rd TNFi": "80"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.45 higher (0.02 higher to 0.88 higher)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "CRITICAL"
+    },
+
+    "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)": {
+        "No of studies": ["1", "2"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "d"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "g"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to ABA": "77",
+            "switch to a 3rd TNFi": "81"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.04 higher (0.17 lower to 0.25 higher)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Quality of life (follow up: 1 year; assessed with: RAQol (Lower values – > benefit) (MCID 2)": {
+        "No of studies": "1",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to ABA": "34",
+            "switch to a 3rd TNFi": "30"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 1.5 lower (6.36 lower to 3.36 higher)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Pain (follow up: 1 year; assessed with: VAS 0-100 (Lower values – > benefit) (MCID -11.9)": {
+        "No of studies": "1",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to ABA": "34",
+            "switch to a 3rd TNFi": "31"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 2.5 higher (14.99 lower to 19.99 higher)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Serious adverse events (follow up: 1 year)": {
+        "No of studies": ["1", "2"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "d"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "h"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to ABA": "5/63 (7.9%)",
+            "switch to a 3rd TNFi": "1/65 (1.5%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 3.75 (0.64 to 22.11)",
+            "Absolute (95% CI)": "42 more per 1,000 (from 6 fewer to 325 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Withdrawal due to lack of efficacy (follow up: 1 year)": {
+        "No of studies": "1",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to ABA": "3/41 (7.3%)",
+            "switch to a 3rd TNFi": "2/41 (4.9%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.50 (0.26 to 8.51)",
+            "Absolute (95% CI)": "24 more per 1,000 (from 36 fewer to 366 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Withdrawal due to adverse events (follow up: 1 year)": {
+        "No of studies": "1",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "e"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to ABA": "1/41 (2.4%)",
+            "switch to a 3rd TNFi": "0/41 (0.0%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 3.00 (0.13 to 71.56)",
+            "Absolute (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Death (follow up: 1 year)": {
+        "No of studies": "1",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "e"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to ABA": "1/41 (2.4%)",
+            "switch to a 3rd TNFi": "0/41 (0.0%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 3.00 (0.13 to 71.56)",
+            "Absolute (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Malignancy (follow up: 1 year)": {
+        "No of studies": "2",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "d"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "e"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to ABA": "0/22 (0.0%)",
+            "switch to a 3rd TNFi": "0/24 (0.0%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "not estimable",
+            "Absolute (95% CI)": ""
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Cardiovascular disease (follow up: 1 year)": {
+        "No of studies": "2",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "d"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to ABA": "1/22 (4.5%)",
+            "switch to a 3rd TNFi": "2/24 (8.3%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.55 (0.05 to 5.60)",
+            "Absolute (95% CI)": "37 fewer per 1,000 (from 79 fewer to 383 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Serious adverse events (from SR of harms)": {
+        "No of studies": "3",
+        "content": "The Systematic Review RefID=1403, 2017 comparing Rituximab vs Etanercept, Adalimumab, Certolizumab, Golimumab, and Infliximab among RA showed that for Serious adverse events, the result was RR=1.13 (0.79 to 1.62) [Low certainty], RR=1.24 (0.89 to 1.73) [Low certainty], RR=1.56 (1.03 to 2.37) [Moderate certainty], RR=1.15 (0.71 to 1.86) [Very low certainty], and RR=1.20 (0.082 to 1.74) [Low certainty] respectively. All are Indirect evidence.",
+        "Importance": "IMPORTANT"
+    }
+}

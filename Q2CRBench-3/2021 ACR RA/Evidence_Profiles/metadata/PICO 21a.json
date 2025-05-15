@@ -1,0 +1,42 @@
+{
+    "Question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+    "Comparison": {
+        "Add another DMARD versus switch to another DMARD. Data based on direct RCT evidence.": {
+            "filename": "PICO 21a_Comparison 1.json",
+            "Explanations": {
+                "a": "Three studies at low risk of bias represent 60% of the weight.",
+                "b": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm.",
+                "c": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. According to the Cochrane's handbook, Cohen suggested that SMD=0.2 be considered a 'small' effect size, 0.5 represents a 'medium' effect size and 0.8 a 'large' effect size. This means that if two groups' means do not differ by 0.2 standard deviations or more, the difference is trivial, even if it is statistically significant.",
+                "d": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit.",
+                "e": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and blinding.",
+                "f": "The studies ACT-RAY and SURPRISE found that the RR of developing no radiographic progression (change in mTSS ≤0.5) was 0.96 (95%CI 0.91 to 1.02), absolute risk reduction 34 fewer per 1000 (95%CI 76 fewer to 17 more).",
+                "g": "The study ORAL Strategy found that the RR of improvement in pain VAS (0-100) ≥ 10 was 0.99 (95% CI 0.92 to 1.07), absolute risk reduction 8 fewer per 1000 (95%CI 62 fewer to 54 more).",
+                "h": "Downgraded by one level due to serious risk of bias in three studies representing 55% of the weight.",
+                "i": "The studies ADORE, ORAL strategy and Strand 2006, found that the RR of improvement in HAQ-DI (≥0.22 or ≥0.25 change from baseline) was 0.94 (95%CI 0.83 to 1.07), absolute risk reduction 39 fewer per 1000 (95%CI 112 fewer to 46 more).",
+                "j": "The study ORAL Strategy found that the RR of improvement in FACIT-F≥ 4 was 0.92 (95% CI 0.83 to 1.01), absolute risk reduction 55 fewer per 1000 (95%CI 117 fewer to 7 more).",
+                "k": "The study ORAL Strategy found that the RR of improvement in SF-36 MCS ≥ 2.5 was 0.94 (95% CI 0.84 to 1.05), absolute risk reduction 37 fewer per 1000 (95%CI 100 fewer to 31 more).",
+                "l": "The study ORAL Strategy found that the RR of improvement in SF-36 PCS ≥ 2.5 was 0.92 (95% CI 0.85 to 0.99), absolute risk reduction 65 fewer per 1000 (95%CI 121 fewer to 8 fewer).",
+                "m": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit. According to the Cochrane's handbook, Cohen suggested that SMD=0.2 be considered a 'small' effect size, 0.5 represents a 'medium' effect size and 0.8 a 'large' effect size. This means that if two groups' means do not differ by 0.2 standard deviations or more, the difference is trivial, even if it is statistically significant.",
+                "n": "Four studies at high risk of bias represent 40% of the weight. This is accounted for when downgrading for imprecision.",
+                "o": "Downgraded by two levels due to serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm.",
+                "p": "Downgraded by one level due serious imprecision. Low number of events."
+            }
+        }
+    },
+    "References": {
+        "1": "Fleischmann R. Efficacy and safety of tofacitinib monotherapy, tofacitinib with methotrexate, and adalimumab with methotrexate in patients with rheumatoid arthritis (ORAL Strategy): a phase 3b/4, double-blind, head-to-head, randomised controlled trial. The Lancet. 2017;390(10093):457.",
+        "2": "Kaneko Y AT, Tanaka Y, et al. Comparison of adding tocilizumab to methotrexate with switching to tocilizumab in patients with rheumatoid arthritis with inadequate response to methotrexate: 52-week results from a prospective, randomised, controlled study (SURPRISE study). BMJ. 2016;75:1917-23.",
+        "3": "Dougados M. Clinical, radiographic and immunogenic effects after 1 year of tocilizumab-based treatment strategies in rheumatoid arthritis: the ACT-RAY study. Annals of the Rheumatic Diseases. 2014;73(5):803.",
+        "4": "Combe B, Codreanu C, Fiocco U, Gaubitz M, Geusens PP, Kvien TK, et al. Efficacy, safety and patient-reported outcomes of combination etanercept and sulfasalazine versus etanercept alone in patients with rheumatoid arthritis: a double-blind randomised 2-year study. Annals of the Rheumatic Diseases. 2009;68(7):1146.",
+        "5": "Capell HA. Combination therapy with sulfasalazine and methotrexate is more effective than either drug alone in patients with rheumatoid arthritis with a suboptimal response to sulfasalazine: results from the double-blind placebo-controlled MASCOT study. Annals of the Rheumatic Diseases. 2007;66(2):235.",
+        "6": "Maini RN, Taylor PC, Szechinski J, Pavelka K, Broll J, Balint G, et al. Double-blind randomized controlled clinical trial of the interleukin-6 receptor antagonist, tocilizumab, in European patients with rheumatoid arthritis who had an incomplete response to methotrexate.[Erratum appears in Arthritis Rheum. 2008 Mar;58(3):887]. Arthritis & Rheumatism. 2006;54(9):2817.",
+        "7": "van Riel PL. Efficacy and safely of combination etanercept and methotrexate versus etanercept alone in patients with rheumatoid arthritis with an inadequate response to methotrexate: The ADORE study. Annals of the Rheumatic Diseases. 2006;65(11):1478.",
+        "8": "Dougados M, Emery P, Lemmel EM, Zerbini CA, Brin S, Riel PV. When a DMARD fails, should patients switch to sulfasalazine or add sulfasalazine to continuing leflunomide? Annals of the Rheumatic Diseases. 2005;64(1):44.",
+        "9": "Edwards JC. Efficacy of B-cell-targeted therapy with rituximab in patients with rheumatoid arthritis. New England Journal of Medicine. 2004;350(25):2572.",
+        "10": "van Riel PL. Patient-reported health outcomes in a trial of etanercept monotherapy versus combination therapy with etanercept and methotrexate for rheumatoid arthritis: The ADORE trial. Annals of the Rheumatic Diseases. 2008;67(8):1104.",
+        "11": "Strand V, et al. Patient-reported outcomes for tofacitinib with and without methotrexate, or adalimumab with methotrexate, in rheumatoid arthritis: a phase IIIB/IV trial. RMD Open. 2019;5.",
+        "12": "Breedveld FA, S.; Yin, M.; et. al. Rituximab Pharmacokinetics in Patients With Rheumatoid Arthritis: B-Cell Levels Do Not Correlate With Clinical Response. J Clin Pharmacol. 2007;47:1119-28.",
+        "13": "Maini RN, Breedveld FC, Kalden JR, Smolen JS, Davis D, Macfarlane JD, et al. Therapeutic efficacy of multiple intravenous infusions of anti-tumor necrosis factor alpha monoclonal antibody combined with low-dose weekly methotrexate in rheumatoid arthritis. Arthritis & Rheumatism. 1998;41(9):1552.",
+        "14": "Combe B, Codreanu C, Fiocco U, Gaubitz M, Geusens PP, Kvien TK, et al. Etanercept and sulfasalazine, alone and combined, in patients with active rheumatoid arthritis despite receiving sulfasalazine: a double-blind comparison. Annals of the Rheumatic Diseases. 2006;65(10):1357."
+    }
+}

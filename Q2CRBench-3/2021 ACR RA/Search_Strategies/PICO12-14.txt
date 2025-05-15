@@ -1,0 +1,11 @@
+Database: Ovid MEDLINE(R) and Epub Ahead of Print, In-Process & Other Non-Indexed Citations, Daily and Versions(R) <1946 to November 21, 2019> 
+Search Strategy:
+--------------------------------------------------------------------------------
+1     Arthritis, Rheumatoid/ 
+2     ((rheumatoid adj2 arthrit$) or (rheumatoid adj2 arthros$)).tw,kw. 
+3     Rheumatoid nodule/ or (rheumatoid adj2 nodule$).tw,kw. 
+4     or/1-3 
+5     (T2T or TTT or "treat to target" or "treat-to-target" or "at target" or remission or bridge therapy or treatment persistence or tight$ control$ or therapeutic target$ or low disease activity).tw,kw. 
+6     Remission Induction/ 
+7     or/5-6 
+8     4 and 7 [PICO 12-14] 

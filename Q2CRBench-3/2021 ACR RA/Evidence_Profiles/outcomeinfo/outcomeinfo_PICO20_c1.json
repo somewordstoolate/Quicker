@@ -1,0 +1,355 @@
+[
+    {
+        "outcome_uid": "3e078508",
+        "clinical_question": "Should patients with RA on maximally tolerated dose of LEF monotherapy who are NOT at target, and have previously failed MTX (due to an inadequate response or adverse events), add SSZ and HCQ, or add a boDMARD, or add tsDMARD?",
+        "population": "Patients with RA on maximally tolerated dose of LEF monotherapy who are not at target, and have previously failed MTX (due to an inadequate response or adverse events)",
+        "intervention": "Add SSZ and HCQ",
+        "comparator": "add TNF Inhibitor",
+        "outcome": "Disease activity (follow up: 6 months; assessed with: ACR20)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "a55c0534"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on maximally tolerated dose of MTX monotherapy and not LEF."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence intervals include both values suggesting benefit and values suggesting harm. Concern about risk of bias associated with lack of allocation concealment taken into account when rating down for imprecision."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Add SSZ+HCQ": "89/159 (56.0%)",
+                    "Add TNFi": "90/163 (55.2%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.01 (0.83 to 1.23)",
+                    "Absolute Effect (95% CI)": "6 more per 1,000 (from 94 fewer to 127 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "92c2bfe2",
+        "clinical_question": "Should patients with RA on maximally tolerated dose of LEF monotherapy who are NOT at target, and have previously failed MTX (due to an inadequate response or adverse events), add SSZ and HCQ, or add a boDMARD, or add tsDMARD?",
+        "population": "Patients with RA on maximally tolerated dose of LEF monotherapy who are not at target, and have previously failed MTX (due to an inadequate response or adverse events)",
+        "intervention": "Add SSZ and HCQ",
+        "comparator": "add TNF Inhibitor",
+        "outcome": "Disease activity (follow up: 6 months; assessed with: ACR50)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "a55c0534"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on maximally tolerated dose of MTX monotherapy and not LEF."
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting harm and values suggesting no effect."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Add SSZ+HCQ": "41/159 (25.8%)",
+                    "Add TNFi": "58/163 (35.6%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.72 (0.52 to 1.01)",
+                    "Absolute Effect (95% CI)": "100 fewer per 1,000 (from 171 fewer to 4 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "132f8219",
+        "clinical_question": "Should patients with RA on maximally tolerated dose of LEF monotherapy who are NOT at target, and have previously failed MTX (due to an inadequate response or adverse events), add SSZ and HCQ, or add a boDMARD, or add tsDMARD?",
+        "population": "Patients with RA on maximally tolerated dose of LEF monotherapy who are not at target, and have previously failed MTX (due to an inadequate response or adverse events)",
+        "intervention": "Add SSZ and HCQ",
+        "comparator": "add TNF Inhibitor",
+        "outcome": "Disease activity (follow up: 6 months; assessed with: ACR70)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "a55c0534"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on maximally tolerated dose of MTX monotherapy and not LEF."
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Add SSZ+HCQ": "8/159 (5.0%)",
+                    "Add TNFi": "26/163 (16.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.32 (0.15 to 0.68)",
+                    "Absolute Effect (95% CI)": "108 fewer per 1,000 (from 136 fewer to 51 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "7e904940",
+        "clinical_question": "Should patients with RA on maximally tolerated dose of LEF monotherapy who are NOT at target, and have previously failed MTX (due to an inadequate response or adverse events), add SSZ and HCQ, or add a boDMARD, or add tsDMARD?",
+        "population": "Patients with RA on maximally tolerated dose of LEF monotherapy who are not at target, and have previously failed MTX (due to an inadequate response or adverse events)",
+        "intervention": "Add SSZ and HCQ",
+        "comparator": "add TNF Inhibitor",
+        "outcome": "Disease activity (follow up: 6 months; assessed with: DAS28-ESR)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "a55c0534"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on maximally tolerated dose of MTX monotherapy and not LEF."
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Add SSZ+HCQ": "157",
+                    "Add TNFi": "161"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.27 higher (0.01 lower to 0.55 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "68036fd2",
+        "clinical_question": "Should patients with RA on maximally tolerated dose of LEF monotherapy who are NOT at target, and have previously failed MTX (due to an inadequate response or adverse events), add SSZ and HCQ, or add a boDMARD, or add tsDMARD?",
+        "population": "Patients with RA on maximally tolerated dose of LEF monotherapy who are not at target, and have previously failed MTX (due to an inadequate response or adverse events)",
+        "intervention": "Add SSZ and HCQ",
+        "comparator": "add TNF Inhibitor",
+        "outcome": "Remission (follow up: 6 months; assessed with: DAS28-CRP < 2.6)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "a55c0534"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on maximally tolerated dose of MTX monotherapy and not LEF."
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting harm and values suggesting no effect."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Add SSZ+HCQ": "20/157 (12.7%)",
+                    "Add TNFi": "35/161 (21.7%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.59 (0.35 to 0.97)",
+                    "Absolute Effect (95% CI)": "89 fewer per 1,000 (from 141 fewer to 7 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "9dc7571c",
+        "clinical_question": "Should patients with RA on maximally tolerated dose of LEF monotherapy who are NOT at target, and have previously failed MTX (due to an inadequate response or adverse events), add SSZ and HCQ, or add a boDMARD, or add tsDMARD?",
+        "population": "Patients with RA on maximally tolerated dose of LEF monotherapy who are not at target, and have previously failed MTX (due to an inadequate response or adverse events)",
+        "intervention": "Add SSZ and HCQ",
+        "comparator": "add TNF Inhibitor",
+        "outcome": "Radiographic progression (follow up: 6 months; assessed with: mTSS)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "a55c0534"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on maximally tolerated dose of MTX monotherapy and not LEF."
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Add SSZ+HCQ": "158",
+                    "Add TNFi": "160"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.42 higher (0.22 lower to 1.05 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "0383bc2d",
+        "clinical_question": "Should patients with RA on maximally tolerated dose of LEF monotherapy who are NOT at target, and have previously failed MTX (due to an inadequate response or adverse events), add SSZ and HCQ, or add a boDMARD, or add tsDMARD?",
+        "population": "Patients with RA on maximally tolerated dose of LEF monotherapy who are not at target, and have previously failed MTX (due to an inadequate response or adverse events)",
+        "intervention": "Add SSZ and HCQ",
+        "comparator": "add TNF Inhibitor",
+        "outcome": "Disability (follow up: 6 months; assessed with: HAQ-DI)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "a55c0534"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on maximally tolerated dose of MTX monotherapy and not LEF."
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting harm and values suggesting no effect."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Add SSZ+HCQ": "155",
+                    "Add TNFi": "160"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.07 higher (0.11 lower to 0.25 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "16c55d4a",
+        "clinical_question": "Should patients with RA on maximally tolerated dose of LEF monotherapy who are NOT at target, and have previously failed MTX (due to an inadequate response or adverse events), add SSZ and HCQ, or add a boDMARD, or add tsDMARD?",
+        "population": "Patients with RA on maximally tolerated dose of LEF monotherapy who are not at target, and have previously failed MTX (due to an inadequate response or adverse events)",
+        "intervention": "Add SSZ and HCQ",
+        "comparator": "add TNF Inhibitor",
+        "outcome": "Malignancy (from SRs of harms)",
+        "related_paper_list": [
+            "45b0286b"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "result_interpretation": "The Systematic Review RefID=4638, 2012 (RCTs=9, n=3712) comparing csDMARD + placebo vs infliximab + MTX among RA showed that for cancer, the result was RR=0.83 (0.22-3.13) at 2 years and RR=0.56(0.22-1.47) at all time points (6 months, 1 year and 2 years combined)",
+                "Study design": "Systematic Review"
+            }
+        }
+    }
+]

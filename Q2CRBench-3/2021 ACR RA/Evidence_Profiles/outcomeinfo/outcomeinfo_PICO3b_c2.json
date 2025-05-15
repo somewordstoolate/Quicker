@@ -1,0 +1,200 @@
+[
+    {
+        "outcome_uid": "7b4ee3d2",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and low disease activity receive csDMARD monotherapy or csDMARD combination (double or triple) therapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and low disease activity",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD triple combination therapy",
+        "outcome": "Disease activity (follow up: 6 months; assessed with: DAS 28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "ccd87125"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirecteness. The population has moderate disease activity."
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "csDMARD triple therapy": "132",
+                    "csDMARD monotherapy": "379"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.64 lower (0.95 lower to 0.33 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "23250272",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and low disease activity receive csDMARD monotherapy or csDMARD combination (double or triple) therapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and low disease activity",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD triple combination therapy",
+        "outcome": "Disease activity (follow up: 6 months; assessed with: ACR 20)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "ccd87125"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirecteness. The population has moderate disease activity."
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "csDMARD triple therapy": "73/132 (55.3%)",
+                    "csDMARD monotherapy": "150/379 (39.6%)"
+                },
+                "Annotation": {
+                    "data": "1. csDMARD triple therapy includes MTX + SSZ + HCQ.\n2. csDMARD monotherapy includes MTX.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.40 (1.15 to 1.70)",
+                    "Absolute Effect (95% CI)": "158 more per 1,000 (from 59 more to 277 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "dbf6014a",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and low disease activity receive csDMARD monotherapy or csDMARD combination (double or triple) therapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and low disease activity",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD triple combination therapy",
+        "outcome": "Disease activity (follow up: 6 months; assessed with: ACR 50)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "ccd87125"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirecteness. The population has moderate disease activity."
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "csDMARD triple therapy": "41/132 (31.1%)",
+                    "csDMARD monotherapy": "73/379 (19.3%)"
+                },
+                "Annotation": {
+                    "data": "1. csDMARD triple therapy includes MTX + SSZ + HCQ.\n2. csDMARD monotherapy includes MTX.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.61 (1.16 to 2.24)",
+                    "Absolute Effect (95% CI)": "117 more per 1,000 (from 31 more to 239 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "39545490",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and low disease activity receive csDMARD monotherapy or csDMARD combination (double or triple) therapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and low disease activity",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD triple combination therapy",
+        "outcome": "Disease activity (follow up: 6 months; assessed with: ACR 70)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "ccd87125"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirecteness. The population has moderate disease activity."
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "csDMARD triple therapy": "11/132 (8.3%)",
+                    "csDMARD monotherapy": "13/379 (3.4%)"
+                },
+                "Annotation": {
+                    "data": "1. csDMARD triple therapy includes MTX + SSZ + HCQ.\n2. csDMARD monotherapy includes MTX.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 2.43 (1.12 to 5.29)",
+                    "Absolute Effect (95% CI)": "49 more per 1,000 (from 4 more to 147 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

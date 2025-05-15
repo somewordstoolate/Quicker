@@ -1,0 +1,147 @@
+{
+    "Disease activity (follow up: 4 months; assessed with: ACR 20)": {
+        "No of studies": "5",
+        "Study design": "randomised trials",
+        "Risk of bias": ["very serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to a 3rd TNFi": ["8/13 (61.5%)", "d"],
+            "continue same management": ["4/14 (28.6%)", "e"]
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 2.15 (0.85 to 5.48)",
+            "Absolute (95% CI)": "329 more per 1,000 (from 43 fewer to 1,000 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "CRITICAL"
+    },
+
+    "Disease activity (follow up: 4 months; assessed with: ACR 50)": {
+        "No of studies": "5",
+        "Study design": "randomised trials",
+        "Risk of bias": ["very serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to a 3rd TNFi": ["4/13 (30.8%)", "d"],
+            "continue same management": ["2/14 (14.3%)", "e"]
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 2.15 (0.47 to 9.85)",
+            "Absolute (95% CI)": "164 more per 1,000 (from 76 fewer to 1,000 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "CRITICAL"
+    },
+
+    "Disease activity (follow up: 4 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)": {
+        "No of studies": "5",
+        "Study design": "randomised trials",
+        "Risk of bias": ["very serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "f"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to a 3rd TNFi": ["13", "d"],
+            "continue same management": ["14", "e"]
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 1.2 lower (2.37 lower to 0.03 lower)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "CRITICAL"
+    },
+
+    "Remission (follow up: 4 months; assessed with: DAS28-ESR <2.6)": {
+        "No of studies": "5",
+        "Study design": "randomised trials",
+        "Risk of bias": ["very serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "g"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to a 3rd TNFi": ["8/13 (61.5%)", "d"],
+            "continue same management": ["2/14 (14.3%)", "e"]
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 4.31 (1.11 to 16.67)",
+            "Absolute (95% CI)": "473 more per 1,000 (from 16 more to 1,000 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "CRITICAL"
+    },
+
+    "Radiographic progression (follow up: 4 months; assessed with: Sharp/ van der Heijde (Lower values – > benefit) (MCID 4.6)": {
+        "No of studies": "5",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "h"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "i"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to a 3rd TNFi": ["12", "d"],
+            "continue same management": ["12", "e"]
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.6 higher (1.78 lower to 2.98 higher)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Serious adverse events (follow up: 4 months)": {
+        "No of studies": "5",
+        "Study design": "randomised trials",
+        "Risk of bias": ["very serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to a 3rd TNFi": ["0/13 (0.0%)", "d"],
+            "continue same management": ["2/14 (14.3%)", "e"]
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.21 (0.01 to 4.08)",
+            "Absolute (95% CI)": "113 fewer per 1,000 (from 141 fewer to 440 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Withdrawal due to adverse events (follow up: 4 months)": {
+        "No of studies": "5",
+        "Study design": "randomised trials",
+        "Risk of bias": ["very serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to a 3rd TNFi": ["2/13 (15.4%)", "d"],
+            "continue same management": ["1/14 (7.1%)", "e"]
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 2.15 (0.22 to 21.03)",
+            "Absolute (95% CI)": "82 more per 1,000 (from 56 fewer to 1,000 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Serious adverse events (from SR of harms)": {
+        "No of studies": ["3", "6"],
+        "content": "The Systematic Review RefID=5595, 2011 comparing Infliximab vs Etanercept among RA and AS, Psoriasis, PsA, IBD, Cancer showed that for Serious adverse events, the result was OR=0.93 (0.60 to 1.42). \nThe Systematic Review RefID=1403, 2017 comparing Infliximab vs Etanercept among RA showed that for Serious adverse events, the result was RR=4.90 (0.23 to 104) [Direct Evidence, Low certainty].",
+        "Importance": "IMPORTANT"
+    }
+}

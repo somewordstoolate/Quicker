@@ -1,0 +1,369 @@
+[
+    {
+        "outcome_uid": "b1d15241",
+        "clinical_question": "What is the diagnostic accuracy of Estimated GFR (eGFR) based on measurements of cystatin C, creatinine, or their combination compared to mGFR among people with and without CKD?",
+        "population": "Adults and/or children with or without CKD",
+        "intervention": "Estimated GFR (eGFR) based on measurements of cystatin C (eGFRcys); creatinine (eGFRcr); cystatin C and creatinine (eGFRcr-cys)",
+        "comparator": "Measured GFR (mGFR; using urinary or plasma clearance of exogenous filtration marker)",
+        "outcome": "Measurement bias (eGFR - mGFR) for cystatin C-based equations",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "7e0f3ddf",
+            "53e1d907",
+            "f377f357",
+            "c42a9bf3",
+            "2a170e8f",
+            "0ddc5c6f",
+            "ec353ce6",
+            "1f4862b1",
+            "41b4fbb2",
+            "6f773fdf",
+            "d7ad48c0",
+            "846571ff",
+            "dbf9d421",
+            "e7bfa3bd",
+            "6fbf95e6",
+            "401a3015",
+            "478f7225",
+            "5afaeb79",
+            "92bb05c1",
+            "30dddf3d"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "Measurement bias is consistent across most studies with enough exceptions to cause some concern."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Wide range in confidence intervals (positive to negative) "
+                },
+                "Other considerations": {
+                    "result": "None",
+                    "rationales": ""
+                },
+                "Study design": "Other Observational Study",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "eGFR-estimating equation": "11602"
+                },
+                "Effect": {
+                    "Range of measurement bias": [
+                        "-12.9 to 5-"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "792fe543",
+        "clinical_question": "What is the diagnostic accuracy of Estimated GFR (eGFR) based on measurements of cystatin C, creatinine, or their combination compared to mGFR among people with and without CKD?",
+        "population": "Adults and/or children with or without CKD",
+        "intervention": "Estimated GFR (eGFR) based on measurements of cystatin C (eGFRcys); creatinine (eGFRcr); cystatin C and creatinine (eGFRcr-cys)",
+        "comparator": "Measured GFR (mGFR; using urinary or plasma clearance of exogenous filtration marker)",
+        "outcome": "Measurement bias (eGFR - mGFR) for creatinine + cystatin-based equations",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "7e0f3ddf",
+            "53e1d907",
+            "c42a9bf3",
+            "2a170e8f",
+            "ec353ce6",
+            "1f4862b1",
+            "6f773fdf",
+            "d7ad48c0",
+            "846571ff",
+            "dbf9d421",
+            "e7bfa3bd",
+            "6fbf95e6",
+            "401a3015",
+            "478f7225",
+            "5afaeb79",
+            "92bb05c1"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Measurement bias is inconsistent enough across all studies to cause serious concerns."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Wide range in confidence intervals (positive to negative) "
+                },
+                "Other considerations": {
+                    "result": "None",
+                    "rationales": ""
+                },
+                "Study design": "Other Observational Study",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "eGFR-estimating equation": "13296"
+                },
+                "Effect": {
+                    "Range of measurement bias": [
+                        "-9.7 to 4.1-"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "f60ad80e",
+        "clinical_question": "What is the diagnostic accuracy of Estimated GFR (eGFR) based on measurements of cystatin C, creatinine, or their combination compared to mGFR among people with and without CKD?",
+        "population": "Adults and/or children with or without CKD",
+        "intervention": "Estimated GFR (eGFR) based on measurements of cystatin C (eGFRcys); creatinine (eGFRcr); cystatin C and creatinine (eGFRcr-cys)",
+        "comparator": "Measured GFR (mGFR; using urinary or plasma clearance of exogenous filtration marker)",
+        "outcome": "Measurement bias (eGFR - mGFR) for creatinine-based equations",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "53e1d907",
+            "f377f357",
+            "c42a9bf3",
+            "2a170e8f",
+            "0ddc5c6f",
+            "ec353ce6",
+            "1f4862b1",
+            "41b4fbb2",
+            "6f773fdf",
+            "d7ad48c0",
+            "846571ff",
+            "dbf9d421",
+            "e7bfa3bd",
+            "6fbf95e6",
+            "401a3015",
+            "5afaeb79",
+            "30dddf3d"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Measurement bias is inconsistent enough across all studies to cause serious concerns."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Very wide range of confidence intervals (positive to negative) spanning 20+ points."
+                },
+                "Other considerations": {
+                    "result": "None",
+                    "rationales": ""
+                },
+                "Study design": "Other Observational Study",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "eGFR-estimating equation": "12491"
+                },
+                "Effect": {
+                    "Range of measurement bias": [
+                        "-8.8 to 11.3-"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "79612e74",
+        "clinical_question": "What is the diagnostic accuracy of Estimated GFR (eGFR) based on measurements of cystatin C, creatinine, or their combination compared to mGFR among people with and without CKD?",
+        "population": "Adults and/or children with or without CKD",
+        "intervention": "Estimated GFR (eGFR) based on measurements of cystatin C (eGFRcys); creatinine (eGFRcr); cystatin C and creatinine (eGFRcr-cys)",
+        "comparator": "Measured GFR (mGFR; using urinary or plasma clearance of exogenous filtration marker)",
+        "outcome": "P30 for cystatin C-based equations",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "7e0f3ddf",
+            "53e1d907",
+            "c42a9bf3",
+            "6f773fdf",
+            "d7ad48c0",
+            "846571ff",
+            "dbf9d421",
+            "e7bfa3bd",
+            "6fbf95e6",
+            "401a3015",
+            "478f7225",
+            "5afaeb79",
+            "92bb05c1",
+            "30dddf3d"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Wide range of P30 values."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Very wide range of confidence intervals."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Other Observational Study",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "eGFR-estimating equation": "11462"
+                },
+                "Effect": {
+                    "Range of P30 Certainty": [
+                        "-59.9 to 97.8"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "d04279f6",
+        "clinical_question": "What is the diagnostic accuracy of Estimated GFR (eGFR) based on measurements of cystatin C, creatinine, or their combination compared to mGFR among people with and without CKD?",
+        "population": "Adults and/or children with or without CKD",
+        "intervention": "Estimated GFR (eGFR) based on measurements of cystatin C (eGFRcys); creatinine (eGFRcr); cystatin C and creatinine (eGFRcr-cys)",
+        "comparator": "Measured GFR (mGFR; using urinary or plasma clearance of exogenous filtration marker)",
+        "outcome": "P30 for creatinine + cystatin C-based equations",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "7e0f3ddf",
+            "53e1d907",
+            "c42a9bf3",
+            "2a170e8f",
+            "ec353ce6",
+            "6f773fdf",
+            "d7ad48c0",
+            "846571ff",
+            "dbf9d421",
+            "e7bfa3bd",
+            "6fbf95e6",
+            "401a3015",
+            "478f7225",
+            "5afaeb79",
+            "30dddf3d"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "Wide range of P30 values."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Wide range of confidence intervals."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Other Observational Study",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "eGFR-estimating equation": "12499"
+                },
+                "Effect": {
+                    "Range of P30 Certainty": [
+                        "77 to 97.6-"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "ceeaee7a",
+        "clinical_question": "What is the diagnostic accuracy of Estimated GFR (eGFR) based on measurements of cystatin C, creatinine, or their combination compared to mGFR among people with and without CKD?",
+        "population": "Adults and/or children with or without CKD",
+        "intervention": "Estimated GFR (eGFR) based on measurements of cystatin C (eGFRcys); creatinine (eGFRcr); cystatin C and creatinine (eGFRcr-cys)",
+        "comparator": "Measured GFR (mGFR; using urinary or plasma clearance of exogenous filtration marker)",
+        "outcome": "P30 for creatinine-based equations",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "53e1d907",
+            "f377f357",
+            "c42a9bf3",
+            "2a170e8f",
+            "0ddc5c6f",
+            "ec353ce6",
+            "1f4862b1",
+            "41b4fbb2",
+            "6f773fdf",
+            "d7ad48c0",
+            "846571ff",
+            "dbf9d421",
+            "e7bfa3bd",
+            "6fbf95e6",
+            "401a3015"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Wide range of P30 values."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Very wide range of confidence intervals."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Other Observational Study",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "eGFR-estimating equation": "12125"
+                },
+                "Effect": {
+                    "Range of P30 Certainty": [
+                        "-55.5 to 96"
+                    ]
+                }
+            }
+        }
+    }
+]

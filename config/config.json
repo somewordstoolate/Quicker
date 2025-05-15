@@ -1,0 +1,46 @@
+{
+    "model": {
+        "study_selection_model": {
+            "model_name": "YOUR_MODEL_NAME",
+            "API_KEY": "YOUR_API_KEY",
+            "BASE_URL": "YOUR_BASE_URL"
+        },
+        "evidence_assessment_model": {
+            "model_name": "YOUR_MODEL_NAME",
+            "API_KEY": "YOUR_API_KEY",
+            "BASE_URL": "YOUR_BASE_URL"
+        },
+        "recommendation_formation_model": {
+            "model_name": "YOUR_MODEL_NAME",
+            "API_KEY": "YOUR_API_KEY",
+            "BASE_URL": "YOUR_BASE_URL"
+        },
+        "embeddings": {
+            "model_name": "YOUR_MODEL_NAME",
+            "API_KEY": "YOUR_API_KEY",
+            "BASE_URL": "YOUR_BASE_URL"
+        }
+    },
+    "study_selection": {
+        "record_screening_method": "basic",
+        "full_text_assessment_method": "RAG",
+        "exp_num": 3,
+        "threshold": 3
+    },
+    "evidence_assessment": {
+        "additional_requirements": {
+            "design_to_be_assessed": [
+                "RANDOMIZED_CONTROLLED_TRIAL"
+            ],
+            "GRADE": {
+                "rob_rcts": {
+                    "method": "quicker"
+                },
+                "factor_list": [
+                    "risk of bias"
+                ],
+                "extract_raw_data": true
+            }
+        }
+    }
+}

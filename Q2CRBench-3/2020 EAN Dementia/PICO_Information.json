@@ -1,0 +1,110 @@
+[
+    {
+        "Aspect": "Management of epilepsy in dementia",
+        "Index": "1",
+        "Question": "Should patients with dementia and 1 or more seizures after diagnosis be treated with either levetiracetam/lamotrigine or carbamazepine/phenytoin/valproate?",
+        "P": "Patients with dementia and 1 or more seizures of undertermined origin after the diagnosis of dementia",
+        "I": "Treatment with either levetiracetam or lamotrigin",
+        "C": [
+            "Treatment with either carbamazepine, phenytoin, valproate"
+        ],
+        "O": "1. Serious adverse events\n2. Global cognitive function\n3. ADL\n4. Number of seizures",
+        "S": "For the present research question and PICO question, we will include RCTs only since it was the opinion of the Task Force, that these types of studies were the only relevant to address these questions."
+    },
+    {
+        "Aspect": "Management of vascular risk factors in dementia ",
+        "Index": "2a",
+        "Question": "Should patients with dementia (without previous stroke) and atrial fibrillation and indication for treatment with anti-coagulants be treated with anti-coagulants?",
+        "P": "Patients with dementia and atrial fibrillation and indication for treatment with anti-coagulants and no previous stroke or TCI",
+        "I": "Treatment with NOACs or warfarin",
+        "C": [
+            "No treatment with NOACs or warfarin"
+        ],
+        "O": "1. Major hemoragic events \n2. Global cognitive function\n3. Mortality\n4. Ischemic vascular event",
+        "S": "Both observational and RCTs will be included in the analysis."
+    },
+    {
+        "Aspect": "Management of vascular risk factors in dementia ",
+        "Index": "2b",
+        "Question": "Does systematical management of vascular risk factors in patients with dementia slow the progression of dementia?",
+        "P": "Patients with dementia",
+        "I": "Systematic management of vascular risk factors (Hypertension, hypercholesterolemia, diabetes mellitus type 2)",
+        "C": [
+            "Usual care"
+        ],
+        "O": "1. Institutionalisation\n2. Global cognitive function\n3. Mortality\n4. ADL",
+        "S": "Both observational and RCTs will be included in the analysis."
+    },
+    {
+        "Aspect": "Effects of systematic medical follow-up in dementia",
+        "Index": "3",
+        "Question": "Should home-living (non-institutionalised) patients with dementia be offered systematic medical follow-up in a memory clinic setting?",
+        "P": "Home-living (non-institutionalised) patients with dementia",
+        "I": "Planned structured follow-up in the form of consultations offered in a medical dementia specialist team.",
+        "C": [
+            "Usual care"
+        ],
+        "O": "1. Institutionalisation\n2. Caregiver burden\n3. Acute hospital admissions\n4. ADL ",
+        "S": "For the present research question and PICO question, we will include RCTs only since it was the opinion of the Task Force, that these types of studies were the only relevant to address these questions."
+    },
+    {
+        "Aspect": "Treatment with anti-psychotics in dementia",
+        "Index": "4a",
+        "Question": "Should patients with dementia and agitation/aggressive behaviour be treated with atypical anti-psychotics compared to no pharmacological treatment?",
+        "P": "Patients with dementia and agitation/aggressive behavior ",
+        "I": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "C": [
+            " No pharmacological treatment "
+        ],
+        "O": "1. Mortality \n2. Agitation/Aggression \n3. Global cognitive function.\n4. Serious adverse events \n5. Caregiver burden",
+        "S": "We include only RCTs, both on effects of treatment as well as on discontinuation of treatment, since these types of studies are prevalent, and will provide rich data to address this issue."
+    },
+    {
+        "Aspect": "Treatment with anti-psychotics in dementia",
+        "Index": "4b",
+        "Question": "Should patients with dementia and agitation/aggressive behaviour be treated with atypical anti-psychotics compared to haloperidol?",
+        "P": "Patients with dementia and agitation/aggressive behavior ",
+        "I": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "C": [
+            "Haloperidol"
+        ],
+        "O": "1. Mortality \n2. Agitation/Aggression \n3. Global cognitive function.\n4. Serious adverse events \n5. Caregiver burden",
+        "S": "We include only RCTs, both on effects of treatment as well as on discontinuation of treatment, since these types of studies are prevalent, and will provide rich data to address this issue."
+    },
+    {
+        "Aspect": "Treatment with anti-psychotics in dementia",
+        "Index": "4c",
+        "Question": "Should treatment with antipsychotics be routinely discontinued?",
+        "P": "Patients dementia who are currently being treated with anti-psychotics",
+        "I": "Discontinuation of antipsychotics",
+        "C": [
+            "Continuation of treatment"
+        ],
+        "O": "1. Mortality \n2. Neuropsychiatric symptoms\n3. Global cognitive function.\n4. Serious adverse events ",
+        "S": "We include only RCTs, both on effects of treatment as well as on discontinuation of treatment, since these types of studies are prevalent, and will provide rich data to address this issue."
+    },
+    {
+        "Aspect": "Assessment and treatment of pain in dementia",
+        "Index": "5a",
+        "Question": "In patients with dementia, should opioids be discontinued?",
+        "P": "Patients with dementia who are treated with opioids ",
+        "I": "Discontinuation of opioid treatment",
+        "C": [
+            "Continuation of opioid treatment"
+        ],
+        "O": "1. Psychotropic treatment\n2. Global cognitive function\n3. Mortality\n4. Pain\n5.  Neuropsychiatric symptoms",
+        "S": "For the present research questions, both observational studies and RCTs will be included."
+    },
+    {
+        "Aspect": "Assessment and treatment of pain in dementia",
+        "Index": "5b",
+        "Question": "Should behavioral symptoms in patients with dementia be treated with mild analgesics?",
+        "P": "Patients with dementia and behavioral symptoms",
+        "I": "Treatment with mild analgesics (paracetamol)",
+        "C": [
+            " No treatment with analgesics "
+        ],
+        "O": "1. Psychotropic treatment\n2. Global cognitive function\n3. Agitation/aggression\n4.  Neuropsychiatric symptoms ",
+        "S": "For the present research questions, both observational studies and RCTs will be included."
+    }
+]

@@ -1,0 +1,98 @@
+[
+    {
+        "outcome_uid": "00de1082",
+        "clinical_question": "In patients with RA receiving T2T, should the treatment goal be low disease activity or remission?",
+        "population": "Patients with RA",
+        "intervention": "Treat to low disease activity",
+        "comparator": "treat to remission",
+        "outcome": "DAS remission (follow up: 1 year; assessed with DAS44 \u2264 1.6)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "79161999"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Unclear risk of bias related to missing data as rate of those data not reported\nIn the remission goal group (DAS <1.6), baseline DAS was lower than in the low disease activity goal group (DAS \u22642.4) targeted group; symptom duration was shorter and baseline radiological damage was less often present. The investigators adjusted for these differences in their analyses, but this could have still favored the remission goal group"
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Observational Study",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "a treatment goal of low disease activity": "40/133 (30.1%)",
+                    "a treatment goal of remission": "89/175 (50.9%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.59 (0.44 to 0.80)",
+                    "Absolute Effect (95% CI)": "209 fewer per 1,000 (from 285 fewer to 102 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "c1045730",
+        "clinical_question": "In patients with RA receiving T2T, should the treatment goal be low disease activity or remission?",
+        "population": "Patients with RA",
+        "intervention": "Treat to low disease activity",
+        "comparator": "treat to remission",
+        "outcome": "Disease activity (follow up: 1 year; assessed with DAS-44 (Lower values \u2013 > benefit) (MCID -1.2)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "79161999"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Unclear risk of bias related to missing data as rate of those data not reported"
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Observational Study",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "a treatment goal of low disease activity": "133",
+                    "a treatment goal of remission": "175"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.1 lower (0.35 lower to 0.15 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

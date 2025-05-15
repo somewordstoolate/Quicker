@@ -1,0 +1,167 @@
+{
+    "Question": "What is the effect of uric acid–lowering therapy compared with placebo, usual care, or an active comparator among people with CKD and hyperuricemia in terms of mortality, progression of CKD, complications of CKD, and adverse events?",
+    "References": {
+        "73": "Badve SV, Pascoe EM, Tiku A, et al. Effects of Allopurinol on the Progression of Chronic Kidney Disease. The New England journal of medicine 2020; 382: 2504-2513.",
+        "74": "Doria A, Galecki A, Spino C, et al. Serum Urate Lowering with Allopurinol and Kidney Function in Type 1 Diabetes. New England journal of medicine 2020; 382: 2493‐2503.",
+        "75": "Goicoechea M, Garcia de Vinuesa S, Verdalles U, et al. Allopurinol and progression of CKD and cardiovascular events: long - term follow - up of a randomized clinical trial. Am J Kidney Dis 2015; 65: 543-549.",
+        "76": "Sircar D, Chatterjee S, Waikhom R, et al. Efficacy of Febuxostat for Slowing the GFR Decline in Patients With CKD and Asymptomatic Hyperuricemia: A 6 - Month, Double - Blind, Randomized, Placebo - Controlled Trial. Am J Kidney Dis 2015; 66: 945-950.",
+        "77": "Siu YP, Leung KT, Tong MK, et al. Use of allopurinol in slowing the progression of renal disease through its ability to lower serum uric acid level. Am J Kidney Dis 2006; 47: 51-59.",
+        "78": "Yang H, Li R, Li Q, et al. Effects of febuxostat on delaying chronic kidney disease progression: a randomized trial in China. International urology and nephrology 2023; 55: 1343-1352.",
+        "79": "Jalal DI, Decker E, Perrenoud L, et al. Vascular function and uric acid - lowering in stage 3 CKD. Journal of the American Society of Nephrology 2017; 28: 943-952.",
+        "80": "Kao MP, Ang DS, Gandy SJ, et al. Allopurinol benefits left ventricular mass and endothelial dysfunction in chronic kidney disease. J Am Soc Nephrol 2011; 22: 1382-1389.",
+        "81": "Kimura K, Hosoya T, Uchida S, et al. Febuxostat Therapy for Patients With Stage 3 CKD and Asymptomatic Hyperuricemia: A Randomized Trial. American journal of kidney diseases : the official journal of the National Kidney Foundation 2018; 72: 798-810.",
+        "82": "Wen H, Yongling Z, Shuying Z, et al. Effect of febuxostat on renal function in patients from South China with CKD3 diabetic nephropathy. Jornal Brasileiro de Nefrologia 2020; 42: 393 - 399.",
+        "83": "Beddhu S, Filipowicz R, Wang B, et al. A Randomized Controlled Trial of the Effects of Febuxostat Therapy on Adipokines and Markers of Kidney Fibrosis in Asymptomatic Hyperuricemic Patients With Diabetic Nephropathy. Canadian journal of kidney health and disease 2016; 3: 2054358116675343."
+    },
+    "Explanations": {
+        "a": "There was a total of 71 events among the 1198 participants enrolled in the six trials. The number of events is lower than the number needed to reach the optimal information size (i.e., 300).",
+        "b": "There was a total of 58 events among the 1610 participants enrolled in the seven trials. The number of events is lower than the number needed to reach the optimal information size (i.e., 300).",
+        "c": "There was a total of 21 events among the 731 participants enrolled in the five trials. The number of events is lower than the number needed to reach the optimal information size (i.e., 300)."
+    },
+    "Outcome": {
+        "Progression of CKD to kidney failure* (follow-up: range 12 months to 84 months)": {
+            "No of studies": [
+                "73",
+                "74",
+                "75",
+                "76",
+                "77",
+                "78"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "not serious"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "serious",
+                "a"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "ULT": [
+                    "41/612 (6.7%)"
+                ],
+                "lacebo or usual care": [
+                    "30/586 (5.1%)"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "RR 1.38 (0.88 to 2.16)"
+                ],
+                "Absolute (95% CI)": [
+                    "19 more per 1,000 (from 6 fewer to 59 more)"
+                ]
+            },
+            "Certainty": [
+                "⨁⨁⨁◯ Moderate"
+            ]
+        },
+        "Cutaneous reactions and hypersensitivity (follow - up: range 3 months to 41 months)": {
+            "No of studies": [
+                "73",
+                "74",
+                "78",
+                "79",
+                "80",
+                "81",
+                "82"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "not serious"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "serious",
+                "b"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "ULT": [
+                    "30/803 (3.7%)"
+                ],
+                "lacebo or usual care": [
+                    "28/807 (3.5%)"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "RR 1.07 (0.64 to 1.77)"
+                ],
+                "Absolute (95% CI)": [
+                    "2 more per 1,000 (from 12 fewer to 27 more)"
+                ]
+            },
+            "Certainty": [
+                "⨁⨁⨁◯ Moderate"
+            ]
+        },
+        "Hepatotoxicity (follow-up: range 3 months to 25 months)": {
+            "No of studies": [
+                "78",
+                "79",
+                "81",
+                "82",
+                "83"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "not serious"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "very serious",
+                "c"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "ULT": [
+                    "7/363 (1.9%)"
+                ],
+                "lacebo or usual care": [
+                    "14/368 (3.8%)"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "RR 0.56 (0.23 to 1.34)"
+                ],
+                "Absolute (95% CI)": [
+                    "17 fewer per 1,000 (from 29 fewer to 13 more)"
+                ]
+            },
+            "Certainty": [
+                "⨁⨁◯◯ Low"
+            ]
+        }
+    }
+}

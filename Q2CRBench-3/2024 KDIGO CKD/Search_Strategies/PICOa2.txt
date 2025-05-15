@@ -1,0 +1,22 @@
+Diagnostic accuracy of eGFR based on measurements of cystatin C and creatinine (Search date: August 2022)
+PubMed 
+1. Kidney glomerulus[mh]
+2. Kidney disease[mh]
+3. Kidney function tests[mh]
+4. Renal[tiab] OR kidney[tiab]
+5. #1 OR #2 OR #3 OR #4
+6. Glomerular filtration rate[tiab] OR GFR[tiab]
+7. Creatin*[tiab]
+8. Cystat*[tiab]
+9. #6 AND (#7 OR #8)
+10. DTPA[tiab] OR Diethylenetriaminepentaacetate[tiab] OR Diethylenetriaminepentaacetic acid[tiab] OR Pentetic acid[mh] OR Pentetic acid[tiab] OR EDTA[tiab] OR Chromium EDTA[tiab] OR Ethylenediaminetetraacetic acid[tiab] OR Ethylenediaminetetraacetate[tiab] OR Iohexol[mh] OR Iohexol[tiab] OR Iothalamic acid[mh] OR Iothalamic acid[tiab] OR Iothalamate[tiab] OR measure*[tiab]
+11. #6 AND #10
+12. Predict*[tiab]
+13. Formula*[tiab]
+14. Equation[tiab]
+15. Regression analysis[mh]
+16. #12 OR #13 OR #14 OR #15
+17. #5 AND #9 AND #11 AND #16
+18. Animals[mh] NOT humans[mh]
+19. #17 NOT #18
+20. #19 NOT review[pt]

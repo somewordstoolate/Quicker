@@ -1,0 +1,34 @@
+{
+    "Question": "Should patients with RA not tolerating MTX, switch to alternative mono or combination csDMARDs, to a boDMARD, or to a tsDMARD?",
+    "Comparison": {
+        "MTX monotherapy versus SSZ. Data based on indirect RCT evidence.": {
+            "filename": "PICO 17a_Comparison 7.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment.",
+                "b": "Downgraded by one level due to serious indirectness. The evidence is based on a population on a maximally tolerated dose of MTX monotherapy.",
+                "c": "Downgraded by one level due to serious imprecision. Small sample size.",
+                "d": "Downgraded by two level due to very serious imprecision. Confidence interval includes both values suggesting harm and values suggesting benefit. Small sample size and low number of events."
+            }
+        },
+        "Switch to IL-6 Receptor Inhibitor versus switch to TNF Inhibitor. Data based on indirect RCT evidence.": {
+            "filename": "PICO 17a_Comparison 8.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment.",
+                "b": "Downgraded by one level due to serious indirectness. The evidence is based on a population on a maximally tolerated dose of MTX monotherapy.",
+                "c": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment in the MONARCH, the study with the larger weight.",
+                "d": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect.",
+                "e": "The study MONARCH found that the RR of improvement in HAQ-DI (≥0.22 change from baseline) was 1.25 (95%CI 1.06 to 1.47), absolute risk increase 135 more per 1000 (95%CI 32 more to 254 more).",
+                "f": "The study MONARCH found that the RR of improvement in quality of life- SF-36 PCS (≥2.5 change from baseline) was 1.27 (95%CI 1.07 to 1.49), absolute risk increase 146 more per 1000 (95%CI 38 more to 265 more).",
+                "g": "The study MONARCH found that the RR of improvement in quality of life- SF-36 MCS (≥2.5 change from baseline) was 1.18 (95%CI 1.00 to 1.39), absolute risk increase 100 more per 1000 (95%CI 0 fewer to 217 more).",
+                "h": "Downgraded by two levels due to very serious imprecision. Low number of events.",
+                "i": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Low number of events."
+            }
+        }
+    },
+    "References": {
+        "1": "Fleischmann Rea. Phase IIb Dose-Ranging Study of the Oral JAK Inhibitor Tofacitinib (CP-690,550) or Adalimumab Monotherapy Versus Placebo in Patients With Active Rheumatoid Arthritis With an Inadequate Response to Disease-Modifying Antirheumatic Drugs. ARTHRITIS & RHEUMATISM. 2012;64(3):617-29.",
+        "2": "Burmester GR, Lin Y, Patel R, Adelsberg Jv, Mangan EK, Graham NM, et al. Efficacy and safety of sarilumab monotherapy versus adalimumab monotherapy for the treatment of patients with active rheumatoid arthritis (MONARCH): a randomised, double-blind, parallel-group phase III trial. Annals of the Rheumatic Diseases. 2017;76(5):840.",
+        "3": "Gabay C, Emery P, Vollenhoven Rv, Dikranian A, Alten R, Pavelka K, et al. Tocilizumab monotherapy versus adalimumab monotherapy for treatment of rheumatoid arthritis (ADACTA): a randomised, double-blind, controlled phase 4 trial.[Erratum appears in Lancet. 2013 May 4;381(9877):1540 Note: Dosage error in article text], [Erratum appears in Lancet. 2013 Dec 7;382(9908):1878]. Lancet. 2013;381(9877):1541.",
+        "4": "Strand V. Patient-reported outcomes from a randomized phase III trial of sarilumab monotherapy versus adalimumab monotherapy in patients with rheumatoid arthritis. Arthritis Research and Therapy. 2018;20(1)."
+    }
+}

@@ -1,0 +1,934 @@
+[
+    {
+        "outcome_uid": "b51b8cf7",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Disease activity (follow up: range 4 months to 2 years; assessed with: ACR 20)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "f8f1a82c",
+            "323b4f71",
+            "d76da5a9",
+            "39e9c906",
+            "8f68ef49",
+            "d40d9e70",
+            "bcdcb109",
+            "49208898",
+            "71272a3e"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Three studies at low risk of bias represent 60% of the weight."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Switch DMARDs": "795/1279 (62.2%)",
+                    "Add DMARDs": "1112/1658 (67.1%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.93 (0.86 to 1.02)",
+                    "Absolute Effect (95% CI)": "47 fewer per 1,000 (from 94 fewer to 13 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "e2526179",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Disease activity (follow up: range 4 months to 2 years; assessed with: ACR 50)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "f8f1a82c",
+            "323b4f71",
+            "d76da5a9",
+            "39e9c906",
+            "8f68ef49",
+            "d40d9e70",
+            "bcdcb109",
+            "49208898",
+            "71272a3e"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Three studies at low risk of bias represent 60% of the weight."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "HIGH",
+                "No of participants": {
+                    "Switch DMARDs": "491/1279 (38.4%)",
+                    "Add DMARDs": "744/1658 (44.9%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.87 (0.79 to 0.97)",
+                    "Absolute Effect (95% CI)": "58 fewer per 1,000 (from 94 fewer to 13 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "6d83d7da",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Disease activity (follow up: range 4 months to 2 years; assessed with: ACR 70)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "f8f1a82c",
+            "323b4f71",
+            "d76da5a9",
+            "39e9c906",
+            "8f68ef49",
+            "d40d9e70",
+            "bcdcb109",
+            "49208898",
+            "71272a3e"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Three studies at low risk of bias represent 60% of the weight."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "HIGH",
+                "No of participants": {
+                    "Switch DMARDs": "266/1263 (21.1%)",
+                    "Add DMARDs": "422/1658 (25.5%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.84 (0.73 to 0.97)",
+                    "Absolute Effect (95% CI)": "41 fewer per 1,000 (from 69 fewer to 8 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "ba54348b",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Disease activity (follow up: range 4 months to 2 years; assessed with: DAS28 or DAS44 (lower values --> benefit) (values>0.2 are considered clinically important)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "323b4f71",
+            "d76da5a9",
+            "39e9c906",
+            "8f68ef49",
+            "bcdcb109",
+            "49208898",
+            "71272a3e"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Three studies at low risk of bias represent 60% of the weight."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. According to the Cochrane's handbook, Cohen suggested that SMD=0.2 be considered a 'small' effect size, 0.5 represents a 'medium' effect size and 0.8 a 'large' effect size. This means that if two groups' means do not differ by 0.2 standard deviations or more, the difference is trivial, even if it is statistically significant."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Switch DMARDs": "0",
+                    "Add DMARDs": "0"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "SMD 0.24 SD higher (0.1 higher to 0.38 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "8ce7c79b",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Remission (follow up: range 4 months to 1 year; assessed with: DAS remission < 2.6 )",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "f8f1a82c",
+            "323b4f71",
+            "d76da5a9",
+            "8f68ef49",
+            "d40d9e70",
+            "bcdcb109"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Switch DMARDs": "250/998 (25.1%)",
+                    "Add DMARDs": "356/1367 (26.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.85 (0.70 to 1.02)",
+                    "Absolute Effect (95% CI)": "39 fewer per 1,000 (from 78 fewer to 5 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "aacf817a",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Flare (follow up: 1 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "bcdcb109"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Switch DMARDs": "0/155 (0.0%)",
+                    "Add DMARDs": "1/152 (0.7%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.33 (0.01 to 7.96)",
+                    "Absolute Effect (95% CI)": "4 fewer per 1,000 (from 7 fewer to 46 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "d1319106",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Radiographic progression (follow up: 6 months; assessed with: mTSS (Lower values \u2013 > benefit) (MCID 4.6)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d76da5a9"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "HIGH",
+                "No of participants": {
+                    "Switch DMARDs": "276",
+                    "Add DMARDs": "277"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.17 higher (0.14 higher to 0.2 higher)(The studies ACT-RAY and SURPRISE found that the RR of developing no radiographic progression (change in mTSS \u22640.5) was 0.96 (95%CI 0.91 to 1.02), absolute risk reduction 34 fewer per 1000 (95%CI 76 fewer to 17 more).)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "189f71e4",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Pain (follow up: range 4 months to 12 months; assessed with: VAS pain (0-100) (Lower values \u2013 > benefit) (MCID -11.9)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "323b4f71",
+            "d76da5a9",
+            "8f68ef49",
+            "cdb4d7a1",
+            "83353996"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "HIGH",
+                "No of participants": {
+                    "Switch DMARDs": "949",
+                    "Add DMARDs": "1328"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 1.9 higher (0.3 lower to 4.1 higher)(The study ORAL Strategy found that the RR of improvement in pain VAS (0-100) \u2265 10 was 0.99 (95% CI 0.92 to 1.07), absolute risk reduction 8 fewer per 1000 (95%CI 62 fewer to 54 more).)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "0b2199e2",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Disability (follow up: range 4 months to 2 years; assessed with: HAQ-DI (Lower values \u2013 > benefit) (MCID -0.22)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "323b4f71",
+            "d76da5a9",
+            "39e9c906",
+            "8f68ef49",
+            "cdb4d7a1"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias in three studies representing 55% of the weight."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Switch DMARDs": "670",
+                    "Add DMARDs": "673"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0 (0.06 lower to 0.07 higher)(The studies ADORE, ORAL strategy and Strand 2006, found that the RR of improvement in HAQ-DI (\u22650.22 or \u22650.25 change from baseline) was 0.94 (95%CI 0.83 to 1.07), absolute risk reduction 39 fewer per 1000 (95%CI 112 fewer to 46 more).)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "1427b701",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Fatigue (follow up: 1 year; assessed with: FACIT-F (Higher values \u2013 > benefit) (MCID 15.9)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "83353996"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "HIGH",
+                "No of participants": {
+                    "Switch DMARDs": "384",
+                    "Add DMARDs": "762"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.62 lower (1.84 lower to 0.6 higher)(The study ORAL Strategy found that the RR of improvement in FACIT-F\u2265 4 was 0.92 (95% CI 0.83 to 1.01), absolute risk reduction 55 fewer per 1000 (95%CI 117 fewer to 7 more).)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "f1ccf0e0",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Quality of Life (follow up: 1 year; assessed with:  SF-36 MCS (Higher values \u2013 > benefit) (MCID 3.1)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "83353996"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "HIGH",
+                "No of participants": {
+                    "Switch DMARDs": "384",
+                    "Add DMARDs": "762"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.97 lower (2.1 lower to 0.16 higher)(The study ORAL Strategy found that the RR of improvement in SF-36 MCS \u2265 2.5 was 0.94 (95% CI 0.84 to 1.05), absolute risk reduction 37 fewer per 1000 (95%CI 100 fewer to 31 more).)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "3172e5ba",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Quality of Life (follow up: 1 year; assessed with: SF-36 PCS (Higher values \u2013 > benefit) (MCID 4.4)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "83353996"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "HIGH",
+                "No of participants": {
+                    "Switch DMARDs": "384",
+                    "Add DMARDs": "762"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.87 lower (1.9 lower to 0.16 higher)(The studies ADORE, ORAL strategy and Strand 2006, found that the RR of improvement in HAQ-DI (\u22650.22 or \u22650.25 change from baseline) was 0.94 (95%CI 0.83 to 1.07), absolute risk reduction 39 fewer per 1000 (95%CI 112 fewer to 46 more).)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "85274402",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Quality of Life (follow up: range 4 months to 2 years; assessed with: RAQol or EQ-5D VAS (lower values --> benefit) (values>0.2 are considered clinically important)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d76da5a9",
+            "39e9c906",
+            "cdb4d7a1"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit. According to the Cochrane's handbook, Cohen suggested that SMD=0.2 be considered a 'small' effect size, 0.5 represents a 'medium' effect size and 0.8 a 'large' effect size. This means that if two groups' means do not differ by 0.2 standard deviations or more, the difference is trivial, even if it is statistically significant."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Switch DMARDs": "533",
+                    "Add DMARDs": "529"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "SMD 0.13 lower (0.25 lower to 0.01 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "ce87d1b3",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Withdrawal due to lack of efficacy (follow up: range 4 months to 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "39e9c906",
+            "8f68ef49",
+            "d40d9e70",
+            "bcdcb109",
+            "49208898",
+            "71272a3e"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. According to the Cochrane's handbook, Cohen suggested that SMD=0.2 be considered a 'small' effect size, 0.5 represents a 'medium' effect size and 0.8 a 'large' effect size. This means that if two groups' means do not differ by 0.2 standard deviations or more, the difference is trivial, even if it is statistically significant."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Switch DMARDs": "32/591 (5.4%)",
+                    "Add DMARDs": "16/446 (3.6%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.18 (0.59 to 2.36)",
+                    "Absolute Effect (95% CI)": "6 more per 1,000 (from 15 fewer to 49 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "de4f4469",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Withdrawal due to adverse events (follow up: range 3 months to 2 years)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "f8f1a82c",
+            "323b4f71",
+            "39e9c906",
+            "8f68ef49",
+            "d40d9e70",
+            "bcdcb109",
+            "49208898",
+            "ce4b2bdc",
+            "553e309f"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Four studies at high risk of bias represent 40% of the weight. This is accounted for when downgrading for imprecision."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Switch DMARDs": "101/1017 (9.9%)",
+                    "Add DMARDs": "145/1392 (10.4%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.91 (0.66 to 1.25)",
+                    "Absolute Effect (95% CI)": "9 fewer per 1,000 (from 35 fewer to 26 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "b8fe9f01",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Serious adverse events (follow up: range 3 months to 2 years)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "f8f1a82c",
+            "323b4f71",
+            "39e9c906",
+            "d40d9e70",
+            "bcdcb109",
+            "71272a3e"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. According to the Cochrane's handbook, Cohen suggested that SMD=0.2 be considered a 'small' effect size, 0.5 represents a 'medium' effect size and 0.8 a 'large' effect size. This means that if two groups' means do not differ by 0.2 standard deviations or more, the difference is trivial, even if it is statistically significant."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Switch DMARDs": "94/1009 (9.3%)",
+                    "Add DMARDs": "113/1371 (8.2%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.10 (0.85 to 1.42)",
+                    "Absolute Effect (95% CI)": "8 more per 1,000 (from 12 fewer to 35 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "14ee7637",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Malignancy (follow up: range 4 months to 2 years)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "f8f1a82c",
+            "323b4f71",
+            "39e9c906"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due serious imprecision. Low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Switch DMARDs": "3/598 (0.5%)",
+                    "Add DMARDs": "6/978 (0.6%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.65 (0.11 to 3.70)",
+                    "Absolute Effect (95% CI)": "2 fewer per 1,000 (from 5 fewer to 17 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "c1da4e7a",
+        "clinical_question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Death (follow up: range 4 months to 2 years)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "f8f1a82c",
+            "323b4f71",
+            "39e9c906",
+            "bcdcb109"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due serious imprecision. Low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Switch DMARDs": "3/757 (0.4%)",
+                    "Add DMARDs": "4/1133 (0.4%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.92 (0.17 to 4.88)",
+                    "Absolute Effect (95% CI)": "0 fewer per 1,000 (from 3 fewer to 14 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

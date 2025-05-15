@@ -1,0 +1,50 @@
+[
+    {
+        "outcome_uid": "9a3ef06c",
+        "clinical_question": "Should patients with RA initiating MTX receive oral MTX or subcutaneous (SC) MTX?",
+        "population": "Patients with RA initiating MTX",
+        "intervention": "Oral MTX",
+        "comparator": "SC MTX",
+        "outcome": "Disease Activity (follow up: 4 months; assessed with: ACR 20)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "5efdfbb8"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "The study did not report on whether allocation was concealed."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence intervals includes both values suggesting no effect and values suggesting benefit."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "SC MTX": "160/188 (85.1%)",
+                    "Oral MTX": "144/187 (77.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.11 (1.00 to 1.22)",
+                    "Absolute Effect (95% CI)": "85 more per 1,000 (from 0 fewer to 169 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

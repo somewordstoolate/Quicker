@@ -1,0 +1,26 @@
+{
+    "Question": "Should patients with RA on two or more DMARDs who are at target for less than six months withdraw DMARDs or continue DMARDs?",
+    "Comparison": 
+    {
+        "Withdraw one DMARD versus continue current therapy.": 
+        {   "filename": "PICO 54a_Comparison 1.json",
+            "Explanations": 
+            {
+                "a": "A study contributing 27% of the weight is at very serious risk of bias, while the other study is at risk of bias due to the lack of blinding of participants and personnel.",
+                "b": "I2=57%",
+                "c": "CI interval includes both values suggesting benefit and values suggesting harm",
+                "d": "The study PRESERVE found that the RR of developing no radiographic progression (change in mTSS ≤0.5) was 0.96 (95%CI 0.9 to 1.03), absolute risk reduction per 1000 36 fewer (95%CI 89 fewer to 27 more).",
+                "e": "CI interval includes both values suggesting harm and values suggesting no effect",
+                "f": "The study PRESERVE found that the RR of improvement in HAQ-DI (≥0.22 change from baseline) was 0.85 (95%CI 0.76 to 0.96), absolute risk reduction 109 fewer per 1000 (95%CI 174 fewer to 29 fewer).",
+                "g": "Very small number of events"
+            }
+        }
+    },
+    "References": 
+    {
+        "1": "Smolen JS. Maintenance, reduction, or withdrawal of etanercept after treatment with etanercept and methotrexate in patients with moderate rheumatoid arthritis (PRESERVE): A randomised controlled trial. The Lancet. 2013;381(9870):918.",
+        "2": "Chatzidionysiou K. A multicentre, randomised, controlled,open-label pilot study on the feasibilityof discontinuation of adalimumab inestablished patients with rheumatoidarthritis in stable clinical remission. 2016;2.",
+        "3": "van Herwaarden N, van der Maas A, Minten MJ, van den Hoogen FH, Kievit W, van Vollenhoven RF, et al. Disease activity guided dose reduction and withdrawal of adalimumab or etanercept compared with usual care in rheumatoid arthritis: Open label, randomised controlled, non-inferiority trial. BMJ (Online). 2015;350(no pagination).",
+        "4": "Strand V. The impact of rheumatoid arthritis on work and predictors of overall work impairment from three therapeutic scenarios. International Journal of Clinical Rheumatology. 2015;10(5):317."
+    }
+}

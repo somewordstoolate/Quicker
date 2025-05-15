@@ -1,0 +1,64 @@
+{
+    "Question": "Should patients with MTX-naïve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+    "Comparison": {
+        "TNF Inhibitor versus MTX monotherapy. Data based on direct RCT evidence.": {
+            "filename": "PICO 5b_Comparison 1.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment.",
+                "b": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=65%.",
+                "c": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm.",
+                "d": "TNFi includes ETN or ADA.",
+                "e": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=75%.",
+                "f": "The study PREMIER found that the RR of developing no radiographic progression (change in mTSS ≤0.5) was 1.33 (95%CI 1.07 to 1.65), absolute risk increase 112 more per 1000 (95%CI 24 more to 220 more).",
+                "g": "The study PREMIER found that the RR of improvement in HAQ-DI (≥0.22 change from baseline) was 0.92 (95%CI 0.80 to 1.06), absolute risk reduction 50 fewer per 1000 (95%CI 126 fewer to 38 more).",
+                "h": "Downgraded by one level due to serious inconsistency. I2=67%. Question whether heterogeneity might be related to the use of different TNFis.",
+                "i": "Indication of serious inconsistency I2=59% (taken into consideration when downgrading for imprecision). Question whether heterogeneity might be related to the use of different TNFis.",
+                "j": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm.",
+                "k": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=72%.",
+                "l": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Low number of events."
+            }
+        },
+        "Abatacept versus MTX monotherapy. Data based on indirect RCT evidence.": {
+            "filename": "PICO 5b_Comparison 2.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious indirectness. The evidence is based on a population naive to non-MTX csDMARDs.",
+                "b": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Small sample size.",
+                "c": "Downgraded by two levels due to very serious imprecision. Small sample size and very low number of events."
+            }
+        },
+        "IL-6 Receptor Inhibitor versus MTX monotherapy. Data based on direct RCT evidence.": {
+            "filename": "PICO 5b_Comparison 4.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment.",
+                "b": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit.",
+                "c": "IL-6i includes TCZ.",
+                "d": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm.",
+                "e": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm.",
+                "f": "Downgraded by one level due to serious imprecision. Low number of events."
+            }
+        },
+        "JAK Inhibitor versus MTX monotherapy. Data based on direct RCT evidence.": {
+            "filename": "PICO 5b_Comparison 5.json",
+            "Explanations": {
+                "a": "JAKi include TOFA.",
+                "b": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect.",
+                "c": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm.",
+                "d": "Downgraded by two levels due to very serious imprecision. Very low number of events."
+            }
+        }
+    },
+    "References": {
+        "1": "Genovese MC, Bathon JM, Martin RW, Fleischmann RM, et al. Etanercept versus methotrexate in patients with early rheumatoid arthritis: two-year radiographic and clinical outcomes. Arthritis & Rheumatism. 2002;46(6):1443.",
+        "2": "Breedveld FC, Weisman MH, Kavanaugh AF, Cohen SB, Pavelka K, Vollenhoven Rv, et al. The PREMIER study: A multicenter, randomized, double-blind clinical trial of combination therapy with adalimumab plus methotrexate versus methotrexate alone or adalimumab alone in patients with early, aggressive rheumatoid arthritis who had not had previous methotrexate treatment. Arthritis & Rheumatism. 2006;54(1):26.",
+        "3": "Kosinski M, Kujawski SC, Martin R, Wanke LA, Buatti MC, Ware JE, et al. Health-related quality of life in early rheumatoid arthritis: impact of disease and treatment response. American Journal of Managed Care. 2002;8(3):231.",
+        "4": "VIBEKE STRAND AMR, MARY A. CIFALDI, NAIJUN CHEN, SANJOY ROY, and DENNIS REVICKI. Health-related Quality of Life Outcomes of Adalimumab for Patients with Early Rheumatoid Arthritis: Results from a Randomized Multicenter Study. The Journal of Rheumatology. 2012;39(1):63-72.",
+        "5": "Liu Y. Risk of breast cancer and total malignancies in rheumatoid arthritis patients undergoing TNF-alpha antagonist therapy: a meta-analysis of randomized control trials. Asian Pacific Journal of Cancer Prevention: Apjcp. 2014;15(8):3403.",
+        "6": "de La Forest Divonne M, Gottenberg JE, Salliot C. Safety of biologic DMARDs in RA patients in real life: A systematic literature review and meta-analyses of biologic registers. [Review]. Joint, Bone, Spine: Revue du Rhumatisme. 2017;84(2):133.",
+        "7": "Emery P. Evaluating drug-free remission with abatacept in early rheumatoid arthritis: Results from the phase 3b, multicentre, randomised, active-controlled AVERT study of 24 months, with a 12-month, double-blind treatment period. Annals of the Rheumatic Diseases. 2015;74(1):19.",
+        "8": "Maneiro JR. Risks of malignancies related to tofacitinib and biological drugs in rheumatoid arthritis: Systematic review, meta-analysis, and network meta-analysis. [Review]. Seminars in Arthritis & Rheumatism. 2017;47(2):149.",
+        "9": "Burmester GR. Tocilizumab in early progressive rheumatoid arthritis: FUNCTION, a randomised controlled trial. Annals of the Rheumatic Diseases. 2016;75(6):1081.",
+        "10": "Geng Z. Tocilizumab and the risk of respiratory adverse events in patients with rheumatoid arthritis: a systematic review and meta-analysis of randomised controlled trials. [Review]. Clinical & Experimental Rheumatology.2018 Aug 29.",
+        "11": "Lee EB, Fleischmann R, Hall S, Wilkinson B, Bradley JD, Gruben D, et al. Tofacitinib versus methotrexate in rheumatoid arthritis. New England Journal of Medicine. 2014;370(25):2377.",
+        "12": "van Vollenhoven RFea. Improvement in Work Place and Household Productivity for Patients With Early Rheumatoid Arthritis Treated With Adalimumab Plus Methotrexate: Work Outcomes and Their Correlations With Clinical and Radiographic Measures From a Randomized Controlled Trial Companion Study. Arthritis Care & Research. 2010;62(2):226–34."
+    }
+}

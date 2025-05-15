@@ -1,0 +1,23 @@
+{
+    "Question": "Should patients with RA on two or more DMARDs who are at target for six months and longer withdraw DMARDs or continue DMARDs?",
+    "Comparison": 
+    {
+        "Withdraw one DMARD versus continue current therapy.": 
+        {   "filename": "PICO 54b_Comparison 1.json",
+            "Explanations": 
+            {
+                "a": "Concern about the lack of blinding of participants and providers",
+                "b": "Pooled results reported as HR and RR in the 2 respective studies",
+                "c": "All included studies are at risk of bias",
+                "d": "I2=55%",
+                "e": "CI includes both values suggesting harms and values suggesting no effect"
+            }
+        }
+    },
+    "References": 
+    {
+        "1": "Fautrel B, Pham T, Alfaiate T, Gandjbakhch F, Foltz V, Morel J, et al. Step-down strategy of spacing TNF-blocker injections for established rheumatoid arthritis in remission: Results of the multicentre non-inferiority randomised open-label controlled trial (STRASS: Spacing of TNF-blocker injections in Rheumatoid ArthritiS Study). Annals of the Rheumatic Diseases. 2016;75(1):59.",
+        "2": "van Vollenhoven RF. Full dose, reduced dose or discontinuation of etanercept in rheumatoid arthritis. Ann Rheum Dis BMJ. 2016;75:52-8.",
+        "3": "Moghadam MG. Stopping Tumor Necrosis Factor Inhibitor Treatment in Patients With Established Rheumatoid Arthritis in Remission or With Stable Low Disease Activity. ARTHRITIS & RHEUMATOLOGY. 2016;68(8):1810-7."
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "Question": "In patients with RA receiving T2T, should the treatment goal be low disease activity or remission?",
+    "Comparison": {
+        "Treat to low disease activity versus treat to remission. Data based on direct NRS evidence.": {
+            "filename": "PICO 13_Comparison 1.json",
+            "Explanations": {
+                "a": "Unclear risk of bias related to missing data as rate of those data not reported",
+                "b": "In the remission goal group (DAS <1.6), baseline DAS was lower than in the low disease activity goal group (DAS ≤2.4) targeted group; symptom duration was shorter and baseline radiological damage was less often present. The investigators adjusted for these differences in their analyses, but this could have still favored the remission goal group"
+            }
+        }
+    },
+    "References": {
+        "1": "Akdemir G. Comparison between low disease activity or das remission as treatment target in patients with early active rheumatoid arthritis. RMD Open. 2018;4(1)."
+    }
+}

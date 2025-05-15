@@ -1,0 +1,48 @@
+Database: Ovid MEDLINE(R) and Epub Ahead of Print, In-Process & Other Non-Indexed Citations, Daily and Versions(R) <1946 to November 21, 2019> 
+Search Strategy:
+--------------------------------------------------------------------------------
+1     Arthritis, Rheumatoid/ 
+2     ((rheumatoid adj2 arthrit$) or (rheumatoid adj2 arthros$)).tw,kw. 
+3     Rheumatoid nodule/ or (rheumatoid adj2 nodule$).tw,kw. 
+4     or/1-3 
+5     Hydroxychloroquine/ or (hydroxychloroquine or Plaquenil).tw,kw. 
+6     (leflunomide or Arava).tw,kw. 
+7     Methotrexate/ or (methotrexate or Rheumatrex or Trexall or Otrexup or Rasuvo).tw,kw. 
+8     Sulfasalazine/ or (sulfasalazine$ or sulphasalazine$ or Azulfidine).tw,kw. 
+9     or/5-8 [conventional synthetic DMARDs] 
+10     Adalimumab/ or (adalimumab or Humira).tw,kw. 
+11     Certolizumab Pegol/ or (certolizumab or Cimzia).tw,kw. 
+12     Etanercept/ or (etanercept or Enbrel).tw,kw. 
+13     (Golimumab or Simponi).tw,kw. 
+14     Infliximab/ or (infliximab or Remicade).tw,kw. 
+15     Tumor Necrosis Factor-alpha/tu [Therapeutic Use] 
+16     Receptors, Tumor Necrosis Factor/tu 
+17     ((tumor or tumour) adj necrosis factor adj (block$ or inhibitor$)).tw. or (TNF inhibitor$ or TNFi).tw,kw. or (anti-TNF or anti TNF).tw,kw. 
+18     Abatacept/ or (abatacept or Orencia).tw,kw. 
+19     Rituximab/ or (rituximab or Rituxan or MabThera or Remsima).tw,kw. 
+20     Antibodies, Monoclonal/tu 
+21     (Sarilumab or Kevzara).tw,kw. 
+22     tocilizumab.tw,kw. 
+23     Interleukin-6/tu or Interleukin-1/tu or Receptors, Interleukin-6/tu or Receptors, Interleukin-1/tu 
+24     (interleukin 6 inhibit$ or IL 6 inhibit$).tw,kw. 
+25     biologic$ DMARD$.tw,kw. 
+26     biological products/ and exp antirheumatic agents/ 
+27     or/10-26 [biological DMARDs] 
+28     (Amjevita or "adalimumab-atto").tw,kw. 
+29     (Erelzi or "etanercept szzs").tw,kw.
+30     (infliximab-QBTZ or Ixifi).tw,kw. 
+31     ("Infliximab-DYBB" or Inflectra).tw,kw. 
+32     biosimilar pharmaceuticals/ and antirheumatic agents/ 
+33     (biosimilar adj2 disease adj2 modifying adj2 anti-rheumatic$).tw,kw. 
+34     (biosimilar adj3 DMARD$).tw,kw. 
+35     (bs adj DMARD$).tw,kw. 
+36     or/28-35 [biosimiar dmards] 
+37     (baricitinib or Olumiant).tw,kw. 
+38     (fostamatanib or Tavalisse).tw,kw. 
+39     (Filgotinib or GS-6034 or GLPG0634).tw,kw. 
+40     (tofacitinib or tasocitinib or Xeljanz or cp690550 or "cp 690550" or "cp 690 550" or Upadacitinib or “ABT-494”).tw,kw. 
+41     (((JAK 1 or JAK 2) adj inhibit$) or (Janus kinase 1 inhibit$ or Janus kinase 3 inhibit$)).tw,kw. 
+42     Janus Kinase inhibitors/ or Janus Kinase 1/ai or Janus Kinase 3/ai 
+43     or/37-42 [targeted dmards]
+44     Synovitis/ or (exp Synovial Membrane/ and exp Inflammation/) or synovitis.tw,kw. or (inflammation and synovial membrane$).tw,kw. 
+45     4 and 44 and (9 or 27 or 36 or 43) [PICO 28] 

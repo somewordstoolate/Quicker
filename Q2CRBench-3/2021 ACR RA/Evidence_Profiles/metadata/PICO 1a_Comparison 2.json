@@ -1,0 +1,182 @@
+{
+    "Disease activity (follow up: 1 year; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)": {
+        "No of studies": [
+            "1",
+            "2"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "serious",
+            "a"
+        ],
+        "Inconsistency": [
+            "not serious",
+            "b"
+        ],
+        "Indirectness": [
+            "serious",
+            "c"
+        ],
+        "Imprecision": [
+            "serious",
+            "d"
+        ],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "MTX monotherapy": "104",
+            "SSZ": "102"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.14 higher (0.18 lower to 0.47 higher)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "CRITICAL"
+    },
+    "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)": {
+        "No of studies": [
+            "1",
+            "2"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "serious",
+            "a"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": [
+            "serious",
+            "c"
+        ],
+        "Imprecision": [
+            "serious",
+            "d"
+        ],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "MTX monotherapy": "104",
+            "SSZ": "102"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.04 lower (0.2 lower to 0.13 higher)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+    "Pain (follow up: 1 year; assessed with: VAS 0-100 (Lower values – > benefit) (MCID -11.9)": {
+        "No of studies": "2",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": [
+            "serious",
+            "c"
+        ],
+        "Imprecision": [
+            "very serious",
+            "e"
+        ],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "MTX monotherapy": "35",
+            "SSZ": "34"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.1 higher (13.46 lower to 13.66 higher)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+    "Serious adverse events (follow up: 1 year)": {
+        "No of studies": "2",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": [
+            "serious",
+            "c"
+        ],
+        "Imprecision": [
+            "very serious",
+            "e"
+        ],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "MTX monotherapy": "0/35 (0.0%)",
+            "SSZ": "3/34 (8.8%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.14 (0.01 to 2.59)",
+            "Absolute (95% CI)": "76 fewer per 1,000 (from 87 fewer to 140 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+    "Withdrawal due to lack of efficacy (follow up: 1 year)": {
+        "No of studies": [
+            "1",
+            "2"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "serious",
+            "a"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": [
+            "serious",
+            "c"
+        ],
+        "Imprecision": [
+            "very serious",
+            "f"
+        ],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "MTX monotherapy": "5/104 (4.8%)",
+            "SSZ": "10/102 (9.8%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.51 (0.19 to 1.39)",
+            "Absolute (95% CI)": "48 fewer per 1,000 (from 79 fewer to 38 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+    "Withdrawal due to adverse events (follow up: 1 year)": {
+        "No of studies": [
+            "1",
+            "2"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "serious",
+            "a"
+        ],
+        "Inconsistency": [
+            "not serious",
+            "g"
+        ],
+        "Indirectness": [
+            "serious",
+            "c"
+        ],
+        "Imprecision": [
+            "serious",
+            "h"
+        ],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "MTX monotherapy": "9/104 (8.7%)",
+            "SSZ": "19/102 (18.6%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.46 (0.22 to 0.98)",
+            "Absolute (95% CI)": "101 fewer per 1,000 (from 145 fewer to 4 fewer)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    }
+}

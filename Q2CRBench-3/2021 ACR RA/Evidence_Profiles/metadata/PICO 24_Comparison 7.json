@@ -1,0 +1,117 @@
+{
+    "Disease activity (follow up: 6 months; assessed with: DAS28-ESR)": {
+      "No of studies": ["4"],
+      "Study design": "observational studies",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["serious", "a"],
+      "Other considerations": "none",
+      "№ of patients": {
+        "Switch to RTX": "106",
+        "Switch to IL6-inhibitor": "147"
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 1.4 lower (1.76 lower to 1.04 lower)"
+      },
+      "Certainty": "  VERY LOW",
+      "Importance": "CRITICAL"
+    },
+    "Low disease activity (follow up: 6 months; assessed with: DAS28-ESR <3.2)": {
+      "No of studies": ["4"],
+      "Study design": "observational studies",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": "not serious",
+      "Other considerations": "none",
+      "№ of patients": {
+        "Switch to RTX": "13/44 (29.5%)",
+        "Switch to IL6-inhibitor": "29/44 (65.9%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.45 (0.27 to 0.74)",
+        "Absolute (95% CI)": "363 fewer per 1,000 (from 481 fewer to 171 fewer)"
+      },
+      "Certainty": "  LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Disability (follow up: 6 months; assessed with: HAQ-DI)": {
+      "No of studies": ["4"],
+      "Study design": "observational studies",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["serious", "a"],
+      "Other considerations": "none",
+      "№ of patients": {
+        "Switch to RTX": "73",
+        "Switch to IL6-inhibitor": "74"
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 0.2 lower (0.43 lower to 0.03 higher)"
+      },
+      "Certainty": "  VERY LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Pain (follow up: 6 months; assessed with: VAS 100)": {
+      "No of studies": ["4"],
+      "Study design": "observational studies",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": "not serious",
+      "Other considerations": "none",
+      "№ of patients": {
+        "Switch to RTX": "73",
+        "Switch to IL6-inhibitor": "74"
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 2.5 higher (4.97 lower to 9.97 higher)"
+      },
+      "Certainty": "  LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Withdrawal due to adverse events (follow up: 1 year)": {
+      "No of studies": ["4"],
+      "Study design": "observational studies",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": "not serious",
+      "Other considerations": "none",
+      "№ of patients": {
+        "Switch to RTX": "7/38 (18.4%)",
+        "Switch to IL6-inhibitor": "19/35 (54.3%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.34 (0.16 to 0.71)",
+        "Absolute (95% CI)": "358 fewer per 1,000 (from 456 fewer to 157 fewer)"
+      },
+      "Certainty": "  LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Withdrawal due to lack of efficacy (follow up: 6 months)": {
+      "No of studies": ["4"],
+      "Study design": "observational studies",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious","c"],
+      "Other considerations": "none",
+      "№ of patients": {
+        "Switch to RTX": "17/38 (44.7%)",
+        "Switch to IL6-inhibitor": "11/35 (31.4%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 1.42 (0.78 to 2.60)",
+        "Absolute (95% CI)": "132 more per 1,000 (from 69 fewer to 503 more)"
+      },
+      "Certainty": "  VERY LOW",
+      "Importance": "IMPORTANT"
+    }
+  }
+  

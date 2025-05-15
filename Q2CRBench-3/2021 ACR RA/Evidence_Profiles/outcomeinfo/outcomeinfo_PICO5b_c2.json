@@ -1,0 +1,355 @@
+[
+    {
+        "outcome_uid": "93fd0ee1",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "Abatacept",
+        "outcome": "Remission (follow up: 1 year; assessed with: DAS28-CRP < 2.6)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "2a7a858b"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population naive to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "ABA": "48/113 (42.5%)",
+                    "MTX monotherapy": "52/115 (45.2%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.94 (0.70 to 1.26)",
+                    "Absolute Effect (95% CI)": "27 fewer per 1,000 (from 136 fewer to 118 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "de523343",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "Abatacept",
+        "outcome": "Disability (follow up: 1 year; assessed with: HAQ-DI (\u2265 0.3)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "2a7a858b"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population naive to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "ABA": "61/113 (54.0%)",
+                    "MTX monotherapy": "51/115 (44.3%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.22 (0.93 to 1.59)",
+                    "Absolute Effect (95% CI)": "98 more per 1,000 (from 31 fewer to 262 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "54b32c64",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "Abatacept",
+        "outcome": "Serious adverse events (1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "2a7a858b"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population naive to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "ABA": "14/116 (12.1%)",
+                    "MTX monotherapy": "9/116 (7.8%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.56 (0.70 to 3.45)",
+                    "Absolute Effect (95% CI)": "43 more per 1,000 (from 23 fewer to 190 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "39300870",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "Abatacept",
+        "outcome": "Withdrawal due to adverse events (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "2a7a858b"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population naive to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "ABA": "8/116 (6.9%)",
+                    "MTX monotherapy": "5/116 (4.3%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.60 (0.54 to 4.75)",
+                    "Absolute Effect (95% CI)": "26 more per 1,000 (from 20 fewer to 162 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "7581ffb3",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "Abatacept",
+        "outcome": "Withdrawal due to lack of efficacy (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "2a7a858b"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population naive to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "ABA": "6/116 (5.2%)",
+                    "MTX monotherapy": "11/116 (9.5%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.55 (0.21 to 1.43)",
+                    "Absolute Effect (95% CI)": "43 fewer per 1,000 (from 75 fewer to 41 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "4a48604a",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "Abatacept",
+        "outcome": "Death (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "2a7a858b"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population naive to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Small sample size and very low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "ABA": "0/116 (0.0%)",
+                    "MTX monotherapy": "0/116 (0.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "not estimable",
+                    "Absolute Effect (95% CI)": "",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "6af1a356",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "Abatacept",
+        "outcome": "Malignancy (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "2a7a858b"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population naive to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Small sample size and very low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "ABA": "2/116 (1.7%)",
+                    "MTX monotherapy": "1/116 (0.9%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 2.00 (0.18 to 21.75)",
+                    "Absolute Effect (95% CI)": "9 more per 1,000 (from 7 fewer to 179 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "c15d269c",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "Abatacept",
+        "outcome": "Malignancy (from SR of harms) ABA vs MTX",
+        "related_paper_list": [
+            "1fbf0f4e"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "result_interpretation": "The Systematic Review RefID=1220, 2017 (RCTs=4, n=Not provided) comparing Abatacept vs Placebo + csDMARD among RA and showed that for Cancer, the result was Peto OR=1.12 (0.33, 3.81)",
+                "Study design": "Systematic Review"
+            }
+        }
+    }
+]

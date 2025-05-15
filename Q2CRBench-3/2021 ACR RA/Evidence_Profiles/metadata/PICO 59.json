@@ -1,0 +1,41 @@
+{
+    "Question": "Should patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target withdraw (taper off or abruptly stop) MTX or withdraw (taper off or abruptly stop) the boDMARD or the tsDMARD?",
+    "Comparison": {
+        "Continue same management versus withdraw (taper off or abruptly stop) MTX. Data based on direct RCT evidence.": {
+            "filename": "PICO 59_Comparison 2.json",
+            "Explanations": {
+                "a": "Concern with risk of bias. Missing data was not appropriately handled in the trial.",
+                "b": "Downgraded by one level due to serious imprecision. Very small sample size.",
+                "c": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit. Very small sample size.",
+                "d": "Downgraded by one level due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Very small sample size.",
+                "e": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, and low number of events.",
+                "f": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit. Very small sample size, and low number of events.",
+                "g": "Downgraded by two levels due to very serious imprecision. Very small sample size, and very low number of events."
+            }
+        },
+        "Continue same management versus withdraw (taper off or abruptly stop) the boDMARD or the tsDMARD. Data based on direct RCT evidence.": {
+            "filename": "PICO 59_Comparison 3.json",
+            "Explanations": {
+                "a": "Downgraded by two levels due to very serious inconsistency. I2=97%.",
+                "b": "Withdraw boDMARD or tsDMARD include withdraw boDMARDs (TNFis: adalimumab and etanercept)",
+                "c": "Downgraded by two levels due to very serious inconsistency. I2=92%.",
+                "d": "Downgraded by one level due to serious inconsistency. I2=80%.",
+                "e": "Pooled results reported as HR and RR in the 2 respective studies",
+                "f": "Downgraded by two levels due to very serious risk of bias. Lack of allocation concealment and lack of blinding.",
+                "g": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=65%.",
+                "h": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm.",
+                "i": "Downgraded by one level due to serious inconsistency. I2=70%.",
+                "j": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect.",
+                "k": "Downgraded by one level due to serious risk of bias. Incomplete outcome data (Overall loss to follow-up rate is 48)",
+                "l": "Downgraded by one level due to serious inconsistency. I2=82%."
+            }
+        }
+    },
+    "References": {
+        "1": "Pablos JL. Efficacy of tocilizumab monotherapy after response to combined tocilizumab and methotrexate in patients with rheumatoid arthritis: the randomised JUST-ACT study. Clinical & Experimental Rheumatology. 2019;37:437-44.",
+        "2": "Smolen JS. Adjustment of therapy in rheumatoid arthritis on the basis of achievement of stable low disease activity with adalimumab plus methotrexate or methotrexate alone: the randomised controlled OPTIMA trial.[Erratum appears in Lancet. 2014 Jan 25;383(9914):308]. Lancet. 2014;383(9914):321.",
+        "3": "Smolen JS. Maintenance, reduction, or withdrawal of etanercept after treatment with etanercept and methotrexate in patients with moderate rheumatoid arthritis (PRESERVE): A randomised controlled trial. The Lancet. 2013;381(9870):918.",
+        "4": "van Vollenhoven RF. Full dose, reduced dose or discontinuation of etanercept in rheumatoid arthritis. Ann Rheum Dis BMJ. 2016;75:52-8.",
+        "5": "Chatzidionysiou K. A multicentre, randomised, controlled,open-label pilot study on the feasibilityof discontinuation of adalimumab inestablished patients with rheumatoidarthritis in stable clinical remission. 2016;2."
+    }
+}

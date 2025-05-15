@@ -1,0 +1,242 @@
+[
+    {
+        "outcome_uid": "b14eac22",
+        "clinical_question": "Should patients with RA on DMARDs who are NOT at target receive IA corticosteroids alone or add/switch DMARDs or IA corticosteroids and add/switch DMARD(s)?",
+        "population": "Patients with RA on DMARDs who are not at target",
+        "intervention": "IA steroids",
+        "comparator": "add/Switch DMARD(s)",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: ACR 20)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "5c2f0c43"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious risk of bias. Lack of allocation concealment, lack of blinding, and selective reporting."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. Study compared IA GCs + csDMARD to csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and value suggesting harm. Very small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "IA corticosteroids alone": "25/25 (100.0%)",
+                    "Add/Switch DMARD(s)": "21/25 (84.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.19 (0.99 to 1.43)",
+                    "Absolute Effect (95% CI)": "160 more per 1,000 (from 8 fewer to 361 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "c6748830",
+        "clinical_question": "Should patients with RA on DMARDs who are NOT at target receive IA corticosteroids alone or add/switch DMARDs or IA corticosteroids and add/switch DMARD(s)?",
+        "population": "Patients with RA on DMARDs who are not at target",
+        "intervention": "IA steroids",
+        "comparator": "add/Switch DMARD(s)",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: ACR 50)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "5c2f0c43"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious risk of bias. Lack of allocation concealment, lack of blinding, and selective reporting."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. Study compared IA GCs + csDMARD to csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Very small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "IA corticosteroids alone": "15/25 (60.0%)",
+                    "Add/Switch DMARD(s)": "5/25 (20.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 3.00 (1.29 to 7.00)",
+                    "Absolute Effect (95% CI)": "400 more per 1,000 (from 58 more to 1,000 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "564a2b56",
+        "clinical_question": "Should patients with RA on DMARDs who are NOT at target receive IA corticosteroids alone or add/switch DMARDs or IA corticosteroids and add/switch DMARD(s)?",
+        "population": "Patients with RA on DMARDs who are not at target",
+        "intervention": "IA steroids",
+        "comparator": "add/Switch DMARD(s)",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: ACR 70)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "5c2f0c43"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious risk of bias. Lack of allocation concealment, lack of blinding, and selective reporting."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. Study compared IA GCs + csDMARD to csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Very small sample size and low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "IA corticosteroids alone": "9/25 (36.0%)",
+                    "Add/Switch DMARD(s)": "0/25 (0.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 19.00 (1.17 to 309.77)",
+                    "Absolute Effect (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "192d97ba",
+        "clinical_question": "Should patients with RA on DMARDs who are NOT at target receive IA corticosteroids alone or add/switch DMARDs or IA corticosteroids and add/switch DMARD(s)?",
+        "population": "Patients with RA on DMARDs who are not at target",
+        "intervention": "IA steroids",
+        "comparator": "add/Switch DMARD(s)",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS28-ESR)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "5c2f0c43"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious risk of bias. Lack of allocation concealment, lack of blinding, and selective reporting."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. Study compared IA GCs + csDMARD to csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect. Very small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "IA corticosteroids alone": "25",
+                    "Add/Switch DMARD(s)": "25"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 1.6 lower (2.21 lower to 0.99 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "0b64669d",
+        "clinical_question": "Should patients with RA on DMARDs who are NOT at target receive IA corticosteroids alone or add/switch DMARDs or IA corticosteroids and add/switch DMARD(s)?",
+        "population": "Patients with RA on DMARDs who are not at target",
+        "intervention": "IA steroids",
+        "comparator": "add/Switch DMARD(s)",
+        "outcome": "Disability (follow up: 3 months; assessed with: HAQ-DI)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "5c2f0c43"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious risk of bias. Lack of allocation concealment, lack of blinding, and selective reporting."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. Study compared IA GCs + csDMARD to csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect. Very small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "IA corticosteroids alone": "25",
+                    "Add/Switch DMARD(s)": "25"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.24 lower (0.42 lower to 0.06 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,45 @@
+{
+    "Question": "Should patients with RA on MTX + boDMARD or tsDMARD who are at target continue the boDMARD or tsDMARD at the same dose or lower the dose or increase the interval between doses of the boDMARD or tsDMARD (MTX continued at same dose)?",
+    "Comparison": 
+    {
+        "Continue the same dose of the boDMARD or tsDMARD versus lower the dose of the boDMARD or tsDMARD.": 
+        {   "filename": "PICO 62_Comparison 1.json",
+            "Explanations": 
+            {
+                "a": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm.",
+                "b": "We did not downgrade due to risk of bias. The one study that contributed 76% of the weight is at low risk of bias; the other study suffers from lack of blinding of participants and personnel and lack of blinding of outcome assessment for non-radiographic outcomes.",
+                "c": "Pooled results reported as HR and RR in the 2 respective studies",
+                "d": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment in one study and lack of blinding of participants and personnel in both studies.",
+                "e": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=65%",
+                "f": "I2=43%",
+                "g": "CI includes both values suggesting harm and values suggesting no effect. According to the Cochrane's handbook, Cohen suggested that SMD=0.2 be considered a 'small' effect size, 0.5 represents a 'medium' effect size and 0.8 a 'large' effect size. This means that if two groups' means do not differ by 0.2 standard deviations or more, the difference is trivial, even if it is statistically significant.",
+                "h": "The study PRESERVE found that the RR of improvement in HAQ-DI (≥0.22 change from baseline) at 1 year was 1 (95%CI 0.88 to 1.13), absolute risk reduction 0 fewer per 1000 (95%CI 87 fewer to 94 more).",
+                "i": "Very small number of events",
+                "j": "I2=47%",
+                "k": "CI includes both values suggesting benefit and values suggesting harm",
+                "l": "Downgraded for risk of bias as the one included study did not blind participants, providers, or outcome assessors"
+              }
+        },
+        "Continue the same dose of the boDMARD or tsDMARD versus increase the interval between the doses of the boDMARD or tsDMARD. ": 
+        {   "filename": "PICO 62_Comparison 2.json",
+            "Explanations": 
+            {
+                "a": "Downgraded by one level due to serious risk of bias. Lack of blinding of participants and personnel.",
+                "b": "Downgraded by one level due to serious risk of bias. Lack of blinding of participants and personnel in both studies and lack of blinding of non-radiographic outcome assessors in one study.",
+                "c": "Downgraded by one level due to serious inconsistency. I2=75%.",
+                "d": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect."
+              }
+        }
+    },
+    "References": 
+    {
+        "1": "Smolen JS. Maintenance, reduction, or withdrawal of etanercept after treatment with etanercept and methotrexate in patients with moderate rheumatoid arthritis (PRESERVE): A randomised controlled trial. The Lancet. 2013;381(9870):918.",
+        "2": "Ibrahim F, Lorente-Canovas B, Dore CJ, Bosworth A, Ma MH, Galloway JB, et al. Optimizing treatment with tumour necrosis factor inhibitors in rheumatoid arthritis-a proof of principle and exploratory trial: is dose tapering practical in good responders? Rheumatology. 2017;56(11):2004.",
+        "3": "van Vollenhoven RF. Full dose, reduced dose or discontinuation of etanercept in rheumatoid arthritis. Ann Rheum Dis BMJ. 2016;75:52-8.",
+        "4": "Miedany Y. Optimizing therapy in inflammatory arthritis: prediction of relapse after tapering or stopping treatment for rheumatoid arthritis patients achieving clinical and radiological remission. Clin Rheumatol. 2016;35:2915–23.",
+        "5": "Fautrel B, Pham T, Alfaiate T, Gandjbakhch F, Foltz V, Morel J, et al. Step-down strategy of spacing TNF-blocker injections for established rheumatoid arthritis in remission: Results of the multicentre non-inferiority randomised open-label controlled trial (STRASS: Spacing of TNF-blocker injections in Rheumatoid ArthritiS Study). Annals of the Rheumatic Diseases. 2016;75(1):59.",
+        "6": "van Herwaarden N, van der Maas A, Minten MJ, van den Hoogen FH, Kievit W, van Vollenhoven RF, et al. Disease activity guided dose reduction and withdrawal of adalimumab or etanercept compared with usual care in rheumatoid arthritis: Open label, randomised controlled, non-inferiority trial. BMJ (Online). 2015;350(no pagination).",
+        "7": "Strand V. The impact of rheumatoid arthritis on work and predictors of overall work impairment from three therapeutic scenarios. International Journal of Clinical Rheumatology. 2015;10(5):317.",
+        "8": "Kobelt G. Treating to target with etanercept in rheumatoid arthritis: cost-effectiveness of dose reductions when remission is achieved. Value in Health. 2014;17(5):537."
+      }
+}

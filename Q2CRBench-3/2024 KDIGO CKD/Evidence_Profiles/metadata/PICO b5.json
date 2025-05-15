@@ -1,0 +1,255 @@
+{
+    "Question": "What are the effects of angiography or coronary revascularization compared with medical treatment among people with CKD and ischemic heart disease in terms of mortality, CVD events, kidney failure, and acute kidney injury (AKI)?",
+    "References": {
+        "84": "Sedlis SP, Jurkovitz CT, Hartigan PM, et al. Optimal medical therapy with or without percutaneous coronary intervention for patients with stable coronary artery disease and chronic kidney disease. Am J Cardiol 2009; 104: 1647-1653.",
+        "85": "Hastings RS, Hochman JS, Dzavik V, et al. Effect of late revascularization of a totally occluded coronary artery after myocardial infarction on mortality rates in patients with renal impairment. Am J Cardiol 2012; 110: 954-960.",
+        "86": "Lopes NH, da Silva Paulitsch F, Pereira A, et al. Mild chronic kidney dysfunction and treatment strategies for stable coronary artery disease. J Thorac Cardiovasc Surg 2009; 137: 1443-1449.",
+        "87": "Charytan DM, Wallentin L, Lagerqvist B, et al. Early angiography in patients with chronic kidney disease: a collaborative systematic review. Clinical journal of the American Society of Nephrology : CJASN 2009; 4: 1032-1043.",
+        "88": "Johnston N, Jernberg T, Lagerqvist B, et al. Early invasive treatment benefits patients with renal dysfunction in unstable coronary artery disease. Am Heart J 2006; 152: 1052-1058."
+    },
+    "Explanations": {
+        "a": "There were at least some concerns with the risk of bias for all trials. While it is not possible to blind patients/carers, not all of the trials stated that outcome assessors were blinded (Johnston 2006). Many patients needed to cross-over to the other treatment arm (Hastings 2012, Sedlis 2009), but this information was not always reported in the trials (Johnston 2006). Most of the studies were post hoc analyses of trials (Hastings 2012, Lopes 2009, Sedlis 2009). ",
+        "b": "There were only 280 events among the 2243participants enrolled in the 8 trials. The total number of events is lower than the number needed to reach the optimal information size (i.e., 300).",
+        "c": "There were at least some concerns with the risk of bias for all trials. Many patients needed to cross-over to the other treatment arm (Hastings 2012, Sedlis 2009). Most of the studies were post hoc analyses of trials (Hastings 2012, Sedlis 2009). ",
+        "d": "Not enough information is reported to assess precision. The total number of events is likely to be lower than the number needed to reach the optimal information size (i.e., 300).",
+        "e": "Only 2 of the 5 trials reported on this outcome, even though all the trials assessed mortality and cardiovascular events.",
+        "f": "CI crosses 1.",
+        "g": "We cannot estimate the total number of events that occurred. There were at least 211 events among the 2243 participants enrolled in the 8 trials. The total number of events is lower than the number needed to reach the optimal information size (i.e., 300).",
+        "h": "There were only 73 events among the 640 participants enrolled in the 2 trials. The total number of events is lower than the number needed to reach the optimal information size (i.e., 300)."
+    },
+    "Outcome": {
+        "All-cause mortality (follow-up: range 2 years to 10 years)": {
+            "No of studies": [
+                "84",
+                "85",
+                "86",
+                "87"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "serious",
+                "a"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "serious",
+                "b"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "Coronary revascularization": [
+                    "127/1114 (11.4%)"
+                ],
+                "Optimal medical therapy": [
+                    "153/1129 (13.6%)"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "RR 0.80 (0.64 to 0.99)"
+                ],
+                "Absolute (95% CI)": [
+                    "27 fewer per 1,000 (from 49 fewer to 1 fewer)"
+                ]
+            },
+            "Certainty": [
+                "⨁⨁◯◯ Low"
+            ]
+        },
+        "Cardiovascular mortality (follow-up: range 4.6 years to 5.6 years)": {
+            "No of studies": [
+                "84",
+                "85"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "serious",
+                "c"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "serious",
+                "d"
+            ],
+            "Other considerations": [
+                "publication bias strongly suspected",
+                "e"
+            ],
+            "No of patients": {
+                "Coronary revascularization": [
+                    "-/300"
+                ],
+                "Optimal medical therapy": [
+                    "-/340"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "HR 0.67 (0.37 to 1.20)"
+                ],
+                "Absolute (95% CI)": [
+                    "-- per 1,000 (from -- to --)"
+                ]
+            },
+            "Certainty": [
+                "⨁◯◯◯ Very low"
+            ]
+        },
+        "Composite cardiovascular events (follow-up: range 2 years to 10 years)": {
+            "No of studies": [
+                "85",
+                "86",
+                "87",
+                "88"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "serious",
+                "a"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "serious",
+                "f"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "Coronary revascularization": [
+                    "-/965"
+                ],
+                "Optimal medical therapy": [
+                    "-/958"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "RR 0.83 (0.67 to 1.02)"
+                ],
+                "Absolute (95% CI)": [
+                    "0 fewer per 1,000 (from 0 fewer to 0 fewer)"
+                ]
+            },
+            "Certainty": [
+                "⨁⨁◯◯ Low"
+            ]
+        },
+        "Myocardial infarction (follow-up: range 2 years to 10 years)": {
+            "No of studies": [
+                "84",
+                "85",
+                "86",
+                "87",
+                "88"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "serious",
+                "a"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "serious",
+                "g"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "Coronary revascularization": [
+                    "-/1114"
+                ],
+                "Optimal medical therapy": [
+                    "-/1129"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "RR 0.84 (0.64 to 1.11)"
+                ],
+                "Absolute (95% CI)": [
+                    "0 fewer per 1,000 (from 0 fewer to 0 fewer)"
+                ]
+            },
+            "Certainty": [
+                "⨁⨁◯◯ Low"
+            ]
+        },
+        "Heart failure (follow-up: range 3 years to 5.6 years)": {
+            "No of studies": [
+                "84",
+                "85"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "serious",
+                "c"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "serious",
+                "h"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "Coronary revascularization": [
+                    "30/300 (10.0%)"
+                ],
+                "Optimal medical therapy": [
+                    "43/340 (12.6%)"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "RR 0.80 (0.52 to 1.23)"
+                ],
+                "Absolute (95% CI)": [
+                    "25 fewer per 1,000 (from 61 fewer to 29 more)"
+                ]
+            },
+            "Certainty": [
+                "⨁⨁◯◯ Low"
+            ]
+        }
+    }
+}

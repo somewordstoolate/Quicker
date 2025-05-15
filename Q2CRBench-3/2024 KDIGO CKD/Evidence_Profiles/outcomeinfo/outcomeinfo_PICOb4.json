@@ -1,0 +1,294 @@
+[
+    {
+        "outcome_uid": "1cf5c101",
+        "clinical_question": "What is the effect of aspirin compared with placebo in terms of the primary prevention of cardiovascular disease (CVD) and safety among people with CKD?",
+        "population": "Adults and/or children with CKD at risk for CVD (i.e., people must not have established CVD)",
+        "intervention": "Aspirin",
+        "comparator": "Placebo",
+        "outcome": "Cardiovascular mortality (follow-up: range 3.8 years to 5.4 years)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "668a627a",
+            "825aed74",
+            "50ebb03a"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "There were some concerns with the risk of bias of the 2 largest trials (Wolfe 2021 and Jardine 2010) because they were both post hoc subgroup analyses. \nThere were some concerns with risk of bias because one study (Goicoechea 2018) did not blind patients nor carers."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "There were only 185 events among the 7952 participants enrolled in the 3 trials. The total number of events is lower than the number needed to reach the optimal information size (i.e., 300)."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Aspirin": "56/3956 (1.4%)",
+                    "Placebo": "78/3996 (2.0%)"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.73 (0.52 to 1.03)()",
+                    "Absolute Effect (95% CI)": "5 fewer per 1,000 (from 9 fewer to 1 more)()"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "d8fed7ec",
+        "clinical_question": "What is the effect of aspirin compared with placebo in terms of the primary prevention of cardiovascular disease (CVD) and safety among people with CKD?",
+        "population": "Adults and/or children with CKD at risk for CVD (i.e., people must not have established CVD)",
+        "intervention": "Aspirin",
+        "comparator": "Placebo",
+        "outcome": "Composite cardiovascular events (follow-up: range 3.8 years to 5.4 years)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "668a627a",
+            "825aed74",
+            "50ebb03a",
+            "be0f6f0b",
+            "971144ba"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "There were some concerns with 2 trials (Goicoechea 2018 and Saito 2011) because they did not blind patients nor carers.\nThere were some concerns with the risk of bias because 4 of the 5 trials were post hoc subgroup analyses."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Aspirin": "242/4800 (5.0%)",
+                    "Placebo": "305/4767 (6.4%)"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.79 (0.62 to 1.00)()",
+                    "Absolute Effect (95% CI)": "13 fewer per 1,000 (from 24 fewer to 0 fewer)()"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "5ebb9179",
+        "clinical_question": "What is the effect of aspirin compared with placebo in terms of the primary prevention of cardiovascular disease (CVD) and safety among people with CKD?",
+        "population": "Adults and/or children with CKD at risk for CVD (i.e., people must not have established CVD)",
+        "intervention": "Aspirin",
+        "comparator": "Placebo",
+        "outcome": "Myocardial infarction (follow-up: range 3.8 years to 5.4 years)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "668a627a",
+            "825aed74",
+            "50ebb03a"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "There were some concerns with the risk of bias of the 2 largest trials (Wolfe 2021 and Jardine 2010) because they were both post hoc subgroup analyses. "
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "I2 from meta-analysis was greater than 50%, suggesting some heterogeneity in results. There was a wide range of effect estimates."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "There were only 205 events among the 7952 participants enrolled in the 3 trials. The total number of events is lower than the number needed to reach the optimal information size (i.e., 300)."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Aspirin": "88/3956 (2.2%)",
+                    "Placebo": "117/3996 (2.9%)"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.73 (0.43 to 1.22)()",
+                    "Absolute Effect (95% CI)": "8 fewer per 1,000 (from 17 fewer to 6 more)()"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "f6aa9a76",
+        "clinical_question": "What is the effect of aspirin compared with placebo in terms of the primary prevention of cardiovascular disease (CVD) and safety among people with CKD?",
+        "population": "Adults and/or children with CKD at risk for CVD (i.e., people must not have established CVD)",
+        "intervention": "Aspirin",
+        "comparator": "Placebo",
+        "outcome": "Stroke (follow-up: range 3.8 years to 5.4 years)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "668a627a",
+            "825aed74",
+            "50ebb03a"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "There were some concerns with the risk of bias of the 2 largest trials (Wolfe 2021 and Jardine 2010) because they were both post hoc subgroup analyses. \nThere were some concerns with risk of bias because one study (Goicoechea 2018) did not blind patients nor carers."
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "I2 from meta-analysis was greater than 50%, suggesting some heterogeneity in results. There was a wide range of effect estimates."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "There were only 198 events among the 7952 participants enrolled in the 3 trials. The total number of events is lower than the number needed to reach the optimal information size (i.e., 300)."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Aspirin": "86/3956 (2.2%)",
+                    "Placebo": "112/3996 (2.8%)"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.86 (0.51 to 1.44)()",
+                    "Absolute Effect (95% CI)": "4 fewer per 1,000 (from 14 fewer to 12 more)()"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "edf2ae12",
+        "clinical_question": "What is the effect of aspirin compared with placebo in terms of the primary prevention of cardiovascular disease (CVD) and safety among people with CKD?",
+        "population": "Adults and/or children with CKD at risk for CVD (i.e., people must not have established CVD)",
+        "intervention": "Aspirin",
+        "comparator": "Placebo",
+        "outcome": "Major bleeding (follow-up: range 3.8 years to 5.4 years)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "668a627a",
+            "825aed74",
+            "50ebb03a",
+            "be0f6f0b",
+            "971144ba"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "There were some concerns with 2 trials (Goicoechea 2018 and Saito 2011) because they did not blind patients nor carers.\nThere were some concerns with the risk of bias because 4 of the 5 trials were post hoc subgroup analyses."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Not enough information is reported to assess precision."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Aspirin": "-/4800",
+                    "Placebo": "-/4767"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "HR 1.31 (1.01 to 1.70)()",
+                    "Absolute Effect (95% CI)": "-- per 1,000 (from -- to --)()"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "6f61fe00",
+        "clinical_question": "What is the effect of aspirin compared with placebo in terms of the primary prevention of cardiovascular disease (CVD) and safety among people with CKD?",
+        "population": "Adults and/or children with CKD at risk for CVD (i.e., people must not have established CVD)",
+        "intervention": "Aspirin",
+        "comparator": "Placebo",
+        "outcome": "Minor bleeding (follow-up: range 3.8 years to 5.4 years)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "825aed74",
+            "50ebb03a",
+            "be0f6f0b"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "There were some concerns with risk of bias because 2 studies were post hoc subgroup analyses and the other study did not blind patients nor carers."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Not enough information is reported to assess precision."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Aspirin": "-/2079",
+                    "Placebo": "-/2098"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "HR 2.25 (1.22 to 4.14)()",
+                    "Absolute Effect (95% CI)": "-- per 1,000 (from -- to --)()"
+                }
+            }
+        }
+    }
+]

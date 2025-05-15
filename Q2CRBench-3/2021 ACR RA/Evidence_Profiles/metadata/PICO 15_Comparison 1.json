@@ -1,0 +1,114 @@
+{
+    "Disease activity (follow up: 6 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)": {
+        "No of studies": "1",
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "not serious",
+            "a"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": [
+            "serious",
+            "b"
+        ],
+        "Imprecision": [
+            "serious",
+            "c"
+        ],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Remain on folic acid 1 mg per day": [
+                "51",
+                "d"
+            ],
+            "Increase dose of folic acid to > 1mg per day": [
+                "49",
+                "e"
+            ]
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.28 higher (0.1 higher to 0.46 higher)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "CRITICAL"
+    },
+    "Disability (follow up: range 6 months to 12 months; assessed with: HAQ-DI or modified HAQ (Lower values – > benefit) (values>0.2 are considered clinically significant)": {
+        "No of studies": [
+            "1",
+            "2"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "not serious",
+            "a"
+        ],
+        "Inconsistency": [
+            "serious",
+            "f"
+        ],
+        "Indirectness": [
+            "serious",
+            "g"
+        ],
+        "Imprecision": [
+            "serious",
+            "h",
+            "i"
+        ],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Remain on folic acid 1 mg per day": [
+                "76",
+                "d"
+            ],
+            "Increase dose of folic acid to > 1mg per day": [
+                "75",
+                "e"
+            ]
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "SMD 0.49 SD higher (0.16 higher to 0.82 higher)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+    "Withdrawal due to adverse events (follow up: range 6 months to 12 months)": {
+        "No of studies": [
+            "1",
+            "2"
+        ],
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "not serious",
+            "a"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": [
+            "serious",
+            "g"
+        ],
+        "Imprecision": [
+            "very serious",
+            "j"
+        ],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Remain on folic acid 1 mg per day": [
+                "3/76 (3.9%)",
+                "d"
+            ],
+            "Increase dose of folic acid to > 1mg per day": [
+                "2/75 (2.7%)",
+                "e"
+            ]
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.42 (0.29 to 6.92)",
+            "Absolute (95% CI)": "11 more per 1,000 (from 19 fewer to 158 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    }
+}

@@ -1,0 +1,246 @@
+[
+    {
+        "outcome_uid": "b36ddbfc",
+        "clinical_question": "Should patients with dementia and agitation/aggressive behaviour be treated with atypical anti-psychotics compared to haloperidol?",
+        "population": "Patients with dementia and agitation/aggressive behavior ",
+        "intervention": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "comparator": "Haloperidol",
+        "outcome": "Mortality",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "2271541c",
+            "793447a7",
+            "8c317dba"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Low number of patients, no events in any studies"
+                },
+                "Publication bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "None",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "Risk": {
+                    "Treatment with haloperidol (comparator) mean change score OR n/N": {
+                        "2271541c": "0/60",
+                        "793447a7": "0/28",
+                        "8c317dba": "0/29"
+                    },
+                    "Treatment with typical antipsychotics (intervention) mean change score (SD) OR n/N": {
+                        "2271541c": "0/60",
+                        "793447a7": "0/30",
+                        "8c317dba": "0/29"
+                    }
+                },
+                "Effect": {
+                    "Mean difference  in change score OR Relative risk (95 % CI)": {
+                        "2271541c": "NA (Due to no events in one or both arms RR cannot be calculated)",
+                        "793447a7": "NA (Due to no events in one or both arms RR cannot be calculated)",
+                        "8c317dba": "NA (Due to no events in one or both arms RR cannot be calculated)"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "19c9b59e",
+        "clinical_question": "Should patients with dementia and agitation/aggressive behaviour be treated with atypical anti-psychotics compared to haloperidol?",
+        "population": "Patients with dementia and agitation/aggressive behavior ",
+        "intervention": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "comparator": "Haloperidol",
+        "outcome": "Agitation/aggression",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "2271541c",
+            "793447a7",
+            "8c317dba",
+            "64979d7f"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "Point estimates vary widely"
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Few patients"
+                },
+                "Publication bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "None",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "Risk": {
+                    "Treatment with haloperidol (comparator) mean change score OR n/N": {
+                        "2271541c": "4.9",
+                        "793447a7": "-16.6",
+                        "8c317dba": "-10",
+                        "64979d7f": "-3.6"
+                    },
+                    "Treatment with atypical antipsychotics (intervention) mean change score (SD) OR n/N": {
+                        "2271541c": "-11.2",
+                        "793447a7": "-10.1(-18.6 to - 1.5)",
+                        "8c317dba": "-8.1",
+                        "64979d7f": "-8.3"
+                    }
+                },
+                "Effect": {
+                    "Mean difference  in change score OR Relative risk (95 % CI)": {
+                        "2271541c": "-6.3 (SD or other measure of variance not reported. Scores are mean change scores)",
+                        "793447a7": "6.5",
+                        "8c317dba": "1.9 (SD or other measure of variance not reported. Scores are mean change scores)",
+                        "64979d7f": "-4.7 (SD or other measure of variance not reported. Scores are mean change scores)"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "9394e2f2",
+        "clinical_question": "Should patients with dementia and agitation/aggressive behaviour be treated with atypical anti-psychotics compared to haloperidol?",
+        "population": "Patients with dementia and agitation/aggressive behavior ",
+        "intervention": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "comparator": "Haloperidol",
+        "outcome": "Global cognitive function",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "793447a7",
+            "8c317dba"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "Point estimates vary widely "
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Low number of patients"
+                },
+                "Publication bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "None",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "Risk": {
+                    "Treatment with haloperidol (comparator) mean change score OR n/N": {
+                        "793447a7": "-0.13",
+                        "8c317dba": "-0.15"
+                    },
+                    "Treatment with atypical antipsychotics (intervention) mean change score (SD) OR n/N": {
+                        "793447a7": "0.53",
+                        "8c317dba": "-0.42"
+                    }
+                },
+                "Effect": {
+                    "Mean difference  in change score OR Relative risk (95 % CI)": {
+                        "793447a7": "0.66 (SD not reported. Values are for change from baseline)",
+                        "8c317dba": "-0.27 (SD not reported. Values are for change from baseline)"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "c44985bf",
+        "clinical_question": "Should patients with dementia and agitation/aggressive behaviour be treated with atypical anti-psychotics compared to haloperidol?",
+        "population": "Patients with dementia and agitation/aggressive behavior ",
+        "intervention": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "comparator": "Haloperidol",
+        "outcome": "Serious adverse events",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "2271541c"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_APPLICABLE",
+                    "rationales": "Due to no events in one or both arms RR cannot be calculated"
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Only data from one study. Low number of patients, no events in the study"
+                },
+                "Publication bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "None",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "Risk": {
+                    "Treatment with haloperidol (comparator) mean change score OR n/N": {
+                        "2271541c": "0/60"
+                    },
+                    "Treatment with atypical antipsychotics (intervention) mean change score (SD) OR n/N": {
+                        "2271541c": "0/60"
+                    }
+                },
+                "Effect": {
+                    "Mean difference  in change score OR Relative risk (95 % CI)": {
+                        "2271541c": "N/A (Due to no events in one or both arms RR cannot be calculated)"
+                    }
+                }
+            }
+        }
+    }
+]
