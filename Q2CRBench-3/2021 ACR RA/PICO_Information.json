@@ -1,0 +1,1594 @@
+[
+    {
+        "Index": "1a",
+        "Question": "Should patients with MTX-naïve and non-MTX csDMARDs naïve RA and low disease activity receive MTX monotherapy or an alternative csDMARD monotherapy?",
+        "P": "Patients with MTX-naïve and non-MTX csDMARDs naïve RA and low disease activity",
+        "I": "MTX monotherapy",
+        "C": [
+            "HCQ",
+            "SSZ",
+            "LEF"
+        ],
+        "O": {
+            "SSZ": [
+                "Disease activity (follow up: 1 year; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Pain (follow up: 1 year; assessed with: VAS 0-100 (Lower values – > benefit) (MCID -11.9)",
+                "Serious adverse events (follow up: 1 year)",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Withdrawal due to adverse events (follow up: 1 year)"
+            ],
+            "LEF": [
+                "Disease activity (follow up: 6 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)"
+            ]
+        }
+    },
+    {
+        "Index": "1b",
+        "Question": "Should patients with MTX-naïve and non-MTX csDMARDs exposed and low disease activity receive MTX monotherapy or an alternative csDMARD monotherapy?",
+        "P": "Patients with MTX-naïve and non-MTX csDMARDs exposed RA and low disease activity",
+        "I": "MTX monotherapy",
+        "C": [
+            "HCQ",
+            "SSZ",
+            "LEF"
+        ],
+        "O": {
+            "LEF": [
+                "Disease activity (follow up: 4 months; assessed with: ACR 20)",
+                "Disease activity (follow up: 4 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)"
+            ]
+        }
+    },
+    {
+        "Index": "2a",
+        "Question": "Should patients with MTX-naïve and non-MTX csDMARDs naïve RA and moderate to high disease activity receive MTX monotherapy or an alternative csDMARD monotherapy?",
+        "P": "Patients with MTX-naïve and non-MTX csDMARDs naïve RA and moderate to high disease activity",
+        "I": "MTX monotherapy",
+        "C": [
+            "HCQ",
+            "SSZ",
+            "LEF"
+        ],
+        "O": {
+            "SSZ": [
+                "Disease activity (follow up: 1 year; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Pain (follow up: 1 year; assessed with: VAS 0-100 (Lower values – > benefit) (MCID -11.9)",
+                "Serious adverse events (follow up: 1 year)",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Withdrawal due to adverse events (follow up: 1 year)"
+            ],
+            "LEF": [
+                "Disease activity (follow up: 6 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)"
+            ]
+        }
+    },
+    {
+        "Index": "2b",
+        "Question": "Should patients with MTX-naïve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or an alternative csDMARD monotherapy?",
+        "P": "Patients with MTX-naïve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "I": "MTX monotherapy",
+        "C": [
+            "HCQ",
+            "SSZ",
+            "LEF"
+        ],
+        "O": {
+            "SSZ": [
+                "Disease activity (follow up: 1 year; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Pain (follow up: 1 year; assessed with: VAS 0-100 (Lower values – > benefit) (MCID -11.9)",
+                "Serious adverse events (follow up: 1 year)",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Withdrawal due to adverse events (follow up: 1 year)"
+            ],
+            "LEF": [
+                "Disease activity (follow up: 4 months; assessed with: ACR 20)",
+                "Disease activity (follow up: 4 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)"
+            ]
+        }
+    },
+    {
+        "Index": "3a",
+        "Question": "Should patients with MTX-naïve and non-MTX csDMARDs naïve RA and low disease activity receive csDMARD monotherapy or csDMARD combination (double or triple) therapy?",
+        "P": "Patients with MTX-naïve and non-MTX csDMARDs naïve RA and low disease activity",
+        "I": "csDMARD monotherapy",
+        "C": [
+            "csDMARD double combination therapy",
+            "csDMARD triple combination therapy"
+        ],
+        "O": {
+            "csDMARD double combination therapy": [
+                "Disease activity (follow up: 1 year; assessed with: DAS 44 (Lower values – > benefit) (MCID -1.2 based on the EULAR criteria)",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22 )",
+                "Pain (follow up: 1 year; assessed with: VAS 0-100 (Lower values – > benefit) (MCID -11.9)",
+                "Serious adverse events (follow up: 1 year)",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Withdrawal due to adverse events (follow up: 1 year)"
+            ],
+            "csDMARD triple combination therapy": [
+                "Disease activity (follow up: 3 months; assessed with: DAS 44 (Lower values --> benefit)",
+                "Remission (follow up: 3 months; assessed with: DAS 44 <1.6)",
+                "Disability (follow up: 3 months; assessed with: HAQ-DI (Lower values --> benefit) (MCID -0.22)",
+                "Serious adverse events (follow up: 3 months)",
+                "Withdrawal due to Adverse events (follow up: 3 months)"
+            ]
+        }
+    },
+    {
+        "Index": "3b",
+        "Question": "Should patients with MTX-naïve and non-MTX csDMARDs exposed RA and low disease activity receive csDMARD monotherapy or csDMARD combination (double or triple) therapy?",
+        "P": "Patients with MTX-naïve and non-MTX csDMARDs exposed RA and low disease activity",
+        "I": "csDMARD monotherapy",
+        "C": [
+            "csDMARD double combination therapy",
+            "csDMARD triple combination therapy"
+        ],
+        "O": {
+            "csDMARD triple combination therapy": [
+                "Disease activity (follow up: 6 months; assessed with: DAS 28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Disease activity (follow up: 6 months; assessed with: ACR 20)",
+                "Disease activity (follow up: 6 months; assessed with: ACR 50)",
+                "Disease activity (follow up: 6 months; assessed with: ACR 70)"
+            ]
+        }
+    },
+    {
+        "Index": "4a",
+        "Question": "Should patients with MTX-naïve and non-MTX csDMARDs naïve RA and moderate to high disease activity receive csDMARD monotherapy or combination (double or triple) therapy?",
+        "P": "Patients with MTX-naïve and non-MTX csDMARDs naïve RA who have moderate to high disease activity",
+        "I": "csDMARD monotherapy",
+        "C": [
+            "csDMARD double combination therapy",
+            "csDMARD triple combination therapy"
+        ],
+        "O": {
+            "csDMARD double combination therapy": [
+                "Disease activity (follow up: 1 year; assessed with: DAS 44 (Lower values – > benefit) (MCID -1.2 based on the EULAR criteria)",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Pain (follow up: 1 year; assessed with: VAS 0-100 (Lower values – > benefit) (MCID -11.9)",
+                "Serious adverse events (follow up: 1 year)",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Withdrawal due to Adverse events (follow up: 1 year)"
+            ],
+            "csDMARD triple combination therapy": [
+                "Disease activity (follow up: 3 months; assessed with: DAS 44 (Lower values – > benefit) (MCID -1.2)",
+                "Remission (follow up: 3 months; assessed with: DAS 44 < 1.6)",
+                "Disability (follow up: 3 months; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Serious adverse events (follow up: 3 months)",
+                "Withdrawal due to adverse events (follow up: 3 months)"
+            ]
+        }
+    },
+    {
+        "Index": "4b",
+        "Question": "Should patients with MTX-naïve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive csDMARD monotherapy or combination (double or triple) therapy?",
+        "P": "Patients with MTX-naïve and non-MTX csDMARDs exposed RA who have moderate to high disease activity",
+        "I": "csDMARD monotherapy",
+        "C": [
+            "csDMARD double combination therapy",
+            "csDMARD triple combination therapy"
+        ],
+        "O": {
+            "csDMARD double combination therapy": [
+                "Disease activity (follow up: 1 year; assessed with: DAS 44 (Lower values – > benefit) (MCID -1.2 based on the EULAR criteria)",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Pain (follow up: 1 year; assessed with: VAS 0-100 (Lower values – > benefit) (MCID -11.9)",
+                "Serious adverse events (follow up: 1 year)",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Withdrawal due to adverse events (follow up: 1 year)"
+            ],
+            "csDMARD triple combination therapy": [
+                "Disease activity (follow up: 6 months; assessed with: DAS 28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Disease activity (follow up: 6 months; assessed with: ACR 20)",
+                "Disease activity (follow up: 6 months; assessed with: ACR 50)",
+                "Disease activity (follow up: 6 months; assessed with: ACR 70)"
+            ]
+        }
+    },
+    {
+        "Index": "5a",
+        "Question": "Should patients with MTX-naïve and non-MTX csDMARDs naïve RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "P": "Patients with MTX-naïve and non-MTX csDMARDs naïve RA and moderate to high disease activity",
+        "I": "MTX monotherapy",
+        "C": [
+            "TNF Inhibitor",
+            "Abatacept",
+            "Rituximab",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ],
+        "O": {
+            "TNF Inhibitor": [
+                "Disease activity (follow up: 2 years; assessed with: ACR 20 )",
+                "Disease activity (follow up: 2 years; assessed with: ACR 50)",
+                "Disease activity (follow up: 2 years; assessed with: ACR 70)",
+                "Remission (follow up: 2 years; assessed with: DAS28-ESR <2.6)",
+                "Radiographic progression (follow up: 2 years; assessed with: mTSS (Lower values – > benefit) (MCID 4.6)",
+                "Disability (follow up: range 1 year to 2 years; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Fatigue (follow up: 2 years; assessed with: FACIT-F (Higher values – > benefit) (MCID 15.9)",
+                "Pain (follow up: 2 years; assessed with: VAS 0-100 (Lower values – > benefit) (MCID -11.9)",
+                "Quality of life (follow up: range 1 year to 2 years; assessed with: SF-36 PCS (Higher values – > benefit) (MCID 4.4)",
+                "Quality of life (follow up: range 1 year to 2 years; assessed with: SF-36 MCS (Higher values – > benefit) (MCID 3.1)",
+                "Serious adverse events (follow up: 2 years)",
+                "Withdrawal due to lack of efficacy (2 years)",
+                "Withdrawal due to adverse events (follow up: 2 years)",
+                "Death (follow up: 2 years)",
+                "Malignancy (follow up: 2 years)",
+                "Malignancy (from SRs on harms)",
+                "Cardiovascular disease (from SRs on harms)",
+                "Death (from SRs on harms)"
+            ],
+            "Abatacept": [
+                "Remission (follow up: 1 year; assessed with: DAS28 - CRP < 2.6)",
+                "Disability (follow up: 1 year; assessed with: HAQ - DI ≥ 0.3)",
+                "Serious adverse events (1 year)",
+                "Withdrawal due to adverse events (follow up: 1 year)",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Death (follow up: 1 year)",
+                "Malignancy (follow up: 1 year)",
+                "Malignancy (from SR of harms) ABA vs MTX"
+            ],
+            "IL-6 Receptor Inhibitor": [
+                "Disease activity (follow up: 1 year; assessed with: ACR 20)",
+                "Disease activity (follow up: 1 year; assessed with: ACR 50)",
+                "Disease activity (follow up: 1 year; assessed with: ACR 70)",
+                "Disease activity (follow up: 1 year; assessed with: DAS28-ESR (Lower values –> benefit) (MCID -1.17)",
+                "Remission (follow up: 1 year; assessed with: DAS28-ESR <2.6)",
+                "Radiographic progression (follow up: 1 year; assessed with: mTSS (Lower values –> benefit) (MCID 4.6)",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Quality of life (follow up: 1 year; assessed with: SF-36 PCS (Higher values – > benefit) (MCID 4.4)",
+                "Quality of life (1 year) (follow up: 1 year; assessed with: SF-36 MCS (Higher values – > benefit) (MCID 3.1)",
+                "Serious adverse events (follow up: 1 year)",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Death (follow up: 1 year)",
+                "Malignancy (follow up: 1 year)",
+                "Myocardial infarction (follow up: 1 year)",
+                "Malignancy (from SRs of harms)",
+                "Serious adverse events (from SRs of harms)"
+            ],
+            "JAK Inhibitor": [
+                "Disease activity (follow up: 2 years; assessed with: ACR 20)",
+                "Disease activity (follow up: 2 years; assessed with: ACR 50)",
+                "Disease activity (follow up: 2 years; assessed with: ACR 70)",
+                "Disease activity (follow up: 2 years; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Remission (follow up: 2 years; assessed with: DAS28-ESR < 2.6)",
+                "Radiographic progression (follow up: 2 years; assessed with: mTSS (Lower values – > benefit) (MCID 4.6)",
+                "Disability (follow up: 2 years; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Serious adverse events (follow up: 2 years)",
+                "Withdrawal due to adverse events (follow up: 2 years)",
+                "Death (follow up: 2 years)",
+                "Malignancy (follow up: 2 years)",
+                "Malignancy (from SRs on harms)"
+            ]
+        }
+    },
+    {
+        "Index": "5b",
+        "Question": "Should patients with MTX-naïve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "P": "Patients with MTX-naïve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "I": "MTX monotherapy",
+        "C": [
+            "TNF Inhibitor",
+            "Abatacept",
+            "Rituximab",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ],
+        "O": {
+            "TNF Inhibitor": [
+                "Disease activity (follow up: 2 years; assessed with: ACR 20 )",
+                "Disease activity (follow up: 2 years; assessed with: ACR 50)",
+                "Disease activity (follow up: 2 years; assessed with: ACR 70)",
+                "Remission (follow up: 2 years; assessed with: DAS28-ESR <2.6)",
+                "Radiographic progression (follow up: 2 years; assessed with: mTSS (Lower values – > benefit) (MCID 4.6)",
+                "Disability (follow up: range 1 year to 2 years; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Fatigue (follow up: 2 years; assessed with: FACIT-F (Higher values – > benefit) (MCID 15.9)",
+                "Pain (follow up: 2 years; assessed with: VAS 0-100 (Lower values – > benefit) (MCID -11.9)",
+                "Quality of life (follow up: range 1 year to 2 years; assessed with: SF-36 PCS (Higher values – > benefit) (MCID 4.4)",
+                "Quality of life (follow up: range 1 year to 2 years; assessed with: SF-36 MCS (Higher values – > benefit) (MCID 3.1)",
+                "Serious adverse events (follow up: 2 years)",
+                "Withdrawal due to lack of efficacy (2 years)",
+                "Withdrawal due to adverse events (follow up: 2 years)",
+                "Death (follow up: 2 years)",
+                "Malignancy (follow up: 2 years)",
+                "Malignancy (from SRs on harms)",
+                "Cardiovascular disease (from SRs on harms)",
+                "Death (from SRs on harms)"
+            ],
+            "Abatacept": [
+                "Remission (follow up: 1 year; assessed with: DAS28-CRP < 2.6)",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI (≥ 0.3)",
+                "Serious adverse events (1 year)",
+                "Withdrawal due to adverse events (follow up: 1 year)",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Death (follow up: 1 year)",
+                "Malignancy (follow up: 1 year)",
+                "Malignancy (from SR of harms) ABA vs MTX"
+            ],
+            "IL-6 Receptor Inhibitor": [
+                "Disease activity (follow up: 1 year; assessed with: ACR 20)",
+                "Disease activity (follow up: 1 year; assessed with: ACR 50)",
+                "Disease activity (follow up: 1 year; assessed with: ACR 70)",
+                "Disease activity (follow up: 1 year; assessed with: DAS28-ESR (Lower values –> benefit) (MCID -1.17)",
+                "Remission (follow up: 1 year; assessed with: DAS28-ESR <2.6)",
+                "Radiographic progression (follow up: 1 year; assessed with: mTSS (Lower values –> benefit) (MCID 4.6)",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Quality of life (follow up: 1 year; assessed with: SF-36 PCS (Higher values – > benefit) (MCID 4.4)",
+                "Quality of life (1 year) (follow up: 1 year; assessed with: SF-36 MCS (Higher values – > benefit) (MCID 3.1)",
+                "Serious adverse events (follow up: 1 year)",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Death (follow up: 1 year)",
+                "Malignancy (follow up: 1 year)",
+                "Myocardial infarction (follow up: 1 year)",
+                "Malignancy (from SRs of harms)",
+                "Serious adverse events (from SRs of harms)"
+            ],
+            "JAK Inhibitor": [
+                "Disease activity (follow up: 2 years; assessed with: ACR 20)",
+                "Disease activity (follow up: 2 years; assessed with: ACR 50)",
+                "Disease activity (follow up: 2 years; assessed with: ACR 70)",
+                "Disease activity (follow up: 2 years; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Remission (follow up: 2 years; assessed with: DAS28-ESR < 2.6)",
+                "Radiographic progression (follow up: 2 years; assessed with: mTSS (Lower values – > benefit) (MCID 4.6)",
+                "Disability (follow up: 2 years; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Serious adverse events (follow up: 2 years)",
+                "Withdrawal due to adverse events (follow up: 2 years)",
+                "Death (follow up: 2 years)",
+                "Malignancy (follow up: 2 years)",
+                "Malignancy (from SRs on harms)"
+            ]
+        }
+    },
+    {
+        "Index": "6a",
+        "Question": "Should patients with MTX-naïve and non-MTX csDMARDs naïve RA and moderate to high disease activity receive MTX monotherapy or boDMARD with MTX or tsDMARD with MTX?",
+        "P": "Patients with MTX-naïve and non-MTX csDMARDs naïve RA and moderate to high disease activity",
+        "I": "MTX monotherapy",
+        "C": [
+            "TNF Inhibitor + MTX",
+            "Abatacept+ MTX",
+            "Rituximab+ MTX",
+            "IL-6 Receptor Inhibitor+ MTX",
+            "JAK Inhibitor + MTX"
+        ],
+        "O": {
+            "TNF Inhibitor + MTX": [
+                "Disease activity (follow up: range 6 months to 1 year; assessed with: ACR 20)",
+                "Disease activity (follow up: 6 months; assessed with: ACR 50)",
+                "Disease activity (follow up: range 6 months to 12 months; assessed with: ACR 70)",
+                "Disease activity (follow up: range 6 months to 12 months; assessed with: DAS28 or DAS44 (Lower values -> benefit) (values>0.2 are considered clinically important)",
+                "Remission (follow up: range 6 months to 12 months; assessed with: DAS28<2.6)",
+                "Radiographic progression (follow up: 1 year; assessed with: mTSS (Lower values – > benefit) (MCID 4.6)",
+                "Fatigue (follow up: 1 year; assessed with: VAS fatigue (Lower values – > benefit) (MCID -1.12 to -0.82))",
+                "Pain (follow up: 1 year; assessed with: VAS pain (Lower values – > benefit) (MCID -11.9)",
+                "Disability (follow up: range 6 months to 12 months; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Quality of Life (follow up: range 6 months to 12 months; assessed with: SF-36 PCS (Higher values – > benefit) (MCID 4.4)",
+                "Quality of Life (follow up: range 6 months to 12 months; assessed with: SF-36 MCS (Higher values – > benefit) (MCID 3.1)",
+                "Withdrawal due to lack of efficacy (follow up: range 6 months to 12 months)",
+                "Withdrawal due to adverse events (follow up: range 6 months to 12 months)",
+                "Serious adverse events (follow up: range 6 months to 12 months)",
+                "Death (follow up: range 6 months to 12 months)",
+                "Malignancy (from SRs on harms)"
+            ],
+            "Abatacept + MTX": [
+                "Disease activity (follow up: 1 year; assessed with: ACR 70)",
+                "Disease activity (follow up: 1 year; assessed with: DAS28 CRP (Lower values – > benefit) (MCID -1.02))",
+                "Remission (follow up: 1 year; assessed with: DAS28-ESR remission <2.6)",
+                "Radiographic progression (follow up: 1 year; assessed with: mTSS (Lower values – > benefit) (MCID 4.6))",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22))",
+                "Quality of Life (follow up: 1 year; assessed with: SF-36 PCS (Higher values – > benefit) (MCID 4.4))",
+                "Quality of Life (follow up: 1 year; assessed with: SF-36 MCS (Higher values – > benefit) (MCID 3.1))",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Withdrawal due to adverse events (follow up: 1 year)",
+                "Serious adverse events (follow up: 1 year)",
+                "Malignancy (follow up: 1 year)",
+                "Death (follow up: 1 year)",
+                "Malignancy (from SRs on harms)"
+            ],
+            "Rituximab + MTX": [
+                "Disease activity (follow up: 2 years; assessed with: ACR 20)",
+                "Disease activity (follow up: 2 years; assessed with: ACR 50)",
+                "Disease activity (follow up: 2 years; assessed with: ACR 70)",
+                "Disease activity (follow up: 2 years; assessed with: DAS28 ESR (Lower values – > benefit) (MCID -1.17)",
+                "Remission (follow up: 2 years; assessed with: DAS28-ESR remission <2.6)",
+                "Radiographic progression (follow up: 2 years; assessed with: mTSS (Lower values – > benefit) (MCID 4.6)",
+                "Pain (follow up: 1 year; assessed with: VAS pain (Lower values – > benefit) (MCID -11.9)",
+                "Fatigue (follow up: 1 year; assessed with: FACIT-F (Higher values – > benefit) (MCID 15.9)",
+                "Disability (follow up: 2 years; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Quality of Life (follow up: 1 year; assessed with: SF-36 PCS (Higher values – > benefit) (MCID 4.4)",
+                "Quality of Life (follow up: 1 year; assessed with: SF-36 MCS (Higher values – > benefit) (MCID 3.1)",
+                "Withdrawal due to adverse events (follow up: 2 years)",
+                "Serious adverse events (follow up: 2 years)",
+                "Malignancy (follow up: 2 years)",
+                "Death (follow up: 2 years)",
+                "Malignancy (from SRs on harms)"
+            ],
+            "IL-6 Receptor Inhibitor + MTX": [
+                "Disease activity (follow up: 1 year; assessed with: ACR 20)",
+                "Disease activity (follow up: 1 year; assessed with: ACR 50)",
+                "Disease activity (follow up: 1 year; assessed with: ACR 70)",
+                "Disease activity (follow up: 1 year; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17))",
+                "Remission (follow up: 1 year; assessed with: DAS28-ESR remission <2.6)",
+                "Radiographic progression (follow up: 1 year; assessed with: mTSS (Lower values – > benefit) (MCID 4.6))",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22))",
+                "Quality of Life (follow up: 1 year; assessed with: SF-36 PCS (Higher values – > benefit) (MCID 4.4))",
+                "Quality of Life (follow up: 1 year; assessed with: SF-36 MCS (Higher values – > benefit) (MCID 3.1))",
+                "Withdrawal due to adverse events (follow up: 1 year)",
+                "Serious adverse events (follow up: 1 year)",
+                "Malignancy (follow up: 1 year)",
+                "Myocardial infarction (follow up: 1 year)",
+                "Death (follow up: 1 year)",
+                "Serious adverse events (from SRs on harms)",
+                "Malignancy (from SRs on harms)"
+            ]
+        }
+    },
+    {
+        "Index": "6b",
+        "Question": "Should patients with MTX-naïve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD with MTX or tsDMARD with MTX?",
+        "P": "Patients with MTX-naïve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "I": "MTX monotherapy",
+        "C": [
+            "TNF Inhibitor + MTX",
+            "Abatacept+ MTX",
+            "Rituximab+ MTX",
+            "IL-6 Receptor Inhibitor+ MTX",
+            "JAK Inhibitor + MTX"
+        ],
+        "O": {
+            "TNF Inhibitor + MTX": [
+                "Disease activity (follow up: range 6 months to 2 years; assessed with: ACR 20)",
+                "Disease activity (follow up: 1 year; assessed with: ACR 50)",
+                "Disease activity (follow up: range 6 months to 2 years; assessed with: ACR 70)",
+                "Disease activity (follow up: range 6 months to 1 year; assessed with: DAS28-ESR/CRP)",
+                "Remission (follow up: range 6 months to 2 years; assessed with: DAS28-ESR remission <2.6)",
+                "Radiographic progression (follow up: range 6 months to 1 year; assessed with: mTSS)",
+                "Fatigue (follow up: range 1 year to 2 years; assessed with: VAS-F or FACIT-F)",
+                "Pain (follow up: range 1 year to 2 years; assessed with: VAS pain (0-100))",
+                "Disability (follow up: range 6 months to 24 months; assessed with: HAQ-DI)",
+                "Quality of life (follow up: range 1 year to 2 years; assessed with: SF-36 PCS)",
+                "Quality of life (follow up: range 1 year to 2 years; assessed with: SF-36 MCS)",
+                "Withdrawal due to lack of efficacy (follow up: range 1 year to 2 years)",
+                "Withdrawal due to adverse events (follow up: range 6 months to 2 years)",
+                "Serious adverse events (follow up: range 6 months to 2 years)",
+                "Cardiovascular disease (follow up: 1 year)",
+                "Malignancy (follow up: range 1 year to 2 years)",
+                "Death (follow up: range 6 months to 2 years)",
+                "Malignancy (from SRs on harms)"
+            ],
+            "Abatacept + MTX": [
+                "Disease activity (follow up: 1 year; assessed with: ACR 70)",
+                "Disease activity (follow up: 1 year; assessed with: DAS28 CRP (Lower values – > benefit) (MCID -1.02)",
+                "Remission (follow up: 1 year; assessed with: DAS28-ESR remission <2.6)",
+                "Radiographic progression (follow up: 1 year; assessed with: mTSS (Lower values – > benefit) (MCID 4.6)",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Quality of Life (follow up: 1 year; assessed with: SF-36 PCS (Higher values – > benefit) (MCID 4.4)",
+                "Quality of Life (follow up: 1 year; assessed with: SF-36 MCS (Higher values – > benefit) (MCID 3.1)",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Withdrawal due to adverse events (follow up: 1 year)",
+                "Serious adverse events (follow up: 1 year)",
+                "Malignancy (follow up: 1 year)",
+                "Death (follow up: 1 year)",
+                "Malignancy (from SRs on harms)"
+            ],
+            "Rituximab + MTX": [
+                "Disease activity (follow up: 2 years; assessed with: ACR 20)",
+                "Disease activity (follow up: 2 years; assessed with: ACR 50)",
+                "Disease activity (follow up: 2 years; assessed with: ACR 70)",
+                "Disease activity (follow up: 2 years; assessed with: DAS28 ESR (Lower values – > benefit) (MCID -1.17))",
+                "Remission (follow up: 2 years; assessed with: DAS28-ESR remission <2.6)",
+                "Radiographic progression (follow up: 2 years; assessed with: mTSS (Lower values – > benefit) (MCID 4.6))",
+                "Pain (follow up: 1 year; assessed with: VAS pain (Lower values – > benefit) (MCID -11.9))",
+                "Fatigue (follow up: 1 year; assessed with: FACIT-F (Higher values – > benefit) (MCID 15.9))",
+                "Disability (follow up: 2 years; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22))",
+                "Quality of Life (follow up: 1 year; assessed with: SF-36 PCS (Higher values – > benefit) (MCID 4.4))",
+                "Quality of Life (follow up: 1 year; assessed with: SF-36 MCS (Higher values – > benefit) (MCID 3.1))",
+                "Withdrawal due to adverse events (follow up: 2 years)",
+                "Serious adverse events (follow up: 2 years)",
+                "Malignancy (follow up: 2 years)",
+                "Death (follow up: 2 years)",
+                "Malignancy (from SRs on harms)"
+            ],
+            "IL-6 Receptor Inhibitor + MTX": [
+                "Disease activity (follow up: 1 year; assessed with: ACR 20)",
+                "Disease activity (follow up: 1 year; assessed with: ACR 50)",
+                "Disease activity (follow up: 1 year; assessed with: ACR 70)",
+                "Disease activity (follow up: 1 year; assessed with: DAS28-ESR)",
+                "Remission (follow up: 1 year; assessed with: DAS28-ESR <2.6)",
+                "Radiographic progression (follow up: 1 year; assessed with: mTSS)",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI)",
+                "Quality of Life (follow up: 1 year; assessed with: SF-36 PCS)",
+                "Quality of Life (follow up: 1 year; assessed with: SF-36 MCS)",
+                "Withdrawal due to adverse events (follow up: 1 year)",
+                "Serious adverse events (follow up: 1 year)",
+                "Malignancy (follow up: 1 year)",
+                "Myocardial infarction (follow up: 1 year)",
+                "Death (follow up: 1 year)",
+                "Malignancy (from SRs on harms)"
+            ]
+        }
+    },
+    {
+        "Index": "7a",
+        "Question": "Should patients with MTX-naïve and non-MTX csDMARDs naïve RA and moderate to high disease activity receive mono- or combination csDMARDs and short-term (< 3 months) GCs or mono or combination csDMARDs alone?",
+        "P": "Patients with MTX-naïve and non-MTX csDMARDs naïve RA and moderate to high disease activity",
+        "I": "Mono or combination csDMARDs with short-term (< 3 months) GCs",
+        "C": [
+            "Mono or combination csDMARDs alone (i.e., without short-term GCs)"
+        ]
+    },
+    {
+        "Index": "7b",
+        "Question": "Should patients with MTX-naïve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive mono- or combination csDMARDs and short-term (< 3 months) GCs or mono or combination csDMARDs alone?",
+        "P": "Patients with MTX-naïve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "I": "Mono or combination csDMARDs with short-term (< 3 months) GCs",
+        "C": [
+            "Mono or combination csDMARDs alone (i.e., without short-term GCs)"
+        ]
+    },
+    {
+        "Index": "8a",
+        "Question": "Should patients with MTX-naïve and non-MTX csDMARDs naïve RA and moderate to high disease activity, receive long-term (≥ 3 months) low dose (≤ 10mg per day) GCs and mono- or combination csDMARDs or mono or combination csDMARDs alone?",
+        "P": "Patients with MTX-naïve and non-MTX csDMARDs naïve RA and moderate to high disease activity",
+        "I": "Mono or combination csDMARDs with long-term (≥ 3 months) low dose (≤ 10mg per day) GCs",
+        "C": [
+            "Mono or combination csDMARDs alone (i.e. without long-term GCs)"
+        ],
+        "O": {
+            "mono or combination csDMARDs alone (i.e. without long-term GCs)": [
+                "Disease activity (follow up: 2 years; assessed with: DAS28-ESR)",
+                "Remission (follow up: 2 years; assessed with: DAS28-ESR<2.6)",
+                "Radiographic progression (follow up: 2 years; assessed with: Sharp/van der Heijde score)",
+                "Disability (follow up: 2 years; assessed with: HAQ Swedish version)",
+                "Withdrawal due to adverse events (follow up: 2 years)",
+                "Death (follow up: 2 years)",
+                "Death (age-adjusted) (follow up: 10 years)",
+                "Composite Cardiovascular events (age-adjusted) (follow up: 10 years)"
+            ]
+        }
+    },
+    {
+        "Index": "8b",
+        "Question": "Should patients with MTX-naïve and non-MTX csDMARDs exposed RA and moderate to high disease activity, receive long-term (≥ 3 months) low dose (≤ 10mg per day) GCs and mono- or combination csDMARDs or mono or combination csDMARDs alone?",
+        "P": "Patients with MTX-naïve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "I": "Mono or combination csDMARDs with long-term (≥ 3 months) low dose (≤ 10mg per day) GCs",
+        "C": [
+            "Mono or combination csDMARDs alone (i.e. without long-term GCs)"
+        ],
+        "O": {
+            "mono or combination csDMARDs alone (i.e. without long-term GCs)": [
+                "Disability (follow up: 2 years; assessed with: HAQ)"
+            ]
+        }
+    },
+    {
+        "Index": "9",
+        "Question": "Should patients with RA initiating MTX receive oral MTX or subcutaneous (SC) MTX?",
+        "P": "Patients with RA initiating MTX",
+        "I": "Oral MTX",
+        "C": [
+            "SC MTX"
+        ],
+        "O": {
+            "SC MTX": [
+                "Disease Activity (follow up: 4 months; assessed with: ACR 20)"
+            ]
+        }
+    },
+    {
+        "Index": "10",
+        "Question": "Should patients with RA initiating MTX receive MTX at 15mg or more per week (includes up-titrating to 15mg over the first month) or less than 15mg per week as the initial dose?",
+        "P": "Patients with RA initiating MTX",
+        "I": "MTX < 15mg per week",
+        "C": [
+            "MTX 15mg per week",
+            "MTX 20 mg per week",
+            "MTX 25mg per week"
+        ],
+        "O": {
+            "MTX 15mg per week": [
+                "Disease Activity (follow up: 3 months; assessed with: DAS 28-ESR)",
+                "Disability (follow up: 3 months; assessed with: HAQ-DI)",
+                "Withdrawal due to lack of efficacy (follow up: 3 months)",
+                "Withdrawal due to adverse events (follow up: 3 months)"
+            ]
+        }
+    },
+    {
+        "Index": "11",
+        "Question": "Should patients with RA initiating oral MTX receive MTX as a single or split dose (over < 24 hours)?",
+        "P": "Patients with RA initiating oral MTX",
+        "I": "MTX single dose",
+        "C": [
+            "MTX split dose"
+        ]
+    },
+    {
+        "Index": "12a",
+        "Question": "Should patients with RA who have not been previously treated with boDMARD and tsDAMRD receive T2T strategies or usual care?",
+        "P": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "I": "T2T strategy",
+        "C": [
+            "Usual care"
+        ],
+        "O": {
+            "usual care": [
+                "Remission (follow up: range 6 months to 1.5 years; assessed with: DAS 44 <1.4 and DAS28 ESR <2.6)",
+                "Disease activity (follow up: range 6 months to 1.5 years; assessed with: ACR 20)",
+                "Disease activity (follow up: range 6 months to 1.5 years; assessed with: ACR 50)",
+                "Disease activity (follow up: range 6 months to 1.5 years; assessed with: ACR 70)",
+                "Disease activity (follow up: range 6 months to 1.5 years; assessed with: DAS 44/DAS28 ESR)",
+                "Radiographic progression (follow up: range 1 years to 1.5 years; assessed with: modified Sharp score)",
+                "Disability (follow up: range 1.5 years to 2 years; assessed with: HAQ-DI)",
+                "Quality of life (follow up: 1.5 years; assessed with: SF-12 PCS)",
+                "Quality of life (follow up: 1.5 years; assessed with: SF-12 MCS)",
+                "Pain (follow up: range 1.5 years to 2 years; assessed with: VAS 0-100)",
+                "Withdrawal due to lack of efficacy (follow up: range 1.5 years to 2 years)",
+                "Withdrawal due to adverse events (follow up: range 6 months to 1.5 years)",
+                "Serious adverse events (follow up: 6 months)",
+                "Cardiovascular disease (follow up: 2 years)",
+                "Death (follow up: mean 1.5 years)"
+            ]
+        }
+    },
+    {
+        "Index": "12b",
+        "Question": "Should patients with RA who have had an inadequate response to 1 or more bDMARD or tsDAMRD receive T2T strategies or usual care?",
+        "P": "Patients with RA who have had an inadequate response to 1 or more bDMARD or tsDAMRD",
+        "I": "T2T strategy",
+        "C": [
+            "Usual care"
+        ]
+    },
+    {
+        "Index": "13",
+        "Question": "In patients with RA receiving T2T, should the treatment goal be low disease activity or remission?",
+        "P": "Patients with RA",
+        "I": "Treat to low disease activity",
+        "C": [
+            "Treat to remission"
+        ],
+        "O": {
+            "treat to remission": [
+                "DAS remission (follow up: 1 year; assessed with DAS44 ≤ 1.6)",
+                "Disease activity (follow up: 1 year; assessed with DAS-44 (Lower values – > benefit) (MCID -1.2)"
+            ]
+        }
+    },
+    {
+        "Index": "14",
+        "Question": "In patients with RA planning to receive T2T, should the interval for treatment escalation be 3 months versus less than 3 months after the last DMARD change?",
+        "P": "Patients with RA planning to receive T2T",
+        "I": "Escalate treatment 3 months or later after the last DMARD change",
+        "C": [
+            "Escalate treatment less than 3 months after the last DMARD change"
+        ]
+    },
+    {
+        "Index": "15",
+        "Question": "Should patients with RA not tolerating MTX, on folic acid 1 mg/day, increase the dose of folic acid?",
+        "P": "Patients with RA not tolerating MTX on 1mg of folic acid",
+        "I": "Increase dose of folic acid to > 1mg per day",
+        "C": [
+            "Remain on folic acid 1 mg per day"
+        ],
+        "O": {
+            "Remain on folic acid 1 mg per day": [
+                "Disease activity (follow up: 6 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Disability (follow up: range 6 months to 12 months; assessed with: HAQ-DI or modified HAQ (Lower values – > benefit) (values>0.2 are considered clinically significant)",
+                "Withdrawal due to adverse events (follow up: range 6 months to 12 months)"
+            ]
+        }
+    },
+    {
+        "Index": "16",
+        "Question": "Should patients with RA not tolerating oral MTX receive a split dose (over < 24 hours) or subcutaneous (SC) MTX?",
+        "P": "Patients with RA not tolerating oral MTX",
+        "I": "Split oral MTX",
+        "C": [
+            "SC MTX"
+        ]
+    },
+    {
+        "Index": "17a",
+        "Question": "Should patients with RA not tolerating MTX, switch to alternative mono or combination csDMARDs, to a boDMARD, or to a tsDMARD?",
+        "P": "Patients with RA not tolerating MTX monotherapy (either oral or SC)",
+        "I": "Switch to non-MTX mono or combination csDMARDs",
+        "C": [
+            "Switch to TNF Inhibitor",
+            "Switch to Abatacept",
+            "Switch to Rituximab",
+            "Switch to IL-6 Receptor Inhibitor",
+            "Switch to JAK Inhibitor",
+            "Continue same management"
+        ]
+    },
+    {
+        "Index": "17b",
+        "Question": "Should patients with RA on maximally tolerated dose of MTX monotherapy who are NOT at target, switch to alternative mono or combination csDMARDs, to a boDMARD, or to a tsDMARD?",
+        "P": "Patients with RA on maximally tolerated dose of MTX monotherapy (either oral or SC) who are not at target",
+        "I": "Switch to non-MTX mono or combination csDMARDs",
+        "C": [
+            "Switch to TNF Inhibitor",
+            "Switch to Abatacept",
+            "Switch to Rituximab",
+            "Switch to IL-6 Receptor Inhibitor",
+            "Switch to JAK Inhibitor",
+            "Continue same management"
+        ]
+    },
+    {
+        "Index": "18",
+        "Question": "Should patients with RA on oral MTX monotherapy 15 mg per week who are NOT at target increase the dose of oral MTX or switch to SC MTX?",
+        "P": "Patients with RA on oral MTX monotherapy 15 mg per week who are not at target",
+        "I": "Increase the dose of oral MTX",
+        "C": [
+            "Switch to SC MTX"
+        ],
+        "O": {
+            "Switch to SC MTX": [
+                "Disease activity (follow up: 6 months; assessed with: ACR 20)",
+                "Disease activity (follow up: 6 months; assessed with: ACR 50)",
+                "Disease activity (follow up: 6 months; assessed with: ACR 70)",
+                "Disability (follow up: 6 months; assessed with: HAQ)",
+                "Pain (follow up: 6 months; assessed with: VAS 0-10)"
+            ]
+        }
+    },
+    {
+        "Index": "19",
+        "Question": "Should patients with RA on maximally tolerated dose of MTX monotherapy who are NOT at target add SSZ and HCQ, add LEF, add a boDMARD, or add a tsDMARD?",
+        "P": "Patients with RA on maximally tolerated dose of MTX monotherapy (either oral or SC) who are not at target",
+        "I": "Add SSZ and HCQ",
+        "C": [
+            "Add LEF",
+            "Add TNF Inhibitor",
+            "Add Abatacept",
+            "Add Rituximab",
+            "Add IL-6 Receptor Inhibitor",
+            "Add JAK Inhibitor",
+            "Continue same management"
+        ],
+        "O": {
+            "add TNF Inhibitor": [
+                "Disease activity (follow up: 6 months; assessed with: ACR20)",
+                "Disease activity (follow up: 6 months; assessed with: ACR50)",
+                "Disease activity (follow up: 6 months; assessed with: ACR70)",
+                "Disease activity (follow up: 6 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Remission (follow up: 6 months; assessed with: DAS28-CRP < 2.6)",
+                "Radiographic progression (follow up: 6 months; assessed with: mTSS (Lower values – > benefit) (MCID 4.6)",
+                "Disability (follow up: 6 months; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Malignancy (from SRs of harms)"
+            ]
+        }
+    },
+    {
+        "Index": "20",
+        "Question": "Should patients with RA on maximally tolerated dose of LEF monotherapy who are NOT at target, and have previously failed MTX (due to an inadequate response or adverse events), add SSZ and HCQ, or add a boDMARD, or add tsDMARD?",
+        "P": "Patients with RA on maximally tolerated dose of LEF monotherapy who are not at target, and have previously failed MTX (due to an inadequate response or adverse events)",
+        "I": "Add SSZ and HCQ",
+        "C": [
+            "Add TNF Inhibitor",
+            "Add Abatacept",
+            "Add Rituximab",
+            "Add IL-6 Receptor Inhibitor",
+            "Add JAK Inhibitor"
+        ],
+        "O": {
+            "add TNF Inhibitor": [
+                "Disease activity (follow up: 6 months; assessed with: ACR20)",
+                "Disease activity (follow up: 6 months; assessed with: ACR50)",
+                "Disease activity (follow up: 6 months; assessed with: ACR70)",
+                "Disease activity (follow up: 6 months; assessed with: DAS28-ESR)",
+                "Remission (follow up: 6 months; assessed with: DAS28-CRP < 2.6)",
+                "Radiographic progression (follow up: 6 months; assessed with: mTSS)",
+                "Disability (follow up: 6 months; assessed with: HAQ-DI)",
+                "Malignancy (from SRs of harms)"
+            ]
+        }
+    },
+    {
+        "Index": "21a",
+        "Question": "Should patients with RA on DMARD(s) who are NOT at target switch to another DMARD versus add a 2nd DMARD?",
+        "P": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "I": "Switch to another DMARD",
+        "C": [
+            "Add another DMARD"
+        ],
+        "O": {
+            "Add another DMARD": [
+                "Disease activity (follow up: range 4 months to 2 years; assessed with: ACR 20)",
+                "Disease activity (follow up: range 4 months to 2 years; assessed with: ACR 50)",
+                "Disease activity (follow up: range 4 months to 2 years; assessed with: ACR 70)",
+                "Disease activity (follow up: range 4 months to 2 years; assessed with: DAS28 or DAS44 (lower values --> benefit) (values>0.2 are considered clinically important)",
+                "Remission (follow up: range 4 months to 1 year; assessed with: DAS remission < 2.6 )",
+                "Flare (follow up: 1 months)",
+                "Radiographic progression (follow up: 6 months; assessed with: mTSS (Lower values – > benefit) (MCID 4.6)",
+                "Pain (follow up: range 4 months to 12 months; assessed with: VAS pain (0-100) (Lower values – > benefit) (MCID -11.9)",
+                "Disability (follow up: range 4 months to 2 years; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Fatigue (follow up: 1 year; assessed with: FACIT-F (Higher values – > benefit) (MCID 15.9)",
+                "Quality of Life (follow up: 1 year; assessed with:  SF-36 MCS (Higher values – > benefit) (MCID 3.1)",
+                "Quality of Life (follow up: 1 year; assessed with: SF-36 PCS (Higher values – > benefit) (MCID 4.4)",
+                "Quality of Life (follow up: range 4 months to 2 years; assessed with: RAQol or EQ-5D VAS (lower values --> benefit) (values>0.2 are considered clinically important)",
+                "Withdrawal due to lack of efficacy (follow up: range 4 months to 1 year)",
+                "Withdrawal due to adverse events (follow up: range 3 months to 2 years)",
+                "Serious adverse events (follow up: range 3 months to 2 years)",
+                "Malignancy (follow up: range 4 months to 2 years)",
+                "Death (follow up: range 4 months to 2 years)"
+            ]
+        }
+    },
+    {
+        "Index": "21b",
+        "Question": "Should patients with RA on DMARD(s) who are NOT at target and who are being switched to a second DMARD, have short-term GCs (≤ 3 months) added, long-term GCs (> 3 months) added versus no GCs added?",
+        "P": "Patients with RA on DMARD(s) who are not at target and who are being switched to a second DMARD",
+        "I": "Add short-term GCs (≤ 3 months)",
+        "C": [
+            "Add long-term GCs (> 3 months)",
+            "No GCs added"
+        ]
+    },
+    {
+        "Index": "21c",
+        "Question": "Should patients with RA on DMARD(s) who are NOT at target and whom a second DMARD is being added, have short-term GCs (≤ 3 months) added, long-term GCs (> 3 months) added versus no GCs added?",
+        "P": "Patients with RA on DMARD(s) who are not at target and whom a second DMARD is being added",
+        "I": "Add short-term GCs (≤ 3 months)",
+        "C": [
+            "Add long-term GCs (> 3 months)",
+            "No GCs added"
+        ]
+    },
+    {
+        "Index": "23",
+        "Question": "Should patients with RA on DMARD(s) requiring GCs to remain at target, add a 2nd DMARD or switch to another DMARD to enable tapering off of GCs?",
+        "P": "Patients with RA on DMARD(s) requiring GCs to remain at target",
+        "I": "No change to management",
+        "C": [
+            "Switch to another DMARD",
+            "Add a 2nd DMARD"
+        ]
+    },
+    {
+        "Index": "24",
+        "Question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "P": "Patients with RA on their first TNF Inhibitor who are not at target",
+        "I": "Switch to a 2nd TNF Inhibitor",
+        "C": [
+            "Switch to Abatacept",
+            "Switch to Rituximab",
+            "Switch to IL-6 Receptor Inhibitor",
+            "Switch to JAK Inhibitor",
+            "Continue same management"
+        ],
+        "O": {
+            "Switch to Abatacept": [
+                "Disease activity (follow up: 1 year; assessed with: ACR 20)",
+                "Disease activity (follow up: 1 year; assessed with: ACR 50)",
+                "Disease activity (follow up: 1 year; assessed with: ACR 70)",
+                "Remission (follow up: 1 year; assessed with: DAS28-ESR <2.6)",
+                "Disease activity (follow up: 1 year; assessed with: DAS28-ESR (MCID -1.17))",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI (MCID -0.22))",
+                "Quality of life (follow up: 1 year; assessed with: RAQol (MCID 2))",
+                "Pain (follow up: 1 year; assessed with: VAS 0-100 (MCID -11.9))",
+                "Serious adverse events (follow up: 1 year)",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Withdrawal due to adverse events (follow up: 1 year)",
+                "Malignancy (follow up: 1 year)",
+                "Cardiovascular disease (follow up: 1 year)",
+                "Death (follow up: 1 year)"
+            ],
+            "Switch to Rituximab": [
+                "Disease activity (follow up: 1 year; assessed with: ACR 20)",
+                "Disease activity (follow up: 1 year; assessed with: ACR 50)",
+                "Disease activity (follow up: 1 year; assessed with: ACR 70)",
+                "Disease activity (follow up: 1 year; assessed with: DAS28 ESR (Lower values – > benefit) (MCID -1.17)",
+                "Remission (follow up: 1 year; assessed with: DAS28-ESR <2.6)",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Quality of life (follow up: 1 year; assessed with: RAQol (Lower values – > benefit) (MCID 2)",
+                "Pain (follow up: 1 year; assessed with: VAS 0-100 (Lower values – > benefit) (MCID -11.9)",
+                "Serious adverse events (follow up: 1 year)",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Withdrawal due to adverse events (follow up: 1 year)",
+                "Death (follow up: 1 year)",
+                "CVD (follow up: 1 year)",
+                "Malignancy (follow up: 1 year)"
+            ],
+            "Switch to IL-6 Receptor Inhibitor": [
+                "Disease activity (follow up: 6 months; assessed with: DAS 28-ESR)",
+                "Low disease activity (follow up: 6 months; assessed with: DAS28-ESR <3.2)",
+                "Pain (follow up: 6 months; assessed with: VAS 100)",
+                "Disability (follow up: 6 months; assessed with: HAQ-DI)",
+                "Withdrawal due to adverse events (follow up: 1 year)",
+                "Withdrawal due to lack of efficacy (follow up: 6 months)"
+            ],
+            "Continue same management": [
+                "Disease activity (follow up: 4 months; assessed with: ACR 20)",
+                "Disease activity (follow up: 4 months; assessed with: ACR 50)",
+                "Disease activity (follow up: 4 months; assessed with: DAS28-ESR)",
+                "Remission (follow up: 4 months; assessed with: DAS28-ESR <2.6)",
+                "Radiographic progression (follow up: 4 months; assessed with: Sharp/ van der Heijde)",
+                "Serious adverse events (follow up: 4 months)",
+                "Serious adverse events (from SR of harms)",
+                "Withdrawal due to adverse events (follow up: 4 months)"
+            ]
+        }
+    },
+    {
+        "Index": "25",
+        "Question": "Should patients with RA on their 2nd TNF Inhibitor who are NOT at target, switch to a 3rd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "P": "Patients with RA on their 2nd TNF Inhibitor who are not at target",
+        "I": "Switching to a 3rd TNF Inhibitor",
+        "C": [
+            "Switch to Abatacept",
+            "Switch to Rituximab",
+            "Switch to IL-6 Receptor Inhibitor",
+            "Switch to JAK Inhibitor",
+            "Continue same management"
+        ],
+        "O": {
+            "Switch to Abatacept": [
+                "Disease activity (follow up: 1 year; assessed with: ACR 20)",
+                "Disease activity (follow up: 1 year; assessed with: ACR 50)",
+                "Disease activity (follow up: 1 year; assessed with: ACR 70)",
+                "Remission (follow up: 1 year; assessed with: DAS28-ESR <2.6)",
+                "Disease activity (follow up: 1 year; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Quality of life (follow up: 1 year; assessed with: RAQol (Lower values – > benefit) (MCID 2)",
+                "Pain (follow up: 1 year; assessed with: VAS 0-100 (Lower values – > benefit) (MCID -11.9)",
+                "Serious adverse events (follow up: 1 year)",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Withdrawal due to adverse events (follow up: 1 year)",
+                "Death (follow up: 1 year)",
+                "Malignancy (follow up: 1 year)",
+                "Cardiovascular disease (follow up: 1 year)",
+                "Serious adverse events (from SR of harms)"
+            ],
+            "Switch to Rituximab": [
+                "Disease activity (follow up: 6 months; assessed with DAS 28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Low disease activity (follow up: 6 months; assessed with DAS28 ≤ 3.2)",
+                "Disability (follow up: 1 year; assessed with HAQ-DI (Lower values – > benefit) (MCID -0.22 )",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Withdrawal due to adverse events (follow up: 1 year)"
+            ],
+            "Continue same management": [
+                "Disease activity (follow up: 4 months; assessed with: ACR 20)",
+                "Disease activity (follow up: 4 months; assessed with: ACR 50)",
+                "Disease activity (follow up: 4 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Remission (follow up: 4 months; assessed with: DAS28-ESR <2.6)",
+                "Radiographic progression (follow up: 4 months; assessed with: Sharp/ van der Heijde (Lower values – > benefit) (MCID 4.6)",
+                "Serious adverse events (follow up: 4 months)",
+                "Withdrawal due to adverse events (follow up: 4 months)",
+                "Serious adverse events (from SR of harms)"
+            ]
+        }
+    },
+    {
+        "Index": "26",
+        "Question": "Should patients with RA on their first IL-6 Receptor Inhibitor who are NOT at target, switch to a 2nd IL-6 Receptor Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "P": "Patients with RA on their first IL-6 Receptor Inhibitor who are not at target",
+        "I": "Switch to a 2nd IL-6 Receptor Inhibitor",
+        "C": [
+            "Switch to Abatacept",
+            "Switch to Rituximab",
+            "Switch to TNF Inhibitor",
+            "Switch to JAK Inhibitor",
+            "Continue same management"
+        ]
+    },
+    {
+        "Index": "27",
+        "Question": "Should patients with RA on their first JAK Inhibitor who are NOT at target, switch to a 2nd JAK Inhibitor or switch to a boDMARD?",
+        "P": "Patients with RA on their first JAK Inhibitor who are not at target",
+        "I": "Switch to a 2nd JAK Inhibitor",
+        "C": [
+            "Switch to Abatacept",
+            "Switch to Rituximab",
+            "Switch to TNF Inhibitor",
+            "Switch to IL-6 Receptor Inhibitor",
+            "Continue same management"
+        ]
+    },
+    {
+        "Index": "28",
+        "Question": "Should patients with RA on DMARDs who are NOT at target receive IA corticosteroids alone or add/switch DMARDs or IA corticosteroids and add/switch DMARD(s)?",
+        "P": "Patients with RA on DMARDs who are not at target",
+        "I": "IA steroids",
+        "C": [
+            "Add/Switch DMARD(s)",
+            "IA steroids and add/switch DMARD(s)"
+        ],
+        "O": {
+            "add/Switch DMARD(s)": [
+                "Disease activity (follow up: 3 months; assessed with: ACR 20)",
+                "Disease activity (follow up: 3 months; assessed with: ACR 50)",
+                "Disease activity (follow up: 3 months; assessed with: ACR 70)",
+                "Disease activity (follow up: 3 months; assessed with: DAS28-ESR)",
+                "Disability (follow up: 3 months; assessed with: HAQ-DI)"
+            ]
+        }
+    },
+    {
+        "Index": "52",
+        "Question": "Should patients with RA on DMARDs who are in low disease activity gradually taper off DMARDs, abruptly withdraw DMARDs, or continue DMARDS at the same doses?",
+        "P": "Patients with RA on DMARDs who are in low disease activity",
+        "I": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "C": [
+            "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+            "Continue DMARDs at same doses"
+        ],
+        "O": {
+            "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": [
+                "Disease activity (follow up: range 9 months to 12 months; assessed with: DAS28-ESR)",
+                "Flare (follow up: range 6 months to 12 months)",
+                "Radiographic progression (follow up: range 9 months to 12 months; assessed with: mTSS)",
+                "Fatigue (follow up: range 9 months to 12 months; assessed with: FACIT-F)",
+                "Quality of Life (follow up: 9 months; assessed with: SF-36 PCS)",
+                "Quality of Life (follow up: 9 months; assessed with: SF-36 MCS)",
+                "Disability (follow up: 12 months; assessed with: HAQ-DI)",
+                "Pain (follow up: 12 months; assessed with: VAS Pain)",
+                "Withdrawal due to lack of efficacy (follow up: 12 months)",
+                "Withdrawal due to adverse events (follow up: range 9 months to 12 months)",
+                "Serious adverse events (follow up: range 9 months to 12 months)",
+                "Malignancy (follow up: range 9 months to 12 months)",
+                "Death (follow up: 12 months)"
+            ],
+            "Continue DMARDs at same doses": [
+                "Disease activity (follow up: 1 year; assessed with: DAS28-ESR)",
+                "Flare (follow up: range 11 months to 18 months)",
+                "Radiographic progression (follow up: 1 year; assessed with: mTSS)",
+                "Fatigue (follow up: 1 year; assessed with: FACIT-F)",
+                "Pain (follow up: 1 year; assessed with: VAS pain (0-100))",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI)",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Withdrawal due to adverse events (follow up: 1 year)",
+                "Serious adverse events (follow up: 1 year)",
+                "Malignancy (follow up: 1 year)",
+                "Death (follow up: 1 year)"
+            ]
+        }
+    },
+    {
+        "Index": "53",
+        "Question": "Should patients with RA on DMARDs who are in remission gradually taper off DMARDs, abruptly withdraw DMARDs, or continue DMARDS at the same doses?",
+        "P": "Patients with RA on DMARDs in remission",
+        "I": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "C": [
+            "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+            "Continue DMARDs at same doses"
+        ],
+        "O": {
+            "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": [
+                "Disease activity (follow up: 9 months; assessed with: ACR 20)",
+                "Disease activity (follow up: 9 months; assessed with: ACR 50)",
+                "Disease activity (follow up: 9 months; assessed with: ACR 70)",
+                "Disease activity (follow up: 9 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Remission (follow up: 9 months; assessed with: DAS28ESR < 2.6)",
+                "Flare (follow up: 12 months)",
+                "Radiographic progression (follow up: 9 months; assessed with: mTSS (Lower values – > benefit) (MCID 4.6)",
+                "Quality of Life (follow up: 9 months; assessed with: SF-36 PCS (Higher values – > benefit) (MCID 4.4)",
+                "Quality of Life (follow up: 9 months; assessed with: SF-36 MCS (Higher values – > benefit) (MCID 3.1)",
+                "Fatigue (follow up: 9 months; assessed with: FACIT-F (Higher values – > benefit) (MCID 15.9)",
+                "Withdrawal due to adverse events (follow up: 9 months)",
+                "Serious adverse events (follow up: 9 months)"
+            ]
+        }
+    },
+    {
+        "Index": "54a",
+        "Question": "Should patients with RA on two or more DMARDs who are at target for less than six months withdraw DMARDs or continue DMARDs?",
+        "P": "Patients with RA on two or more DMARDs at target for less than six months",
+        "I": "Withdraw one DMARD (or more than one DMARD as long as the patient remains on at least one DMARD)",
+        "C": [
+            "Continue current therapy"
+        ],
+        "O": {
+            "Continue current therapy": [
+                "Disease activity (follow up: 1 year; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Remission (follow up: 1 year; assessed with: DAS28-ESR <2.6)",
+                "Flare (follow up: range 7 months to 12 months)",
+                "Radiographic progression (follow up: 1 year; assessed with: mTSS (Lower values – > benefit) (MCID 4.6)",
+                "Fatigue (follow up: 1 year; assessed with: FACIT-F (Higher values – > benefit) (MCID 15.9)",
+                "Pain (follow up: 1 year; assessed with: VAS pain (0-100) (Lower values – > benefit) (MCID -11.9)",
+                "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Quality of Life (follow up: 1 year; assessed with: EuroQol-5 (Higher values – > benefit) (MCID 0.1)",
+                "Withdrawal due to lack of efficacy (follow up: 1 year)",
+                "Withdrawal due to adverse events (follow up: 1 year)",
+                "Serious adverse events (follow up: 1 year)",
+                "Malignancy (follow up: 1 year)"
+            ]
+        }
+    },
+    {
+        "Index": "54b",
+        "Question": "Should patients with RA on two or more DMARDs who are at target for six months and longer withdraw DMARDs or continue DMARDs?",
+        "P": "Patients with RA on two or more DMARDs at target for six months and longer",
+        "I": "Withdraw one DMARD (or more than one DMARD as long as the patient remains on at least one DMARD)",
+        "C": [
+            "Continue current therapy"
+        ],
+        "O": {
+            "Continue current therapy": [
+                "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Flare (follow up: range 11 months to 18 months)",
+                "Disability (follow up: 3 months; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)"
+            ]
+        }
+    },
+    {
+        "Index": "55",
+        "Question": "Should patients with RA on DMARDs and low dose GCs (≤ 10mg per day) who are at target taper off or continue low dose GCs?",
+        "P": "Patients with RA on DMARDs and low dose GCs (≤ 10mg per day) who are at target",
+        "I": "Taper off low dose GCs",
+        "C": [
+            "Continue low dose GCs"
+        ]
+    },
+    {
+        "Index": "56",
+        "Question": "Should patients with RA on DMARD monotherapy who are in remission gradually taper off DMARD, abruptly withdraw DMARD, or continue DMARD at the same dose?",
+        "P": "Patients with RA on DMARD monotherapy who are in remission",
+        "I": "Taper off DMARD",
+        "C": [
+            "Abruptly withdraw DMARD",
+            "Continue DMARD at same dose"
+        ]
+    },
+    {
+        "Index": "57",
+        "Question": "Should patients with RA on DMARD monotherapy who are in low disease activity gradually taper off DMARD, abruptly withdraw DMARD, or continue DMARD at the same dose?",
+        "P": "Patients with RA on DMARD monotherapy who are in low disease activity",
+        "I": "Taper off DMARD",
+        "C": [
+            "Abruptly withdraw DMARD",
+            "Continue DMARD at same dose"
+        ],
+        "O": {
+            "Abruptly withdraw DMARD": [
+                "Relapse (follow up: 1 year; assessed with DAS28 CRP>2.7 )"
+            ]
+        }
+    },
+    {
+        "Index": "58",
+        "Question": "Should patients with RA on triple therapy (MTX + SSZ + HCQ) who are at target withdraw (taper off or abruptly stop) MTX or withdraw (taper off or abruptly stop) alternative csDMARDs?",
+        "P": "Patients with RA on triple therapy who are at target",
+        "I": "Withdraw (taper off or abruptly stop) MTX",
+        "C": [
+            "Withdraw (taper off or abruptly stop) alternative csDMARDs",
+            "Continue same management"
+        ]
+    },
+    {
+        "Index": "59",
+        "Question": "Should patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target withdraw (taper off or abruptly stop) MTX or withdraw (taper off or abruptly stop) the boDMARD or the tsDMARD?",
+        "P": "Patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target",
+        "I": "Withdraw (taper off or abruptly stop) MTX",
+        "C": [
+            "Withdraw (taper off or abruptly stop) the boDMARD or the tsDMARD",
+            "Continue same management"
+        ],
+        "O": {
+            "Continue same management": [
+                "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Disability (follow up: 3 months; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Quality of life (follow up: 3 months; assessed with: SF-36 PCS (Higher values – > benefit) (MCID 4.4)",
+                "Quality of life (follow up: 3 months; assessed with:  SF-36 MCS (Higher values – > benefit) (MCID 3.1)",
+                "Serious adverse events (follow up: 3 months)",
+                "Withdrawal due to lack of efficacy (follow up: 3 months)",
+                "Withdrawal due to adverse events (follow up: 3 months)",
+                "Death (follow up: 3 months)"
+            ]
+        }
+    },
+    {
+        "Index": "60",
+        "Question": "Should patients with RA on DMARD monotherapy who are at target lower the dose or increase the interval between doses or continue the DMARD at the same dose?",
+        "P": "Patients with RA on DMARD monotherapy in remission",
+        "I": "Continue DMARD at the same dose",
+        "C": [
+            "Lower the dose of the DMARD",
+            "Increase the interval between DMARD doses"
+        ]
+    },
+    {
+        "Index": "61",
+        "Question": "Should patients with RA on MTX + boDMARD or tsDMARD who are at target continue MTX at the same dose or lower the dose of MTX? (boDMARD or tsDMARD continued at same dose)",
+        "P": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "I": "Continue MTX at the same dose",
+        "C": [
+            "Lower the dose of MTX"
+        ]
+    },
+    {
+        "Index": "62",
+        "Question": "Should patients with RA on MTX + boDMARD or tsDMARD who are at target continue the boDMARD or tsDMARD at the same dose or lower the dose or increase the interval between doses of the boDMARD or tsDMARD (MTX continued at same dose)?",
+        "P": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "I": "Continue the same dose of the boDMARD or tsDMARD",
+        "C": [
+            "Lower the dose of the boDMARD or tsDMARD",
+            "Increase the interval between the doses of the boDMARD or tsDMARD"
+        ],
+        "O": {
+            "lower the dose of the boDMARD or tsDMARD": [
+                "Disease activity (follow up: range 6 months to 12 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Flare (follow up: range 6 months to 12 months)",
+                "Radiographic progression (follow up: range 6 months to 12 months; assessed with: Larsen/Sharp (Lower values – > benefit) (values > 0.2 are considered clinically important)",
+                "Fatigue (follow up: range 6 months to 12 months; assessed with: FACIT-F (Higher values – > benefit) (MCID 15.9)",
+                "Pain (follow up: range 6 months to 12 months; assessed with: VAS pain (0-100) (Lower values – > benefit) (MCID -11.9)",
+                "Disability (follow up: range 6 months to 12 months; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)",
+                "Quality of Life (follow up: range 6 months to 12 months; assessed with: EQ-5D (Higher values – > benefit) (MCID 0.1)",
+                "Withdrawal due to adverse events (follow up: 1 year)",
+                "Serious adverse events (follow up: range 6 months to 12 months)",
+                "Cardiovascular disease (follow up: 6 months)",
+                "Malignancy (follow up: 1 year)",
+                "Death (follow up: 1 year)"
+            ],
+            "increase the interval between the doses of the boDMARD or tsDMARD": [
+                "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)",
+                "Flare (follow up: 18 months)",
+                "Disability (follow up: 3 months; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)"
+            ]
+        }
+    },
+    {
+        "Index": "63",
+        "Question": "Should patients with RA on MTX + boDMARD or tsDMARD who are at target lower the dose of MTX or lower the dose or increase the interval between doses of the boDMARD or tsDMARD?",
+        "P": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "I": "Lower the dose of MTX",
+        "C": [
+            "Lower the dose of the boDMARD or tsDMARD",
+            "Increase the interval between doses of boDMARD or tsDMARD"
+        ]
+    },
+    {
+        "Index": "64",
+        "Question": "Should patients with RA with (progressive) subcutaneous nodules, who are NOT at target and are not on MTX, start MTX or alternative DMARDs?",
+        "P": "Patients with RA and (progressive) subcutaneous nodules, who are not at target, are not on MTX",
+        "I": "Start MTX",
+        "C": [
+            "Start alternative csDMARD mono or combination therapy",
+            "Start TNF Inhibitor",
+            "Start Abatacept",
+            "Start Rituximab",
+            "Start IL-6 Receptor Inhibitor",
+            "Start JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "65",
+        "Question": "Should patients with RA with (progressive) subcutaneous nodules, who are at target and are on MTX, continue MTX or switch to alternative DMARD(s)?",
+        "P": "Patients with RA and (progressive) subcutaneous nodules who are at target and are on MTX",
+        "I": "Continue MTX",
+        "C": [
+            "Switch to alternative csDMARD mono or combination therapy",
+            "Switch to TNF Inhibitor",
+            "Switch to Abatacept",
+            "Switch to Rituximab",
+            "Switch to IL-6 Receptor Inhibitor",
+            "Switch to JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "66",
+        "Question": "Should patients with RA who have persistent hypogammaglobulinemia after RTX treatment continue RTX or switch to csDMARD mono or combination therapy or to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "P": "Patients with RA who have persistent hypogammaglobulinemia after RTX treatment",
+        "I": "Continue RTX",
+        "C": [
+            "Switch to csDMARD mono or combination therapy",
+            "Switch to TNF Inhibitor",
+            "Switch to Abatacept",
+            "Switch to IL-6 Receptor Inhibitor",
+            "Switch to JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "67",
+        "Question": "Should patients with RA who have clinical parenchymal lung disease receive MTX or alternative DMARD(s) for treatment of joint disease?",
+        "P": "Patients with RA and parenchymal lung disease",
+        "I": "MTX",
+        "C": [
+            "Alternative csDMARD mono or combination therapy",
+            "TNF Inhibitor",
+            "Abatacept",
+            "Rituximab",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "70",
+        "Question": "Should patients with RA with CHF NYHA class III or IV with inadequate response to csDMARDs add a TNF Inhibitor or a boDMARD targeting a different molecule or a tsDMARD?",
+        "P": "Patients with RA with CHF class III or IV with inadequate response to csDMARDs",
+        "I": "Add TNF Inhibitor",
+        "C": [
+            "Add Abatacept",
+            "Add Rituximab",
+            "Add IL-6 Receptor Inhibitor",
+            "Add JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "71",
+        "Question": "Should patients with RA who are at target on a TNF Inhibitor and who develop CHF continue the TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "P": "Patients with RA who are at target on TNF Inhibitor and who develop CHF",
+        "I": "Continue TNF Inhibitor",
+        "C": [
+            "Switch to Abatacept",
+            "Switch to Rituximab",
+            "Switch to IL-6 Receptor Inhibitor",
+            "Switch to JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "72",
+        "Question": "Should patients with RA with an inadequate response to csDMARDs, who have had non-melanoma skin cancer, receive a TNF Inhibitor or a boDMARD targeting a different molecule or a tsDMARD?",
+        "P": "Patients with RA with inadequate response to csDMARDs, who have had non-melanoma skin cancer",
+        "I": "TNF Inhibitor",
+        "C": [
+            "Abatacept",
+            "Rituximab",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "73",
+        "Question": "Should patients with RA with inadequate response to csDMARDs, who have had melanoma, receive a TNF Inhibitor or a boDMARD targeting a different molecule or a tsDMARD?",
+        "P": "Patients with RA with inadequate response to csDMARDs, who have had melanoma",
+        "I": "TNF Inhibitor",
+        "C": [
+            "Abatacept",
+            "Rituximab",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "74",
+        "Question": "Should patients with DMARD-naïve RA with a previously treated lymphoproliferative disorder, who have low disease activity, receive csDMARDs or RTX?",
+        "P": "Patients with DMARD-naïve RA with a previously treated lymphoproliferative disorder, who have low disease activity",
+        "I": "csDMARDs",
+        "C": [
+            "RTX"
+        ]
+    },
+    {
+        "Index": "75",
+        "Question": "Should patients with DMARD-naïve RA who have moderate to high disease activity and a previously treated lymphoproliferative disorder receive csDMARDs or RTX?",
+        "P": "Patients with DMARD-naïve RA with a previously treated lymphoproliferative disorder who have moderate to high disease activity",
+        "I": "csDMARDs",
+        "C": [
+            "RTX"
+        ]
+    },
+    {
+        "Index": "76",
+        "Question": "Should patients with RA with inadequate response to csDMARDs and a previously treated lymphoproliferative disorder receive RTX or a boDMARD targeting a different molecule or a tsDMARD?",
+        "P": "Patients with RA with inadequate response to csDMARDs and a previously treated lymphoproliferative disorder",
+        "I": "RTX",
+        "C": [
+            "Abatacept",
+            "TNF Inhibitor",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "77",
+        "Question": "Should patients with RA with inadequate response to csDMARDs and a previously treated lymphoproliferative disorder, who are NOT eligible for RTX, receive a boDMARD targeting a different molecule or a tsDMARD?",
+        "P": "Patients with RA with inadequate response to csDMARDs and a previously treated lymphoproliferative disorder, and who are NOT eligible for RTX",
+        "I": "JAK Inhibitor",
+        "C": [
+            "Abatacept",
+            "TNF Inhibitor",
+            "IL-6 Receptor Inhibitor"
+        ]
+    },
+    {
+        "Index": "78",
+        "Question": "Should patients with RA with inadequate response to csDMARD monotherapy and a remote history (≥ 5 years) of solid organ cancer and no known residual disease receive triple therapy (MTX or LEF + SSZ + HCQ) or a boDMARD or tsDMARD?",
+        "P": "Patients with RA with inadequate response to csDMARD monotherapy and a remote history of solid organ cancer",
+        "I": "Triple therapy (MTX or LEF + SSZ + HCQ)",
+        "C": [
+            "TNF Inhibitor",
+            "Abatacept",
+            "Rituximab",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "79",
+        "Question": "Should patients with RA with inadequate response to csDMARD monotherapy with recently treated (< 5 years) solid organ cancer receive triple therapy (MTX or LEF + SSZ + HCQ) or a boDMARD or tsDMARD?",
+        "P": "Patients with RA with inadequate response to csDMARD monotherapy and recently treated (< 5 years) solid organ cancer",
+        "I": "Triple therapy",
+        "C": [
+            "TNF Inhibitor",
+            "Abatacept",
+            "Rituximab",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "80",
+        "Question": "Should patients with RA in low disease activity or remission, who are on DMARD(s) and are being treated with a check-point Inhibitor for cancer, stop or continue DMARDs?",
+        "P": "Patients with RA in low disease activity or remission on DMARD(s), receiving a check-point Inhibitor for cancer",
+        "I": "Stop DMARDs",
+        "C": [
+            "Continue DMARDs"
+        ]
+    },
+    {
+        "Index": "81",
+        "Question": "Should patients with RA with moderate to high disease activity, who are being treated with a check-point Inhibitor for cancer, receive GCs or DMARDs?",
+        "P": "Patients with RA with moderate to high disease activity receiving a check-point Inhibitor for cancer",
+        "I": "GCs",
+        "C": [
+            "csDMARDs",
+            "TNF Inhibitor",
+            "Abatacept",
+            "Rituximab",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "82",
+        "Question": "Should patients with RA and low or very low risk of reactivation of Hepatitis B, who are initiating RTX, undergo frequent monitoring or start prophylactic anti-viral therapy?",
+        "P": "Patients with RA and low or very low risk of reactivation of Hepatitis B, who are initiating RTX",
+        "I": "Frequent monitoring",
+        "C": [
+            "Prophylactic anti-viral therapy"
+        ]
+    },
+    {
+        "Index": "83",
+        "Question": "Should patients with RA and low or very low risk of reactivation of Hepatitis B, who are initiating boDMARD or tsDMARD other than RTX, undergo frequent monitoring or start prophylactic anti-viral therapy?",
+        "P": "Patients with RA and low or very low risk of reactivation of Hepatitis B, who are initiating boDMARD or tsDMARD other than RTX",
+        "I": "Frequent monitoring",
+        "C": [
+            "Prophylactic anti-viral therapy"
+        ]
+    },
+    {
+        "Index": "84",
+        "Question": "Should patients with RA and moderate to very high risk of reactivation of Hepatitis B, who are initiating boDMARD or tsDMARDs, undergo frequent monitoring or start prophylactic anti-viral therapy?",
+        "P": "Patients with RA and moderate to very high risk of reactivation of Hepatitis B, who are initiating boDMARD or tsDMARDs",
+        "I": "Frequent monitoring",
+        "C": [
+            "Prophylactic anti-viral therapy"
+        ]
+    },
+    {
+        "Index": "85",
+        "Question": "Should patients with DMARD-naïve RA and chronic untreated Hepatitis C receive MTX or alternative DMARDs?",
+        "P": "Patients with DMARD-naïve RA and chronic untreated Hepatitis C",
+        "I": "MTX",
+        "C": [
+            "Alternative csDMARD mono or combination therapy",
+            "TNF Inhibitor",
+            "Abatacept",
+            "Rituximab",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "86",
+        "Question": "Should patients with RA with an inadequate response to csDMARDs, and who have chronic untreated Hepatitis C, receive a TNF Inhibitor or a boDMARD targeting a different molecule or a tsDMARD?",
+        "P": "Patients with RA with inadequate response to csDMARDs, and who have chronic untreated Hepatitis",
+        "I": "TNF Inhibitor",
+        "C": [
+            "Abatacept",
+            "Rituximab",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "87",
+        "Question": "Should patients with RA and NAFLD or NASH receive MTX or alternative DMARDs?",
+        "P": "patients with DMARD-naïve RA and NAFLD or NASH",
+        "I": "MTX",
+        "C": [
+            "Alternative DMARDs",
+            "TNF Inhibitor",
+            "Abatacept",
+            "Rituximab",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "88",
+        "Question": "Should patients with RA with inadequate response to MTX and/or LEF, who have moderate to high disease activity and a prior serious infection within 3 years, add HCQ and SSZ or a boDMARD or tsDMARD?",
+        "P": "Patients with RA with inadequate response to MTX and/or LEF, moderate to high disease activity, and a prior serious infection within 3 years",
+        "I": "Add SSZ and HCQ",
+        "C": [
+            "Add TNF Inhibitor",
+            "Add Abatacept",
+            "Add Rituximab",
+            "Add IL-6 Receptor Inhibitor",
+            "Add JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "89",
+        "Question": "Should patients with RA with inadequate response to csDMARDs, who have moderate to high disease activity and a prior serious infection within 3 years, receive abatacept or a boDMARD targeting a different molecule or a tsDMARD?",
+        "P": "Patients with RA with inadequate response to csDMARDs, moderate to high disease activity, and a prior serious infection within 3 years",
+        "I": "Abatacept",
+        "C": [
+            "TNF Inhibitor",
+            "Rituximab",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "90",
+        "Question": "Should patients with RA with inadequate response to csDMARDs, who have moderate to high disease activity and a prior serious infection within 3 years, receive low dose GCs (≤ 10mg per day) or a boDMARD or tsDMARD?",
+        "P": "Patients with RA with inadequate response to csDMARDs, moderate to high disease activity, and a prior serious infection within 3 years",
+        "I": "Low dose GCs (≤ 10mg/day)",
+        "C": [
+            "TNF Inhibitor",
+            "Abatacept",
+            "Rituximab",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "91",
+        "Question": "Should patients with RA with inadequate response to csDMARDs, who have moderate to high disease activity and a prior serious infection within 3 years, on low dose GCs (≤ 10mg per day), receive GCs 11-20mg per day or a boDMARD or tsDMARD?",
+        "P": "Patients with RA with inadequate response to csDMARDs, moderate to high disease activity, a prior serious infection within 3 years, and on low dose GCs (≤10mg per day)",
+        "I": "GCs 11-20mg per day",
+        "C": [
+            "TNF Inhibitor",
+            "Abatacept",
+            "Rituximab",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "92",
+        "Question": "Should patients with RA with inadequate response to MTX and/or LEF, who have moderate to high disease activity and are on treatment for MAC, add HCQ and SSZ or a boDMARD or tsDMARD?",
+        "P": "Patients with RA with inadequate response to MTX and/or LEF, moderate to high disease activity, on treatment for MAC",
+        "I": "Add SSZ and HCQ",
+        "C": [
+            "TNF Inhibitor",
+            "Abatacept",
+            "Rituximab",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "93",
+        "Question": "Should patients with RA with inadequate response to csDMARDs, who have moderate to high disease activity and are on treatment for MAC, receive a TNF Inhibitor or a boDMARD targeting a different molecule or a tsDMARD?",
+        "P": "Patients with RA with inadequate response to csDMARDs, moderate to high disease activity, on treatment for MAC",
+        "I": "TNF Inhibitor",
+        "C": [
+            "Abatacept",
+            "Rituximab",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ]
+    },
+    {
+        "Index": "94",
+        "Question": "Should patients with RA with inadequate response to csDMARDs, who have moderate to high disease activity and are on treatment for MAC, receive low dose GCs (≤ 10mg per day) or a boDMARD or tsDMARD?",
+        "P": "Patients with RA with inadequate response to csDMARDs, moderate to high disease activity, on treatment for MAC",
+        "I": "GCs ≤ 10mg per day",
+        "C": [
+            "TNF Inhibitor",
+            "Abatacept",
+            "Rituximab",
+            "IL-6 Receptor Inhibitor",
+            "JAK Inhibitor"
+        ]
+    }
+]

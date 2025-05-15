@@ -1,0 +1,578 @@
+[
+    {
+        "outcome_uid": "385f342d",
+        "clinical_question": "Should patients with RA on DMARDs who are in remission gradually taper off DMARDs, Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD), or continue DMARDS at the same doses?",
+        "population": "Patients with RA on DMARDs in remission",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Disease activity (follow up: 9 months; assessed with: ACR 20)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "0570bda2"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment, incomplete outcome data and selective reporting."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Taper off DMARDs": "56/63 (88.9%)",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "48/63 (76.2%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.17 (0.99 to 1.37)",
+                    "Absolute Effect (95% CI)": "130 more per 1,000 (from 8 fewer to 282 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "f40b654c",
+        "clinical_question": "Should patients with RA on DMARDs who are in remission gradually taper off DMARDs, Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD), or continue DMARDS at the same doses?",
+        "population": "Patients with RA on DMARDs in remission",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Disease activity (follow up: 9 months; assessed with: ACR 50)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "0570bda2"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment, incomplete outcome data and selective reporting."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Taper off DMARDs": "49/63 (77.8%)",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "45/63 (71.4%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.09 (0.89 to 1.34)",
+                    "Absolute Effect (95% CI)": "64 more per 1,000 (from 79 fewer to 243 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "098828e1",
+        "clinical_question": "Should patients with RA on DMARDs who are in remission gradually taper off DMARDs, Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD), or continue DMARDS at the same doses?",
+        "population": "Patients with RA on DMARDs in remission",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Disease activity (follow up: 9 months; assessed with: ACR 70)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "0570bda2"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment, incomplete outcome data and selective reporting."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Taper off DMARDs": "45/63 (71.4%)",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "39/63 (61.9%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.15 (0.90 to 1.48)",
+                    "Absolute Effect (95% CI)": "93 more per 1,000 (from 62 fewer to 297 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "24130573",
+        "clinical_question": "Should patients with RA on DMARDs who are in remission gradually taper off DMARDs, Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD), or continue DMARDS at the same doses?",
+        "population": "Patients with RA on DMARDs in remission",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Disease activity (follow up: 9 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "0570bda2"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment, incomplete outcome data and selective reporting."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Taper off DMARDs": "63",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "65"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.7 lower (1.25 lower to 0.15 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "e47f6881",
+        "clinical_question": "Should patients with RA on DMARDs who are in remission gradually taper off DMARDs, Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD), or continue DMARDS at the same doses?",
+        "population": "Patients with RA on DMARDs in remission",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Remission (follow up: 9 months; assessed with: DAS28ESR < 2.6)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "0570bda2"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment, incomplete outcome data and selective reporting."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Taper off DMARDs": "50/63 (79.4%)",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "35/65 (53.8%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.47 (1.14 to 1.91)",
+                    "Absolute Effect (95% CI)": "253 more per 1,000 (from 75 more to 490 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "60ef53f1",
+        "clinical_question": "Should patients with RA on DMARDs who are in remission gradually taper off DMARDs, Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD), or continue DMARDS at the same doses?",
+        "population": "Patients with RA on DMARDs in remission",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Flare (follow up: 12 months)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "506166f3"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Very low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Taper off DMARDs": "3/126 (2.4%)",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "10/79 (12.7%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.19 (0.05 to 0.66)",
+                    "Absolute Effect (95% CI)": "103 fewer per 1,000 (from 120 fewer to 43 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "bc6321b5",
+        "clinical_question": "Should patients with RA on DMARDs who are in remission gradually taper off DMARDs, Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD), or continue DMARDS at the same doses?",
+        "population": "Patients with RA on DMARDs in remission",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Radiographic progression (follow up: 9 months; assessed with: mTSS (Lower values \u2013 > benefit) (MCID 4.6)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "0570bda2"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment, incomplete outcome data and selective reporting."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Taper off DMARDs": "63",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "65"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.1 higher (0.34 lower to 0.54 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "7d800e7a",
+        "clinical_question": "Should patients with RA on DMARDs who are in remission gradually taper off DMARDs, Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD), or continue DMARDS at the same doses?",
+        "population": "Patients with RA on DMARDs in remission",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Quality of Life (follow up: 9 months; assessed with: SF-36 PCS (Higher values \u2013 > benefit) (MCID 4.4)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "4e39bd02"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment, incomplete outcome data and selective reporting."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Taper off DMARDs": "63",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "65"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 2.3 higher (0.47 lower to 5.07 higher)(The study PRIZE found that the RR of improvement in SF-36 PCS (\u2265 5 change from baseline) was 1.03 (95%CI 0.86 to 1.24), absolute risk increase 23 more per 1000 (95%CI 108 fewer to 185 more).)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "21da4e90",
+        "clinical_question": "Should patients with RA on DMARDs who are in remission gradually taper off DMARDs, Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD), or continue DMARDS at the same doses?",
+        "population": "Patients with RA on DMARDs in remission",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Quality of Life (follow up: 9 months; assessed with: SF-36 MCS (Higher values \u2013 > benefit) (MCID 3.1)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "4e39bd02"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment, incomplete outcome data and selective reporting."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Taper off DMARDs": "63",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "65"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 1.8 higher (0.97 lower to 4.57 higher)(The study PRIZE found that the RR of improvement in SF-36 MCS (\u2265 5 change from baseline) was 1.27 (95%CI 0.91 to 1.78), absolute risk increase 125 more per 1000 (95%CI 42 fewer to 360 more).)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "cdaead90",
+        "clinical_question": "Should patients with RA on DMARDs who are in remission gradually taper off DMARDs, Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD), or continue DMARDS at the same doses?",
+        "population": "Patients with RA on DMARDs in remission",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Fatigue (follow up: 9 months; assessed with: FACIT-F (Higher values \u2013 > benefit) (MCID 15.9)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "4e39bd02"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment, incomplete outcome data and selective reporting."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Taper off DMARDs": "63",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "65"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 1.8 higher (1.25 lower to 4.85 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "470f4c10",
+        "clinical_question": "Should patients with RA on DMARDs who are in remission gradually taper off DMARDs, Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD), or continue DMARDS at the same doses?",
+        "population": "Patients with RA on DMARDs in remission",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Withdrawal due to adverse events (follow up: 9 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "0570bda2"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment, incomplete outcome data and selective reporting."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Very low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Taper off DMARDs": "3/63 (4.8%)",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "0/65 (0.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 7.22 (0.38 to 136.98)",
+                    "Absolute Effect (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "57cf7c47",
+        "clinical_question": "Should patients with RA on DMARDs who are in remission gradually taper off DMARDs, Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD), or continue DMARDS at the same doses?",
+        "population": "Patients with RA on DMARDs in remission",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Serious adverse events (follow up: 9 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "0570bda2"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment, incomplete outcome data and selective reporting."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Very low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Taper off DMARDs": "3/63 (4.8%)",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "2/65 (3.1%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.55 (0.27 to 8.95)",
+                    "Absolute Effect (95% CI)": "17 more per 1,000 (from 22 fewer to 245 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

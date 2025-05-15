@@ -1,0 +1,22 @@
+{
+    "Disability (follow up: 2 years; assessed with: HAQ)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious", "a"],
+      "Other considerations": "none",
+      "No of patients": {
+        "csDMARDs + long-term low-dose GCs": ["77","b"],
+        "csDMARDs monotherapy": ["74","c"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 0.22 higher (0.02 lower to 0.46 higher)"
+      },
+      "Certainty": "LOW",
+      "Importance": "IMPORTANT"
+    }
+  }
+  

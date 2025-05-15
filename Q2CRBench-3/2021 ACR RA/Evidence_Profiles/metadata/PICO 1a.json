@@ -1,0 +1,39 @@
+{
+    "Question": "Should patients with MTX-naïve and non-MTX csDMARDs naïve RA and low disease activity receive MTX monotherapy or an alternative csDMARD monotherapy?",
+    "Comparison": {
+        "MTX monotherapy versus SSZ. Data based on indirect RCT evidence.": {
+            "filename": "PICO 1a_Comparison 2.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious risk of bias. Lack of allocation and lack of blinding of outcome assessors of non-radiographic outcomes in the study with the higher weight,",
+                "b": "I2= 41%",
+                "c": "Downgraded by one level due to serious indirectness. The evidence is based on a population with moderate to high disease activity. ",
+                "d": "Downgraded by one level due to serious imprecision. Small sample size. ",
+                "e": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size. ",
+                "f": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Small sample size and low number of events. ",
+                "g": "I2= 44%",
+                "h": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect. Small sample size. "
+            }
+        },
+        "MTX monotherapy versus LEF. Data based on indirect RCT evidence.": {
+            "filename": "PICO 1a_Comparison 3.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and lack of blinding of patients, personnel, and outcome assessors.",
+                "b": "Downgraded by one level due to serious indirectness. The evidence is based on a population with moderate to high disease activity."
+            }
+        },
+        "SSZ versus HCQ. Data based on indirect RCT evidence.": {
+            "filename": "PICO 1a_Comparison 4.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment.",
+                "b": "Downgraded by one level due to serious indirectness. The evidence is based on a population with moderate to high disease activity.",
+                "c": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting harm and values suggesting benefit. Small sample size."
+            }
+        }
+    },
+    "References": {
+        "1": "Dougados M. Combination therapy in early rheumatoid arthritis: a randomised, controlled, double blind 52 week clinical trial of sulphasalazine and methotrexate compared with the single components. Annals of the Rheumatic Diseases. 1999;58(4):220.",
+        "2": "Haagsma C, van Riel P, de Jong A, van de Putte L. Combination of sulphasalazine and methotrexate versus the single components in early rheumatoid arthritis: a randomized, controlled, double-blind, 52 week clinical trial. British Journal of Rheumatology. 1997;36(10):1082.",
+        "3": "Zeb S. Comparison of short-term efficacy of leflunomide and methotrexate in active rheumatoid arthritis. Journal of Postgraduate Medical Institute. 2016;30(2):177.",
+        "4": "Nuver Zwart IH, van Riel PL, van de Putte LB, Gribnau FW. A double blind comparative study of sulphasalazine and hydroxychloroquine in rheumatoid arthritis: evidence of an earlier effect of sulphasalazine. Annals of the Rheumatic Diseases. 1989;48(5):389."
+    }
+}

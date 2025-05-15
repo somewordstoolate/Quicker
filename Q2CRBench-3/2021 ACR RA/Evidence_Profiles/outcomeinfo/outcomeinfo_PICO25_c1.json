@@ -1,0 +1,695 @@
+[
+    {
+        "outcome_uid": "703e261b",
+        "clinical_question": "Should patients with RA on their 2nd TNF Inhibitor who are NOT at target, switch to a 3rd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their 2nd TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 3rd TNF Inhibitor",
+        "comparator": "Switch to Abatacept",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 20)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "b6823603"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on their first TNF Inhibitor who are NOT at target and the intervention is second TNFi rather than third TNFi."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to ABA": "11/31 (35.5%)",
+                    "switch to a 3rd TNFi": "17/31 (54.8%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.65 (0.37 to 1.15)",
+                    "Absolute Effect (95% CI)": "192 fewer per 1,000 (from 345 fewer to 82 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "b191c642",
+        "clinical_question": "Should patients with RA on their 2nd TNF Inhibitor who are NOT at target, switch to a 3rd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their 2nd TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 3rd TNF Inhibitor",
+        "comparator": "Switch to Abatacept",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 50)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "b6823603"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on their first TNF Inhibitor who are NOT at target and the intervention is second TNFi rather than third TNFi."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to ABA": "6/32 (18.8%)",
+                    "switch to a 3rd TNFi": "9/31 (29.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.65 (0.26 to 1.60)",
+                    "Absolute Effect (95% CI)": "102 fewer per 1,000 (from 215 fewer to 174 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "fe967f2c",
+        "clinical_question": "Should patients with RA on their 2nd TNF Inhibitor who are NOT at target, switch to a 3rd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their 2nd TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 3rd TNF Inhibitor",
+        "comparator": "Switch to Abatacept",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 70)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "b6823603"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on their first TNF Inhibitor who are NOT at target and the intervention is second TNFi rather than third TNFi."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to ABA": "3/32 (9.4%)",
+                    "switch to a 3rd TNFi": "5/31 (16.1%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.58 (0.15 to 2.23)",
+                    "Absolute Effect (95% CI)": "68 fewer per 1,000 (from 137 fewer to 198 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "7dea6221",
+        "clinical_question": "Should patients with RA on their 2nd TNF Inhibitor who are NOT at target, switch to a 3rd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their 2nd TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 3rd TNF Inhibitor",
+        "comparator": "Switch to Abatacept",
+        "outcome": "Remission (follow up: 1 year; assessed with: DAS28-ESR <2.6)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "b6823603",
+            "fba7b4bd"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding and lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on their first TNF Inhibitor who are NOT at target and the intervention is second TNFi rather than third TNFi."
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to ABA": "6/76 (7.9%)",
+                    "switch to a 3rd TNFi": "17/80 (21.3%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.38 (0.16 to 0.91)",
+                    "Absolute Effect (95% CI)": "132 fewer per 1,000 (from 179 fewer to 19 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "b05e05ed",
+        "clinical_question": "Should patients with RA on their 2nd TNF Inhibitor who are NOT at target, switch to a 3rd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their 2nd TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 3rd TNF Inhibitor",
+        "comparator": "Switch to Abatacept",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "b6823603",
+            "fba7b4bd"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding and lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on their first TNF Inhibitor who are NOT at target and the intervention is second TNFi rather than third TNFi."
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Very small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to ABA": "76",
+                    "switch to a 3rd TNFi": "80"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.45 higher (0.02 higher to 0.88 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "262f21a0",
+        "clinical_question": "Should patients with RA on their 2nd TNF Inhibitor who are NOT at target, switch to a 3rd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their 2nd TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 3rd TNF Inhibitor",
+        "comparator": "Switch to Abatacept",
+        "outcome": "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values \u2013 > benefit) (MCID -0.22)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "b6823603",
+            "fba7b4bd"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding and lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on their first TNF Inhibitor who are NOT at target and the intervention is second TNFi rather than third TNFi."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Very small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to ABA": "77",
+                    "switch to a 3rd TNFi": "81"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.04 higher (0.17 lower to 0.25 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "36e2d748",
+        "clinical_question": "Should patients with RA on their 2nd TNF Inhibitor who are NOT at target, switch to a 3rd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their 2nd TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 3rd TNF Inhibitor",
+        "comparator": "Switch to Abatacept",
+        "outcome": "Quality of life (follow up: 1 year; assessed with: RAQol (Lower values \u2013 > benefit) (MCID 2)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "b6823603"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on their first TNF Inhibitor who are NOT at target and the intervention is second TNFi rather than third TNFi."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to ABA": "34",
+                    "switch to a 3rd TNFi": "30"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 1.5 lower (6.36 lower to 3.36 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "e276091a",
+        "clinical_question": "Should patients with RA on their 2nd TNF Inhibitor who are NOT at target, switch to a 3rd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their 2nd TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 3rd TNF Inhibitor",
+        "comparator": "Switch to Abatacept",
+        "outcome": "Pain (follow up: 1 year; assessed with: VAS 0-100 (Lower values \u2013 > benefit) (MCID -11.9)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "b6823603"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on their first TNF Inhibitor who are NOT at target and the intervention is second TNFi rather than third TNFi."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to ABA": "34",
+                    "switch to a 3rd TNFi": "31"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 2.5 higher (14.99 lower to 19.99 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "78b9741b",
+        "clinical_question": "Should patients with RA on their 2nd TNF Inhibitor who are NOT at target, switch to a 3rd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their 2nd TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 3rd TNF Inhibitor",
+        "comparator": "Switch to Abatacept",
+        "outcome": "Serious adverse events (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "b6823603",
+            "fba7b4bd"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding and lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on their first TNF Inhibitor who are NOT at target and the intervention is second TNFi rather than third TNFi."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to ABA": "5/63 (7.9%)",
+                    "switch to a 3rd TNFi": "1/65 (1.5%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 3.75 (0.64 to 22.11)",
+                    "Absolute Effect (95% CI)": "42 more per 1,000 (from 6 fewer to 325 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "cbb8c64a",
+        "clinical_question": "Should patients with RA on their 2nd TNF Inhibitor who are NOT at target, switch to a 3rd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their 2nd TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 3rd TNF Inhibitor",
+        "comparator": "Switch to Abatacept",
+        "outcome": "Withdrawal due to lack of efficacy (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "b6823603"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on their first TNF Inhibitor who are NOT at target and the intervention is second TNFi rather than third TNFi."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to ABA": "3/41 (7.3%)",
+                    "switch to a 3rd TNFi": "2/41 (4.9%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.50 (0.26 to 8.51)",
+                    "Absolute Effect (95% CI)": "24 more per 1,000 (from 36 fewer to 366 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "6a8389af",
+        "clinical_question": "Should patients with RA on their 2nd TNF Inhibitor who are NOT at target, switch to a 3rd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their 2nd TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 3rd TNF Inhibitor",
+        "comparator": "Switch to Abatacept",
+        "outcome": "Withdrawal due to adverse events (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "b6823603"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on their first TNF Inhibitor who are NOT at target and the intervention is second TNFi rather than third TNFi."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to ABA": "1/41 (2.4%)",
+                    "switch to a 3rd TNFi": "0/41 (0.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 3.00 (0.13 to 71.56)",
+                    "Absolute Effect (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "72a3aeea",
+        "clinical_question": "Should patients with RA on their 2nd TNF Inhibitor who are NOT at target, switch to a 3rd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their 2nd TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 3rd TNF Inhibitor",
+        "comparator": "Switch to Abatacept",
+        "outcome": "Death (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "b6823603"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on their first TNF Inhibitor who are NOT at target and the intervention is second TNFi rather than third TNFi."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to ABA": "1/41 (2.4%)",
+                    "switch to a 3rd TNFi": "0/41 (0.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 3.00 (0.13 to 71.56)",
+                    "Absolute Effect (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "33aadb87",
+        "clinical_question": "Should patients with RA on their 2nd TNF Inhibitor who are NOT at target, switch to a 3rd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their 2nd TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 3rd TNF Inhibitor",
+        "comparator": "Switch to Abatacept",
+        "outcome": "Malignancy (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "fba7b4bd"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding and lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on their first TNF Inhibitor who are NOT at target and the intervention is second TNFi rather than third TNFi."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to ABA": "0/22 (0.0%)",
+                    "switch to a 3rd TNFi": "0/24 (0.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "not estimable",
+                    "Absolute Effect (95% CI)": "",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "024aa2ae",
+        "clinical_question": "Should patients with RA on their 2nd TNF Inhibitor who are NOT at target, switch to a 3rd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their 2nd TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 3rd TNF Inhibitor",
+        "comparator": "Switch to Abatacept",
+        "outcome": "Cardiovascular disease (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "fba7b4bd"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding and lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population on their first TNF Inhibitor who are NOT at target and the intervention is second TNFi rather than third TNFi."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size, low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Switch to ABA": "1/22 (4.5%)",
+                    "switch to a 3rd TNFi": "2/24 (8.3%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.55 (0.05 to 5.60)",
+                    "Absolute Effect (95% CI)": "37 fewer per 1,000 (from 79 fewer to 383 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "e0cf3c4a",
+        "clinical_question": "Should patients with RA on their 2nd TNF Inhibitor who are NOT at target, switch to a 3rd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on their 2nd TNF Inhibitor who are not at target",
+        "intervention": "Switch to a 3rd TNF Inhibitor",
+        "comparator": "Switch to Abatacept",
+        "outcome": "Serious adverse events (from SR of harms)",
+        "related_paper_list": [
+            "a1e03f7a"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "result_interpretation": "The Systematic Review RefID=1403, 2017 comparing Rituximab vs Etanercept, Adalimumab, Certolizumab, Golimumab, and Infliximab among RA showed that for Serious adverse events, the result was RR=1.13 (0.79 to 1.62) [Low certainty], RR=1.24 (0.89 to 1.73) [Low certainty], RR=1.56 (1.03 to 2.37) [Moderate certainty], RR=1.15 (0.71 to 1.86) [Very low certainty], and RR=1.20 (0.082 to 1.74) [Low certainty] respectively. All are Indirect evidence.",
+                "Study design": "Systematic Review"
+            }
+        }
+    }
+]

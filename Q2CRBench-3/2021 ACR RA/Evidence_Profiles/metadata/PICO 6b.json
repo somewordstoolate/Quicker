@@ -1,0 +1,77 @@
+{
+    "Question": "Should patients with MTX-naïve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive MTX monotherapy or boDMARD with MTX or tsDMARD with MTX?",
+    "Comparison": {
+        "TNF Inhibitor + MTX versus MTX monotherapy": {
+            "filename": "PICO 6b_Comparison 1.json",
+            "Explanations": {
+                "a": "TNFis includes Etanercept, Adalimumab, Certolizumab, Golimumab and Infliximab.",
+                "b": "I2=17%",
+                "c": "According to the Cochrane's handbook, Cohen suggested that SMD=0.2 be considered a 'small' effect size, 0.5 represents a 'medium' effect size and 0.8 a 'large' effect size. This means that if two groups' means do not differ by 0.2 standard deviations or more, the difference is trivial, even if it is statistically significant.",
+                "d": "Downgraded by two levels due to very serious inconsistency. I2=90%.",
+                "e": "I2=55%",
+                "f": "Rated down by one level for imprecision, as CI includes both values suggesting benefits and values suggesting no effect. According to the Cochrane's handbook, Cohen suggested that SMD=0.2 be considered a 'small' effect size, 0.5 represents a 'medium' effect size and 0.8 a 'large' effect size. This means that if two groups' means do not differ by 0.2 standard deviations or more, the difference is trivial, even if it is statistically significant.",
+                "g": "Downgraded by two levels due to very serious inconsistency. I2=85%",
+                "h": "Downgraded by two levels due to very serious inconsistency. I2=92%",
+                "i": "The studies PREMIER, COMET and ASPIRE found that the RR of improvement in HAQ-DI (≥0.22 change from baseline) at 1-2 years was 1.05 (95%CI 0.87 to 1.28), absolute risk increase 36 more per 1000 (95%CI 94 fewer to 201 more).",
+                "j": "Downgraded by two levels due to very serious inconsistency. I2=88%",
+                "k": "I2=42%",
+                "l": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm.",
+                "m": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Low number of events."
+            }
+        },
+        "Abatacept + MTX versus MTX monotherapy ": {
+            "filename": "PICO 6b_Comparison 2.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and lack of blinding of non-radiographic outcome assessors.",
+                "b": "The study AGREE found that the RR of developing no radiographic progression (change in mTSS ≤0) was 1.6 (95%CI 0.99 to 1.36), absolute risk increase 84 more per 1000 (95%CI 5 fewer to 190 more).",
+                "c": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit.",
+                "d": "The studies AGREE and AVERT found that the RR of improvement in HAQ-DI (≥0.3 change from baseline) was 1.25 (95%CI 1.12 to 1.39), absolute risk increase 141 more per 1000 (95%CI 668 more to 220 more).",
+                "e": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm.",
+                "f": "Downgraded by two levels due to serious imprecision. Confidence interval includes both values suggesting harm and values suggesting benefit. Low number of events.",
+                "g": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting harm and values suggesting benefit."
+            }
+        },
+        "Rituximab + MTX versus MTX monotherapy": {
+            "filename": "PICO 6b_Comparison 3.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment.",
+                "b": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit.",
+                "c": "The study IMAGE found that the RR of improvement in HAQ-DI (≥0.22 change from baseline) was 1.12 (95%CI 1.03 to 1.21), absolute risk increase 93 more per 1000 (95%CI 23 more to 162 more).",
+                "d": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm."
+            }
+        },
+        "IL-6 Receptor Inhibitor + MTX versus MTX monotherapy": {
+            "filename": "PICO 6b_Comparison 4.json",
+            "Explanations": {
+                "a": "Rated down by one level for lack of allocation concealment",
+                "b": "Rated down by one level for imprecision as the CI includes both values suggesting no effect and values suggesting harm",
+                "c": "Rated down by two levels for imprecision as the CI includes both values suggesting benefit and values suggesting harm"
+            }
+        }
+    },
+    "References": {
+        "1": "Atsumi Tea. The first double-blind, randomised, parallel-group certolizumab pegol study in methotrexate-naive early rheumatoid arthritis patients with poor prognostic factors, C-OPERA, shows inhibition of radiographic progression. Ann Rheum Dis BMJ. 2016;75:75-83.",
+        "2": "Kavanaugh A. Clinical, functional and radiographic consequences of achieving stable low disease activity and remission with adalimumab plus methotrexate or methotrexate alone in early rheumatoid arthritis: 26-week results from the randomised, controlled OPTIMA study. Annals of the Rheumatic Diseases. 2013;72(1):64.",
+        "3": "Emery P. Golimumab, a human anti-tumor necrosis factor alpha monoclonal antibody, injected subcutaneously every four weeks in methotrexate-naive patients with active rheumatoid arthritis: Twenty-four-week results of a phase III, multicenter, randomized, double-blind, placebo-controlled study of golimumab before methotrexate as first-line therapy for early-onset rheumatoid arthritis. Arthritis and Rheumatism. 2009;60(8):2272.",
+        "4": "Bejarano V. Effect of the early use of the anti-tumor necrosis factor adalimumab on the prevention of job loss in patients with early rheumatoid arthritis. Arthritis Care and Research. 2008;59(10):1467.",
+        "5": "Emery P. Comparison of methotrexate monotherapy with a combination of methotrexate and etanercept in active, early, moderate to severe rheumatoid arthritis (COMET): a randomised, double-blind, parallel treatment trial. Lancet. 2008;372(9636):375.",
+        "6": "Durez P, Malghem J, Toukap AN, Depresseux G, Lauwerys BR, Westhovens R, et al. Treatment of early rheumatoid arthritis: a randomized magnetic resonance imaging study comparing the effects of methotrexate alone, methotrexate in combination with infliximab, and methotrexate in combination with intravenous pulse methylprednisolone. Arthritis & Rheumatism. 2007;56(12):3919.",
+        "7": "Moreland LW, Zhang J. A randomized comparative effectiveness study of oral triple therapy versus etanercept plus methotrexate in early aggressive rheumatoid arthritis: The treatment of early aggressive rheumatoid arthritis trial. Arthritis and Rheumatism. 2012;64(9):2824.",
+        "8": "Breedveld FC, Weisman MH, Kavanaugh AF, Cohen SB, Pavelka K, Vollenhoven Rv, et al. The PREMIER study: A multicenter, randomized, double-blind clinical trial of combination therapy with adalimumab plus methotrexate versus methotrexate alone or adalimumab alone in patients with early, aggressive rheumatoid arthritis who had not had previous methotrexate treatment. Arthritis & Rheumatism. 2006;54(1):26.",
+        "9": "Clair EWS, Heijde DMvd, Smolen JS, Maini RN, Bathon JM, Emery P, et al. Combination of infliximab and methotrexate therapy for early rheumatoid arthritis: A randomized, controlled trial. Arthritis and Rheumatism. 2004;50(11):3432.",
+        "10": "VIBEKE STRAND AMR, MARY A. CIFALDI, NAIJUN CHEN, SANJOY ROY, and DENNIS REVICKI. Health-related Quality of Life Outcomes of Adalimumab for Patients with Early Rheumatoid Arthritis: Results from a Randomized Multicenter Study. The Journal of Rheumatology. 2012;39(1):63-72.",
+        "11": "Kekow Jea. Patient-reported outcomes improve with etanercept plus methotrexate in active early rheumatoid arthritis and the improvement is strongly associated with remission: the COMET trial. Ann Rheum Dis BMJ. 2010;69:222-5.",
+        "12": "Emery Pea. Two-Year Clinical and Radiographic Results With Combination Etanercept–Methotrexate Therapy Versus Monotherapy in Early Rheumatoid Arthritis. ARTHRITIS & RHEUMATISM. 2010;62(3):674-82.",
+        "13": "Lopez-Olivo MAT, J.H; Martinez-Lopez, J.A.; Pollono, E.N.; Cueto, J.P.; Gonzales-Crespo, M.R.; Fulton, S.; Suarez-Almazor, M.E. Risk of malignancies in patients with rheumatoid arthritis treated with biologic therapy: a meta-analysis. JAMA. 2012;308(9):898.",
+        "14": "Westhovens Rea. Clinical efficacy and safety of abatacept in methotrexate-naive patients with early rheumatoid arthritis and poor prognostic factors. Ann Rheum Dis BMJ. 2009;68(12):1870-7.",
+        "15": "Emery P. Evaluating drug-free remission with abatacept in early rheumatoid arthritis: Results from the phase 3b, multicentre, randomised, active-controlled AVERT study of 24 months, with a 12-month, double-blind treatment period. Annals of the Rheumatic Diseases. 2015;74(1):19.",
+        "16": "Tak PPea. Sustained inhibition of progressive joint damage with rituximab plus methotrexate in early active rheumatoid arthritis: 2-year results from the randomised controlled trial IMAGE. Ann Rheum Dis BMJ. 2011;71(3):351-7.",
+        "17": "RIGBY WF, G.; GREENWALD, M.; ZAZUETA-MONTIEL, B.; et. al. Effect of Rituximab on Physical Function and Quality of Life in Patients With Rheumatoid Arthritis Previously Untreated With Methotrexate. American College of Rheumatology. 2011;63(5):711-20.",
+        "18": "Burmester GR. Tocilizumab in early progressive rheumatoid arthritis: FUNCTION, a randomised controlled trial. Annals of the Rheumatic Diseases. 2016;75(6):1081.",
+        "19": "Campbell LC, C.; Bhagat, S. S.; Parker, R. A.; Ostor, A. J. K. Risk of adverse events including serious infections in rheumatoid arthritis patients treated with tocilizumab: a systematic literature review and meta-analysis of randomized controlled trials. Rheumatology (Oxford academic). 2010;50(3):552-62.",
+        "20": "Emery P, Smolen JS, Ganguli A, Meerwein S, Bao Y, Kupper H, et al. Effect of adalimumab on the work-related outcomes scores in patients with early rheumatoid arthritis receiving methotrexate. Rheumatology. 2016;55(8):1458.",
+        "21": "Stephens S ea. Modelling the cost-effectiveness of combination therapy for early, rapidly progressing rheumatoid arthritis by simulating the reversible and irreversible effects of the disease. BMJ Open. 2015;5.",
+        "22": "van Vollenhoven RFea. Improvement in Work Place and Household Productivity for Patients With Early Rheumatoid Arthritis Treated With Adalimumab Plus Methotrexate: Work Outcomes and Their Correlations With Clinical and Radiographic Measures From a Randomized Controlled Trial Companion Study. Arthritis Care & Research. 2010;62(2):226–34.",
+        "23": "Aslam A, et al. The effect of etanercept on work productivity in patients with early active rheumatoid arthritis: results from the COMET study. Rheumatology. 2009;48:1283-9."
+    }
+}

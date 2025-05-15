@@ -1,0 +1,281 @@
+{
+    "Disease activity (follow up: 6 months; assessed with: ACR 20)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to IL6i": "132/184 (71.7%)",
+            "Switch to TNFi": "108/185 (58.4%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.23 (1.06 to 1.43)",
+            "Absolute (95% CI)": "134 more per 1,000 (from 35 more to 251 more)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "CRITICAL"
+    },
+
+    "Disease activity (follow up: 6 months; assessed with: ACR 50)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to IL6i": "84/184 (45.7%)",
+            "Switch to TNFi": "55/185 (29.7%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.54 (1.17 to 2.02)",
+            "Absolute (95% CI)": "161 more per 1,000 (from 51 more to 303 more)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "CRITICAL"
+    },
+
+    "Disease activity (follow up: 6 months; assessed with: ACR 70)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to IL6i": "43/184 (23.4%)",
+            "Switch to TNFi": "22/185 (11.9%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.97 (1.23 to 3.15)",
+            "Absolute (95% CI)": "115 more per 1,000 (from 27 more to 256 more)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "CRITICAL"
+    },
+
+    "Disease activity (follow up: range 4 months to 6 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)": {
+        "No of studies": ["3", "4"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "b"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to IL6i": "347",
+            "Switch to TNFi": "347"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 1.11 lower (1.34 lower to 0.87 lower)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "CRITICAL"
+    },
+
+    "Remission (follow up: 6 months; assessed with: DAS28 ESR <2.6)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to IL6i": "49/184 (26.6%)",
+            "Switch to TNFi": "13/185 (7.0%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 3.79 (2.13 to 6.74)",
+            "Absolute (95% CI)": "196 more per 1,000 (from 79 more to 403 more)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "CRITICAL"
+    },
+
+    "Disability (follow up: range 4 months to 6 months; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)": {
+        "No of studies": ["3", "4"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "b"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to IL6i": "347",
+            "Switch to TNFi": "347"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": ["MD 0.16 lower (0.27 lower to 0.05 lower)", "d"]
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Quality of life (follow up: 6 months; assessed with: SF-36 PCS (Higher values – > benefit) (MCID 4.4)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to IL6i": "184",
+            "Switch to TNFi": "185"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": ["MD 2.6 higher (0.94 higher to 4.26 higher)", "e"]
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "IMPORTANT"
+    },
+
+    "Quality of life (follow up: 6 months; assessed with: SF-36 MCS (Higher values – > benefit) (MCID 3.1)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to IL6i": "184",
+            "Switch to TNFi": "185"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": ["MD 1.1 higher (1.12 lower to 3.32 higher)", "f"]
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Fatigue (follow up: 6 months; assessed with: FACIT-F (Higher values – > benefit) (MCID 15.9)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to IL6i": "184",
+            "Switch to TNFi": "185"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 1.8 higher (0.14 lower to 3.74 higher)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "IMPORTANT"
+    },
+
+    "Death (follow up: 6 months)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "g"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to IL6i": "1/184 (0.5%)",
+            "Switch to TNFi": "0/184 (0.0%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 3.00 (0.12 to 73.17)",
+            "Absolute (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Pain (follow up: 6 months; assessed with: VAS 0-100 (Lower values – > benefit) (MCID -11.9)": {
+        "No of studies": "5",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to IL6i": "184",
+            "Switch to TNFi": "185"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 8.78 lower (9.15 lower to 8.41 lower)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "IMPORTANT"
+    },
+
+    "Serious adverse events (follow up: 6 months)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "h"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to IL6i": "9/184 (4.9%)",
+            "Switch to TNFi": "12/184 (6.5%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.75 (0.32 to 1.74)",
+            "Absolute (95% CI)": "16 fewer per 1,000 (from 44 fewer to 48 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Withdrawal due to lack of effect (follow up: 6 months)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "h"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to IL6i": "2/184 (1.1%)",
+            "Switch to TNFi": "4/185 (2.2%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.50 (0.09 to 2.71)",
+            "Absolute (95% CI)": "11 fewer per 1,000 (from 20 fewer to 37 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Withdrawal due to adverse events (follow up: 6 months)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "h"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch to IL6i": "11/184 (6.0%)",
+            "Switch to TNFi": "15/184 (8.2%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.73 (0.35 to 1.55)",
+            "Absolute (95% CI)": "22 fewer per 1,000 (from 53 fewer to 45 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    }
+}

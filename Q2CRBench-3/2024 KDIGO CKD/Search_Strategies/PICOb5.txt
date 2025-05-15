@@ -1,0 +1,32 @@
+Effects of angiography or coronary revascularization among people with CKD and ischemic heart disease (Search date: March 2023)
+PubMed 
+1. “Coronary artery disease”[mh]
+2. Arterioscleros*[tiab] OR atheroscleros*[tiab] OR coronary[tiab] OR ischemi*[tiab] OR occlusion*[tiab] OR STEMI[tiab] OR18 NSTEMI*[tiab] OR angina[tiab] OR ACS[tiab] OR “myocardial infarction”[tiab] OR “acute coronary syndrome”[tiab]
+3. #1 OR #2
+4. “Kidney failure, chronic”[mh]
+5. Kidney[tiab] OR renal[tiab] OR CKD[tiab]
+6. #4 OR #5
+7. #3 AND #6
+8. “Percutaneous coronary intervention”[mh]
+9. “Percutaneous coronary”[tiab] OR PCI[tiab] OR stent[tiab]
+10. “Coronary artery bypass”[mh]
+11. Graft[tiab] OR CABG[tiab] OR surgery[tiab] OR “coronary artery bypass”[tiab]
+12. #8 OR #9 OR #10 OR #11
+13. “Drug therapy”[mh]
+14. (((((Medici*[tiab]) OR (Drug[tiab])) OR (Conservative[tiab])) OR (OMT[tiab])) OR (MT[tiab])) OR (Pharmacotherap*[tiab]) OR “optimal medication”[tiab]
+15. #13 OR #14
+16. #7 AND #12 AND #15
+17. "Randomized controlled trial"[pt]
+18. "Controlled clinical trial"[pt]
+19. Randomized[tiab]
+20. Placebo[tiab]
+21. "Drug therapy"[sh]
+22. Randomly[tiab]
+23. Trial[tiab]
+24. Groups[tiab]
+25. #17 OR #18 OR #19 OR #20 OR #21 OR #22 OR #23 OR #24
+26. #16 AND #25
+27. Animals[mh] NOT humans[mh]
+28. #26 NOT #27
+29. Review[pt]
+30. #28 NOT #29

@@ -1,0 +1,34 @@
+Effect of non-vitamin K antagonist oral anticoagulants (NOAC) with or without warfarin among people with CKD and atrial fibrillation (Search date: March 2023)
+PubMed 
+1. “Atrial fibrillation”[mh]
+2. “Atrial fibrillation”[tiab]
+3. “Auricular fibrillation”[tiab]
+4. #1 OR #2 OR #3
+5. New[tiab] AND anticoagulant*[tiab]
+6. Dabigatran[mh] OR dabigatran[tiab]
+7. Apixaban[SC] OR apixaban[tiab]
+8. Rivaroxaban[mh] OR rivaroxaban[tiab]
+9. Edoxaban[sc] OR edoxaban[tiab]
+10. Direct thrombin inhibit*[tiab]
+11. Anticoagulants[mh] AND “Factor Xa”[mh]
+12. Factor xa inhibit*[tiab]
+13. #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12
+14. #4 AND #13
+15. "Randomized controlled trial"[pt]
+16. "Controlled clinical trial"[pt]
+17. Randomized[tiab]
+18. Placebo[tiab]
+19. "Drug therapy"[sh]
+20. Randomly[tiab]
+21. Trial[tiab]
+22. Groups[tiab]
+23. #15 OR #16 OR #17 OR #18 OR #19 OR #20 OR #21 OR #22
+24. #14 AND #23
+25. 2016:2023 [dp]
+26. #24 AND #25
+27. Animals[mh] NOT humans[mh]
+28. #26 NOT #27
+29. Review[pt]
+30. #28 NOT #29
+31. 2016/08/01:2023/03/15[dp]
+32. #30 AND #31

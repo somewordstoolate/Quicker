@@ -1,0 +1,191 @@
+{
+    "Question": "Should patients with dementia (without previous stroke) and atrial fibrillation and indication for treatment with anti-coagulants be treated with anti-coagulants?",
+    "References": {
+        "1": "Treatment of Atrial Fibrillation in Patients with Dementia: A Cohort Study from the Swedish Dementia Registry Subic A, Cermakova P, Religa D, Han S, von Euler M, Kareholt I, Johnell K, Fastbom J, Bognandi L, Winblad B, Kramberger MG, Eriksdotter M, Garcia-Ptacek S J Alz Dis 2018;61(3):1119-1128"
+    },
+    "Characteristics": {
+        "1": [
+            {
+                "Total study population": "3724",
+                "Patients not treated": "2181",
+                "Baseline age (mean (SD))": "82.3 (6.5) (patients without treatment); 80.8 (5.8) (patients with treatment)",
+                "Baseline MMSE (median (IQR))": "21 (7); (patients without treatment); 23 (5) (patients with treatment)"
+            },
+            "a"
+        ]
+    },
+    "Explanations": {
+        "a": "Data on the stroke-free population was provided by the authors of the original paper",
+        "b": "Risk of bias for this observational study was carried out using The Newcastle-Ottawa Scale (NOS) for assessing the quality of non-randomized studies in meta-analyses. The study received maximum score on all items except one. There is no data on previous hemorrhagic events in the population, and hence no way to ascertain whether patients were not treated due to previous hemorrhagic events. This may introduce bias, since the reason for not anticoagulating may be affected by this. See Supplementary table S4 for further detail.",
+        "c": "Only one study, therefore not possible to assess",
+        "d": "Population (Stroke-free patients with atrial fibrillation), intervention (Treatment with warfarin) and outcome (Major hemorrhagic event, ischemic stroke, mortality) measures are deemed to be adequately similar to those in the PICO question. The summary data were provided by the author for the stroke-free population of the original cohort published in the original study (Subic et al 2018)",
+        "e": "Only data from one study. CI straddles 1.0. Optimal information size (OIS) was not met (control event rate 0.066; total events 144 observed; total events required 220-660 (RRR 20-30 %). Less than 400 events but more than 100. Wide confidence intervals.",
+        "f": "Hazard ratio (95 % confidence interval)",
+        "g": "Only data from one study. CI straddles 1.0. Optimal information size (OIS) was met (control event rate 0.364; total events 630 observed; total events required 200-450 (RRR 20-30 %). Wide confidence intervals",
+        "h": "Only data from one study. CI straddles 1.0. Optimal information size (OIS) was not met (control event rate 0.053; total events 95 observed; total events required 230-670 (RRR 20-30 %). Less than 100 events."
+    },
+    "Outcome": {
+        "Major hemorrhagic event": {
+            "No of studies": [
+                "1"
+            ],
+            "Study design": "observational studies",
+            "Risk of bias": [
+                "None",
+                "b"
+            ],
+            "Inconsistency": [
+                "N/A",
+                "c"
+            ],
+            "Indirectness": [
+                "No serious",
+                "d"
+            ],
+            "Imprecision": [
+                "Serious",
+                "e"
+            ],
+            "Publication bias": [
+                "No serious"
+            ],
+            "Other considerations": [
+                "None"
+            ],
+            "Risk": {
+                "No treatment (comparator) mean (SD)": {
+                    "1": [
+                        "66/1000"
+                    ]
+                },
+                "Treatment with anticoagulants (intervention) mean (SD)": {
+                    "1": [
+                        "76/1000"
+                    ]
+                }
+            },
+            "Effect": {
+                "Mean difference": {
+                    "1": [
+                        "1.07 (0.82 - 1.39)",
+                        "f"
+                    ]
+                }
+            },
+            "Certainty": [
+                "VERY LOW"
+            ],
+            "Importance": [
+                "CRITICAL"
+            ]
+        },
+        "Mortality": {
+            "No of studies": [
+                "1"
+            ],
+            "Study design": "observational studies",
+            "Risk of bias": [
+                "None",
+                "b"
+            ],
+            "Inconsistency": [
+                "N/A",
+                "c"
+            ],
+            "Indirectness": [
+                "No serious",
+                "d"
+            ],
+            "Imprecision": [
+                "Serious",
+                "g"
+            ],
+            "Publication bias": [
+                "No serious"
+            ],
+            "Other considerations": [
+                "None"
+            ],
+            "Risk": {
+                "No treatment (comparator) mean (SD)": {
+                    "1": [
+                        "364/1000"
+                    ]
+                },
+                "Treatment with anticoagulants (intervention) mean (SD)": {
+                    "1": [
+                        "266/1000"
+                    ]
+                }
+            },
+            "Effect": {
+                "Mean difference": {
+                    "1": [
+                        "0.88 (0.77 - 1.01)",
+                        "f"
+                    ]
+                }
+            },
+            "Certainty": [
+                "VERY LOW"
+            ],
+            "Importance": [
+                "IMPORTANT"
+            ]
+        },
+        "Ischemic stroke": {
+            "No of studies": [
+                "1"
+            ],
+            "Study design": "observational studies",
+            "Risk of bias": [
+                "None",
+                "b"
+            ],
+            "Inconsistency": [
+                "N/A",
+                "c"
+            ],
+            "Indirectness": [
+                "No serious",
+                "d"
+            ],
+            "Imprecision": [
+                "Serious",
+                "h"
+            ],
+            "Publication bias": [
+                "No serious"
+            ],
+            "Other considerations": [
+                "None"
+            ],
+            "Risk": {
+                "No treatment (comparator) mean (SD)": {
+                    "1": [
+                        "53/1000"
+                    ]
+                },
+                "Treatment with anticoagulants (intervention) mean (SD)": {
+                    "1": [
+                        "42/1000"
+                    ]
+                }
+            },
+            "Effect": {
+                "Mean difference": {
+                    "1": [
+                        "0.74 (0.54 - 1.03)",
+                        "f"
+                    ]
+                }
+            },
+            "Certainty": [
+                "VERY LOW"
+            ],
+            "Importance": [
+                "CRITICAL"
+            ]
+        }
+    }
+}

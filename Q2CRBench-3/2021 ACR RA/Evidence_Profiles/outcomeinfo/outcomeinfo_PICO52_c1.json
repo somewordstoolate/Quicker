@@ -1,0 +1,633 @@
+[
+    {
+        "outcome_uid": "e9c6e061",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Disease activity (follow up: range 9 months to 12 months; assessed with: DAS28-ESR)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "d783a7f7",
+            "0570bda2"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "CI includes both values suggesting benefit and values suggesting no effect"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Taper off DMARDs": "264",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "262"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.95 lower (1.18 lower to 0.72 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "4a90bd05",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Flare (follow up: range 6 months to 12 months)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "506166f3",
+            "60bbc82c"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=78%"
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Small number of events"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Taper off DMARDs": "18/153 (11.8%)",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "30/102 (29.4%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.48 (0.32 to 0.71)",
+                    "Absolute Effect (95% CI)": "153 fewer per 1,000 (from 200 fewer to 85 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "de34d2eb",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Radiographic progression (follow up: range 9 months to 12 months; assessed with: mTSS)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d783a7f7",
+            "0570bda2"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Study contributing most of the weight is at risk of bias associated with missing data and selective outcome reporting"
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Taper off DMARDs": "247",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "232"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.09 higher (0.34 lower to 0.53 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "c72df777",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Fatigue (follow up: range 9 months to 12 months; assessed with: FACIT-F)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "48d24eba",
+            "4e39bd02"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "I2=16%"
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "HIGH",
+                "No of participants": {
+                    "Taper off DMARDs": "264",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "262"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 3.19 higher (1.53 higher to 4.85 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "45ead543",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Quality of Life (follow up: 9 months; assessed with: SF-36 PCS)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "4e39bd02"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Risk of bias associated with missing data and selective outcome reporting"
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "CI includes both values suggesting benefit and values suggesting no effect"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Taper off DMARDs": "63",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "65"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 2.3 higher (0.47 lower to 5.07 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "b3a0e27f",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Quality of Life (follow up: 9 months; assessed with: SF-36 MCS)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "4e39bd02"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Risk of bias associated with missing data and selective outcome reporting"
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "CI includes both values suggesting benefit and values suggesting no effect"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Taper off DMARDs": "63",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "65"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 1.8 higher (0.97 lower to 4.57 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "eb136673",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Disability (follow up: 12 months; assessed with: HAQ-DI)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d783a7f7"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "CI includes both values suggesting benefit and values suggesting no effect"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Taper off DMARDs": "201",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "197"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.2 lower (0.31 lower to 0.09 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "08ee8250",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Pain (follow up: 12 months; assessed with: VAS Pain)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d783a7f7"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "CI includes both values suggesting benefit and values suggesting no effect"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Taper off DMARDs": "201",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "197"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 12.6 lower (17.05 lower to 8.15 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "eb683e20",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Withdrawal due to lack of efficacy (follow up: 12 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d783a7f7"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Small number of events"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Taper off DMARDs": "11/202 (5.4%)",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "43/200 (21.5%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.25 (0.13 to 0.48)",
+                    "Absolute Effect (95% CI)": "161 fewer per 1,000 (from 187 fewer to 112 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "034432dc",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Withdrawal due to adverse events (follow up: range 9 months to 12 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d783a7f7",
+            "0570bda2"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Small number of events\nCI includes both values suggesting benefit and values suggesting harm"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Taper off DMARDs": "4/267 (1.5%)",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "6/265 (2.3%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.69 (0.21 to 2.26)",
+                    "Absolute Effect (95% CI)": "7 fewer per 1,000 (from 18 fewer to 29 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "1555510b",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Serious adverse events (follow up: range 9 months to 12 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d783a7f7",
+            "0570bda2"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Small number of events\nCI includes both values suggesting benefit and values suggesting harm"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Taper off DMARDs": "9/267 (3.4%)",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "17/265 (6.4%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.53 (0.24 to 1.16)",
+                    "Absolute Effect (95% CI)": "30 fewer per 1,000 (from 49 fewer to 10 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "673d6491",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Malignancy (follow up: range 9 months to 12 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d783a7f7",
+            "0570bda2"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Small number of events\nCI includes both values suggesting harm and values suggesting no effect"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Taper off DMARDs": "4/267 (1.5%)",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "1/265 (0.4%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 3.96 (0.45 to 35.12)",
+                    "Absolute Effect (95% CI)": "11 more per 1,000 (from 2 fewer to 129 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "c0dc5d1a",
+        "clinical_question": "Should patients with RA on their first TNF Inhibitor who are NOT at target, switch to a 2nd TNF Inhibitor or switch to a boDMARD targeting a different molecule or to a tsDMARD?",
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)",
+        "outcome": "Death (follow up: 12 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d783a7f7"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Small number of events"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Taper off DMARDs": "0/202 (0.0%)",
+                    "Abruptly withdraw DMARDs (as long as the patient remains on at least one DMARD)": "0/200 (0.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "not estimable",
+                    "Absolute Effect (95% CI)": "-",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

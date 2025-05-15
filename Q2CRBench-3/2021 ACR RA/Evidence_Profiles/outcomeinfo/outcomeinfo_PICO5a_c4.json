@@ -1,0 +1,736 @@
+[
+    {
+        "outcome_uid": "7c3df3e3",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 20)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "5fc10a78"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population exposed to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "IL-6i": "184/292 (63.0%)",
+                    "MTX monotherapy": "164/287 (57.1%)"
+                },
+                "Annotation": {
+                    "data": "1. IL-6i includes TCZ.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.10 (0.97 to 1.26)",
+                    "Absolute Effect (95% CI)": "57 more per 1,000 (from 17 fewer to 149 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "17214cb9",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 50)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "5fc10a78"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population exposed to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "IL-6i": "145/292 (49.7%)",
+                    "MTX monotherapy": "117/287 (40.8%)"
+                },
+                "Annotation": {
+                    "data": "1. IL-6i includes TCZ.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.22 (1.02 to 1.46)",
+                    "Absolute Effect (95% CI)": "90 more per 1,000 (from 8 more to 188 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "09a28767",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 70)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "5fc10a78"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population exposed to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "IL-6i": "107/292 (36.6%)",
+                    "MTX monotherapy": "84/287 (29.3%)"
+                },
+                "Annotation": {
+                    "data": "1. IL-6i includes TCZ.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.25 (0.99 to 1.58)",
+                    "Absolute Effect (95% CI)": "73 more per 1,000 (from 3 fewer to 170 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "58091cc4",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: DAS28-ESR (Lower values \u2013> benefit) (MCID -1.17)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "5fc10a78"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population exposed to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "IL-6i": "292",
+                    "MTX monotherapy": "287"
+                },
+                "Annotation": {
+                    "data": "1. IL-6i includes TCZ.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.96 lower (1.24 lower to 0.68 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "d6891f4f",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor",
+        "outcome": "Remission (follow up: 1 year; assessed with: DAS28-ESR <2.6)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "5fc10a78"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population exposed to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "IL-6i": "115/292 (39.4%)",
+                    "MTX monotherapy": "56/287 (19.5%)"
+                },
+                "Annotation": {
+                    "data": "1. IL-6i includes TCZ.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 2.02 (1.53 to 2.66)",
+                    "Absolute Effect (95% CI)": "199 more per 1,000 (from 103 more to 324 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "f1a9ad8a",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor",
+        "outcome": "Radiographic progression (follow up: 1 year; assessed with: mTSS (Lower values \u2013> benefit) (MCID 4.6)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "5fc10a78"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population exposed to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "IL-6i": "275",
+                    "MTX monotherapy": "267"
+                },
+                "Annotation": {
+                    "data": "1. IL-6i includes TCZ.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.88 lower (1.44 lower to 0.32 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "6e6642b7",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor",
+        "outcome": "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values \u2013 > benefit) (MCID -0.22)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "5fc10a78"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population exposed to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "IL-6i": "0",
+                    "MTX monotherapy": "0"
+                },
+                "Annotation": {
+                    "data": "1. IL-6i includes TCZ.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.03 lower (0.15 lower to 0.09 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "059a6185",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor",
+        "outcome": "Quality of life (follow up: 1 year; assessed with: SF-36 PCS (Higher values \u2013 > benefit) (MCID 4.4)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "5fc10a78"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population exposed to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "IL-6i": "0",
+                    "MTX monotherapy": "0"
+                },
+                "Annotation": {
+                    "data": "1. IL-6i includes TCZ.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.14 higher (0.13 lower to 0.41 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "650473d6",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor",
+        "outcome": "Quality of life (1 year) (follow up: 1 year; assessed with: SF-36 MCS (Higher values \u2013 > benefit) (MCID 3.1)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "5fc10a78"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population exposed to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "IL-6i": "0",
+                    "MTX monotherapy": "0"
+                },
+                "Annotation": {
+                    "data": "1. IL-6i includes TCZ.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.34 higher (0.68 lower to 1.36 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "10e6160f",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor",
+        "outcome": "Serious adverse events (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "5fc10a78"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population exposed to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "IL-6i": "25/292(8.6%)",
+                    "MTX monotherapy": "24/282 (8.5%)"
+                },
+                "Annotation": {
+                    "data": "1. IL-6i includes TCZ.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.01 (0.59 to 1.72)",
+                    "Absolute Effect (95% CI)": "1 more per 1,000 (from 35 fewer to 61 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "2290dc10",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor",
+        "outcome": "Withdrawal due to lack of efficacy (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "5fc10a78"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population exposed to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "IL-6i": "34/292(11.6%)",
+                    "MTX monotherapy": "21/282 (7.4%)"
+                },
+                "Annotation": {
+                    "data": "1. IL-6i includes TCZ.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.56 (0.93 to 2.63)",
+                    "Absolute Effect (95% CI)": "42 more per 1,000 (from 5 fewer to 121 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "1d58748f",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor",
+        "outcome": "Death (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "5fc10a78"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population exposed to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "IL-6i": "1/292 (0.3%)",
+                    "MTX monotherapy": "2/282 (0.7%)"
+                },
+                "Annotation": {
+                    "data": "1. IL-6i includes TCZ.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.48 (0.04 to 5.30)",
+                    "Absolute Effect (95% CI)": "4 fewer per 1,000 (from 7 fewer to 30 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "21e8f78c",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor",
+        "outcome": "Malignancy (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "5fc10a78"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population exposed to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "IL-6i": "2/292 (0.7%)",
+                    "MTX monotherapy": "3/282 (1.1%)"
+                },
+                "Annotation": {
+                    "data": "1. IL-6i includes TCZ.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.64 (0.11 to 3.82)",
+                    "Absolute Effect (95% CI)": "4 fewer per 1,000 (from 9 fewer to 30 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "a714a4cc",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor",
+        "outcome": "Myocardial infarction (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "5fc10a78"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population exposed to non-MTX csDMARDs."
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "IL-6i": "1/292 (0.3%)",
+                    "MTX monotherapy": "0/282 (0.0%)"
+                },
+                "Annotation": {
+                    "data": "1. IL-6i includes TCZ.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 2.90 (0.12 to 70.83)",
+                    "Absolute Effect (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "db42a57d",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor",
+        "outcome": "Malignancy (from SRs of harms)",
+        "related_paper_list": [
+            "45b0286b"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "result_interpretation": "The Systematic Review RefID=4638, 2012 (RCTs=1, n=302) comparing IL-6 Receptor Inhibitors vs Placebo + MTX among RA showed that for Cancer, the result was RR=6.5 (0.34-124.2) at 1 year and RR=0.33 (0.01-8.0) at 6 months (RCTs=2, n=697 at 6 months)",
+                "Study design": "Systematic Review"
+            }
+        }
+    },
+    {
+        "outcome_uid": "ba620d56",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive MTX monotherapy or boDMARD monotherapy or tsDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor",
+        "outcome": "Serious adverse events (from SRs of harms)",
+        "related_paper_list": [
+            "f1b7a867"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "result_interpretation": "The systematic review RefID=18, 2018 (RCTs=2, n=785) comparing IL-6 inhibitors vs MTX among TCZ na\u00efve RA patients showed that for serious adverse events, the result was RR=2.57 (95% 0.61-10.93, p=0.2).",
+                "Study design": "Systematic Review"
+            }
+        }
+    }
+]

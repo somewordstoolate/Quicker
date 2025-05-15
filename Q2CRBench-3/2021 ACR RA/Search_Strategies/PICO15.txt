@@ -1,0 +1,10 @@
+Database: Ovid MEDLINE(R) and Epub Ahead of Print, In-Process & Other Non-Indexed Citations, Daily and Versions(R) <1946 to November 21, 2019> 
+Search Strategy:
+--------------------------------------------------------------------------------
+1     Arthritis, Rheumatoid/ 
+2     ((rheumatoid adj2 arthrit$) or (rheumatoid adj2 arthros$)).tw,kw. 
+3     Rheumatoid nodule/ or (rheumatoid adj2 nodule$).tw,kw. 
+4     or/1-3  
+5     Methotrexate/ or (methotrexate or Rheumatrex or Trexall or Otrexup or Rasuvo).tw,kw. 
+6     exp Folic Acid/ or folic acid$.tw,kw. 
+7     4 and 5 and 6 [PICO15]

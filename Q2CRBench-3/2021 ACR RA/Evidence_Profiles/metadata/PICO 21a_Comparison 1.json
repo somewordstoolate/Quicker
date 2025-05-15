@@ -1,0 +1,361 @@
+{
+    "Disease activity (follow up: range 4 months to 2 years; assessed with: ACR 20)": {
+        "No of studies": ["1", "2", "3", "4", "5", "6", "7", "8", "9"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["not serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "b"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "795/1279 (62.2%)",
+            "Add DMARDs": "1112/1658 (67.1%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.93 (0.86 to 1.02)",
+            "Absolute (95% CI)": "47 fewer per 1,000 (from 94 fewer to 13 more)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "CRITICAL"
+    },
+
+    "Disease activity (follow up: range 4 months to 2 years; assessed with: ACR 50)": {
+        "No of studies": ["1", "2", "3", "4", "5", "6", "7", "8", "9"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["not serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "491/1279 (38.4%)",
+            "Add DMARDs": "744/1658 (44.9%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.87 (0.79 to 0.97)",
+            "Absolute (95% CI)": "58 fewer per 1,000 (from 94 fewer to 13 fewer)"
+        },
+        "Certainty": "⨁⨁⨁⨁ HIGH",
+        "Importance": "CRITICAL"
+    },
+
+    "Disease activity (follow up: range 4 months to 2 years; assessed with: ACR 70)": {
+        "No of studies": ["1", "2", "3", "4", "5", "6", "7", "8", "9"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["not serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "266/1263 (21.1%)",
+            "Add DMARDs": "422/1658 (25.5%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.84 (0.73 to 0.97)",
+            "Absolute (95% CI)": "41 fewer per 1,000 (from 69 fewer to 8 fewer)"
+        },
+        "Certainty": "⨁⨁⨁⨁ HIGH",
+        "Importance": "CRITICAL"
+    },
+
+    "Disease activity (follow up: range 4 months to 2 years; assessed with: DAS28 or DAS44 (lower values --> benefit) (values>0.2 are considered clinically important)": {
+        "No of studies": ["2", "3", "4", "5", "7", "8", "9"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["not serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "0",
+            "Add DMARDs": "0"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "SMD 0.24 SD higher (0.1 higher to 0.38 higher)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "CRITICAL"
+    },
+
+    "Remission (follow up: range 4 months to 1 year; assessed with: DAS remission < 2.6 )": {
+        "No of studies": ["1", "2", "3", "5", "6", "7"],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "d"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "250/998 (25.1%)",
+            "Add DMARDs": "356/1367 (26.0%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.85 (0.70 to 1.02)",
+            "Absolute (95% CI)": "39 fewer per 1,000 (from 78 fewer to 5 more)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "CRITICAL"
+    },
+
+    "Flare (follow up: 1 months)": {
+        "No of studies": "7",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "e"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "b"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "0/155 (0.0%)",
+            "Add DMARDs": "1/152 (0.7%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.33 (0.01 to 7.96)",
+            "Absolute (95% CI)": "4 fewer per 1,000 (from 7 fewer to 46 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Radiographic progression (follow up: 6 months; assessed with: mTSS (Lower values – > benefit) (MCID 4.6)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "276",
+            "Add DMARDs": "277"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": ["MD 0.17 higher (0.14 higher to 0.2 higher)", "f"]
+        },
+        "Certainty": "⨁⨁⨁⨁ HIGH",
+        "Importance": "IMPORTANT"
+    },
+
+    "Pain (follow up: range 4 months to 12 months; assessed with: VAS pain (0-100) (Lower values – > benefit) (MCID -11.9)": {
+        "No of studies": ["2", "3", "5", "10", "11"],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "949",
+            "Add DMARDs": "1328"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": ["MD 1.9 higher (0.3 lower to 4.1 higher)", "g"]
+        },
+        "Certainty": "⨁⨁⨁⨁ HIGH",
+        "Importance": "IMPORTANT"
+    },
+
+    "Disability (follow up: range 4 months to 2 years; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)": {
+        "No of studies": ["2", "3", "4", "5", "10"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "h"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "670",
+            "Add DMARDs": "673"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": ["MD 0 (0.06 lower to 0.07 higher)", "i"]
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "IMPORTANT"
+    },
+
+    "Fatigue (follow up: 1 year; assessed with: FACIT-F (Higher values – > benefit) (MCID 15.9)": {
+        "No of studies": "11",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "384",
+            "Add DMARDs": "762"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": ["MD 0.62 lower (1.84 lower to 0.6 higher)", "j"]
+        },
+        "Certainty": "⨁⨁⨁⨁ HIGH",
+        "Importance": "IMPORTANT"
+    },
+
+    "Quality of Life (follow up: 1 year; assessed with:  SF-36 MCS (Higher values – > benefit) (MCID 3.1)": {
+        "No of studies": "11",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "384",
+            "Add DMARDs": "762"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": ["MD 0.97 lower (2.1 lower to 0.16 higher)", "k"]
+        },
+        "Certainty": "⨁⨁⨁⨁ HIGH",
+        "Importance": "IMPORTANT"
+    },
+
+    "Quality of Life (follow up: 1 year; assessed with: SF-36 PCS (Higher values – > benefit) (MCID 4.4)": {
+        "No of studies": "11",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "384",
+            "Add DMARDs": "762"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": ["MD 0.87 lower (1.9 lower to 0.16 higher)", "i"]
+        },
+        "Certainty": "⨁⨁⨁⨁ HIGH",
+        "Importance": "IMPORTANT"
+    },
+
+    "Quality of Life (follow up: range 4 months to 2 years; assessed with: RAQol or EQ-5D VAS (lower values --> benefit) (values>0.2 are considered clinically important)": {
+        "No of studies": ["3", "4", "10"],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "m"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "533",
+            "Add DMARDs": "529"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "SMD 0.13 lower (0.25 lower to 0.01 lower)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "IMPORTANT"
+    },
+
+    "Withdrawal due to lack of efficacy (follow up: range 4 months to 1 year)": {
+        "No of studies": ["4", "5", "6", "7", "8", "9"],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "32/591 (5.4%)",
+            "Add DMARDs": "16/446 (3.6%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.18 (0.59 to 2.36)",
+            "Absolute (95% CI)": "6 more per 1,000 (from 15 fewer to 49 more)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "IMPORTANT"
+    },
+
+    "Withdrawal due to adverse events (follow up: range 3 months to 2 years)": {
+        "No of studies": ["1", "2", "4", "5", "6", "7", "8", "12", "13"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["not serious", "n"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "o"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "101/1017 (9.9%)",
+            "Add DMARDs": "145/1392 (10.4%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.91 (0.66 to 1.25)",
+            "Absolute (95% CI)": "9 fewer per 1,000 (from 35 fewer to 26 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Serious adverse events (follow up: range 3 months to 2 years)": {
+        "No of studies": ["1", "2", "4", "6", "7", "9"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "e"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "94/1009 (9.3%)",
+            "Add DMARDs": "113/1371 (8.2%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.10 (0.85 to 1.42)",
+            "Absolute (95% CI)": "8 more per 1,000 (from 12 fewer to 35 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Malignancy (follow up: range 4 months to 2 years)": {
+        "No of studies": ["1", "2", "4"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "e"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "p"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "3/598 (0.5%)",
+            "Add DMARDs": "6/978 (0.6%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.65 (0.11 to 3.70)",
+            "Absolute (95% CI)": "2 fewer per 1,000 (from 5 fewer to 17 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Death (follow up: range 4 months to 2 years)": {
+        "No of studies": ["1", "2", "4", "7"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "e"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "p"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Switch DMARDs": "3/757 (0.4%)",
+            "Add DMARDs": "4/1133 (0.4%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.92 (0.17 to 4.88)",
+            "Absolute (95% CI)": "0 fewer per 1,000 (from 3 fewer to 14 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    }
+}

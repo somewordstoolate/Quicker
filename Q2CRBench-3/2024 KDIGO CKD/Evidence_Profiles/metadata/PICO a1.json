@@ -1,0 +1,137 @@
+{
+    "Question": "What is the diagnostic and prognostic benefit and safety of kidney biopsy among people with CKD?",
+    "References": {
+        "2": "Altindal M, Yildirim T, Turkmen E, et al. Safety of Percutaneous Ultrasound-Guided Kidney Biopsy in Patients with AA Amyloidosis. Nephron 2015; 131: 17-22.",
+        "3": "Chen TK, Estrella MM, Fine DM. Predictors of kidney biopsy complication among patients with systemic lupus erythematosus. Lupus 2012; 21: 848-854.",
+        "4": "Eiro M, Katoh T, Watanabe T. Risk factors for bleeding complications in percutaneous renal biopsy. Clin Exp Nephrol 2005; 9: 40-45.",
+        "5": "Jordan N, Chaib A, Sangle S, et al. Association of thrombotic microangiopathy and intimal hyperplasia with bleeding post-renal biopsy in antiphospholipid antibody-positive patients. Arthritis Care Res (Hoboken) 2014; 66: 725-731.",
+        "6": "Malvar A, Alberton V, Lococo B, et al. Kidney biopsy-based management of maintenance immunosuppression is safe and may ameliorate flare rate in lupus nephritis. Kidney Int 2020; 97: 156-162.",
+        "7": "Manno C, Strippoli GF, Arnesano L, et al. Predictors of bleeding complications in percutaneous ultrasound-guided renal biopsy. Kidney Int 2004; 66: 1570-1577.",
+        "8": "Mejía-Vilet JM, Márquez-Martínez MA, Cordova-Sanchez BM, et al. Simple risk score for prediction of haemorrhagic complications after a percutaneous renal biopsy. Nephrology (Carlton) 2018; 23: 523-529.",
+        "9": "Nadium WK, Abdelwahab HH, Ibrahim MA, et al. Histological pattern of primary glomerular diseases among adult Sudanese patients: A single center experience. Indian J Nephrol 2013; 23: 176-179.",
+        "10": "Pan CF, Chen YC, Chen HS, et al. Renal biopsy in the elderly: Analysis of ninety-four cases in a single center, MMH. Journal of Internal Medicine of Taiwan 2003; 14: 69-76.",
+        "11": "Restrick LJ, Blomley MJ, Drayson RA, et al. Percutaneous renal biopsy in the district general hospital. Journal of the Royal College of Physicians of London 1993; 27: 247-251.",
+        "12": "Sarabu N, Maddukuri G, Munikrishnappa D, et al. Safety and efficacy of transjugular renal biopsy performed by interventional nephrologists. Semin Dial 2011; 24: 343-348.",
+        "13": "Sobh M, Moustafa F, Ghoniem M. Value of renal biopsy in chronic renal failure. International urology and nephrology 1988; 20: 77-83.",
+        "14": "Tøndel C, Vikse BE, Bostad L, et al. Safety and complications of percutaneous kidney biopsies in 715 children and 8573 adults in Norway 1988-2010. Clinical journal of the American Society of Nephrology : CJASN 2012; 7: 1591-1597.",
+        "15": "Tsapenko M, El-Zoghby ZM, Sethi S. Renal histological lesions and outcome in liver transplant recipients. Clin Transplant 2012; 26: E48-54.",
+        "16": "Zhang PP, Ge YC, Li SJ, et al. Renal biopsy in type 2 diabetes: timing of complications and evaluating of safety in Chinese patients. Nephrology (Carlton) 2011; 16: 100-105.",
+        "17": "Dong L, Li J, Zhao M, et al. Application of B-ultrasound information image in Renal Puncture Biopsy treatment and Nursing. Pak J Med Sci 2021; 37: 1564-1568.",
+        "18": "Gimenez LF, Micali S, Chen RN, et al. Laparoscopic renal biopsy. Kidney Int 1998; 54: 525-529.",
+        "19": "Joseph AJ, Compton SP, Holmes LH, et al. Utility of percutaneous renal biopsy in chronic kidney disease. Nephrology (Carlton) 2010; 15: 544-548.",
+        "20": "Manno C, Bonifati C, Torres DD, et al. Desmopressin acetate in percutaneous ultrasound-guided kidney biopsy: a randomized controlled trial. Am J Kidney Dis 2011; 57: 850-855.",
+        "21": "Moulin B, Dhib M, Sommervogel C, et al. [Value of renal biopsy in the elderly. 32 cases]. Presse Med 1991; 20: 1881-1885.",
+        "22": "Roccatello D, Sciascia S, Rossi D, et al. Safety of outpatient percutaneous native renal biopsy in systemic autoimmune diseases: results from a monocentric cohort. Lupus 2018; 27: 1393-1394.",
+        "23": "Yu MC, Lee F, Huang WH, et al. Percutaneous ultrasound-guided renal biopsy in children: The need for renal biopsy in pediatric patients with persistent asymptomatic microscopic hematuria. Biomed J 2014; 37: 391-397."
+    },
+    "Explanations": {
+        "a": "Studies had moderate risk of bias due to concerns with potential confounding.",
+        "b": "There were 3 events.",
+        "c": "I2 >50%, suggesting some statistical heterogeneity."
+    },
+    "Outcome": {
+        "Mortality": {
+            "No of studies": [
+                "2",
+                "3",
+                "4",
+                "5",
+                "6",
+                "7",
+                "8",
+                "9",
+                "10",
+                "11",
+                "12",
+                "13",
+                "14",
+                "15",
+                "16"
+            ],
+            "Study design": [
+                "observational studies"
+            ],
+            "Risk of bias": [
+                "serious",
+                "a"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "very serious",
+                "b"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "Kidney biopsy": [
+                    "3/11,180 (0.0%)"
+                ]
+            },
+            "Effect": {
+                "Pooled Rate (95% CI)": [
+                    "0% (0.00% to 0.00%)"
+                ]
+            },
+            "Certainty": [
+                "⨁◯◯◯ Very low"
+            ]
+        },
+        "Perirenal hematoma": {
+            "No of studies": [
+                "4",
+                "5",
+                "6",
+                "8",
+                "10",
+                "13",
+                "16",
+                "17",
+                "18",
+                "19",
+                "20",
+                "21",
+                "22",
+                "23"
+            ],
+            "Study design": [
+                "observational studies"
+            ],
+            "Risk of bias": [
+                "serious",
+                "a"
+            ],
+            "Inconsistency": [
+                "serious",
+                "c"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "not serious"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "Kidney biopsy": [
+                    "647/2943 (22.0%)"
+                ]
+            },
+            "Effect": {
+                "Pooled Rate (95% CI)": [
+                    "16% (12% to 22%)"
+                ]
+            },
+            "Certainty": [
+                "⨁⨁◯◯ Low"
+            ]
+        }
+    }
+}

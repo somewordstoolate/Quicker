@@ -1,0 +1,226 @@
+{
+    "Disease activity (follow up: 2 years; assessed with: ACR 20)": {
+        "No of studies": "12",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "JAKi (Tofa)": ["239/373 (64.1%)", "b"],
+            "MTX monotherapy": "79/186 (42.5%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.51 (1.26 to 1.81)",
+            "Absolute (95% CI)": "217 more per 1,000 (from 110 more to 344 more)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "CRITICAL"
+    },
+
+    "Disease activity (follow up: 2 years; assessed with: ACR 50)": {
+        "No of studies": "12",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "JAKi (Tofa)": ["184/373 (49.3%)", "b"],
+            "MTX monotherapy": "53/186 (28.5%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.73 (1.35 to 2.22)",
+            "Absolute (95% CI)": "208 more per 1,000 (from 100 more to 348 more)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "CRITICAL"
+    },
+
+    "Disease activity (follow up: 2 years; assessed with: ACR 70)": {
+        "No of studies": "12",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "JAKi (Tofa)": ["128/373 (34.3%)", "b"],
+            "MTX monotherapy": "28/186 (15.1%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 2.28 (1.58 to 3.30)",
+            "Absolute (95% CI)": "193 more per 1,000 (from 87 more to 346 more)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "CRITICAL"
+    },
+
+    "Disease activity (follow up: 2 years; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)": {
+        "No of studies": "12",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "JAKi (Tofa)": ["373", "b"],
+            "MTX monotherapy": "186"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.6 lower (0.88 lower to 0.32 lower)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "CRITICAL"
+    },
+
+    "Remission (follow up: 2 years; assessed with: DAS28-ESR < 2.6)": {
+        "No of studies": "12",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "JAKi (Tofa)": ["78/373 (20.9%)", "b"],
+            "MTX monotherapy": "18/186 (9.7%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 2.16 (1.34 to 3.50)",
+            "Absolute (95% CI)": "112 more per 1,000 (from 33 more to 242 more)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "CRITICAL"
+    },
+
+    "Radiographic progression (follow up: 2 years; assessed with: mTSS (Lower values – > benefit) (MCID 4.6)": {
+        "No of studies": "12",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "JAKi (Tofa)": ["373", "b"],
+            "MTX monotherapy": "186"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 1.53 lower (2.36 lower to 0.7 lower)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "IMPORTANT"
+    },
+
+    "Disability (follow up: 2 years; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)": {
+        "No of studies": "12",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": ["serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "JAKi (Tofa)": ["373", "b"],
+            "MTX monotherapy": "186"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.2 lower (0.31 lower to 0.09 lower)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Serious adverse events (follow up: 2 years)": {
+        "No of studies": "12",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": ["very serious", "d"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "JAKi (Tofa)": ["40/373 (10.7%)", "b"],
+            "MTX monotherapy": "22/186 (11.8%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.91 (0.56 to 1.48)",
+            "Absolute (95% CI)": "11 fewer per 1,000 (from 52 fewer to 57 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Withdrawal due to adverse events (follow up: 2 years)": {
+        "No of studies": "12",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": ["very serious", "d"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "JAKi (Tofa)": ["40/373 (10.7%)", "b"],
+            "MTX monotherapy": "25/186 (13.4%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.80 (0.50 to 1.27)",
+            "Absolute (95% CI)": "27 fewer per 1,000 (from 67 fewer to 36 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Death (follow up: 2 years)": {
+        "No of studies": "12",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": ["very serious", "e"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "JAKi (Tofa)": ["3/373 (0.8%)", "b"],
+            "MTX monotherapy": "0/186 (0.0%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 3.50 (0.18 to 67.41)",
+            "Absolute (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Malignancy (follow up: 2 years)": {
+        "No of studies": "12",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": ["very serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "JAKi (Tofa)": ["2/373 (0.5%)", "b"],
+            "MTX monotherapy": "1/186 (0.5%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.00 (0.09 to 10.93)",
+            "Absolute (95% CI)": "0 fewer per 1,000 (from 5 fewer to 53 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Malignancy (from SRs on harms)": {
+        "No of studies": "9",
+        "content": "The systematic review RefID=1220, 2017 (RCTs=3) comparing tofacitinib 5mg vs placebo + csDMARD among RA showed that for cancer, the result was Peto OR=2.39 (0.50, 11.50)"
+    }
+}

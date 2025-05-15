@@ -1,0 +1,269 @@
+{
+    "Disease activity (follow up: 1 year; assessed with: ACR 20)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious","b"],
+      "Other considerations": "none",
+      " No of patients": {
+        "Switch to RTX": "12/28 (42.9%)",
+        "Switch to a 2nd TNFi": "17/31 (54.8%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.78 (0.46 to 1.33)",
+        "Absolute (95% CI)": "121 fewer per 1,000 (from 296 fewer to 181 more)"
+      },
+      "Certainty": " VERY LOW",
+      "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: 1 year; assessed with: ACR 50)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious","b"],
+      "Other considerations": "none",
+      " No of patients": {
+        "Switch to RTX": "6/29 (20.7%)",
+        "Switch to a 2nd TNFi": "9/31 (29.0%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.71 (0.29 to 1.75)",
+        "Absolute (95% CI)": "84 fewer per 1,000 (from 206 fewer to 218 more)"
+      },
+      "Certainty": " VERY LOW",
+      "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: 1 year; assessed with: ACR 70)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious","b"],
+      "Other considerations": "none",
+      " No of patients": {
+        "Switch to RTX": "3/30 (10.0%)",
+        "Switch to a 2nd TNFi": "5/31 (16.1%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.62 (0.16 to 2.37)",
+        "Absolute (95% CI)": "61 fewer per 1,000 (from 135 fewer to 221 more)"
+      },
+      "Certainty": " VERY LOW",
+      "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: 1 year; assessed with: DAS28 ESR (Lower values – > benefit) (MCID -1.17)": {
+      "No of studies": ["1", "2"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "c"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious","d"],
+      "Other considerations": "none",
+      " No of patients": {
+        "Switch to RTX": "73",
+        "Switch to a 2nd TNFi": "80"
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 0.13 higher (0.44 lower to 0.7 higher)"
+      },
+      "Certainty": "  VERY LOW",
+      "Importance": "CRITICAL"
+    },
+    "Remission (follow up: 1 year; assessed with: DAS28-ESR <2.6)": {
+        "No of studies": ["1", "2"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "c"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious","b"],
+        "Other considerations": "none",
+        " No of patients": {
+          "Switch to RTX": "16/73 (21.9%)",
+          "Switch to a 2nd TNFi": "17/80 (21.3%)"
+        },
+        "Effect": {
+          "Relative (95% CI)": "RR 0.96 (0.38 to 2.40)",
+          "Absolute (95% CI)": "9 fewer per 1,000 (from 132 fewer to 298 more)"
+        },
+        "Certainty": "  VERY LOW",
+        "Importance": "CRITICAL"
+      },
+      "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)": {
+        "No of studies": ["1", "2"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "c"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious","e"],
+        "Other considerations": "none",
+        " No of patients": {
+          "Switch to RTX": "76",
+          "Switch to a 2nd TNFi": "81"
+        },
+        "Effect": {
+          "Relative (95% CI)": "-",
+          "Absolute (95% CI)": "MD 0.08 higher (0.13 lower to 0.29 higher)"
+        },
+        "Certainty": "  VERY LOW",
+        "Importance": "IMPORTANT"
+      },
+      "Quality of life (follow up: 1 year; assessed with: RAQol (Lower values – > benefit) (MCID 2)": {
+        "No of studies": ["1"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious","b"],
+        "Other considerations": "none",
+        " No of patients": {
+          "Switch to RTX": "30",
+          "Switch to a 2nd TNFi": "30"
+        },
+        "Effect": {
+          "Relative (95% CI)": "-",
+          "Absolute (95% CI)": "MD 0.5 higher (4.56 lower to 5.56 higher)"
+        },
+        "Certainty": "  VERY LOW",
+        "Importance": "IMPORTANT"
+      },
+      "Pain (follow up: 1 year; assessed with: VAS 0-100 (Lower values – > benefit) (MCID -11.9)": {
+        "No of studies": ["1"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious","f"],
+        "Other considerations": "none",
+        " No of patients": {
+          "Switch to RTX": "30",
+          "Switch to a 2nd TNFi": "31"
+        },
+        "Effect": {
+          "Relative (95% CI)": "-",
+          "Absolute (95% CI)": "MD 8 higher (6.43 lower to 22.43 higher)"
+        },
+        "Certainty": "  VERY LOW",
+        "Importance": "IMPORTANT"
+      },
+      "Serious adverse events (follow up: 1 year)": {
+        "No of studies": ["1", "2"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "c"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious","b"],
+        "Other considerations": "none",
+        " No of patients": {
+          "Switch to RTX": "4/74 (5.4%)",
+          "Switch to a 2nd TNFi": "1/65 (1.5%)"
+        },
+        "Effect": {
+          "Relative (95% CI)": "RR 4.10 (0.48 to 35.11)",
+          "Absolute (95% CI)": "48 more per 1,000 (from 8 fewer to 525 more)"
+        },
+        "Certainty": "  VERY LOW",
+        "Importance": "IMPORTANT"
+      },
+      "Withdrawal due to lack of efficacy (follow up: 1 year)": {
+        "No of studies": ["1"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious","b"],
+        "Other considerations": "none",
+        " No of patients": {
+          "Switch to RTX": "0/40 (0.0%)",
+          "Switch to a 2nd TNFi": "2/41 (4.9%)"
+        },
+        "Effect": {
+          "Relative (95% CI)": "RR 0.20 (0.01 to 4.14)",
+          "Absolute (95% CI)": "39 fewer per 1,000 (from 48 fewer to 153 more)"
+        },
+        "Certainty": "  VERY LOW",
+        "Importance": "IMPORTANT"
+      },
+      "Withdrawal due to adverse events (follow up: 1 year)": {
+        "No of studies": ["1"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious","g"],
+        "Other considerations": "none",
+        " No of patients": {
+          "Switch to RTX": "0/40 (0.0%)",
+          "Switch to a 2nd TNFi": "0/41 (0.0%)"
+        },
+        "Effect": {
+          "Relative (95% CI)": "not estimable",
+          "Absolute (95% CI)": "-"
+        },
+        "Certainty": "  VERY LOW",
+        "Importance": "IMPORTANT"
+      },
+      "Death (follow up: 1 year)": {
+        "No of studies": ["1"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious","g"],
+        "Other considerations": "none",
+        " No of patients": {
+          "Switch to RTX": "1/40 (2.5%)",
+          "Switch to a 2nd TNFi": "0/41 (0.0%)"
+        },
+        "Effect": {
+          "Relative (95% CI)": "RR 3.07 (0.13 to 73.28)",
+          "Absolute (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)"
+        },
+        "Certainty": "  VERY LOW",
+        "Importance": "IMPORTANT"
+      },
+      "CVD (follow up: 1 year)": {
+        "No of studies": ["2"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "c"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious","b"],
+        "Other considerations": "none",
+        " No of patients": {
+          "Switch to RTX": "2/34 (5.9%)",
+          "Switch to a 2nd TNFi": "2/24 (8.3%)"
+        },
+        "Effect": {
+          "Relative (95% CI)": "RR 0.71 (0.11 to 4.67)",
+          "Absolute (95% CI)": "24 fewer per 1,000 (from 74 fewer to 306 more)"
+        },
+        "Certainty": "  VERY LOW",
+        "Importance": "IMPORTANT"
+      },
+      "Malignancy (follow up: 1 year)": {
+        "No of studies": ["2"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "c"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious","g"],
+        "Other considerations": "none",
+        " No of patients": {
+          "Switch to RTX": "3/34 (8.8%)",
+          "Switch to a 2nd TNFi": "0/24 (0.0%)"
+        },
+        "Effect": {
+          "Relative (95% CI)": "RR 5.00 (0.27 to 92.56)",
+          "Absolute (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)"
+        },
+        "Certainty": "  VERY LOW",
+        "Importance": "IMPORTANT"
+      }
+  }
+  

@@ -1,0 +1,24 @@
+{
+    "Question": "Should patients with MTX-naïve and non-MTX csDMARDs naïve RA and moderate to high disease activity, receive long-term (≥ 3 months) low dose (≤ 10mg per day) GCs and mono- or combination csDMARDs or mono or combination csDMARDs alone?",
+    "Comparison": 
+    {
+        "Mono or combination csDMARDs with long-term (≥ 3 months) low dose (≤ 10mg per day) GCs versus mono or combination csDMARDs alone (i.e. without long-term GCs). ": 
+            {
+                "filename": "PICO 8a_Comparison 1.json",
+                "Explanations": 
+                {
+                    "a": "Downgraded by one level due to serious risk of bias. Patients, personnel, and outcome assessors of non-radiographic outcomes were not blinded. Patients, personnel, and outcome assessors of radiographic outcomes were blinded",
+                    "b": "csDMARD (51% started with MTX and 32% with SSZ, 8% with antimalarials, 8% with gold) + long-term (>= 3 months) prednisolone (7.5mg/day)",
+                    "c": "csDMARD (55% started with MTX and 34% with SSZ, 4% with antimalarials, 7% with gold)",
+                    "d": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect",
+                    "e": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm",
+                    "f": "Downgraded by two levels due to very serious imprecision. Very low number of events"
+                }
+            }
+    },
+    "References": 
+    {
+        "1": "Svensson B, Boonen A, Albertsson K, Heijde Dvd, Keller C, Hafstrom I. Low-dose prednisolone in addition to the initial disease-modifying antirheumatic drug in patients with early active rheumatoid arthritis reduces joint destruction and increases the remission rate: a two-year randomized trial. Arthritis & Rheumatism. 2005;52(11):3360.",
+        "2": "Ajeganova S, Svensson B, Hafstrom I. Low-dose prednisolone treatment of early rheumatoid arthritis and late cardiovascular outcome and survival: 10-year follow-up of a 2-year randomised trial. BMJ Open. 2014;4(4)."
+    }
+}

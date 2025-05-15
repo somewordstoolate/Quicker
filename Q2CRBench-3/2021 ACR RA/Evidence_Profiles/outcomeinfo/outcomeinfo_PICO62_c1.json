@@ -1,0 +1,587 @@
+[
+    {
+        "outcome_uid": "6f3e2b8b",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or tsDMARD who are at target continue the boDMARD or tsDMARD at the same dose or lower the dose or increase the interval between doses of the boDMARD or tsDMARD (MTX continued at same dose)?",
+        "population": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "intervention": "Continue the same dose of the boDMARD or tsDMARD",
+        "comparator": "lower the dose of the boDMARD or tsDMARD",
+        "outcome": "Disease activity (follow up: range 6 months to 12 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "d783a7f7",
+            "d2d2cd6c"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "We did not downgrade due to risk of bias. The one study that contributed 76% of the weight is at low risk of bias; the other study suffers from lack of blinding of participants and personnel and lack of blinding of outcome assessment for non-radiographic outcomes."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "HIGH",
+                "No of participants": {
+                    "Continue the same dose of the boDMARD or tsDMARD": "250",
+                    "Lower the dose of the boDMARD or tsDMARD": "248"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.06 lower (0.24 lower to 0.12 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "34be8ab9",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or tsDMARD who are at target continue the boDMARD or tsDMARD at the same dose or lower the dose or increase the interval between doses of the boDMARD or tsDMARD (MTX continued at same dose)?",
+        "population": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "intervention": "Continue the same dose of the boDMARD or tsDMARD",
+        "comparator": "lower the dose of the boDMARD or tsDMARD",
+        "outcome": "Flare (follow up: range 6 months to 12 months)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "d2d2cd6c",
+            "60bbc82c",
+            "a4d3750d"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment in one study and lack of blinding of participants and personnel in both studies."
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=65%"
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Continue the same dose of the boDMARD or tsDMARD": "105",
+                    "Lower the dose of the boDMARD or tsDMARD": "105(35.2%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "HR 0.68 (0.39 to 1.19)",
+                    "Absolute Effect (95% CI)": "97 fewer per 1,000 (from 196 fewer to 51 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "9eb38c7e",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or tsDMARD who are at target continue the boDMARD or tsDMARD at the same dose or lower the dose or increase the interval between doses of the boDMARD or tsDMARD (MTX continued at same dose)?",
+        "population": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "intervention": "Continue the same dose of the boDMARD or tsDMARD",
+        "comparator": "lower the dose of the boDMARD or tsDMARD",
+        "outcome": "Radiographic progression (follow up: range 6 months to 12 months; assessed with: Larsen/Sharp (Lower values \u2013 > benefit) (values > 0.2 are considered clinically important)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d783a7f7",
+            "d2d2cd6c"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "I2=43%"
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "CI includes both values suggesting harm and values suggesting no effect. According to the Cochrane's handbook, Cohen suggested that SMD=0.2 be considered a 'small' effect size, 0.5 represents a 'medium' effect size and 0.8 a 'large' effect size. This means that if two groups' means do not differ by 0.2 standard deviations or more, the difference is trivial, even if it is statistically significant."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Continue the same dose of the boDMARD or tsDMARD": "234",
+                    "Lower the dose of the boDMARD or tsDMARD": "231"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "SMD 0.13 higher (0.06 lower to 0.31 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "66fffd10",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or tsDMARD who are at target continue the boDMARD or tsDMARD at the same dose or lower the dose or increase the interval between doses of the boDMARD or tsDMARD (MTX continued at same dose)?",
+        "population": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "intervention": "Continue the same dose of the boDMARD or tsDMARD",
+        "comparator": "lower the dose of the boDMARD or tsDMARD",
+        "outcome": "Fatigue (follow up: range 6 months to 12 months; assessed with: FACIT-F (Higher values \u2013 > benefit) (MCID 15.9)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d783a7f7",
+            "d2d2cd6c"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "HIGH",
+                "No of participants": {
+                    "Continue the same dose of the boDMARD or tsDMARD": "250",
+                    "Lower the dose of the boDMARD or tsDMARD": "248"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.79 lower (2.01 lower to 0.44 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "5d89fc41",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or tsDMARD who are at target continue the boDMARD or tsDMARD at the same dose or lower the dose or increase the interval between doses of the boDMARD or tsDMARD (MTX continued at same dose)?",
+        "population": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "intervention": "Continue the same dose of the boDMARD or tsDMARD",
+        "comparator": "lower the dose of the boDMARD or tsDMARD",
+        "outcome": "Pain (follow up: range 6 months to 12 months; assessed with: VAS pain (0-100) (Lower values \u2013 > benefit) (MCID -11.9)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d783a7f7",
+            "d2d2cd6c"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "HIGH",
+                "No of participants": {
+                    "Continue the same dose of the boDMARD or tsDMARD": "250",
+                    "Lower the dose of the boDMARD or tsDMARD": "248"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 2.92 lower (6.34 lower to 0.5 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "e1e23b8b",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or tsDMARD who are at target continue the boDMARD or tsDMARD at the same dose or lower the dose or increase the interval between doses of the boDMARD or tsDMARD (MTX continued at same dose)?",
+        "population": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "intervention": "Continue the same dose of the boDMARD or tsDMARD",
+        "comparator": "lower the dose of the boDMARD or tsDMARD",
+        "outcome": "Disability (follow up: range 6 months to 12 months; assessed with: HAQ-DI (Lower values \u2013 > benefit) (MCID -0.22)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d783a7f7",
+            "d2d2cd6c"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "HIGH",
+                "No of participants": {
+                    "Continue the same dose of the boDMARD or tsDMARD": "251",
+                    "Lower the dose of the boDMARD or tsDMARD": "248"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.09 lower (0.19 lower to 0)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "b6821407",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or tsDMARD who are at target continue the boDMARD or tsDMARD at the same dose or lower the dose or increase the interval between doses of the boDMARD or tsDMARD (MTX continued at same dose)?",
+        "population": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "intervention": "Continue the same dose of the boDMARD or tsDMARD",
+        "comparator": "lower the dose of the boDMARD or tsDMARD",
+        "outcome": "Quality of Life (follow up: range 6 months to 12 months; assessed with: EQ-5D (Higher values \u2013 > benefit) (MCID 0.1)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d783a7f7",
+            "d2d2cd6c"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "HIGH",
+                "No of participants": {
+                    "Continue the same dose of the boDMARD or tsDMARD": "251",
+                    "Lower the dose of the boDMARD or tsDMARD": "248"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0 (0.03 lower to 0.04 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "89880c9a",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or tsDMARD who are at target continue the boDMARD or tsDMARD at the same dose or lower the dose or increase the interval between doses of the boDMARD or tsDMARD (MTX continued at same dose)?",
+        "population": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "intervention": "Continue the same dose of the boDMARD or tsDMARD",
+        "comparator": "lower the dose of the boDMARD or tsDMARD",
+        "outcome": "Withdrawal due to adverse events (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d783a7f7"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "CI includes both values suggesting harm and values suggesting no effect. According to the Cochrane's handbook, Cohen suggested that SMD=0.2 be considered a 'small' effect size, 0.5 represents a 'medium' effect size and 0.8 a 'large' effect size. This means that if two groups' means do not differ by 0.2 standard deviations or more, the difference is trivial, even if it is statistically significant.\nVery small number of events"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Continue the same dose of the boDMARD or tsDMARD": "7/202 (3.5%)",
+                    "Lower the dose of the boDMARD or tsDMARD": "4/202 (2.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.75 (0.52 to 5.89)",
+                    "Absolute Effect (95% CI)": "15 more per 1,000 (from 10 fewer to 97 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "76c9d9bb",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or tsDMARD who are at target continue the boDMARD or tsDMARD at the same dose or lower the dose or increase the interval between doses of the boDMARD or tsDMARD (MTX continued at same dose)?",
+        "population": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "intervention": "Continue the same dose of the boDMARD or tsDMARD",
+        "comparator": "lower the dose of the boDMARD or tsDMARD",
+        "outcome": "Serious adverse events (follow up: range 6 months to 12 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d783a7f7",
+            "d2d2cd6c"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "I2=47%"
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Very small number of events\nCI includes both values suggesting benefit and values suggesting harm"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Continue the same dose of the boDMARD or tsDMARD": "12/221 (5.4%)",
+                    "Lower the dose of the boDMARD or tsDMARD": "10/230 (4.3%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.28 (0.56 to 2.91)",
+                    "Absolute Effect (95% CI)": "12 more per 1,000 (from 19 fewer to 83 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "360a8cc9",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or tsDMARD who are at target continue the boDMARD or tsDMARD at the same dose or lower the dose or increase the interval between doses of the boDMARD or tsDMARD (MTX continued at same dose)?",
+        "population": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "intervention": "Continue the same dose of the boDMARD or tsDMARD",
+        "comparator": "lower the dose of the boDMARD or tsDMARD",
+        "outcome": "Cardiovascular disease (follow up: 6 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d2d2cd6c"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded for risk of bias as the one included study did not blind participants, providers, or outcome assessors"
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Very small number of events\nCI includes both values suggesting benefit and values suggesting harm"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Continue the same dose of the boDMARD or tsDMARD": "3/19 (15.8%)",
+                    "Lower the dose of the boDMARD or tsDMARD": "4/28 (14.3%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.11 (0.28 to 4.39)",
+                    "Absolute Effect (95% CI)": "16 more per 1,000 (from 103 fewer to 484 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "91aa1e42",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or tsDMARD who are at target continue the boDMARD or tsDMARD at the same dose or lower the dose or increase the interval between doses of the boDMARD or tsDMARD (MTX continued at same dose)?",
+        "population": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "intervention": "Continue the same dose of the boDMARD or tsDMARD",
+        "comparator": "lower the dose of the boDMARD or tsDMARD",
+        "outcome": "Malignancy (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d783a7f7"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Very small number of events\nCI includes both values suggesting benefit and values suggesting harm"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Continue the same dose of the boDMARD or tsDMARD": "2/202 (1.0%)",
+                    "Lower the dose of the boDMARD or tsDMARD": "4/202 (2.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.50 (0.09 to 2.70)",
+                    "Absolute Effect (95% CI)": "10 fewer per 1,000 (from 18 fewer to 34 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "ef69f0d0",
+        "clinical_question": "Should patients with RA on MTX + boDMARD or tsDMARD who are at target continue the boDMARD or tsDMARD at the same dose or lower the dose or increase the interval between doses of the boDMARD or tsDMARD (MTX continued at same dose)?",
+        "population": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "intervention": "Continue the same dose of the boDMARD or tsDMARD",
+        "comparator": "lower the dose of the boDMARD or tsDMARD",
+        "outcome": "Death (follow up: 1 year)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "d783a7f7"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Very small number of events"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Continue the same dose of the boDMARD or tsDMARD": "2/202 (1.0%)",
+                    "Lower the dose of the boDMARD or tsDMARD": "0/202 (0.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 5.00 (0.24 to 103.50)",
+                    "Absolute Effect (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

@@ -1,0 +1,121 @@
+[
+    {
+        "outcome_uid": "f7f7874e",
+        "clinical_question": "What is the diagnostic and prognostic benefit and safety of kidney biopsy among people with CKD?",
+        "population": "Adults and/or children with suspected or diagnosed CKD",
+        "intervention": "Native kidney biopsy",
+        "comparator": "Clinical or standard diagnosis or prognosis for studies evaluating diagnostic or prognostic benefit; No comparator for studies evaluating safety",
+        "outcome": "Mortality",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "a360b8c6",
+            "523d69a3",
+            "8d5a20a0",
+            "c7aa8e7f",
+            "ad427f42",
+            "22043db1",
+            "6cfd2bda",
+            "27ae1de8",
+            "f818f8cc",
+            "080f6717",
+            "538c0dbe",
+            "6f44dc44",
+            "8a3593e1",
+            "6be4f66c",
+            "cceb22bf"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Studies had moderate risk of bias due to concerns with potential confounding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "There were 3 events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Other Observational Study",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Kidney biopsy": "3/11,180 (0.0%)"
+                },
+                "Effect": {
+                    "Pooled Rate (95% CI)": [
+                        "0% (0.00% to 0.00%)"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "9a8eaa12",
+        "clinical_question": "What is the diagnostic and prognostic benefit and safety of kidney biopsy among people with CKD?",
+        "population": "Adults and/or children with suspected or diagnosed CKD",
+        "intervention": "Native kidney biopsy",
+        "comparator": "Clinical or standard diagnosis or prognosis for studies evaluating diagnostic or prognostic benefit; No comparator for studies evaluating safety",
+        "outcome": "Perirenal hematoma",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "8d5a20a0",
+            "c7aa8e7f",
+            "ad427f42",
+            "6cfd2bda",
+            "f818f8cc",
+            "6f44dc44",
+            "cceb22bf",
+            "e2b523cc",
+            "a99b99cf",
+            "4be7279c",
+            "505aba5a",
+            "ff2b3c1e",
+            "18733b36",
+            "f9f9bf8d"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Studies had moderate risk of bias due to concerns with potential confounding."
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "I2 >50%, suggesting some statistical heterogeneity."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Other Observational Study",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Kidney biopsy": "647/2943 (22.0%)"
+                },
+                "Effect": {
+                    "Pooled Rate (95% CI)": [
+                        "16% (12% to 22%)"
+                    ]
+                }
+            }
+        }
+    }
+]

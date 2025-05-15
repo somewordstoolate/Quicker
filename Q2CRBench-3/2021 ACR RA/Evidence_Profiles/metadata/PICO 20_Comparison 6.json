@@ -1,0 +1,303 @@
+{
+    "Disease activity (follow up: range 3 months to 1 year; assessed with: ACR20)": {
+      "No of studies": ["3", "4", "5"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": ["serious", "a"],
+      "Imprecision": ["serious", "b"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Add TNFi": "581/917 (63.4%)",
+        "Add JAKi": "849/1231 (69.0%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.93 (0.87 to 0.99)",
+        "Absolute (95% CI)": "48 fewer per 1,000 (from 90 fewer to 7 fewer)"
+      },
+      "Certainty": "low",
+      "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: range 3 months to 1 year; assessed with: ACR50)": {
+      "No of studies": ["3", "4", "5"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": ["serious", "c"],
+      "Indirectness": ["serious", "a"],
+      "Imprecision": ["serious", "b"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Add TNFi": "317/917 (34.6%)",
+        "Add JAKi": "539/1231 (43.8%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.76 (0.56 to 1.02)",
+        "Absolute (95% CI)": "105 fewer per 1,000 (from 193 fewer to 9 more)"
+      },
+      "Certainty": "very low",
+      "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: range 3 months to 1 year; assessed with: ACR70)": {
+      "No of studies": ["3", "4", "5"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": ["serious", "d"],
+      "Indirectness": ["serious", "a"],
+      "Imprecision": ["serious", "b"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Add TNFi": "160/917 (17.4%)",
+        "Add JAKi": "297/1231 (24.1%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.69 (0.47 to 1.02)",
+        "Absolute (95% CI)": "75 fewer per 1,000 (from 128 fewer to 5 more)"
+      },
+      "Certainty": "very low",
+      "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: 3 months; assessed with: DAS28-ESR)": {
+      "No of studies": [ "3"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "e"],
+      "Inconsistency": "not serious",
+      "Indirectness": ["serious", "a"],
+      "Imprecision": "not serious",
+      "Other considerations": "none",
+      "No of patients": {
+        "Add TNFi": "204",
+        "Add JAKi": "204"
+      },
+      "Effect": {
+        "Relative (95% CI)": "MD 0.11 lower (0.27 lower to 0.05 higher)"
+      },
+      "Certainty": "low",
+      "Importance": "CRITICAL"
+    },
+    "Remission (follow up: range 3 months to 1 year; assessed with: DAS28-CRP<2.6)": {
+        "No of studies": [ "4", "5"],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": ["very serious", "f"],
+        "Indirectness": ["serious", "a"],
+        "Imprecision": ["very serious", "g"],
+        "Other considerations": "none",
+        "No of patients": {
+          "Add TNFi": "195/713 (27.3%)",
+          "Add JAKi": "303/1027 (29.5%)"
+        },
+        "Effect": {
+          "Relative (95% CI)": "RR 0.85 (0.46 to 1.59)",
+          "Absolute (95% CI)": "44 fewer per 1,000 (from 159 fewer to 174 more)"
+        },
+        "Certainty": "very low",
+        "Importance": "CRITICAL"
+      },
+      "Disability (follow up: 3 months; assessed with: HAQ-DI)": {
+        "No of studies": ["5", "6"],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "No of patients": {
+          "Add TNFi": "526",
+          "Add JAKi": "849"
+        },
+        "Effect": {
+          "Relative (95% CI)": "MD 0.08 higher (0.01 higher to 0.15 higher)"
+        },
+        "Certainty": "moderate",
+        "Importance": "IMPORTANT"
+      },
+      "Quality of life (follow up: range 3 months to 12 months; assessed with: SF-36 PCS)": {
+        "No of studies": ["5","6", "7"],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "No of patients": {
+          "Add TNFi": "912",
+          "Add JAKi": "1225"
+        },
+        "Effect": {
+          "Relative (95% CI)": "-",
+          "Absolute (95% CI)":"MD 1.09 lower (1.82 lower to 0.35 lower)"
+        },
+        "Certainty": "moderate",
+        "Importance": "IMPORTANT"
+      },
+      "Quality of life (follow up: range 3 months to 12 months; assessed with: SF-36 MCS)": {
+        "No of studies": ["6", "7"],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "No of patients": {
+          "Add TNFi": "585",
+          "Add JAKi": "574"
+        },
+        "Effect": {
+          "Relative (95% CI)": "-",
+          "Absolute (95% CI)":"MD 0.2 lower (1.26 lower to 0.86 higher)"
+        },
+        "Certainty": "moderate",
+        "Importance": "IMPORTANT"
+      },
+      "Pain (follow up: range 3 months to 12 months; assessed with: VAS 100)": {
+        "No of studies": ["5","6", "7"],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "No of patients": {
+          "Add TNFi": "912",
+          "Add JAKi": "1225"
+        },
+        "Effect": {
+          "Relative (95% CI)": "-",
+          "Absolute (95% CI)":"MD 4 higher (1.66 higher to 6.35 higher)"
+        },
+        "Certainty": "moderate",
+        "Importance": "IMPORTANT"
+      },
+      "Fatigue (follow up: range 3 months to 12 months; assessed with: FACIT-F)": {
+        "No of studies": ["5","6", "7"],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "No of patients": {
+          "Add TNFi": "912",
+          "Add JAKi": "1225"
+        },
+        "Effect": {
+          "Relative (95% CI)": "-",
+          "Absolute (95% CI)":"MD 1.15 lower (2.02 lower to 0.27 lower)"
+        },
+        "Certainty": "moderate",
+        "Importance": "IMPORTANT"
+      },
+      "Serious adverse events (follow up: range 3 months to 12 months)": {
+        "No of studies": ["3", "4"],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": ["very serious", "g"],
+        "Other considerations": "none",
+        "No of patients": {
+          "Add TNFi": "29/590 (4.9%)",
+          "Add JAKi": "39/580 (6.7%)"
+        },
+        "Effect": {
+          "Relative (95% CI)": "RR 0.69 (0.35 to 1.34)",
+          "Absolute (95% CI)": "21 fewer per 1,000 (from 44 fewer to 23 more)"
+        },
+        "Certainty": "very low",
+        "Importance": "IMPORTANT"
+      },
+      "Withdrawal due to lack of efficacy (follow up: 3 months)": {
+        "No of studies": ["1", "5"],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": ["very serious", "l"],
+        "Other considerations": "none",
+        "No of patients": {
+          "Add TNFi": "0/327 (0.0%)",
+          "Add JAKi": "0/651 (0.0%)"
+        },
+        "Effect": {
+          "Relative (95% CI)": "not estimable"
+        },
+        "Certainty": "very low",
+        "Importance": "IMPORTANT"
+      },
+      "Withdrawal due to adverse events (follow up: range 3 months to 12 months)": {
+        "No of studies": ["3", "4","5"],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": ["serious", "b"],
+        "Other considerations": "none",
+        "No of patients": {
+          "Add TNFi": "62/917 (6.8%)",
+          "Add JAKi": "55/1231 (4.5%)"
+        },
+        "Effect": {
+          "Relative (95% CI)": "RR 1.30 (0.78 to 2.15)",
+          "Absolute (95% CI)": "13 more per 1,000 (from 10 fewer to 51 more)"
+        },
+        "Certainty": "low",
+        "Importance": "IMPORTANT"
+      },
+      "Death (follow up: 1 year)": {
+        "No of studies": ["4"],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": ["very serious", "l"],
+        "Other considerations": "none",
+        "No of patients": {
+          "Add TNFi": "0/386 (0.0%)",
+          "Add JAKi": "0/376 (0.0%)"
+        },
+        "Effect": {
+          "Relative (95% CI)": "not estimable"
+        },
+        "Certainty": "very low",
+        "Importance": "IMPORTANT"
+      },
+      "Malignancy (follow up: 1 year)": {
+        "No of studies": ["4"],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": ["very serious", "l"],
+        "Other considerations": "none",
+        "No of patients": {
+          "Add TNFi": "1/386 (0.3%)",
+          "Add JAKi": "0/376 (0.0%)"
+        },
+        "Effect": {
+          "Relative (95% CI)": "RR 2.92 (0.12 to 71.51)",
+          "Absolute (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)"
+        },
+        "Certainty": "very low",
+        "Importance": "IMPORTANT"
+      },
+      "Major adverse cardiovascular event (follow up: 1 year)": {
+        "No of studies": ["4"],
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "a"],
+        "Imprecision": ["very serious", "l"],
+        "Other considerations": "none",
+        "No of patients": {
+          "Add TNFi": "2/386 (0.5%)",
+          "Add JAKi": "0/376 (0.0%)"
+        },
+        "Effect": {
+          "Relative (95% CI)": "RR 4.87 (0.23 to 101.12)",
+          "Absolute (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)"
+        },
+        "Certainty": "very low",
+        "Importance": "IMPORTANT"
+      }       
+  }
+  

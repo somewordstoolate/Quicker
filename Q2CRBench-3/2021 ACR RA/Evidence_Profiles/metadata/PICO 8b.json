@@ -1,0 +1,20 @@
+{
+    "Question": "Should patients with MTX-naïve and non-MTX csDMARDs exposed RA and moderate to high disease activity, receive long-term (≥ 3 months) low dose (≤ 10mg per day) GCs and mono- or combination csDMARDs or mono or combination csDMARDs alone?",
+    "Comparison": 
+    {
+        "Mono or combination csDMARDs with long-term (≥ 3 months) low dose (≤ 10mg per day) GCs versus mono or combination csDMARDs alone (i.e. without long-term GCs). ": 
+            {
+                "filename": "PICO 8b_Comparison 1.json",
+                "Explanations": 
+                {
+                    "a": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Small sample size.",
+                    "b": "csDMARD includes SSZ with long-term (>=3 months) prednisone (7mg/day).",
+                    "c": "csDMARD monotherapy includes SSZ."
+                }
+            }
+    },
+    "References": 
+    {
+        "1": "Capell HA, Madhok R, Hunter JA, Porter D, Morrison E, Larkin J, et al. Lack of radiological and clinical benefit over two years of low dose prednisolone for rheumatoid arthritis: results of a randomised controlled trial. Annals of the Rheumatic Diseases. 2004;63(7):797."
+    }
+}

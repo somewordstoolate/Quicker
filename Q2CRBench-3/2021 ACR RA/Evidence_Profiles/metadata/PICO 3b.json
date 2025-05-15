@@ -1,0 +1,17 @@
+{
+    "Question": "Should patients with MTX-naïve and non-MTX csDMARDs exposed RA and low disease activity receive csDMARD monotherapy or csDMARD combination (double or triple) therapy?",
+    "Comparison": {
+        "csDMARD triple combination therapy versus csDMARD monotherapy. Data based on indirect RCT evidence.": {
+            "filename": "PICO 3b_Comparison 2.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious indirecteness. The population has moderate disease activity.",
+                "b": "csDMARD triple therapy includes MTX + SSZ + HCQ.",
+                "c": "csDMARD monotherapy includes MTX.",
+                "d": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Low number of events."
+            }
+        }
+    },
+    "References": {
+        "1": "Moreland LW, Zhang J. A randomized comparative effectiveness study of oral triple therapy versus etanercept plus methotrexate in early aggressive rheumatoid arthritis: The treatment of early aggressive rheumatoid arthritis trial. Arthritis and Rheumatism. 2012;64(9):2824."
+    }
+}

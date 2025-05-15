@@ -1,0 +1,181 @@
+{
+    "Disease activity (follow up: 6 months; assessed with: ACR 20)": {
+        "No of studies": "4",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "b"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue DMARDs at same dose": "85/89 (95.5%)",
+            "Taper off DMARDs": "79/90 (87.8%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.09 (1.00 to 1.19)",
+            "Absolute (95% CI)": "79 more per 1,000 (from 0 fewer to 167 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "CRITICAL"
+    },
+
+    "Disease activity (follow up: 6 months; assessed with: ACR 50)": {
+        "No of studies": "4",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue DMARDs at same dose": "75/89 (84.3%)",
+            "Taper off DMARDs": "71/90 (78.9%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.07 (0.93 to 1.23)",
+            "Absolute (95% CI)": "55 more per 1,000 (from 55 fewer to 181 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "CRITICAL"
+    },
+
+    "Disease activity (follow up: 6 months; assessed with: ACR 70)": {
+        "No of studies": "4",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "c"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue DMARDs at same dose": "61/89 (68.5%)",
+            "Taper off DMARDs": "58/90 (64.4%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.06 (0.86 to 1.31)",
+            "Absolute (95% CI)": "39 more per 1,000 (from 90 fewer to 200 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "CRITICAL"
+    },
+
+    "Disease activity (follow up: range 3 months to 6 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)": {
+        "No of studies": ["4", "5"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue DMARDs at same dose": "162",
+            "Taper off DMARDs": "154"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.33 lower (0.72 lower to 0.52 higher)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "CRITICAL"
+    },
+
+    "Flare (follow up: range 12 months to 18 months)": {
+        "No of studies": ["4", "5", "6", "d"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": ["serious", "e"],
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue DMARDs at same dose": "105 participants",
+            "Taper off DMARDs": ["95 participants", "63.5%"]
+        },
+        "Effect": {
+            "Relative (95% CI)": "HR 0.56 (0.40 to 0.77) [Flare ]",
+            "Absolute (95% CI)": ["204 fewer per 1,000 (from 303 fewer to 95 fewer)", "204 fewer per 1,000 (from 303 fewer to 95 fewer)"]
+        },
+        "Certainty": "⨁⨁◯◯ LOW ",
+        "Importance": "CRITICAL"
+    },
+
+    "Disability (follow up: 3 months; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)": {
+        "No of studies": ["4", "5"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue DMARDs at same dose": "162",
+            "Taper off DMARDs": "154"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": ["MD 0.02 lower (0.18 lower to 0.14 higher)", "f"]
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "IMPORTANT"
+    },
+
+    "Withdrawal due to lack of efficacy (follow up: 6 months)": {
+        "No of studies": "4",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "g"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue DMARDs at same dose": "1/89 (1.1%)",
+            "Taper off DMARDs": "0/90 (0.0%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 3.03 (0.13 to 73.48)",
+            "Absolute (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Withdrawal due to adverse events (follow up: 6 months)": {
+        "No of studies": "4",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "g"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue DMARDs at same dose": "1/89 (1.1%)",
+            "Taper off DMARDs": "2/90 (2.2%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.51 (0.05 to 5.48)",
+            "Absolute (95% CI)": "11 fewer per 1,000 (from 21 fewer to 100 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Serious adverse events (follow up: 6 months)": {
+        "No of studies": "4",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "g"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue DMARDs at same dose": "2/89 (2.2%)",
+            "Taper off DMARDs": "1/90 (1.1%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 2.02 (0.19 to 21.91)",
+            "Absolute (95% CI)": "11 more per 1,000 (from 9 fewer to 232 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    }
+}

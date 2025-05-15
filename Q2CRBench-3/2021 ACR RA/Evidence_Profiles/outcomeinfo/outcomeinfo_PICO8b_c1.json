@@ -1,0 +1,52 @@
+[
+    {
+        "outcome_uid": "35c628c4",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity, receive long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs and mono- or combination csDMARDs or mono or combination csDMARDs alone?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "intervention": "Mono or combination csDMARDs with long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs",
+        "comparator": "mono or combination csDMARDs alone (i.e. without long-term GCs)",
+        "outcome": "Disability (follow up: 2 years; assessed with: HAQ)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "ac248aa9"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "csDMARDs + long-term low-dose GCs": "77",
+                    "csDMARDs monotherapy": "74"
+                },
+                "Annotation": {
+                    "data": "1. csDMARD includes SSZ with long-term (>=3 months) prednisone (7mg/day).\n2. csDMARD monotherapy includes SSZ.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.22 higher (0.02 lower to 0.46 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

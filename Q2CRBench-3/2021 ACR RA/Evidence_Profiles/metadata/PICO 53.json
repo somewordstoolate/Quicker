@@ -1,0 +1,45 @@
+{
+    "Question": "Should patients with RA on DMARDs who are in remission gradually taper off DMARDs, abruptly withdraw DMARDs, or continue DMARDS at the same doses?",
+    "Comparison": {
+        "Taper off DMARDs versus abruptly withdraw DMARDs. Data based on direct RCT evidence.": {
+            "filename": "PICO 53_Comparison 1.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment, incomplete outcome data and selective reporting.",
+                "b": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting benefit.",
+                "c": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm.",
+                "d": "Downgraded by two levels due to very serious imprecision. Very low number of events.",
+                "e": "The study PRIZE found that the RR of improvement in SF-36 PCS (≥ 5 change from baseline) was 1.03 (95%CI 0.86 to 1.24), absolute risk increase 23 more per 1000 (95%CI 108 fewer to 185 more).",
+                "f": "The study PRIZE found that the RR of improvement in SF-36 MCS (≥ 5 change from baseline) was 1.27 (95%CI 0.91 to 1.78), absolute risk increase 125 more per 1000 (95%CI 42 fewer to 360 more)."
+            }
+        },
+        "Continue DMARDs at same doses versus taper off DMARDs. Data based on direct RCT evidence.": {
+            "filename": "PICO 53_Comparison 2.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious risk of bias. Lack of blinding of participants and personnel.",
+                "b": "Downloaded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and benefit. Small sample size.",
+                "c": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm.",
+                "d": "Pooled results reported as HR and RR in the 2 respective studies",
+                "e": "Downgraded by one level due to serious inconsistency. Unexplained heterogeneity I2=76%",
+                "f": "The study Sanmarti 2019 found that the RR of improvement in HAQ-DI (≥0.5 change from baseline) was 0.97 (95%CI 0.75 to 1.26), absolute risk reduction 17 fewer per 1000 (95%CI 142 fewer to 147 more).",
+                "g": "Downgraded by two levels due to very serious imprecision. Very low number of events and small sample size."
+            }
+        },
+        "Continue DMARDs at same doses versus abruptly withdraw DMARDs. Data based on direct RCT evidence.": {
+            "filename": "PICO 53_Comparison 3.json",
+            "Explanations": {
+                "a": "Downgraded by two levels due to very serious risk of bias. Lack of allocation concealment and lacking of blinding of participants, personnel, and radiographic and non-radiographic outcome assessors.",
+                "b": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm."
+            }
+        }
+    },
+    "References": {
+        "1": "Emery P. Sustained Remission with Etanercept Tapering in Early Rheumatoid Arthritis. New England Journal of Medicine. 2014;371:1781-92.",
+        "2": "Weinblatt ME. A Phase III Study Evaluating Continuation, Tapering, and Withdrawal of Certolizumab Pegol After One Year of Therapy in Patients With Early Rheumatoid Arthritis. Arthritis & Rheumatology. 2017;69(10):1937.",
+        "3": "Wiland P, Dudler J, Veale D, Tahir H, Pedersen R, Bukowski J, et al. The Effect of Reduced or Withdrawn Etanercept-methotrexate Therapy on Patient-reported Outcomes in Patients with Early Rheumatoid Arthritis. Journal of Rheumatology. 2016;43(7):1268.",
+        "4": "Sanmarti R. Reducing or Maintaining the Dose of Subcutaneous Tocilizumab in Patients With Rheumatoid Arthritis in Clinical Remission: A Randomized, Open-Label Trial. Arthritis & Rheumatism. 2019;71(10):1616-25.",
+        "5": "Fautrel B, Pham T, Alfaiate T, Gandjbakhch F, Foltz V, Morel J, et al. Step-down strategy of spacing TNF-blocker injections for established rheumatoid arthritis in remission: Results of the multicentre non-inferiority randomised open-label controlled trial (STRASS: Spacing of TNF-blocker injections in Rheumatoid ArthritiS Study). Annals of the Rheumatic Diseases. 2016;75(1):59.",
+        "6": "Miedany Y. Optimizing therapy in inflammatory arthritis: prediction of relapse after tapering or stopping treatment for rheumatoid arthritis patients achieving clinical and radiological remission. Clin Rheumatol. 2016;35:2915–23.",
+        "7": "Chatzidionysiou K. A multicentre, randomised, controlled,open-label pilot study on the feasibilityof discontinuation of adalimumab inestablished patients with rheumatoidarthritis in stable clinical remission. 2016;2.",
+        "8": "Aletaha D, Snedecor SJ, Ektare V, Xue M, Bao Y, Garg V. Clinical and economic analysis of outcomes of dose tapering or withdrawal of tumor necrosis factor-a inhibitors upon achieving stable disease activity in rheumatoid arthritis patients. ClinicoEconomics and Outcomes Research. 2017;9:451-8."
+    }
+}

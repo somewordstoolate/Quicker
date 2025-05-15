@@ -1,0 +1,21 @@
+{
+    "Question": "Should patients with RA on oral MTX monotherapy 15 mg per week who are NOT at target increase the dose of oral MTX or switch to SC MTX?",
+    "Comparison": 
+    {
+        "Switch to SC MTX versus Increase the dose of oral MTX.": 
+        {   "filename": "PICO 18_Comparison 1.json",
+            "Explanations": 
+            {
+                "a": "Downgraded by two levels due to very serious risk of bias. Lack of blinding and lack of allocation concealment.",
+                "b": "Downgraded by one level due to serious imprecision. Very small sample size.",
+                "c": "SC 20mg MTX for 4 weeks, then 25mg MTX for 8 weeks.",
+                "d": "PO 20mg MTX for 4 weeks, then 25mg MTX for 8 weeks.",
+                "e": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Very small sample size."
+            }
+        }
+    },
+    "References": 
+    {
+        "1": "Islam MS, Haq SA, Islam MN, Azad AK, Islam MA, Barua. Comparative efficacy of subcutaneous versus oral methotrexate in active rheumatoid arthritis. Mymensingh Medical Journal: MMJ. 2013;22(3):483."
+    }
+}

@@ -1,0 +1,121 @@
+{
+    "Disease activity (follow up: 1 year; assessed with: DAS 44 (Lower values – > benefit) (MCID -1.2 based on the EULAR criteria)": {
+        "No of studies": ["1", "2"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "CSDMARD double therapy": ["104", "c"],
+            "CSDMARD monotherapy": ["206", "d"]
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.3 lower (0.57 lower to 0.02 lower)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "CRITICAL"
+    },
+
+    "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22 )": {
+        "No of studies": ["1", "2"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": "not serious",
+        "Other considerations": "none",
+        "Nº of patients": {
+            "CSDMARD double therapy": ["104", "c"],
+            "CSDMARD monotherapy": ["206", "d"]
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.01 lower (0.16 lower to 0.14 higher)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Pain (follow up: 1 year; assessed with: VAS 0-100 (Lower values – > benefit) (MCID -11.9)": {
+        "No of studies": "2",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "e"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["serious", "f"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "CSDMARD double therapy": ["36", "c"],
+            "CSDMARD monotherapy": ["69", "d"]
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.05 higher (10.89 lower to 10.99 higher)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Serious adverse events (follow up: 1 year)": {
+        "No of studies": "2",
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "e"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "g"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "CSDMARD double therapy": ["0/36 (0.0%)", "c"],
+            "CSDMARD monotherapy": ["3/69 (4.3%)", "d"]
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.27 (0.01 to 5.09)",
+            "Absolute (95% CI)": "32 fewer per 1,000 (from 43 fewer to 178 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Withdrawal due to lack of efficacy (follow up: 1 year)": {
+        "No of studies": ["1", "2"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "g"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "CSDMARD double therapy": ["4/104 (3.8%)", "c"],
+            "CSDMARD monotherapy": ["15/206 (7.3%)", "d"]
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.53 (0.18 to 1.56)",
+            "Absolute (95% CI)": "34 fewer per 1,000 (from 60 fewer to 41 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Withdrawal due to adverse events (follow up: 1 year)": {
+        "No of studies": ["1", "2"],
+        "Study design": "randomised trials",
+        "Risk of bias": ["serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": ["serious", "b"],
+        "Imprecision": ["very serious", "g"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "CSDMARD double therapy": ["14/104 (13.5%)", "c"],
+            "CSDMARD monotherapy": ["28/206 (13.6%)", "d"]
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.99 (0.54 to 1.79)",
+            "Absolute (95% CI)": "1 fewer per 1,000 (from 63 fewer to 107 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "IMPORTANT"
+    }
+}

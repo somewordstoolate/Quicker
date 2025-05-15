@@ -1,0 +1,283 @@
+{
+  "Disease activity (follow up: 1 year; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)": {
+    "No of studies": [
+      "1"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Withdraw one DMARD": "398",
+      "Continue current therapy": "201"
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 0.59 higher (0.4 higher to 0.78 higher)"
+    },
+    "Certainty": "HIGH",
+    "Importance": "CRITICAL"
+  },
+  "Remission (follow up: 1 year; assessed with: DAS28-ESR <2.6)": {
+    "No of studies": [
+      "1"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Withdraw one DMARD": "179/398 (45.0%)",
+      "Continue current therapy": "134/201 (66.7%) "
+    },
+    "Effect": {
+      "Relative (95% CI)": "RR 0.67 (0.58 to 0.78)",
+      "Absolute (95% CI)": "220 fewer per 1,000 (from 280 fewer to 147 fewer)"
+    },
+    "Certainty": "HIGH",
+    "Importance": "CRITICAL"
+  },
+  "Flare (follow up: range 7 months to 12 months)": {
+    "No of studies": [
+      "2",
+      "3"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": [
+      "serious",
+      "a"
+    ],
+    "Inconsistency": [
+      "not serious",
+      "b"
+    ],
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Withdraw one DMARD": "100/136 (73.5%)  ",
+      "Continue current therapy": "24/75 (32.0%) "
+    },
+    "Effect": {
+      "Relative (95% CI)": "RR 2.40 (1.68 to 3.42)",
+      "Absolute (95% CI)": "448 more per 1,000 (from 218 more to 774 more)"
+    },
+    "Certainty": "MODERATE",
+    "Importance": "CRITICAL"
+  },
+  "Radiographic progression (follow up: 1 year; assessed with: mTSS (Lower values – > benefit) (MCID 4.6)": {
+    "No of studies": [
+      "1"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "very serious",
+      "c"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Withdraw one DMARD": "351  ",
+      "Continue current therapy": "184 "
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 1.77 lower (11.99 lower to 8.45 higher)"
+    },
+    "Certainty": "LOW",
+    "Importance": "IMPORTANT"
+  },
+  "Fatigue (follow up: 1 year; assessed with: FACIT-F (Higher values – > benefit) (MCID 15.9)": {
+    "No of studies": [
+      "4"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Withdraw one DMARD": "398  ",
+      "Continue current therapy": "201  "
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 1.98 lower (3.57 lower to 0.39 lower)"
+    },
+    "Certainty": "HIGH",
+    "Importance": "IMPORTANT"
+  },
+  "Pain (follow up: 1 year; assessed with: VAS pain (0-100) (Lower values – > benefit) (MCID -11.9)": {
+    "No of studies": [
+      "1"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "serious",
+      "e"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Withdraw one DMARD": "398  ",
+      "Continue current therapy": "201  "
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 9.04 higher (5.62 higher to 12.46 higher)"
+    },
+    "Certainty": "MODERATE",
+    "Importance": "IMPORTANT"
+  },
+  "Disability (follow up: 1 year; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)": {
+    "No of studies": [
+      "1"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "serious",
+      "e"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Withdraw one DMARD": " 398",
+      "Continue current therapy": "201  "
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 0.2 higher (0.11 higher to 0.29 higher)"
+    },
+    "Certainty": "MODERATE",
+    "Importance": "IMPORTANT"
+  },
+  "Quality of Life (follow up: 1 year; assessed with: EuroQol-5 (Higher values – > benefit) (MCID 0.1)": {
+    "No of studies": [
+      "1"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Withdraw one DMARD": "398 ",
+      "Continue current therapy": "201 "
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 0.05 lower (0.09 lower to 0.01 lower)"
+    },
+    "Certainty": "HIGH",
+    "Importance": "IMPORTANT"
+  },
+  "Withdrawal due to lack of efficacy (follow up: 1 year)": {
+    "No of studies": [
+      "1"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "serious",
+      "g"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Withdraw one DMARD": "54/402 (13.4%) ",
+      "Continue current therapy": "4/202 (2.0%)  "
+    },
+    "Effect": {
+      "Relative (95% CI)": "RR 6.78(2.49 to 18.47",
+      "Absolute (95% CI)": "114 more per 1,000(from 30 more to 346 more)"
+    },
+    "Certainty": "MODERATE",
+    "Importance": "IMPORTANT"
+  },
+  "Withdrawal due to adverse events (follow up: 1 year)": {
+    "No of studies": [
+      "1"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "very serious",
+      "c"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Withdraw one DMARD": "9/402 (2.2%) ",
+      "Continue current therapy": "7/202 (3.5%)  "
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "RR 0.65 (0.24 to 1.71)"
+    },
+    "Certainty": "LOW",
+    "Importance": "IMPORTANT"
+  },
+  "Serious adverse events (follow up: 1 year)": {
+    "No of studies": [
+      "1"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "very serious",
+      "e"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Withdraw one DMARD": "22/402 (5.5%)  ",
+      "Continue current therapy": "12/202 (5.9%)  "
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "RR 0.92 (0.47 to 1.82)"
+    },
+    "Certainty": "LOW",
+    "Importance": "IMPORTANT"
+  },
+  "Malignancy (follow up: 1 year)": {
+    "No of studies": [
+      "1"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "very serious",
+      "e",
+      "g"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Withdraw one DMARD": "5/402 (1.2%) ",
+      "Continue current therapy": "2/202 (1.0%)  "
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "RR 0.75 (0.17 to 3.33)"
+    },
+    "Certainty": "LOW",
+    "Importance": "IMPORTANT"
+  }
+}

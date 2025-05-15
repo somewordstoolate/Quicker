@@ -1,0 +1,24 @@
+{
+    "Question": "Should patients with RA not tolerating MTX, on folic acid 1 mg/day, increase the dose of folic acid?",
+    "Comparison": {
+        "Remain on folic acid 1 mg per day versus increase dose of folic acid to > 1mg per day. Data based on indirect RCT evidence.": {
+            "filename": "PICO 15_Comparison 1.json",
+            "Explanations": {
+                "a": "Concern about risk of bias associated with handling of incomplete outcome data.",
+                "b": "Downgraded by one level due to serious indirectness. The evidence is based on a population who are starting MTX treatment (MTX-naive and not on folic acid) with different folic acid doses (10 mg/week vs 30 mg/week).",
+                "c": "Downgraded by one level due to serious imprecision. Small sample size.",
+                "d": "Folic acid dose is 5-10 mg/week.",
+                "e": "Folic acid dose is 27.5-30mg/week.",
+                "f": "Downgraded by one level due to serious inconsistency. I2=79%.",
+                "g": "Downgraded by one level due to serious indirectness. The evidence is based on a population who are starting MTX treatment (MTX-naive and not on folic acid) with different folic acid doses (5-10 mg/week vs 27.5-30 mg/week).",
+                "h": "According to the Cochrane's handbook, Cohen suggested that SMD=0.2 be considered a 'small' effect size, 0.5 represents a 'medium' effect size and 0.8 a 'large' effect size. This means that if two groups' means do not differ by 0.2 standard deviations or more, the difference is trivial, even if it is statistically significant.",
+                "i": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm.",
+                "j": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Very low number of events."
+            }
+        }
+    },
+    "References": {
+        "1": "Dhir V. Comparison of two different folic acid doses with methotrexate - a randomized controlled trial (FOLVARI Study). Arthritis Research & Therapy. 2015;17:156.",
+        "2": "Morgan Sea. Supplementation with Folic Acid during Methotrexate Therapy for Rheumatoid Arthritis. Ann Intern Med. 1994;121:833-41."
+    }
+}

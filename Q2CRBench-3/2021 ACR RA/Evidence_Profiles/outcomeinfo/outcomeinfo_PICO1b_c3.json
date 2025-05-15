@@ -1,0 +1,98 @@
+[
+    {
+        "outcome_uid": "a7a382d5",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed and low disease activity receive MTX monotherapy or an alternative csDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and low disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "LEF",
+        "outcome": "Disease activity (follow up: 4 months; assessed with: ACR 20)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "ade90865"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population with moderate to high disease activity."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "MTX monotherapy": "88/180 (48.9%)",
+                    "LEF": "95/182 (52.2%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.94 (0.76 to 1.15)",
+                    "Absolute Effect (95% CI)": "31 fewer per 1,000 (from 125 fewer to 78 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "e1285d51",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs exposed and low disease activity receive MTX monotherapy or an alternative csDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and low disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "LEF",
+        "outcome": "Disease activity (follow up: 4 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "ad9d3d6b"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding of patients, personnel, and outcome assessors."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population with moderate to high disease activity."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect. Small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "MTX monotherapy": "21",
+                    "LEF": "19"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.67 lower (1.5 lower to 0.16 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

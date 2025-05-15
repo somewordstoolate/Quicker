@@ -1,0 +1,15 @@
+{
+    "Question": "Should patients with RA initiating MTX receive oral MTX or subcutaneous (SC) MTX?",
+    "Comparison": {
+        "SC MTX versus Oral MTX. Data based on direct RCT evidence.": {
+            "filename": "PICO 9_Comparison 1.json",
+            "Explanations": {
+                "a": "The study did not report on whether allocation was concealed.",
+                "b": "Downgraded by one level due to serious imprecision. Confidence intervals includes both values suggesting no effect and values suggesting benefit."
+            }
+        }
+    },
+    "References": {
+        "1": "Braun J. Comparison of the clinical efficacy and safety of subcutaneous versus oral administration of methotrexate in patients with active rheumatoid arthritis: results of a six-month, multicenter, randomized, double-blind, controlled, phase IV trial. Arthritis & Rheumatism. 2008;58(1):73."
+    }
+}

@@ -1,0 +1,79 @@
+{
+    "Disease activity (follow up: 6 months; assessed with: DAS28-ESR)": {
+      "No of studies": ["7"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["serious", "b"],
+      "Other considerations": "none",
+      "№ of patients": {
+        "Switch to IL-6 (TCZ)": "58",
+        "Switch to ABA": "60"
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 0.4 lower (0.69 lower to 0.11 lower)"
+      },
+      "Certainty": "  LOW",
+      "Importance": "CRITICAL"
+    },
+    "Disability (follow up: 6 months; assessed with: HAQ-DI)": {
+      "No of studies": ["7"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious","c"],
+      "Other considerations": "none",
+      "№ of patients": {
+        "Switch to IL-6 (TCZ)": "58",
+        "Switch to ABA": "60"
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 0.12 lower (0.55 lower to 0.31 higher)"
+      },
+      "Certainty": " VERY LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Withdrawal due to adverse events (follow up: 6 months)": {
+      "No of studies": ["7"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious","c"],
+      "Other considerations": "none",
+      "№ of patients": {
+        "Switch to IL-6 (TCZ)": "10/68 (14.7%)",
+        "Switch to ABA": "4/64 (6.3%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 2.35 (0.78 to 7.13)",
+        "Absolute (95% CI)": "84 more per 1,000 (from 14 fewer to 383 more)"
+      },
+      "Certainty": " VERY LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Serious adverse events (follow up: 6 months)": {
+      "No of studies": ["7"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious","c"],
+      "Other considerations": "none",
+      "№ of patients": {
+        "Switch to IL-6 (TCZ)": "10/68 (14.7%)",
+        "Switch to ABA": "4/64 (6.3%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 2.35 (0.78 to 7.13)",
+        "Absolute (95% CI)": "84 more per 1,000 (from 14 fewer to 383 more)"
+      },
+      "Certainty": " VERY LOW",
+      "Importance": "IMPORTANT"
+    }
+  }
+  

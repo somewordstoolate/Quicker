@@ -1,0 +1,15 @@
+{
+    "Question": "Should patients with RA on DMARD monotherapy who are in low disease activity gradually taper off DMARD, abruptly withdraw DMARD, or continue DMARD at the same dose?",
+    "Comparison": {
+        "Abruptly withdraw DMARD versus taper off DMARD. Data providing direct NRS evidence.": {
+            "filename": "PICO 57_Comparison 3.json",
+            "Explanations": {
+                "a": "Study did not report on handling confounding; also high rate of missing data",
+                "b": "Very low number of participants and number of events"
+            }
+        }
+    },
+    "References": {
+        "1": "Harigai M. Discontinuation of adalimumab treatment in rheumatoid arthritis patients after achieving low disease activity. Modern Rheumatology. 2012;22:814-22."
+    }
+}

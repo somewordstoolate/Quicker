@@ -1,0 +1,282 @@
+[
+    {
+        "outcome_uid": "c463b84c",
+        "clinical_question": "Should patients with dementia and agitation/aggressive behaviour be treated with atypical anti-psychotics compared to no pharmacological treatment?",
+        "population": "Patients with dementia and agitation/aggressive behavior ",
+        "intervention": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "comparator": " No pharmacological treatment ",
+        "outcome": "Mortality",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "50df60b4",
+            "f5076959",
+            "0643f463",
+            "44c2f905",
+            "d21566cc"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Wide confidence intervals, few patients"
+                },
+                "Publication bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "None",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "Risk": {
+                    "No treatment (comparator) mean change score (SD) OR n/N": {
+                        "50df60b4": "3.3% (placebo)",
+                        "f5076959": "0/46",
+                        "0643f463": "3/139",
+                        "44c2f905": "0/31",
+                        "d21566cc": "4/166"
+                    },
+                    "Treatment with typical antipsychotics (intervention) mean change score (SD) OR n/N": {
+                        "50df60b4": "5.1% (quetiapine 200 mg/day), 7.3% (queti- apine 100 mg/day)",
+                        "f5076959": "0/160",
+                        "0643f463": "5/274",
+                        "44c2f905": "1/30",
+                        "d21566cc": "6/161"
+                    }
+                },
+                "Effect": {
+                    "Mean difference in change score OR Relative risk (95 % CI)": {
+                        "50df60b4": "RR 2.08 (95% CI: 0.61 - 7.16) (RR and percentage mortality includes 30-day follow-up. Nine Deaths occurred during the trial and 10 in the 30-day follow-up period)",
+                        "f5076959": "NA (Due to no events in one or both arms RR cannot be calculated)",
+                        "0643f463": "RR 0.85 (95% CI: 0.21 to 3.50)",
+                        "44c2f905": "NA (Due to no events in one or both arms RR cannot be calculated)",
+                        "d21566cc": "RR 1.53 (95% CI: 0.44 - 5.31)"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "e0b56f32",
+        "clinical_question": "Should patients with dementia and agitation/aggressive behaviour be treated with atypical anti-psychotics compared to no pharmacological treatment?",
+        "population": "Patients with dementia and agitation/aggressive behavior ",
+        "intervention": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "comparator": " No pharmacological treatment ",
+        "outcome": "Agitation/aggression",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "50df60b4",
+            "f5076959",
+            "c6e3bcaf",
+            "44c2f905",
+            "d21566cc"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "Point estimates vary widely, the direction of the effect is not consistent between the included studies"
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Wide confidence intervals, few patients"
+                },
+                "Publication bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "None",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "Risk": {
+                    "No treatment (comparator) mean change score (SD) OR n/N": {
+                        "50df60b4": "-2.5 (SD 0.9)",
+                        "f5076959": "-2.1 (SD 4.6)",
+                        "c6e3bcaf": "-0.1 (1.0)",
+                        "44c2f905": "-9.0 (16.5)",
+                        "d21566cc": "-3.1"
+                    },
+                    "Treatment with typical antipsychotics (intervention) mean change score (SD) OR n/N": {
+                        "50df60b4": "Intervention 1: - 2.5 (0.9); intervention 2: -1.8 (0.8)",
+                        "f5076959": "Intervention 1: -4.1 (3.7) Intervention 2: -3.9 (4.2) Intervention 3: -3.1 (4.1) ",
+                        "c6e3bcaf": "Intervention 1: -0.4 (2.1) Intervention 2: -0.3 (1.0) Intervention 3: -0.2 (1.1) ",
+                        "44c2f905": "-8.1 (12.7)",
+                        "d21566cc": "-7.5"
+                    }
+                },
+                "Effect": {
+                    "Mean difference in change score OR Relative risk (95 % CI)": {
+                        "50df60b4": "Intervention 1: 0 (95% CI: -0.25 to 0.25); Intervention 2 (95% CI 0.46 to 0.94)",
+                        "f5076959": "Intervention 1: -2 (95% CI -3.53 - 0.48); Intervention 2: -1.8, (95% CI -3.48 to 0.13); Intervention 3: -1 (95% CI 2.63 to -0.63,)",
+                        "c6e3bcaf": "Intervention 1: -0.3 (95% CI -0.70 to 0.10,); Intervention 2: -0.2 (95% CI -0.46 to 0.06); Intervnetion 3: - 0.1 (95% CI -0.38 to 0.18)",
+                        "44c2f905": "0.9 (95% CI -6.58 to 8.38)",
+                        "d21566cc": "-4.4 (SD not reported for change scores)"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "9fbb3c56",
+        "clinical_question": "Should patients with dementia and agitation/aggressive behaviour be treated with atypical anti-psychotics compared to no pharmacological treatment?",
+        "population": "Patients with dementia and agitation/aggressive behavior ",
+        "intervention": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "comparator": " No pharmacological treatment ",
+        "outcome": "Global cognitive function",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "baf84590",
+            "f5076959",
+            "c6e3bcaf",
+            "44c2f905"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Few patients"
+                },
+                "Publication bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "None",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "Risk": {
+                    "No treatment (comparator) mean change score (SD) OR n/N": {
+                        "baf84590": "Not reported",
+                        "f5076959": "-0.3 (2.2) ",
+                        "c6e3bcaf": "-0.7 (2.7) ",
+                        "44c2f905": "3.3 (17.4) "
+                    },
+                    "Treatment with typical antipsychotics (intervention) mean change score (SD) OR n/N": {
+                        "baf84590": "Not reported",
+                        "f5076959": "Intervention 1: -0.5 (3.3); Intervention 2: -1 (3.1); Intervention 3: -0.3 (2.2) ",
+                        "c6e3bcaf": "Intervention 1: -0.1 (3.7); Intervention 2: -0.8 (3.8); Intervention 3: -0.8 (3.2)",
+                        "44c2f905": "-11.3 (15.6)"
+                    }
+                },
+                "Effect": {
+                    "Mean difference in change score OR Relative risk (95 % CI)": {
+                        "baf84590": "-0.1 (-2.9 to 2.6)",
+                        "f5076959": "Intervention 1: -0.2, (95% CI -0.92 to 1.32); Intervention 2: -0.7 (95% CI -0.39 to 1.79); Intervention 3: 0 (95% CI -0.88 to 0.88)",
+                        "c6e3bcaf": "Intervention 1: 0.6 (95% CI -0.21 to 1.41); Intervention 2: -0.1 (95% CI -0.93 to 0.73); Intervention 3: -0.1 (95% CI -0.88 to 0.68)",
+                        "44c2f905": "\u221215.4 (\u221227.0 to \u22123.8)"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "5920def2",
+        "clinical_question": "Should patients with dementia and agitation/aggressive behaviour be treated with atypical anti-psychotics compared to no pharmacological treatment?",
+        "population": "Patients with dementia and agitation/aggressive behavior ",
+        "intervention": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "comparator": " No pharmacological treatment ",
+        "outcome": "SAEs",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "50df60b4",
+            "baf84590",
+            "0643f463",
+            "44c2f905",
+            "d21566cc"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Wide confidence intervals, few patients"
+                },
+                "Publication bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "None",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "Risk": {
+                    "No treatment (comparator) mean change score (SD) OR n/N": {
+                        "50df60b4": "9/83",
+                        "baf84590": "2/18",
+                        "0643f463": "19/123",
+                        "44c2f905": "1/30 ",
+                        "d21566cc": "15/155"
+                    },
+                    "Treatment with typical antipsychotics (intervention) mean change score (SD) OR n/N": {
+                        "50df60b4": "21/220",
+                        "baf84590": "2/18",
+                        "0643f463": "40/239",
+                        "44c2f905": "1/30",
+                        "d21566cc": "28/139"
+                    }
+                },
+                "Effect": {
+                    "Mean difference  in change score OR Relative risk (95 % CI)": {
+                        "50df60b4": "RR: 0.89 (95% CI: 0.42 to 1.87)",
+                        "baf84590": "RR: 1 (95% CI: 0.16 to 6.42)",
+                        "0643f463": "RR: 1.07 (95% CI: 0.65 to 1.78)",
+                        "44c2f905": "RR: 1 (95% CI: 0.07 to 15.28)",
+                        "d21566cc": "RR: 1.9 (95% CI: 1.05 to 3.43)"
+                    }
+                }
+            }
+        }
+    }
+]

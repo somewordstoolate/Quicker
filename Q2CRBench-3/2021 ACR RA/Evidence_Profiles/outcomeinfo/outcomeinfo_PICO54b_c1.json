@@ -1,0 +1,148 @@
+[
+    {
+        "outcome_uid": "918aa04b",
+        "clinical_question": "Should patients with RA on two or more DMARDs who are at target for six months and longer withdraw DMARDs or continue DMARDs?",
+        "population": "Patients with RA on two or more DMARDs at target for six months and longer",
+        "intervention": "Withdraw one DMARD (or more than one DMARD as long as the patient remains on at least one DMARD)",
+        "comparator": "Continue current therapy",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "3ca3e366"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Concern about the lack of blinding of participants and providers"
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "Withdraw one DMARD": "64",
+                    "Continue current therapy": "73"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.1 higher (0.02 higher to 0.18 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "251b7771",
+        "clinical_question": "Should patients with RA on two or more DMARDs who are at target for six months and longer withdraw DMARDs or continue DMARDs?",
+        "population": "Patients with RA on two or more DMARDs at target for six months and longer",
+        "intervention": "Withdraw one DMARD (or more than one DMARD as long as the patient remains on at least one DMARD)",
+        "comparator": "Continue current therapy",
+        "outcome": "Flare (follow up: range 11 months to 18 months)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "3ca3e366",
+            "60bbc82c",
+            "1ce3bb38"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "All included studies are at risk of bias"
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "I2=55%"
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Withdraw one DMARD": "645",
+                    "Continue current therapy": "382(25.4%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "HR 2.61 (2.11 to 3.23)",
+                    "Absolute Effect (95% CI)": "281 more per 1,000 (from 207 more to 358 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "832b89f9",
+        "clinical_question": "Should patients with RA on two or more DMARDs who are at target for six months and longer withdraw DMARDs or continue DMARDs?",
+        "population": "Patients with RA on two or more DMARDs at target for six months and longer",
+        "intervention": "Withdraw one DMARD (or more than one DMARD as long as the patient remains on at least one DMARD)",
+        "comparator": "Continue current therapy",
+        "outcome": "Disability (follow up: 3 months; assessed with: HAQ-DI (Lower values \u2013 > benefit) (MCID -0.22)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "3ca3e366"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Concern about the lack of blinding of participants and providers"
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "CI includes both values suggesting harms and values suggesting no effect"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Withdraw one DMARD": "64",
+                    "Continue current therapy": "73"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.09 higher (0.11 lower to 0.29 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

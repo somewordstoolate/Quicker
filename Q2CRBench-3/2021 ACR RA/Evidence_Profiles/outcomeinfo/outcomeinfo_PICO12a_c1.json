@@ -1,0 +1,738 @@
+[
+    {
+        "outcome_uid": "31e12e05",
+        "clinical_question": " Should patients with RA who have not been previously treated with boDMARD and tsDAMRD receive T2T strategies or usual care?",
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Remission (follow up: range 6 months to 1.5 years; assessed with: DAS 44 <1.4 and DAS28 ESR <2.6)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "6e1cd0bc",
+            "2671be0a",
+            "06522c73"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "T2T": "88/176 (50.0%)",
+                    "Usual care": "32/186 (17.2%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 2.89 (2.04 to 4.09)",
+                    "Absolute Effect (95% CI)": "325 more per 1,000 (from 179 more to 532 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "3b70985b",
+        "clinical_question": " Should patients with RA who have not been previously treated with boDMARD and tsDAMRD receive T2T strategies or usual care?",
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Disease activity (follow up: range 6 months to 1.5 years; assessed with: ACR 20)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "6e1cd0bc",
+            "2671be0a"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "T2T": "69/76 (90.8%)",
+                    "Usual care": "48/77 (62.3%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.46 (1.21 to 1.76)",
+                    "Absolute Effect (95% CI)": "287 more per 1,000 (from 131 more to 474 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "f28700d3",
+        "clinical_question": " Should patients with RA who have not been previously treated with boDMARD and tsDAMRD receive T2T strategies or usual care?",
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Disease activity (follow up: range 6 months to 1.5 years; assessed with: ACR 50)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "6e1cd0bc",
+            "2671be0a"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "T2T": "62/76 (81.6%)",
+                    "Usual care": "30/77 (39.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 2.09 (1.55 to 2.82)",
+                    "Absolute Effect (95% CI)": "425 more per 1,000 (from 214 more to 709 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "b0d2db83",
+        "clinical_question": " Should patients with RA who have not been previously treated with boDMARD and tsDAMRD receive T2T strategies or usual care?",
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Disease activity (follow up: range 6 months to 1.5 years; assessed with: ACR 70)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "6e1cd0bc",
+            "2671be0a"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "T2T": "54/76 (71.1%)",
+                    "Usual care": "16/77 (20.8%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 3.43 (2.16 to 5.43)",
+                    "Absolute Effect (95% CI)": "505 more per 1,000 (from 241 more to 921 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "f530e27f",
+        "clinical_question": " Should patients with RA who have not been previously treated with boDMARD and tsDAMRD receive T2T strategies or usual care?",
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Disease activity (follow up: range 6 months to 1.5 years; assessed with: DAS 44/DAS28 ESR)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "6e1cd0bc",
+            "2671be0a",
+            "06522c73"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious inconsistency. I2= 96%."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "T2T": "174",
+                    "Usual care": "181"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "SMD 0.43 lower (0.65 lower to 0.21 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "8d864500",
+        "clinical_question": " Should patients with RA who have not been previously treated with boDMARD and tsDAMRD receive T2T strategies or usual care?",
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Radiographic progression (follow up: range 1 years to 1.5 years; assessed with: modified Sharp score)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "2671be0a",
+            "41ed8200"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious risk of bias. Lack of allocation concealment, lack of blinding, and attrition bias."
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious inconsistency. I2= 78%."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "T2T": "143",
+                    "Usual care": "159"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.6 lower (1.68 lower to 0.47 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "669bdeca",
+        "clinical_question": " Should patients with RA who have not been previously treated with boDMARD and tsDAMRD receive T2T strategies or usual care?",
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Disability (follow up: range 1.5 years to 2 years; assessed with: HAQ-DI)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "6e1cd0bc",
+            "2671be0a",
+            "41ed8200"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious risk of bias. Lack of allocation concealment, lack of blinding, and attrition bias."
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious inconsistency. I2= 71%."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "T2T": "323",
+                    "Usual care": "328"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.13 lower (0.3 lower to 0.05 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "f12d7ed1",
+        "clinical_question": " Should patients with RA who have not been previously treated with boDMARD and tsDAMRD receive T2T strategies or usual care?",
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Quality of life (follow up: 1.5 years; assessed with: SF-12 PCS)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "2671be0a"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect. Small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "T2T": "53",
+                    "Usual care": "50"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 5.3 higher (0.86 higher to 9.74 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "551d3958",
+        "clinical_question": " Should patients with RA who have not been previously treated with boDMARD and tsDAMRD receive T2T strategies or usual care?",
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Quality of life (follow up: 1.5 years; assessed with: SF-12 MCS)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "2671be0a"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect. Small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "T2T": "53",
+                    "Usual care": "50"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 4.9 higher (1.69 lower to 11.49 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "24570424",
+        "clinical_question": " Should patients with RA who have not been previously treated with boDMARD and tsDAMRD receive T2T strategies or usual care?",
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Pain (follow up: range 1.5 years to 2 years; assessed with: VAS 0-100)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "6e1cd0bc",
+            "2671be0a",
+            "41ed8200"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious risk of bias. Lack of allocation concealment, lack of blinding, and attrition bias."
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious inconsistency. I2= 74%."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "T2T": "225",
+                    "Usual care": "220"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 12.15 lower (17.76 lower to 6.54 lower)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "5103ab51",
+        "clinical_question": " Should patients with RA who have not been previously treated with boDMARD and tsDAMRD receive T2T strategies or usual care?",
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Withdrawal due to lack of efficacy (follow up: range 1.5 years to 2 years)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "6e1cd0bc",
+            "06522c73",
+            "41ed8200"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious risk of bias. Lack of allocation concealment, lack of blinding, and attrition bias."
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious inconsistency. I2= 75%."
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "T2T": "17/272 (6.3%)",
+                    "Usual care": "25/279 (9.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.71 (0.39 to 1.29)",
+                    "Absolute Effect (95% CI)": "26 fewer per 1,000 (from 55 fewer to 26 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "835807a2",
+        "clinical_question": " Should patients with RA who have not been previously treated with boDMARD and tsDAMRD receive T2T strategies or usual care?",
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Withdrawal due to adverse events (follow up: range 6 months to 1.5 years)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "6e1cd0bc",
+            "06522c73",
+            "c1d5b421"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious risk of bias. Two studies consisting of 97% of the weight have high risk of bias due to lack of allocation concealment, lack of blinding of outcome assessors, and reporting incomplete outcome data."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "I2=55%"
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "T2T": "16/326 (4.9%)",
+                    "Usual care": "19/310 (6.1%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.86 (0.46 to 1.59)",
+                    "Absolute Effect (95% CI)": "9 fewer per 1,000 (from 33 fewer to 36 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "7ca16a69",
+        "clinical_question": " Should patients with RA who have not been previously treated with boDMARD and tsDAMRD receive T2T strategies or usual care?",
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Serious adverse events (follow up: 6 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "6e1cd0bc"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "T2T": "2/21 (9.5%)",
+                    "Usual care": "1/22 (4.5%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 2.10 (0.20 to 21.42)",
+                    "Absolute Effect (95% CI)": "50 more per 1,000 (from 36 fewer to 928 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "a90d73a8",
+        "clinical_question": " Should patients with RA who have not been previously treated with boDMARD and tsDAMRD receive T2T strategies or usual care?",
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Cardiovascular disease (follow up: 2 years)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "4b539132"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious risk of bias. Lack of allocation concealment, lack of blinding, and attrition bias."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Very small number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "T2T": "4/149 (2.7%)",
+                    "Usual care": "0/140 (0.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 8.46 (0.46 to 155.72)",
+                    "Absolute Effect (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "ef58beaf",
+        "clinical_question": " Should patients with RA who have not been previously treated with boDMARD and tsDAMRD receive T2T strategies or usual care?",
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Death (follow up: mean 1.5 years)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "2671be0a"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and lack of blinding."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "T2T": "1/55 (1.8%)",
+                    "Usual care": "3/55 (5.5%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.33 (0.04 to 3.11)",
+                    "Absolute Effect (95% CI)": "37 fewer per 1,000 (from 52 fewer to 115 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

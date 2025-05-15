@@ -1,0 +1,154 @@
+[
+    {
+        "outcome_uid": "f80bcf7a",
+        "clinical_question": "Should patients with RA not tolerating MTX, on folic acid 1 mg/day, increase the dose of folic acid?",
+        "population": "Patients with RA not tolerating MTX on 1mg of folic acid",
+        "intervention": "Increase dose of folic acid to > 1mg per day",
+        "comparator": "Remain on folic acid 1 mg per day",
+        "outcome": "Disease activity (follow up: 6 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "a6672bfe"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Concern about risk of bias associated with handling of incomplete outcome data."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population who are starting MTX treatment (MTX-naive and not on folic acid) with different folic acid doses (10 mg/week vs 30 mg/week)."
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "Remain on folic acid 1 mg per day": "51",
+                    "Increase dose of folic acid to > 1mg per day": "49"
+                },
+                "Annotation": {
+                    "data": "1. Folic acid dose is 5-10 mg/week.\n2. Folic acid dose is 27.5-30mg/week.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.28 higher (0.1 higher to 0.46 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "fbc80f3f",
+        "clinical_question": "Should patients with RA not tolerating MTX, on folic acid 1 mg/day, increase the dose of folic acid?",
+        "population": "Patients with RA not tolerating MTX on 1mg of folic acid",
+        "intervention": "Increase dose of folic acid to > 1mg per day",
+        "comparator": "Remain on folic acid 1 mg per day",
+        "outcome": "Disability (follow up: range 6 months to 12 months; assessed with: HAQ-DI or modified HAQ (Lower values \u2013 > benefit) (values>0.2 are considered clinically significant)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "a6672bfe",
+            "bdf72d22"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Concern about risk of bias associated with handling of incomplete outcome data."
+                },
+                "Inconsistency": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious inconsistency. I2=79%."
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population who are starting MTX treatment (MTX-naive and not on folic acid) with different folic acid doses (5-10 mg/week vs 27.5-30 mg/week)."
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "According to the Cochrane's handbook, Cohen suggested that SMD=0.2 be considered a 'small' effect size, 0.5 represents a 'medium' effect size and 0.8 a 'large' effect size. This means that if two groups' means do not differ by 0.2 standard deviations or more, the difference is trivial, even if it is statistically significant.\nDowngraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Remain on folic acid 1 mg per day": "76",
+                    "Increase dose of folic acid to > 1mg per day": "75"
+                },
+                "Annotation": {
+                    "data": "1. Folic acid dose is 5-10 mg/week.\n2. Folic acid dose is 27.5-30mg/week.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "SMD 0.49 SD higher (0.16 higher to 0.82 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "8334a345",
+        "clinical_question": "Should patients with RA not tolerating MTX, on folic acid 1 mg/day, increase the dose of folic acid?",
+        "population": "Patients with RA not tolerating MTX on 1mg of folic acid",
+        "intervention": "Increase dose of folic acid to > 1mg per day",
+        "comparator": "Remain on folic acid 1 mg per day",
+        "outcome": "Withdrawal due to adverse events (follow up: range 6 months to 12 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "a6672bfe",
+            "bdf72d22"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": "Concern about risk of bias associated with handling of incomplete outcome data."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious indirectness. The evidence is based on a population who are starting MTX treatment (MTX-naive and not on folic acid) with different folic acid doses (5-10 mg/week vs 27.5-30 mg/week)."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Very low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Remain on folic acid 1 mg per day": "3/76 (3.9%)",
+                    "Increase dose of folic acid to > 1mg per day": "2/75 (2.7%)"
+                },
+                "Annotation": {
+                    "data": "1. Folic acid dose is 5-10 mg/week.\n2. Folic acid dose is 27.5-30mg/week.\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.42 (0.29 to 6.92)",
+                    "Absolute Effect (95% CI)": "11 more per 1,000 (from 19 fewer to 158 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

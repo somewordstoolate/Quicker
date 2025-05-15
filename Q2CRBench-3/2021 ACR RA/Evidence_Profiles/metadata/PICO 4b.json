@@ -1,0 +1,36 @@
+{
+    "Question": " Should patients with MTX-naïve and non-MTX csDMARDs exposed RA and moderate to high disease activity receive csDMARD monotherapy or combination (double or triple) therapy?",
+    "Comparison": 
+    {
+        "csDMARD double combination therapy vs csDMARD monotherapy.": 
+            {
+                "filename": "PICO 4b_Comparison 1.json",
+                "Explanations": 
+                {
+                    "a": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment in both studies, high risk of attrition bias in one of the two studies.",
+                    "b": "Downgraded by one level due to serious indirectness. The evidence is based on a population who are non-MTX csDMARD naive.",
+                    "c": "csDMARD double therapy includes: MTZ+SSZ",
+                    "d": "csDMARD monotherapy includes: MTX or SSZ",
+                    "e": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment.",
+                    "f": "Downgraded by one level due to serious imprecision. Low sample size.",
+                    "g": "Downgraded by two levels due to very serious imprecision. Confidence intervals include both values suggesting benefit and values suggesting harm. Small sample size, very low number of events."
+                }
+            },
+        "csDMARD triple combination therapy vs csDMARD monotherapy. ": 
+            {
+                "filename": "PICO 4b_Comparison 2.json",
+                "Explanations": 
+                {
+                    "a": "csDMARD triple therapy includes MTX + SSZ + HCQ.",
+                    "b": "csDMARD monotherapy includes MTX.",
+                    "c": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting no effect and values suggesting harm. Low number of events."
+                }
+            }
+    },
+    "References": 
+    { 
+        "1": "Dougados M. Combination therapy in early rheumatoid arthritis: a randomised, controlled, double blind 52 week clinical trial of sulphasalazine and methotrexate compared with the single components. Annals of the Rheumatic Diseases. 1999;58(4):220.",
+        "2": "Haagsma C. Combination of sulphasalazine and methotrexate versus the single components in early rheumatoid arthritis: a randomized, controlled, double-blind, 52 week clinical trial. British Journal of Rheumatology. 1997;36(10):1082.",
+        "3": "Moreland LW, Zhang J. A randomized comparative effectiveness study of oral triple therapy versus etanercept plus methotrexate in early aggressive rheumatoid arthritis: The treatment of early aggressive rheumatoid arthritis trial. Arthritis and Rheumatism. 2012;64(9):2824."
+    }
+}

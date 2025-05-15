@@ -1,0 +1,131 @@
+{
+    "Question": "Should behavioral symptoms in patients with dementia be treated with mild analgesics?",
+    "References": {
+        "1": "Effect of acetaminophen on behavior, well-being, and psychotropic medication use in nursing home residents with moderate-to-severe dementia. Chibnall JT, Tait RC, Harman B, Luebbert RA. J Am Geriatr Soc 2005;53(11):1921-1929"
+    },
+    "Characteristics": {
+        "1": [
+            {
+                "Number of patients randomized": "25",
+                "Mean age placebo-first": "Not reported",
+                "Mean age intervention-first": "Not reported",
+                "MMSE placebo-first": "Not reported",
+                "Mean MMSE intervention-first": "Not reported (For total sample mean age was 85.9 yrs (SD: 7.4).)"
+            }
+        ]
+    },
+    "Explanations": {
+        "a": "Only one study, therefore not possible to assess",
+        "b": "Patients were not included based on having behavioural symptoms. No baseline data related to assessment of behavioural symptoms were reported.",
+        "c": "to wide CIs, few patients, one study",
+        "d": "Mean score at follow-up on the Cohen-Mansfield Agitation Inventory"
+    },
+    "Outcome": {
+        "Agitation/aggression": {
+            "No of studies": [
+                "1"
+            ],
+            "Study design": "randomised trials",
+            "Risk of bias": [
+                "No serious"
+            ],
+            "Inconsistency": [
+                "N/A",
+                "a"
+            ],
+            "Indirectness": [
+                "Serious",
+                "b"
+            ],
+            "Imprecision": [
+                "Very serious",
+                "c"
+            ],
+            "Publication bias": [
+                "No serious"
+            ],
+            "Other considerations": [
+                "None"
+            ],
+            "Risk": {
+                "No treatment (comparator) mean (SD)": {
+                    "1": [
+                        "1.6 (0.5)",
+                        "d"
+                    ]
+                },
+                "Treatment with mild analgesics (intervention) mean (SD)": {
+                    "1": [
+                        "1.6 (0.5)",
+                        "d"
+                    ]
+                }
+            },
+            "Effect": {
+                "Mean difference": {
+                    "1": [
+                        "0"
+                    ]
+                }
+            },
+            "Certainty": [
+                "VERY LOW"
+            ],
+            "Importance": [
+                "CRITICAL"
+            ]
+        },
+        "Psychotropic treatments": {
+            "No of studies": [
+                "1"
+            ],
+            "Study design": "randomised trials",
+            "Risk of bias": [
+                "No serious"
+            ],
+            "Inconsistency": [
+                "N/A",
+                "a"
+            ],
+            "Indirectness": [
+                "Serious",
+                "b"
+            ],
+            "Imprecision": [
+                "Very serious",
+                "c"
+            ],
+            "Publication bias": [
+                "No serious"
+            ],
+            "Other considerations": [
+                "None"
+            ],
+            "Risk": {
+                "No treatment (comparator) mean (SD)": {
+                    "1": [
+                        "0.8 (1.91)"
+                    ]
+                },
+                "Treatment with psychotropic treatments (intervention) mean (SD)": {
+                    "1": [
+                        "0.52 (1.39)"
+                    ]
+                }
+            },
+            "Effect": {
+                "Mean difference": {
+                    "1": [
+                        "0.28 fewer (MD) (CI 95% 1 fewer - 0.45 more)"
+                    ]
+                }
+            },
+            "Certainty": [
+                "VERY LOW"
+            ],
+            "Importance": [
+                "IMPORTANT"
+            ]
+        }
+    }
+}

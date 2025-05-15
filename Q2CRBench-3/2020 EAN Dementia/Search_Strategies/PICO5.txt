@@ -1,0 +1,41 @@
+1	exp Dementia/
+2	(Dement$ or Alzheimer$ or Amnes$ or Parkinson$ or Huntington$ or lewy$ bod$ or pick$ disease or Posterior cortical atrophy or aphasia or (brain adj1 (disease$ or syndrome$)) or binswanger* or Progressive supranuclear palsy or Steele-Richardson-Olszewski syndrome or Frontotemporal disorder$ or Frontotemporal degeneration or Corticobasal degeneration or Corticobasal syndrome or cognitive disorder$ or Vascular cognitive).ti,ab,kw,ot.
+3	*Amnesia/
+4	exp Parkinsonian Disorders/
+5	*Huntington Disease/
+6	*Supranuclear Palsy, Progressive/
+7	1 or 2 or 3 or 4 or 5 or 6
+8	*Analgesics, Opioid/
+9	(narcotic* or opioid* or morphine or buprenorphine or codeine or dextromoramide or diphenoxylate or dipipanone or dextropropoxyphene or propoxyphene or diamorphine or dihydrocodeine or alfentanil or fentanyl or remifentanil or meptazinol or methadone or nalbuphine or oxycodone or papaveretum or pentazocine or meperidine or pethidine or phenazocine or hydrocodone or hydromorphone or levorphanol or oxymorphone or butorphanol or dezocine or sufentanil or ketobemidone).ti,ab,kw,ot.
+10	Narcotics/
+11	Morphine/
+12	Buprenorphine/
+13	Codeine/
+14	Dextromoramide/
+15	Diphenoxylate/
+16	Dextropropoxyphene/
+17	Alfentanil/
+18	Fentanyl/
+19	Methadone/
+20	Nalbuphine/
+21	Opium/
+22	Oxycodone/
+23	Pentazocine/
+24	Meperidine/
+25	Phenazocine/
+26	Hydrocodone/
+27	hydromorphone/
+28	Levorphanol/
+29	Oxymorphone/
+30	butorphanol/
+31	Sufentanil/
+32	8 or 9 or 10 or 11 or 12 or 13 or 14 or 15 or 16 or 17 or 18 or 19 or 20 or 21 or 22 or 23 or 24 or 25 or 26 or 27 or 28 or 29 or 30 or 31
+33	randomized controlled trial.pt.
+34	controlled clinical trial.pt.
+35	randomized.ab.
+36	placebo.ab.
+37	clinical trials as topic.sh.
+38	randomly.ab.
+39	trial.ti.
+40	33 or 34 or 35 or 36 or 37 or 38 or 39
+41	7 and 32 and 40

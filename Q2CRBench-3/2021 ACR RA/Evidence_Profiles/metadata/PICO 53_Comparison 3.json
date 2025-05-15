@@ -1,0 +1,21 @@
+{
+    "Flare (follow up: 7 months)": {
+        "No of studies": "7",
+        "Study design": "randomised trials",
+        "Risk of bias": ["very serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "b"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "Continue DMARDs at same dose": "8/16 (50.0%)",
+            "Abruptly withdraw DMARDs": "12/15 (80.0%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.63 (0.36 to 1.08)",
+            "Absolute (95% CI)": "296 fewer per 1,000 (from 512 fewer to 64 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "CRITICAL"
+    }
+}

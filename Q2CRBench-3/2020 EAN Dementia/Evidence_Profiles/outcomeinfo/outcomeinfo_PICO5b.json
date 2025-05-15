@@ -1,0 +1,112 @@
+[
+    {
+        "outcome_uid": "e7e8c033",
+        "clinical_question": "Should behavioral symptoms in patients with dementia be treated with mild analgesics?",
+        "population": "Patients with dementia and behavioral symptoms",
+        "intervention": "Treatment with mild analgesics (paracetamol)",
+        "comparator": " No treatment with analgesics ",
+        "outcome": "Agitation/aggression",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "0e34e33b"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_APPLICABLE",
+                    "rationales": "Only one study, therefore not possible to assess"
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Patients were not included based on having behavioural symptoms. No baseline data related to assessment of behavioural symptoms were reported."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "to wide CIs, few patients, one study"
+                },
+                "Publication bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "None",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "Risk": {
+                    "No treatment (comparator) mean (SD)": {
+                        "0e34e33b": "1.6 (0.5) (Mean score at follow-up on the Cohen-Mansfield Agitation Inventory)"
+                    },
+                    "Treatment with mild analgesics (intervention) mean (SD)": {
+                        "0e34e33b": "1.6 (0.5) (Mean score at follow-up on the Cohen-Mansfield Agitation Inventory)"
+                    }
+                },
+                "Effect": {
+                    "Mean difference": {
+                        "0e34e33b": "0"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "5af071df",
+        "clinical_question": "Should behavioral symptoms in patients with dementia be treated with mild analgesics?",
+        "population": "Patients with dementia and behavioral symptoms",
+        "intervention": "Treatment with mild analgesics (paracetamol)",
+        "comparator": " No treatment with analgesics ",
+        "outcome": "Psychotropic treatments",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "0e34e33b"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_APPLICABLE",
+                    "rationales": "Only one study, therefore not possible to assess"
+                },
+                "Indirectness": {
+                    "result": "SERIOUS",
+                    "rationales": "Patients were not included based on having behavioural symptoms. No baseline data related to assessment of behavioural symptoms were reported."
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "to wide CIs, few patients, one study"
+                },
+                "Publication bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "None",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "VERY LOW",
+                "Risk": {
+                    "No treatment (comparator) mean (SD)": {
+                        "0e34e33b": "0.8 (1.91)"
+                    },
+                    "Treatment with psychotropic treatments (intervention) mean (SD)": {
+                        "0e34e33b": "0.52 (1.39)"
+                    }
+                },
+                "Effect": {
+                    "Mean difference": {
+                        "0e34e33b": "0.28 fewer (MD) (CI 95% 1 fewer - 0.45 more)"
+                    }
+                }
+            }
+        }
+    }
+]

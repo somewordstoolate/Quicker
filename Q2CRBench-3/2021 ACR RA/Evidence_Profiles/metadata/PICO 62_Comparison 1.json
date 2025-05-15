@@ -1,0 +1,309 @@
+{
+  "Disease activity (follow up: range 6 months to 12 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)": {
+    "No of studies": [
+      "1",
+      "2"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": [
+      "not serious",
+      "b"
+    ],
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Continue the same dose of the boDMARD or tsDMARD": "250",
+      "Lower the dose of the boDMARD or tsDMARD": "248"
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 0.06 lower (0.24 lower to 0.12 higher)"
+    },
+    "Certainty": "HIGH",
+    "Importance": "CRITICAL"
+  },
+  "Flare (follow up: range 6 months to 12 months)": {
+    "No of studies": [
+      "2",
+      "3",
+      "4"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": [
+      "serious",
+      "d"
+    ],
+    "Inconsistency": [
+      "serious",
+      "e"
+    ],
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "very serious",
+      "a"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Continue the same dose of the boDMARD or tsDMARD": "105",
+      "Lower the dose of the boDMARD or tsDMARD": [
+        "105",
+        "35.2%"
+      ]
+    },
+    "Effect": {
+      "Relative (95% CI)": "HR 0.68 (0.39 to 1.19)",
+      "Absolute (95% CI)": "97 fewer per 1,000 (from 196 fewer to 51 more)"
+    },
+    "Certainty": "VERY LOW",
+    "Importance": "CRITICAL"
+  },
+  "Radiographic progression (follow up: range 6 months to 12 months; assessed with: Larsen/Sharp (Lower values – > benefit) (values > 0.2 are considered clinically important)": {
+    "No of studies": [
+      "1",
+      "2"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": [
+      "not serious",
+      "f"
+    ],
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "serious",
+      "g"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Continue the same dose of the boDMARD or tsDMARD": "234",
+      "Lower the dose of the boDMARD or tsDMARD": "231"
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "SMD 0.13 higher (0.06 lower to 0.31 higher)"
+    },
+    "Certainty": "MODERATE",
+    "Importance": "IMPORTANT"
+  },
+  "Fatigue (follow up: range 6 months to 12 months; assessed with: FACIT-F (Higher values – > benefit) (MCID 15.9)": {
+    "No of studies": [
+      "1",
+      "2"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Continue the same dose of the boDMARD or tsDMARD": "250",
+      "Lower the dose of the boDMARD or tsDMARD": "248"
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 0.79 lower (2.01 lower to 0.44 higher)"
+    },
+    "Certainty": "HIGH",
+    "Importance": "IMPORTANT"
+  },
+  "Pain (follow up: range 6 months to 12 months; assessed with: VAS pain (0-100) (Lower values – > benefit) (MCID -11.9)": {
+    "No of studies": [
+      "1",
+      "2"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Continue the same dose of the boDMARD or tsDMARD": "250",
+      "Lower the dose of the boDMARD or tsDMARD": "248"
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 2.92 lower (6.34 lower to 0.5 higher)"
+    },
+    "Certainty": "HIGH",
+    "Importance": "IMPORTANT"
+  },
+  "Disability (follow up: range 6 months to 12 months; assessed with: HAQ-DI (Lower values – > benefit) (MCID -0.22)": {
+    "No of studies": [
+      "1",
+      "2"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Continue the same dose of the boDMARD or tsDMARD": "251",
+      "Lower the dose of the boDMARD or tsDMARD": "248"
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 0.09 lower (0.19 lower to 0)"
+    },
+    "Certainty": "HIGH",
+    "Importance": "IMPORTANT"
+  },
+  "Quality of Life (follow up: range 6 months to 12 months; assessed with: EQ-5D (Higher values – > benefit) (MCID 0.1)": {
+    "No of studies": [
+      "1",
+      "2"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Continue the same dose of the boDMARD or tsDMARD": "251",
+      "Lower the dose of the boDMARD or tsDMARD": "248"
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 0 (0.03 lower to 0.04 higher)"
+    },
+    "Certainty": "HIGH",
+    "Importance": "IMPORTANT"
+  },
+  "Withdrawal due to adverse events (follow up: 1 year)": {
+    "No of studies": [
+      "1"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "very serious",
+      "g",
+      "i"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Continue the same dose of the boDMARD or tsDMARD": "7/202 (3.5%)",
+      "Lower the dose of the boDMARD or tsDMARD": "4/202 (2.0%)"
+    },
+    "Effect": {
+      "Relative (95% CI)": "RR 1.75 (0.52 to 5.89)",
+      "Absolute (95% CI)": "15 more per 1,000 (from 10 fewer to 97 more)"
+    },
+    "Certainty": "LOW",
+    "Importance": "IMPORTANT"
+  },
+  "Serious adverse events (follow up: range 6 months to 12 months)": {
+    "No of studies": [
+      "1",
+      "2"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": [
+      "not serious",
+      "j"
+    ],
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "very serious",
+      "i",
+      "k"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Continue the same dose of the boDMARD or tsDMARD": "12/221 (5.4%)",
+      "Lower the dose of the boDMARD or tsDMARD": "10/230 (4.3%)"
+    },
+    "Effect": {
+      "Relative (95% CI)": "RR 1.28 (0.56 to 2.91)",
+      "Absolute (95% CI)": "12 more per 1,000 (from 19 fewer to 83 more)"
+    },
+    "Certainty": "LOW",
+    "Importance": "IMPORTANT"
+  },
+  "Cardiovascular disease (follow up: 6 months)": {
+    "No of studies": [
+      "2"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": [
+      "serious",
+      "l"
+    ],
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "very serious",
+      "i",
+      "k"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Continue the same dose of the boDMARD or tsDMARD": "3/19 (15.8%)",
+      "Lower the dose of the boDMARD or tsDMARD": "4/28 (14.3%)"
+    },
+    "Effect": {
+      "Relative (95% CI)": "RR 1.11 (0.28 to 4.39)",
+      "Absolute (95% CI)": "16 more per 1,000 (from 103 fewer to 484 more)"
+    },
+    "Certainty": "VERY LOW",
+    "Importance": "IMPORTANT"
+  },
+  "Malignancy (follow up: 1 year)": {
+    "No of studies": [
+      "1"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "very serious",
+      "i",
+      "k"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Continue the same dose of the boDMARD or tsDMARD": "2/202 (1.0%)",
+      "Lower the dose of the boDMARD or tsDMARD": "4/202 (2.0%)"
+    },
+    "Effect": {
+      "Relative (95% CI)": "RR 0.50 (0.09 to 2.70)",
+      "Absolute (95% CI)": "10 fewer per 1,000 (from 18 fewer to 34 more)"
+    },
+    "Certainty": "LOW",
+    "Importance": "IMPORTANT"
+  },
+  "Death (follow up: 1 year)": {
+    "No of studies": [
+      "1"
+    ],
+    "Study design": "randomised trials",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "very serious",
+      "i"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Continue the same dose of the boDMARD or tsDMARD": "2/202 (1.0%)",
+      "Lower the dose of the boDMARD or tsDMARD": "0/202 (0.0%)"
+    },
+    "Effect": {
+      "Relative (95% CI)": "RR 5.00 (0.24 to 103.50)",
+      "Absolute (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)"
+    },
+    "Certainty": "LOW",
+    "Importance": "IMPORTANT"
+  }
+}

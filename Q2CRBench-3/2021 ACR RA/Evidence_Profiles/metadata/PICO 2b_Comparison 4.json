@@ -1,0 +1,59 @@
+{
+    "Pain (follow up: 11 months; assessed with: VAS 0-10 (Lower values – > benefit) (MCID 0.5)": {
+      "No of studies": ["4"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": ["serious", "b"],
+      "Imprecision": ["very serious", "c"],
+      "Other considerations": "none",
+      "No of patients": {
+        "SSZ": "28",
+        "HCQ": "29"
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 0.02 lower (1.36 lower to 1.32 higher)"
+      },
+      "Certainty": "VERY LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Withdrawal due to lack of efficacy (follow up: 11 months)": {
+      "No of studies": ["4"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": ["serious", "b"],
+      "Imprecision": ["very serious", "c"],
+      "Other considerations": "none",
+      "No of patients": {
+        "SSZ": "3/28 (10.7%)",
+        "HCQ": "9/29 (31.0%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.35 (0.10 to 1.15)",
+        "Absolute (95% CI)": "202 fewer per 1,000 (from 279 fewer to 47 more)"
+      },
+      "Certainty": "VERY LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Withdrawal due to adverse events (follow up: 11 months)": {
+      "No of studies": ["4"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": ["serious", "b"],
+      "Imprecision": ["very serious", "c"],
+      "Other considerations": "none",
+      "No of patients": {
+        "SSZ": "4/28 (14.3%)",
+        "HCQ": "1/29 (3.4%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 4.14 (0.49 to 34.82)",
+        "Absolute (95% CI)": "108 more per 1,000 (from 18 fewer to 1,000 more)"
+      },
+      "Certainty": "VERY LOW",
+      "Importance": "IMPORTANT"
+    }
+  }

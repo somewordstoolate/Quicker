@@ -1,0 +1,19 @@
+1	exp Dementia/
+2	(Dement$ or Alzheimer$ or Amnes$ or Parkinson$ or Huntington$ or lewy$ bod$ or pick$ disease or Posterior cortical atrophy or aphasia or (brain adj1 (disease$ or syndrome$)) or binswanger* or Progressive supranuclear palsy or Steele-Richardson-Olszewski syndrome or Frontotemporal disorder$ or Frontotemporal degeneration or Corticobasal degeneration or Corticobasal syndrome or cognitive disorder$ or Vascular cognitive).ti,ab,kw,ot.
+3	*Amnesia/
+4	exp Parkinsonian Disorders/
+5	*Huntington Disease/
+6	*Supranuclear Palsy, Progressive/
+7	1 or 2 or 3 or 4 or 5 or 6
+8	(Levetiracetam$ or Keppra or Elepsia or Matever or Spritam or Kopodex or Lo59 or lo 59 or N03AX14 or 102767-28-2).ti,ab,kw,ot.
+9	(Lamotrigin$ or Lamictal or Labileno or Lamepil or Lamictin or Lamodex or Lamogine or Lamotrix or Neurium or NO3AX09 or 84057-84-1).ti,ab,kw,ot.
+10	8 or 9
+11	randomized controlled trial.pt.
+12	controlled clinical trial.pt.
+13	Randomi?ed.ab.
+14	placebo.ab.
+15	clinical trials as topic.sh.
+16	randomly.ab.
+17	trial.ti.
+18	11 or 12 or 13 or 14 or 15 or 16 or 17
+19	7 and 10 and 18

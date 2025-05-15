@@ -1,0 +1,21 @@
+{
+    "Disease Activity (follow up: 4 months; assessed with: ACR 20)": {
+        "No of studies": "1",
+        "Study design": "randomised trials",
+        "Risk of bias": ["not serious", "a"],
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "b"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "SC MTX": "160/188 (85.1%)",
+            "Oral MTX": "144/187 (77.0%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 1.11 (1.00 to 1.22)",
+            "Absolute (95% CI)": "85 more per 1,000 (from 0 fewer to 169 more)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "CRITICAL"
+    }
+}

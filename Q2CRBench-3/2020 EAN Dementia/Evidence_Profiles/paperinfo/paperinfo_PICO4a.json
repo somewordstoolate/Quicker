@@ -1,0 +1,114 @@
+[
+    {
+        "title": "Quetiapine to treat agitation in dementia: a randomized double-blind placebo-controlled study Zhong KX, Tariot PN, Mintzer J, Minkwitz MC, Devine NA. Curr Alzheimer Res 2007;4(1):81-93",
+        "paper_uid": "50df60b4",
+        "reference": "Quetiapine to treat agitation in dementia: a randomized double-blind placebo-controlled study Zhong KX, Tariot PN, Mintzer J, Minkwitz MC, Devine NA. Curr Alzheimer Res 2007;4(1):81-93",
+        "save_folder_path": null,
+        "study_design": "Randomized Controlled Trial",
+        "characteristics": {
+            "Number of patients randomized": "333",
+            "Age placebo": "83.2 (7.2)",
+            "Age intervention 1": "83.5 (8.0) ",
+            "Age intervention 2": "83 (7.9)",
+            "MMSE placebo": "5.6 (3.6) ",
+            "MMSE intervention 1": "4.8 (4.0) ",
+            "MMSE intervention 2": "5.5 (4) "
+        }
+    },
+    {
+        "title": "Olanzapine treatment of psychotic and behavioral symptoms in patients with Alzheimer disease in nursing care facilities: a double-blind randomized placebo-controlled trial The HGEU Study Group. Street JS, Clark WS, Gannon KS, Cummings JL, Bymaster FP, Tamura RN, Mitan SJ, Kadam DL, Sanger TM, Feldman PD, al et. Arch Gen Psychiatry; 200057(10):968-976",
+        "paper_uid": "f5076959",
+        "reference": "Olanzapine treatment of psychotic and behavioral symptoms in patients with Alzheimer disease in nursing care facilities: a double-blind randomized placebo-controlled trial The HGEU Study Group. Street JS, Clark WS, Gannon KS, Cummings JL, Bymaster FP, Tamura RN, Mitan SJ, Kadam DL, Sanger TM, Feldman PD, al et. Arch Gen Psychiatry; 200057(10):968-976",
+        "save_folder_path": null,
+        "study_design": "Randomized Controlled Trial",
+        "characteristics": {
+            "Number of patients randomized": "206",
+            "Age placebo": "81.4 (6.7)",
+            "Age intervention 1": "82.9 (6.5)",
+            "Age intervention 2": "83.6 (6.5)",
+            "Age intervention 3": "83 (6.7)",
+            "MMSE placebo": "7.3 (6.3)",
+            "MMSE intervention 1": "7.3 (6.5)",
+            "MMSE intervention 2": "6.6 (6.7)",
+            "MMSE intervention 3": "6.4 (6.7)"
+        }
+    },
+    {
+        "title": "Effectiveness of Atypical Antipsychotic Drugs in Patients with Alzheimer's Disease. Schneider LS, Tariot PN, Dagerman KS, Davis SM, Hsiao JK, Ismail M, Lebowitz BD, Lyketsos CG, Ryan J, Stroup T, Sultzer DL, Weintraub D, Lieberman JA.  NEJM 2006;355(15): 1525-1538",
+        "paper_uid": "0643f463",
+        "reference": "Effectiveness of Atypical Antipsychotic Drugs in Patients with Alzheimer's Disease. Schneider LS, Tariot PN, Dagerman KS, Davis SM, Hsiao JK, Ismail M, Lebowitz BD, Lyketsos CG, Ryan J, Stroup T, Sultzer DL, Weintraub D, Lieberman JA.  NEJM 2006;355(15): 1525-1538",
+        "save_folder_path": null,
+        "study_design": "Randomized Controlled Trial",
+        "characteristics": {
+            "Number of patients randomized": "421",
+            "Age placebo": "77.3 (7.1)",
+            "Age intervention 1": "78.8 (7.3)",
+            "Age intervention 2": "77.3 (8.7)",
+            "Age intervention 3": "78.4 (7.1)",
+            "MMSE placebo": "14.7 (5.8)",
+            "MMSE intervention 1": "15.0 (5.4)",
+            "MMSE intervention 2": "14.9 (6.1)",
+            "MMSE intervention 3": "15.7 (6.1)"
+        }
+    },
+    {
+        "title": "Quetiapine and rivastigmine and cognitive decline in Alzheimer's disease: Randomised double blind placebo controlled trial. Ballard C, Margallo-Lana M, Juszczak E, Douglas S, Swann A, Thomas A, O'Brien J, Everatt A, Sadler S, Maddison C, Lee L, Bannister C, Elvish R, Jacoby R. BMJ 2005;330(7496):874",
+        "paper_uid": "44c2f905",
+        "reference": "Quetiapine and rivastigmine and cognitive decline in Alzheimer's disease: Randomised double blind placebo controlled trial. Ballard C, Margallo-Lana M, Juszczak E, Douglas S, Swann A, Thomas A, O'Brien J, Everatt A, Sadler S, Maddison C, Lee L, Bannister C, Elvish R, Jacoby R. BMJ 2005;330(7496):874",
+        "save_folder_path": null,
+        "study_design": "Randomized Controlled Trial",
+        "characteristics": {
+            "Number of patients randomized": "62",
+            "Age placebo": "83.0 (6.8)",
+            "Age intervention": "84.3 (7.8)",
+            "SIB placebo": "59.4 (30.5)",
+            "SIB intervention": "69.0 (28.2)"
+        }
+    },
+    {
+        "title": "A randomized placebo-controlled trial of risperidone for the treatment of aggression agitation and psychosis of dementia. Brodaty H, Ames D, Snowdon J, Woodward M, Kirwan J, Clarnette R, Lee E, Lyons B, Grossman FJ Clin Psych 2003;64(2):134-43",
+        "paper_uid": "d21566cc",
+        "reference": "A randomized placebo-controlled trial of risperidone for the treatment of aggression agitation and psychosis of dementia. Brodaty H, Ames D, Snowdon J, Woodward M, Kirwan J, Clarnette R, Lee E, Lyons B, Grossman FJ Clin Psych 2003;64(2):134-43",
+        "save_folder_path": null,
+        "study_design": "Randomized Controlled Trial",
+        "characteristics": {
+            "Number of patients randomized": "345",
+            "Age placebo": "82.7 (0.64)",
+            "Age intervention": "83.2 (0.51)",
+            "MMSE placebo": "5.1 (0.5)",
+            "MMSE intervention": "5.78 (0.46)"
+        }
+    },
+    {
+        "title": "Clinical symptom responses to atypical antipsychotic medications in Alzheimer's disease: Phase 1 outcomes from the CATIE-AD effectiveness trial. Sultzer DL, Davis SM, Tariot PN, Dagerman KS, Lebowitz BD, Lyketsos CG, Rosenheck RA, Hsiao JK, Lieberman JA, Schneider LS. Am J Psychiatry 2008;165(7):844-854",
+        "paper_uid": "c6e3bcaf",
+        "reference": "Clinical symptom responses to atypical antipsychotic medications in Alzheimer's disease: Phase 1 outcomes from the CATIE-AD effectiveness trial. Sultzer DL, Davis SM, Tariot PN, Dagerman KS, Lebowitz BD, Lyketsos CG, Rosenheck RA, Hsiao JK, Lieberman JA, Schneider LS. Am J Psychiatry 2008;165(7):844-854",
+        "save_folder_path": null,
+        "study_design": "Randomized Controlled Trial",
+        "characteristics": {
+            "Number of patients randomized": "421",
+            "Age placebo": "77.3 (7.1)",
+            "Age intervention 1": "78.8 (7.3)",
+            "Age intervention 2": "77.3 (8.7)",
+            "Age intervention 3": "78.4 (7.1)",
+            "MMSE placebo": "14.7 (5.8)",
+            "MMSE intervention 1": "15.0 (5.4)",
+            "MMSE intervention 2": "14.9 (6.1)",
+            "MMSE intervention 3": "15.7 (6.1)"
+        }
+    },
+    {
+        "title": "Quetiapine for agitation or psychosis in patients with dementia and parkinsonism Kurlan R, Cummings J, Raman R, Thal L. Neurology 2007;68(17):1356-1363",
+        "paper_uid": "baf84590",
+        "reference": "Quetiapine for agitation or psychosis in patients with dementia and parkinsonism Kurlan R, Cummings J, Raman R, Thal L. Neurology 2007;68(17):1356-1363",
+        "save_folder_path": null,
+        "study_design": "Randomized Controlled Trial",
+        "characteristics": {
+            "Number of patients randomized": "40 (AD patients: 8; PD+dementia 9; LBD: 23)",
+            "Age placebo": "74.1 (6.1) ",
+            "Age intervention": "73.5 (5.8)",
+            "MMSE placebo": "17.2 (5.9)",
+            "MMSE intervention": "19.2 (6.5)"
+        }
+    }
+]

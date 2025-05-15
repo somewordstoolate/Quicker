@@ -1,0 +1,51 @@
+[
+    {
+        "outcome_uid": "7bb30f8f",
+        "clinical_question": "Should patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity receive MTX monotherapy or an alternative csDMARD monotherapy?",
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "intervention": "MTX monotherapy",
+        "comparator": "LEF",
+        "outcome": "Disease activity (follow up: 6 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "fd4777bd",
+            "fa180e46"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and lack of blinding of patients, personnel, and outcome assessors."
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "MTX monotherapy": "147",
+                    "LEF": "147"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.1 lower (0.27 lower to 0.07 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

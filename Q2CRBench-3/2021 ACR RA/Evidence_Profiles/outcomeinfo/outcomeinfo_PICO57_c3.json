@@ -1,0 +1,50 @@
+[
+    {
+        "outcome_uid": "12e2afe9",
+        "clinical_question": "Should patients with RA on DMARD monotherapy who are in low disease activity gradually taper off DMARD, abruptly withdraw DMARD, or continue DMARD at the same dose?",
+        "population": "Patients with RA on DMARD monotherapy who are in low disease activity",
+        "intervention": "Taper off DMARD",
+        "comparator": "Abruptly withdraw DMARD",
+        "outcome": "Relapse (follow up: 1 year; assessed with DAS28 CRP>2.7 )",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "03c1b15a"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "SERIOUS",
+                    "rationales": "Study did not report on handling confounding; also high rate of missing data"
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Very low number of participants and number of events"
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Observational Study",
+                "Certainty": "VERY LOW",
+                "No of participants": {
+                    "Abruptly withdraw DMARD": "8/16 (50.0%)",
+                    "continue DMARD at same dose": "2/20 (10.0%)"
+                },
+                "Annotation": {},
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 5.00 (1.23 to 20.34)",
+                    "Absolute Effect (95% CI)": "400 more per 1,000 (from 23 more to 1,000 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

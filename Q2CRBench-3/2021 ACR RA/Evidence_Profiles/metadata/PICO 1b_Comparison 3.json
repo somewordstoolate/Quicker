@@ -1,0 +1,55 @@
+{
+    "Disease activity (follow up: 4 months; assessed with: ACR 20)": {
+        "No of studies": "1",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": [
+            "serious",
+            "a"
+        ],
+        "Imprecision": [
+            "very serious",
+            "b"
+        ],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "MTX monotherapy": "88/180 (48.9%)",
+            "LEF": "95/182 (52.2%)"
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.94 (0.76 to 1.15)",
+            "Absolute (95% CI)": "31 fewer per 1,000 (from 125 fewer to 78 more)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: 4 months; assessed with: DAS28-ESR (Lower values – > benefit) (MCID -1.17)": {
+        "No of studies": "2",
+        "Study design": "randomised trials",
+        "Risk of bias": [
+            "serious",
+            "c"
+        ],
+        "Inconsistency": "not serious",
+        "Indirectness": [
+            "serious",
+            "a"
+        ],
+        "Imprecision": [
+            "very serious",
+            "d"
+        ],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "MTX monotherapy": "21",
+            "LEF": "19"
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.67 lower (1.5 lower to 0.16 higher)"
+        },
+        "Certainty": "⨁◯◯◯ VERY LOW",
+        "Importance": "CRITICAL"
+    }
+}

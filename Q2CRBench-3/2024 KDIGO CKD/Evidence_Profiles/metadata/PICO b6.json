@@ -1,0 +1,158 @@
+{
+    "Question": "What are the effects of non–vitamin K antagonist oral anticoagulants (NOACs) (also known as direct-acting oral anticoagulants [DOACs]) with or without warfarin compared with placebo or warfarin alone among people with CKD and atrial fibrillation in terms of stroke and bleeding risks?",
+    "References": {
+        "90": "Bohula E, Giugliano R, Ruff C, et al. Impact of Renal Function on Outcomes With Edoxaban in the ENGAGE AF-TIMI 48 Trial. Circulation 2016; 134: 24‐36.",
+        "91": "Chashkina MI, Andreev DA, Kozlovskaya NL, et al. [Safety performance of rivaroxaban versus warfarin in patients with atrial fibrillation and advanced chro-nic kidney disease]. Kardiologiia 2020; 60: 1322.",
+        "92": "Fox KA, Piccini JP, Wojdyla D, et al. Prevention of stroke and systemic embolism with rivaroxaban compared with warfarin in patients with non-valvular atrial fibrillation and moderate renal impairment. Eur Heart J 2011; 32: 2387-2394.",
+        "93": "Hori M, Matsumoto M, Tanahashi N, et al. Safety and efficacy of adjusted dose of rivaroxaban in Japanese patients with non-valvular atrial fibrillation: subanalysis of J-ROCKET AF for patients with moderate renal impairment. Circ J 2013; 77: 632-638.",
+        "94": "Hijazi Z, Hohnloser SH, Oldgren J, et al. Efficacy and safety of dabigatran compared with warfarin in patients with atrial fibrillation in relation to renal function over time—A RE-LY trial analysis. American Heart Journal 2018; 198: 169-177.",
+        "95": "Stanifer J, Pokorney S, Chertow G, et al. Apixaban Versus Warfarin in Patients With Atrial Fibrillation and Advanced Chronic Kidney Disease. Circulation 2020; 141: 1384‐1392."
+    },
+    "Explanations": {
+        "a": "The total number of events among the 6083 participants of the 4 trials was estimated to be less than the number needed to reach the optimal information size (i.e., 300). One study did not report the number of events (Hori 2013).",
+        "b": "Only some of the 7 studies reported on outcome.",
+        "c": "The total number of events among the participants of the 5 trials was estimated to be less than the number needed to reach the optimal information size (i.e., 300). The number of events and the number of participants were not always reported."
+    },
+    "Outcome": {
+        "Any stroke (follow-up: range 1.9 years to 2.8 years)": {
+            "No of studies": [
+                "90",
+                "91",
+                "92",
+                "93"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "not serious"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "serious",
+                "a"
+            ],
+            "Other considerations": [
+                "publication bias strongly suspected",
+                "b"
+            ],
+            "No of patients": {
+                "NOAC": [
+                    "133/3067 (4.3%)"
+                ],
+                "Warfarin": [
+                    "143/3016 (4.7%)"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "HR 0.93 (0.73 to 1.18)"
+                ],
+                "Absolute (95% CI)": [
+                    "3 fewer per 1,000 (from 13 fewer to 8 more)"
+                ]
+            },
+            "Certainty": [
+                "⨁⨁◯◯ Low"
+            ]
+        },
+        "Ischemic stroke (follow-up: range 1.8 years to 2.8 years)": {
+            "No of studies": [
+                "90",
+                "92",
+                "93",
+                "94",
+                "95"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "not serious"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "serious",
+                "c"
+            ],
+            "Other considerations": [
+                "none"
+            ],
+            "No of patients": {
+                "NOAC": [
+                    "NE"
+                ],
+                "Warfarin": [
+                    "NE"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "HR 0.87 (0.69 to 1.10)"
+                ],
+                "Absolute (95% CI)": [
+                    "1 fewer per 1,000 (from 1 fewer to 1 fewer)"
+                ]
+            },
+            "Certainty": [
+                "⨁⨁⨁ Moderate"
+            ]
+        },
+        "Hemorrhagic stroke (follow-up: range 1.9 years to 2.8 years)": {
+            "No of studies": [
+                "90",
+                "92",
+                "93"
+            ],
+            "Study design": [
+                "RCTs"
+            ],
+            "Risk of bias": [
+                "not serious"
+            ],
+            "Inconsistency": [
+                "not serious"
+            ],
+            "Indirectness": [
+                "not serious"
+            ],
+            "Imprecision": [
+                "serious",
+                "a"
+            ],
+            "Other considerations": [
+                "publication bias strongly suspected",
+                "b"
+            ],
+            "No of patients": {
+                "NOAC": [
+                    "23/2994 (0.8%)"
+                ],
+                "Warfarin": [
+                    "36/2980 (1.2%)"
+                ]
+            },
+            "Effect": {
+                "Relative (95% CI)": [
+                    "HR 0.62 (0.36 to 1.04)"
+                ],
+                "Absolute (95% CI)": [
+                    "5 fewer per 1,000 (from 8 fewer to 0 fewer)"
+                ]
+            },
+            "Certainty": [
+                "⨁⨁ Low ◯◯"
+            ]
+        }
+    }
+}

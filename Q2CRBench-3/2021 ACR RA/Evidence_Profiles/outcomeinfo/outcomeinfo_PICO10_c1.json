@@ -1,0 +1,202 @@
+[
+    {
+        "outcome_uid": "163e6883",
+        "clinical_question": "Should patients with RA initiating MTX receive MTX at 15mg or more per week (includes up-titrating to 15mg over the first month) or less than 15mg per week as the initial dose?",
+        "population": "Patients with RA initiating MTX",
+        "intervention": "MTX < 15mg per week",
+        "comparator": "MTX 15mg per week",
+        "outcome": "Disease Activity (follow up: 3 months; assessed with: DAS 28-ESR)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "8113db3a"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "Downgraded by one level due to serious imprecision. Small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "MTX 15 mg/week": "53",
+                    "<MTX 15mg/week as initial dose": "47"
+                },
+                "Annotation": {
+                    "data": "1. 7.5mg/week MTX\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.08 lower (0.41 lower to 0.25 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "36189ed9",
+        "clinical_question": "Should patients with RA initiating MTX receive MTX at 15mg or more per week (includes up-titrating to 15mg over the first month) or less than 15mg per week as the initial dose?",
+        "population": "Patients with RA initiating MTX",
+        "intervention": "MTX < 15mg per week",
+        "comparator": "MTX 15mg per week",
+        "outcome": "Disability (follow up: 3 months; assessed with: HAQ-DI)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "8113db3a"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval including both values suggesting benefit and values suggesting no effect. Very small sample size."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "MTX 15 mg/week": "53",
+                    "<MTX 15mg/week as initial dose": "47"
+                },
+                "Annotation": {
+                    "data": "1. 7.5mg/week MTX\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "-",
+                    "Absolute Effect (95% CI)": "MD 0.11 lower (0.29 lower to 0.07 higher)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "32b5a40f",
+        "clinical_question": "Should patients with RA initiating MTX receive MTX at 15mg or more per week (includes up-titrating to 15mg over the first month) or less than 15mg per week as the initial dose?",
+        "population": "Patients with RA initiating MTX",
+        "intervention": "MTX < 15mg per week",
+        "comparator": "MTX 15mg per week",
+        "outcome": "Withdrawal due to lack of efficacy (follow up: 3 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "8113db3a"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval including both values suggesting benefit and values suggesting harm. Very small sample size and low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "MTX 15 mg/week": "0/53 (0.0%) ",
+                    "<MTX 15mg/week as initial dose": "2/47 (4.3%)"
+                },
+                "Annotation": {
+                    "data": "1. 7.5mg/week MTX\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.18 (0.01 to 3.61)",
+                    "Absolute Effect (95% CI)": "35 fewer per 1,000 (from 42 fewer to 111 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "e8d43408",
+        "clinical_question": "Should patients with RA initiating MTX receive MTX at 15mg or more per week (includes up-titrating to 15mg over the first month) or less than 15mg per week as the initial dose?",
+        "population": "Patients with RA initiating MTX",
+        "intervention": "MTX < 15mg per week",
+        "comparator": "MTX 15mg per week",
+        "outcome": "Withdrawal due to adverse events (follow up: 3 months)",
+        "importance": "IMPORTANT",
+        "related_paper_list": [
+            "8113db3a"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "Downgraded by two levels due to very serious imprecision. Confidence interval including both values suggesting benefit and values suggesting harm. Very small sample size and low number of events."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "MTX 15 mg/week": "2/53 (3.8%) ",
+                    "<MTX 15mg/week as initial dose": "2/47 (4.3%)"
+                },
+                "Annotation": {
+                    "data": "1. 7.5mg/week MTX\n"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.89 (0.13 to 6.05)",
+                    "Absolute Effect (95% CI)": "5 fewer per 1,000 (from 37 fewer to 215 more)",
+                    "Abbreviations": "CI: Confidence interval; RR: Risk ratio; MD: Mean difference; HR: Hazard Ratio"
+                }
+            }
+        }
+    }
+]

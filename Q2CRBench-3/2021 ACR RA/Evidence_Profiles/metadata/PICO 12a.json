@@ -1,0 +1,38 @@
+{
+    "Question": " Should patients with RA who have not been previously treated with boDMARD and tsDAMRD receive T2T strategies or usual care?",
+    "Comparison": 
+    {
+        "T2T strategy versus usual care": 
+        {   "filename": "PICO 12a_Comparison 1.json",
+                "Explanations": 
+                {
+            "a": "Downgraded by one level due to serious risk of bias. Lack of allocation concealment and lack of blinding.",
+            "b": "Downgraded by one level due to serious imprecision. Small sample size.",
+            "c": "Downgraded by two levels due to very serious inconsistency. I2= 96%.",
+            "d": "Downgraded by two levels due to very serious risk of bias. Lack of allocation concealment, lack of blinding, and attrition bias.",
+            "e": "Downgraded by one level due to serious inconsistency. I2= 78%.",
+            "f": "Downgraded by one level due to serious inconsistency. I2= 71%.",
+            "g": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect.",
+            "h": "Downgraded by one level due to serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect. Small sample size.",
+            "i": "Downgraded by one level due to serious inconsistency. I2= 74%.",
+            "j": "Downgraded by one level due to serious inconsistency. I2= 75%.",
+            "k": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Low number of events.",
+            "l": "Downgraded by two levels due to very serious risk of bias. Two studies consisting of 97% of the weight have high risk of bias due to lack of allocation concealment, lack of blinding of outcome assessors, and reporting incomplete outcome data.",
+            "m": "I2=55%",
+            "n": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting harm. Low number of events.",
+            "o": "Downgraded by one level due to serious risk of bias. Lack of blinding.",
+            "p": "Downgraded by two levels due to very serious imprecision. Very small number of events."
+        }   
+    }
+    },
+    "References": 
+    {
+        "1": "Mueller RBea. Superiority of a Treat-to-Target Strategy over Conventional Treatment with Fixed csDMARD and Corticosteroids: A Multi-Center Randomized Controlled Trial in RA Patients with an Inadequate Response to Conventional Synthetic DMARDs, and New Therapy with Certolizumab Pegol. Journal of Clinical Medicine. 2019;8.",
+        "2": "Grigor C, Capell H, Stirling A, McMahon AD, Lock P, Vallance R, et al. Effect of a treatment strategy of tight control for rheumatoid arthritis (the TICORA study): a single-blind randomised controlled trial. Lancet. 2004;364(9430):263.",
+        "3": "Pope JE, Haraoui B, Rampakakis E, Psaradellis E, Thorne C, Sampalis JS. Treating to a target in established active rheumatoid arthritis patients receiving a tumor necrosis factor inhibitor: results from a real-world cluster-randomized adalimumab trial. Arthritis care & research. 2013;65(9):1401.",
+        "4": "Verstappen SM, Jacobs JW, Veen MJVD, Heurkens AH, Schenk Y, Borg EJt, et al. Intensive treatment with methotrexate in early rheumatoid arthritis: aiming for remission. Computer Assisted Management in Early Rheumatoid Arthritis (CAMERA, an open-label strategy trial). Annals of the Rheumatic Diseases. 2007;66(11):1443.",
+        "5": "Fransen J. Effectiveness of systematic monitoring of rheumatoid arthritis disease activity in daily practice: a multicentre, cluster randomised controlled trial. Ann Rheum Dis BMJ. 2005; 64:1294–1298.",
+        "6": "Verstappen SMB, M. F.; et. al. Adverse events and factors associated with toxicity in patients with early rheumatoid arthritis treated with methotrexate tight control therapy: the CAMERA study. Ann Rheum Dis BMJ. 2010;69(6):1044-8.",
+        "7": "Wailoo A. The clinical effectiveness and cost-effectiveness of treat-to-target strategies in rheumatoid arthritis: a systematic review and cost-effectiveness analysis. [Review]. Health Technology Assessment (Winchester, England). 2017;21(71):1."
+    }
+}

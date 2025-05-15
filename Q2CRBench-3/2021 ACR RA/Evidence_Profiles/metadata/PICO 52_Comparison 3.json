@@ -1,0 +1,269 @@
+{
+    "Disease activity (follow up: range 3 months to 1 year; assessed with: DAS28 ESR or CRP)": {
+      "No of studies": ["1", "8", "9"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["not serious", "d"],
+      "Inconsistency": ["very serious","c"],
+      "Indirectness": "not serious",
+      "Imprecision": ["not serious", "e"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Continue DMARDs at same dose": "385",
+        "Abruptly withdraw DMARDs": "377"
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "SMD 0.88 lower (1.03 lower to 0.73 lower)"
+      },
+      "Certainty": "  LOW",
+      "Importance": "CRITICAL"
+    },
+    "Flare (follow up: range 11 months to 18 months)": {
+      "No of studies": ["4", "10", "11"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": ["very serious","g"],
+      "Indirectness": "not serious",
+      "Imprecision": "not serious",
+      "Other considerations": "none",
+      "No of patients": {
+        "Continue DMARDs at same dose": "472",
+        "Abruptly withdraw DMARDs": ["722","59.0%"]
+      },
+      "Effect": {
+        "Relative (95% CI)": "HR 0.53 (0.46 to 0.61)",
+        "Absolute (95% CI)": "213 fewer per 1,000 (from 254 fewer to 170 fewer)"
+      },
+      "Certainty": "  LOW",
+      "Importance": "CRITICAL"
+    },
+    "Disability (follow up: 1 year; assessed with: HAQ-DI)": {
+      "No of studies": ["1", "8", "9"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": ["very serious","h"],
+      "Indirectness": "not serious",
+      "Imprecision": ["serious", "i"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Continue DMARDs at same dose": "388",
+        "Abruptly withdraw DMARDs": "381"
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 0.17 lower (0.26 lower to 0.09 lower)"
+      },
+      "Certainty": "  VERY LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Radiographic progression (follow up: 1 year; assessed with: mTSS)": {
+      "No of studies": ["1", "8"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "k"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": "not serious",
+      "Other considerations": "none",
+      "No of patients": {
+        "Continue DMARDs at same dose": "289",
+        "Abruptly withdraw DMARDs": "269"
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 0.17 lower (0.79 lower to 0.45 higher)"
+      },
+      "Certainty": "  MODERATE",
+      "Importance": "IMPORTANT"
+    },
+    "Pain (follow up: 1 year; assessed with: VAS pain (0-100))": {
+      "No of studies": ["1", "8"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": ["very serious","m"],
+      "Indirectness": "not serious",
+      "Imprecision": ["serious", "i"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Continue DMARDs at same dose": "305",
+        "Abruptly withdraw DMARDs": "299"
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 9.29 lower (12.44 lower to 6.15 lower)"
+      },
+      "Certainty": "  VERY LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Fatigue (follow up: 1 year; assessed with: FACIT-F)": {
+      "No of studies": ["5"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": "not serious",
+      "Other considerations": "none",
+      "No of patients": {
+        "Continue DMARDs at same dose": "201",
+        "Abruptly withdraw DMARDs": "197"
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 3.9 higher (1.9 higher to 5.9 higher)"
+      },
+      "Certainty": "  HIGH",
+      "Importance": "IMPORTANT"
+    },
+    "Quality of life (follow up: 3 months; assessed with: SF-36 PCS)": {
+      "No of studies": ["9"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "n"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["serious", "o"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Continue DMARDs at same dose": "82",
+        "Abruptly withdraw DMARDs": "82"
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 3.38 higher (0.69 higher to 6.07 higher)"
+      },
+      "Certainty": "  LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Quality of life (follow up: 3 months; assessed with: SF-36 MCS)": {
+      "No of studies": ["9"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "n"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["serious", "p"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Continue DMARDs at same dose": "82",
+        "Abruptly withdraw DMARDs": "82"
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 1.88 lower (4.78 lower to 1.02 higher)"
+      },
+      "Certainty": "  LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Withdrawal due to lack of efficacy (follow up: range 3 months to 1 year)": {
+      "No of studies": ["1", "9"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["serious", "q"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Continue DMARDs at same dose": "4/285 (1.4%)",
+        "Abruptly withdraw DMARDs": "44/282 (15.6%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.10 (0.04 to 0.26)",
+        "Absolute (95% CI)": "140 fewer per 1,000 (from 150 fewer to 115 fewer)"
+      },
+      "Certainty": "  MODERATE",
+      "Importance": "IMPORTANT"
+    },
+    "Withdrawal due to adverse events (follow up: range 3 months to 1 year)": {
+      "No of studies": ["1", "8", "9"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["not serious", "d"],
+      "Inconsistency": ["not serious", "r"],
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious","s"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Continue DMARDs at same dose": "13/390 (3.3%)",
+        "Abruptly withdraw DMARDs": "13/384 (3.4%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.98 (0.46 to 2.09)",
+        "Absolute (95% CI)": "1 fewer per 1,000 (from 18 fewer to 37 more)"
+      },
+      "Certainty": "  LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Serious adverse events (follow up: range 3 months to 1 year)": {
+      "No of studies": ["1", "8", "9"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["not serious", "d"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious","s"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Continue DMARDs at same dose": "25/390 (6.4%)",
+        "Abruptly withdraw DMARDs": "30/384 (7.8%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.82 (0.49 to 1.36)",
+        "Absolute (95% CI)": "14 fewer per 1,000 (from 40 fewer to 28 more)"
+      },
+      "Certainty": "  LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Malignancy (follow up: 1 year)": {
+      "No of studies": ["1", "8"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious","t"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Continue DMARDs at same dose": "2/307 (0.7%)",
+        "Abruptly withdraw DMARDs": "2/302 (0.7%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.98 (0.17 to 5.62)",
+        "Absolute (95% CI)": "0 fewer per 1,000 (from 5 fewer to 31 more)"
+      },
+      "Certainty": "  VERY LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Congestive Heart Failure (1 year)": {
+      "No of studies": ["8"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious","u"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Continue DMARDs at same dose": "0/105 (0.0%)",
+        "Abruptly withdraw DMARDs": "0/102 (0.0%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "not estimable",
+        "Absolute (95% CI)": "-"
+      },
+      "Certainty": "  VERY LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Death (follow up: range 3 months to 1 year)": {
+      "No of studies": ["1", "8", "9"],
+      "Study design": "randomised trials",
+      "Risk of bias": "not serious",
+      "Inconsistency": "not serious",
+      "Indirectness": "not serious",
+      "Imprecision": ["very serious","t"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Continue DMARDs at same dose": "2/390 (0.5%)",
+        "Abruptly withdraw DMARDs": "0/384 (0.0%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 4.95 (0.24 to 102.48)",
+        "Absolute (95% CI)": "0 fewer per 1,000 (from 0 fewer to 0 fewer)"
+      },
+      "Certainty": "  LOW",
+      "Importance": "IMPORTANT"
+    }
+  }
+  

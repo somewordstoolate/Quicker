@@ -1,0 +1,164 @@
+[
+    {
+        "Aspect": "Evaluation of CKD",
+        "Index": "a1",
+        "Question": "What is the diagnostic and prognostic benefit and safety of kidney biopsy among people with CKD?",
+        "P": "Adults and/or children with suspected or diagnosed CKD",
+        "I": "Native kidney biopsy",
+        "C": [
+            "Clinical or standard diagnosis or prognosis for studies evaluating diagnostic or prognostic benefit; No comparator for studies evaluating safety"
+        ],
+        "O": {
+            "Clinical or standard diagnosis or prognosis for studies evaluating diagnostic or prognostic benefit; No comparator for studies evaluating safety": [
+                "Mortality",
+                "Perirenal hematoma",
+                "Retroperitoneal hemorrhage"
+            ]
+        }
+    },
+    {
+        "Aspect": "Evaluation of CKD",
+        "Index": "a2",
+        "Question": "What is the diagnostic accuracy of Estimated GFR (eGFR) based on measurements of cystatin C, creatinine, or their combination compared to mGFR among people with and without CKD?",
+        "P": "Adults and/or children with or without CKD",
+        "I": "Estimated GFR (eGFR) based on measurements of cystatin C (eGFRcys); creatinine (eGFRcr); cystatin C and creatinine (eGFRcr-cys)",
+        "C": [
+            "Measured GFR (mGFR; using urinary or plasma clearance of exogenous filtration marker)"
+        ],
+        "O": {
+            "Measured GFR (mGFR; using urinary or plasma clearance of exogenous filtration marker)": [
+                "Measurement bias (eGFR - mGFR) for cystatin C-based equations",
+                "Measurement bias (eGFR - mGFR) for creatinine + cystatin-based equations",
+                "Measurement bias (eGFR - mGFR) for creatinine-based equations",
+                "P30 for cystatin C-based equations",
+                "P30 for creatinine + cystatin C-based equations",
+                "P30 for creatinine-based equations"
+            ]
+        }
+    },
+    {
+        "Aspect": "Delaying CKD progression and managing its complications",
+        "Index": "b1",
+        "Question": "What is the effect of sodium-glucose cotransporter-2 inhibitors (SGLT2i) compared with placebo, usual care, or an active comparator among people with CKD in terms of mortality, progression of CKD, complications of CKD, and adverse events?",
+        "P": "Adults and/or children with CKD; subgroup of people (1) with type 2 diabetes (T2D), (2) without T2D, (3) with heart failure, and (4) without albuminuria",
+        "I": "SGLT2i (canagliflozin, dapagliflozin, empagliflozin, ertugliflozin, ipragliflozin, luseogliflozin, remogliflozin, sotagliflozin, tofogliflozin)",
+        "C": [
+            "Active comparator (e.g., another glucose-lowering agent), placebo, or usual care"
+        ],
+        "O": {
+            "Active comparator (e.g., another glucose-lowering agent), placebo, or usual care": [
+                "Kidney failure",
+                "All-cause hospitalizations"
+            ]
+        }
+    },
+    {
+        "Aspect": "Delaying CKD progression and managing its complications",
+        "Index": "b2",
+        "Question": "What is the effect of uric acid–lowering therapy compared with placebo, usual care, or an active comparator among people with CKD and hyperuricemia in terms of mortality, progression of CKD, complications of CKD, and adverse events?",
+        "P": "Adults and/or children with CKD and asymptomatic hyperuricemia",
+        "I": "Uric acid-lowering therapy (ULT; allopurinol, benzbromarone, febuxostat, oxipurinol, pegloticase, probenecid, topiroxostat, rasburicase, sulfinpyrazone, lesinurad)",
+        "C": [
+            "Active comparator (e.g., another uric acid–lowering therapy), placebo, or usual care"
+        ],
+        "O": {
+            "Active comparator (e.g., another uric acid–lowering therapy), placebo, or usual care": [
+                "Progression of CKD to kidney failure (follow-up: range 3 months to 12 months)",
+                "Cutaneous reactions and hypersensitivity (follow-up: mean 3 months)",
+                "Hepatotoxicity (follow-up: range 3 months to 12 months)"
+            ]
+        }
+    },
+    {
+        "Aspect": "Delaying CKD progression and managing its complications",
+        "Index": "b3",
+        "Question": "What is the effect of uric acid–lowering therapy compared with placebo, usual care, or an active comparator among people with CKD and hyperuricemia in terms of mortality, progression of CKD, complications of CKD, and adverse events?",
+        "P": "Adults and/or children with CKD and hyperuricemia with subgroups for symptomatic and asymptomatic hyperuricemia",
+        "I": "Uric acid-lowering therapy (ULT; allopurinol, benzbromarone, febuxostat, oxipurinol, pegloticase, probenecid, opiroxostat, rasburicase, sulfinpyrazone, lesinurad)",
+        "C": [
+            "Active comparator (e.g., another uric acid–lowering therapy), placebo, or usual care"
+        ],
+        "O": {
+            "Active comparator (e.g., another uric acid–lowering therapy), placebo, or usual care": [
+                "Progression of CKD to kidney failure (follow-up: range 12 months to 84 months)",
+                "Cutaneous reactions and hypersensitivity (follow-up: range 3 months to 41 months)",
+                "Hepatotoxicity (follow-up: range 3 months to 25 months)"
+            ]
+        }
+    },
+    {
+        "Aspect": "Delaying CKD progression and managing its complications",
+        "Index": "b4",
+        "Question": "What is the effect of aspirin compared with placebo in terms of the primary prevention of cardiovascular disease (CVD) and safety among people with CKD?",
+        "P": "Adults and/or children with CKD at risk for CVD (i.e., people must not have established CVD)",
+        "I": "Aspirin",
+        "C": [
+            "Placebo"
+        ],
+        "O": {
+            "Placebo": [
+                "Cardiovascular mortality (follow-up: range 3.8 years to 5.4 years)",
+                "Composite cardiovascular events (follow-up: range 3.8 years to 5.4 years)",
+                "Myocardial infarction (follow-up: range 3.8 years to 5.4 years)",
+                "Stroke (follow-up: range 3.8 years to 5.4 years)",
+                "Major bleeding (follow-up: range 3.8 years to 5.4 years)",
+                "Minor bleeding (follow-up: range 3.8 years to 5.4 years)"
+            ]
+        }
+    },
+    {
+        "Aspect": "Delaying CKD progression and managing its complications",
+        "Index": "b5",
+        "Question": "What are the effects of angiography or coronary revascularization compared with medical treatment among people with CKD and ischemic heart disease in terms of mortality, CVD events, kidney failure, and acute kidney injury (AKI)?",
+        "P": "Adults and/or children with CKD and ischemic heart disease",
+        "I": "Angiography or coronary revascularization",
+        "C": [
+            "Medical treatment"
+        ],
+        "O": {
+            "Medical treatment": [
+                "All-cause mortality  (follow-up: range 2 years to 10 years)",
+                "Cardiovascular mortality (follow-up: range 4.6 years to 5.6 years)",
+                "Composite cardiovascular events (follow-up: range 2 years to 10 years) ",
+                "Myocardial infarction (follow-up: range 2 years to 10 years)",
+                "Heart failure (follow-up: range 3 years to 5.6 years)",
+                "Acute kidney injury (follow-up: range 3 years to 5.6 years)"
+            ]
+        }
+    },
+    {
+        "Aspect": "Delaying CKD progression and managing its complications",
+        "Index": "b6",
+        "Question": "What are the effects of non–vitamin K antagonist oral anticoagulants (NOACs) (also known as direct-acting oral anticoagulants [DOACs]) with or without warfarin compared with placebo or warfarin alone among people with CKD and atrial fibrillation in terms of stroke and bleeding risks?",
+        "P": "Adults and/or children with CKD and atrial fibrillation",
+        "I": "NOAC/DOAC (dabigatran, apixaban, edoxaban, rivaroxaban) with warfarin and NOAC/DOAC alone",
+        "C": [
+            "Warfarin, placebo"
+        ],
+        "O": {
+            "Warfarin, placebo": [
+                "Any stroke (follow-up: range 1.9 years to 2.8 years)",
+                "Ischemic stroke (follow-up: range 1.8 years to 2.8 years)",
+                "Hemorrhagic stroke (follow-up: range 1.9 years to 2.8 years)"
+            ]
+        }
+    },
+    {
+        "Aspect": "Delaying CKD progression and managing its complications",
+        "Index": "b7",
+        "Question": "What are the effects of non–vitamin K antagonist oral anticoagulants (NOACs) (also known as direct-acting oral anticoagulants [DOACs]) with or without warfarin compared with placebo or warfarin alone among people with CKD and atrial fibrillation in terms of stroke and bleeding risks?",
+        "P": "Adults and/or children with CKD and atrial fibrillation",
+        "I": "NOAC/DOAC (dabigatran, apixaban, edoxaban, rivaroxaban) with warfarin and NOAC/DOAC alone",
+        "C": [
+            "Warfarin, placebo"
+        ],
+        "O": {
+            "Warfarin, placebo": [
+                "Intracranial hemorrhage (follow-up: range 1.9 years to 2.8 years)",
+                "Major bleeding (factor Xa inhibitors) (follow-up: range 6 months to 2.8 years)",
+                "Major bleeding (factor IIa inhibitors) (follow-up: median 1.8 years)",
+                "Clinically-relevant non-major bleeding (follow-up: range 1.9 years to 2.5 years)"
+            ]
+        }
+    }
+]

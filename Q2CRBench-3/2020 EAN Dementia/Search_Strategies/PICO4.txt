@@ -1,0 +1,21 @@
+1	exp Dementia/
+2	(Dement$ or Alzheimer$ or Amnes$ or Parkinson$ or Huntington$ or lewy$ bod$ or pick$ disease or Posterior cortical atrophy or aphasia or (brain adj1 (disease$ or syndrome$)) or binswanger* or Progressive supranuclear palsy or Steele-Richardson-Olszewski syndrome or Frontotemporal disorder$ or Frontotemporal degeneration or Corticobasal degeneration or Corticobasal syndrome or cognitive disorder$ or Vascular cognitive).ti,ab,kw,ot.
+3	*Amnesia/
+4	exp Parkinsonian Disorders/
+5	*Huntington Disease/
+6	*Supranuclear Palsy, Progressive/
+7	1 or 2 or 3 or 4 or 5 or 6
+8	exp Antipsychotic Agents/
+9	(antipsychotic* or "anti-psychotic*" or tranquilizer*).ti,ab.
+10	(Droperidol or Flupentixol or Fluphenazine or Haloperidol or Pimozide or Prochlorperazine or Thioproperazine or Trifluoperazine or Zuclopenthixol or Loxapine or Molindone or Perphenazine or Thiothixene or Chlorpromazine or Chlorprothixene or Levomepromazine or Mesoridazine or Periciazine or Promazine or Thioridazine).ti,ab.
+11	8 or 9 or 10
+12	7 and 11
+13	randomized controlled trial.pt.
+14	controlled clinical trial.pt.
+15	randomized.ab.
+16	placebo.ab.
+17	clinical trials as topic.sh.
+18	randomly.ab.
+19	trial.ti.
+20	13 or 14 or 15 or 16 or 17 or 18 or 19
+21	12 and 20

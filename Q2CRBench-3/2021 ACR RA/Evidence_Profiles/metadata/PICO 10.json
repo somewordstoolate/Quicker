@@ -1,0 +1,17 @@
+{
+    "Question": "Should patients with RA initiating MTX receive MTX at 15mg or more per week (includes up-titrating to 15mg over the first month) or less than 15mg per week as the initial dose?",
+    "Comparison": {
+        "MTX 15mg per week versus MTX < 15mg per week. ": {
+            "filename": "PICO 10_Comparison 1.json",
+            "Explanations": {
+                "a": "Downgraded by one level due to serious imprecision. Small sample size.",
+                "b": "7.5mg/week MTX",
+                "c": "Downgraded by two levels due to very serious imprecision. Confidence interval including both values suggesting benefit and values suggesting no effect. Very small sample size.",
+                "d": "Downgraded by two levels due to very serious imprecision. Confidence interval including both values suggesting benefit and values suggesting harm. Very small sample size and low number of events."
+            }
+        }
+    },
+    "References": {
+        "1": "Dhir V, Singla M, Gupta N, Goyal P, Sagar V, Sharma A, et al. Randomized controlled trial comparing 2 different starting doses of methotrexate in rheumatoid arthritis. Clinical Therapeutics. 2014;36(7):1005."
+    }
+}

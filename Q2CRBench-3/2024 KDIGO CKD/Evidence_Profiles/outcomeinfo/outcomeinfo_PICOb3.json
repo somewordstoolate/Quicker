@@ -1,0 +1,155 @@
+[
+    {
+        "outcome_uid": "ec8baff3",
+        "clinical_question": "What is the effect of uric acid\u2013lowering therapy compared with placebo, usual care, or an active comparator among people with CKD and hyperuricemia in terms of mortality, progression of CKD, complications of CKD, and adverse events?",
+        "population": "Adults and/or children with CKD and hyperuricemia with subgroups for symptomatic and asymptomatic hyperuricemia",
+        "intervention": "Uric acid-lowering therapy (ULT; allopurinol, benzbromarone, febuxostat, oxipurinol, pegloticase, probenecid, opiroxostat, rasburicase, sulfinpyrazone, lesinurad)",
+        "comparator": "Active comparator (e.g., another uric acid\u2013lowering therapy), placebo, or usual care",
+        "outcome": "Progression of CKD to kidney failure* (follow-up: range 12 months to 84 months)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "4b195d32",
+            "92d86942",
+            "d0103bae",
+            "d14dd133",
+            "767b33a2",
+            "b4a1553e"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "There was a total of 71 events among the 1198 participants enrolled in the six trials. The number of events is lower than the number needed to reach the optimal information size (i.e., 300)."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "ULT": "41/612 (6.7%)",
+                    "lacebo or usual care": "30/586 (5.1%)"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.38 (0.88 to 2.16)()",
+                    "Absolute Effect (95% CI)": "19 more per 1,000 (from 6 fewer to 59 more)()"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "f55f73ca",
+        "clinical_question": "What is the effect of uric acid\u2013lowering therapy compared with placebo, usual care, or an active comparator among people with CKD and hyperuricemia in terms of mortality, progression of CKD, complications of CKD, and adverse events?",
+        "population": "Adults and/or children with CKD and hyperuricemia with subgroups for symptomatic and asymptomatic hyperuricemia",
+        "intervention": "Uric acid-lowering therapy (ULT; allopurinol, benzbromarone, febuxostat, oxipurinol, pegloticase, probenecid, opiroxostat, rasburicase, sulfinpyrazone, lesinurad)",
+        "comparator": "Active comparator (e.g., another uric acid\u2013lowering therapy), placebo, or usual care",
+        "outcome": "Cutaneous reactions and hypersensitivity (follow - up: range 3 months to 41 months)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "4b195d32",
+            "92d86942",
+            "b4a1553e",
+            "4409bf3a",
+            "9e5ec898",
+            "f4261f50",
+            "5757e468"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "SERIOUS",
+                    "rationales": "There was a total of 58 events among the 1610 participants enrolled in the seven trials. The number of events is lower than the number needed to reach the optimal information size (i.e., 300)."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "MODERATE",
+                "No of participants": {
+                    "ULT": "30/803 (3.7%)",
+                    "lacebo or usual care": "28/807 (3.5%)"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 1.07 (0.64 to 1.77)()",
+                    "Absolute Effect (95% CI)": "2 more per 1,000 (from 12 fewer to 27 more)()"
+                }
+            }
+        }
+    },
+    {
+        "outcome_uid": "9ead3f8b",
+        "clinical_question": "What is the effect of uric acid\u2013lowering therapy compared with placebo, usual care, or an active comparator among people with CKD and hyperuricemia in terms of mortality, progression of CKD, complications of CKD, and adverse events?",
+        "population": "Adults and/or children with CKD and hyperuricemia with subgroups for symptomatic and asymptomatic hyperuricemia",
+        "intervention": "Uric acid-lowering therapy (ULT; allopurinol, benzbromarone, febuxostat, oxipurinol, pegloticase, probenecid, opiroxostat, rasburicase, sulfinpyrazone, lesinurad)",
+        "comparator": "Active comparator (e.g., another uric acid\u2013lowering therapy), placebo, or usual care",
+        "outcome": "Hepatotoxicity (follow-up: range 3 months to 25 months)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "b4a1553e",
+            "4409bf3a",
+            "f4261f50",
+            "5757e468",
+            "3f0f91a7"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Risk of bias": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Inconsistency": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Indirectness": {
+                    "result": "NOT_SERIOUS",
+                    "rationales": ""
+                },
+                "Imprecision": {
+                    "result": "VERY_SERIOUS",
+                    "rationales": "There was a total of 21 events among the 731 participants enrolled in the five trials. The number of events is lower than the number needed to reach the optimal information size (i.e., 300)."
+                },
+                "Other considerations": {
+                    "result": "none",
+                    "rationales": ""
+                },
+                "Study design": "Randomized Controlled Trial",
+                "Certainty": "LOW",
+                "No of participants": {
+                    "ULT": "7/363 (1.9%)",
+                    "lacebo or usual care": "14/368 (3.8%)"
+                },
+                "Effect": {
+                    "Relative Effect (95% CI)": "RR 0.56 (0.23 to 1.34)()",
+                    "Absolute Effect (95% CI)": "17 fewer per 1,000 (from 29 fewer to 13 more)()"
+                }
+            }
+        }
+    }
+]

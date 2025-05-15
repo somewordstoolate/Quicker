@@ -1,0 +1,334 @@
+{
+    "Question": "Should patients with dementia and agitation\/aggressive behaviour be treated with atypical anti-psychotics compared to haloperidol?",
+    "References": {
+        "8": "A randomized double-blind crossover comparison of risperidone and haloperidol in Korean Dementia patients with behavioral disturbances Suh GH, Son HG, Ju YS, Jcho KH, Yeon BK, Shin YM, Kee BS, Choi SK. Am J Geriatr Psych 2004;12(5):509-516",
+        "9": "Olanzapine versus Haloperidol in the Treatment of Agitation in Elderly Patients with Dementia: Results of a Randomized Controlled Double-Blind Trial. Verhey FR, Verkaaik M, Lousberg R. Dementia Geriatric Cogn Dis 2005;21(1):1-8",
+        "10": "A double-blind randomised comparison of risperidone and haloperidol in the treatment of behavioural and psychological symptoms in Chinese dementia patients. Chan W, Lam LC, Choy CN, Leung VP, Li S, Chiu H. International J Geriatr Psych 2001;16(12):1156-1162 ",
+        "11": "A randomized trial of risperidone placebo and haloperidol for behavioral symptoms of dementia. De Deyn PP Rabheru K Rasmussen A Bocksberger JP Dautzenberg PLJ Eriksson S et al. Neurology 1999;53(5):946–946"
+    },
+    "Characteristics": {
+        "8": [
+            {
+                "Number of patients randomized": "120 AD: 79; VaD: 34; Mixed AD-VaD: 7",
+                "Age Haloperidol": "81.5 (7.7) Haloperidol-to-risperidone",
+                "Age intervention": "80.4 (5.6) Risperidone-to-haloperidol",
+                "MMSE Haloperidol": "9.4 (5.2) MMSE korean version",
+                "MMSE intervention": "9.7 (7.5)"
+            }
+        ],
+        "9": [
+            {
+                "Number of patients randomized": "58",
+                "Age haloperidol": "82.4",
+                "Mean age intervention": "83.3 (8.1)",
+                "Mean MMSE Haloperidol": "10.9 (7.2)",
+                "Mean MMSE intervention": "10 (7.7)"
+            }
+        ],
+        "10": [
+            {
+                "Number of patients randomized": "120",
+                "Mean age Haloperidol": "80.8 (6.8)",
+                "Mean age intervention": "80.2 (9.7)",
+                "Mean MMSE Haloperidol": "8.2 (5)",
+                "Mean MMSE intervention": "7.9 (6)"
+            }
+        ],
+        "11": [
+            {
+                "Number of patients randomized": "230 Randomized to either haloperidol or risperidone",
+                "Mean age Haloperidol": "82 (56/97) Median (min/max)",
+                "Mean age intervention": "81 (68/97) Median (min/max)",
+                "Mean MMSE Haloperidol": "7.9 (6.1- 9.2) ",
+                "Mean MMSE intervention": "8.6 (7.5 - 9.8)"
+            }
+        ]
+    },
+    "Explanations": {
+        "b": "Low number of patients, no events in any studies",
+        "c": "Due to no events in one or both arms RR cannot be calculated",
+        "d": "None of the studies reported SD or other measures of variance for change score except Chan 2011, where SDs were reported on a figure.",
+        "e": "Point estimates vary widely",
+        "f": "Few patients",
+        "g": "SD or other measure of variance not reported. Scores are mean change scores",
+        "h": "Point estimates vary widely ",
+        "k": "Low number of patients",
+        "m": "SD not reported. Values are for change from baseline",
+        "r": "Only data from one study. Low number of patients, no events in the study"
+    },
+    "Outcome": {
+        "Mortality": {
+            "No of studies": [
+                "8",
+                "9",
+                "10"
+            ],
+            "Study design": "randomised trials",
+            "Risk of bias": [
+                "No serious"
+            ],
+            "Inconsistency": [
+                "No serious"
+            ],
+            "Indirectness": [
+                "No serious"
+            ],
+            "Imprecision": [
+                "Very serious",
+                "b"
+            ],
+            "Publication bias": [
+                "No serious"
+            ],
+            "Other considerations": [
+                "None"
+            ],
+            "Risk": {
+                "Treatment with haloperidol (comparator) mean change score OR n/N": {
+                    "8": [
+                        "0/60"
+                    ],
+                    "9": [
+                        "0/28"
+                    ],
+                    "10": [
+                        "0/29"
+                    ]
+                },
+                "Treatment with typical antipsychotics (intervention) mean change score (SD) OR n/N": {
+                    "8": [
+                        "0/60"
+                    ],
+                    "9": [
+                        "0/30"
+                    ],
+                    "10": [
+                        "0/29"
+                    ]
+                }
+            },
+            "Effect": {
+                "Mean difference  in change score OR Relative risk (95 % CI)": {
+                    "8": [
+                        "NA",
+                        "c"
+                    ],
+                    "9": [
+                        "NA",
+                        "c"
+                    ],
+                    "10": [
+                        "NA",
+                        "c"
+                    ]
+                }
+            },
+            "Certainty": [
+                "LOW"
+            ],
+            "Importance": [
+                "CRITICAL"
+            ]
+        },
+        "Agitation/aggression": {
+            "No of studies": [
+                "8",
+                "9",
+                "10",
+                "11",
+                "d"
+            ],
+            "Study design": "randomised trials",
+            "Risk of bias": [
+                "No serious"
+            ],
+            "Inconsistency": [
+                "Serious",
+                "e"
+            ],
+            "Indirectness": [
+                "No serious"
+            ],
+            "Imprecision": [
+                "Serious",
+                "f"
+            ],
+            "Publication bias": [
+                "No serious"
+            ],
+            "Other considerations": [
+                "None"
+            ],
+            "Risk": {
+                "Treatment with haloperidol (comparator) mean change score OR n/N": {
+                    "8": [
+                        "4.9"
+                    ],
+                    "9": [
+                        "-16.6"
+                    ],
+                    "10": [
+                        "-10"
+                    ],
+                    "11": [
+                        "-3.6"
+                    ]
+                },
+                "Treatment with atypical antipsychotics (intervention) mean change score (SD) OR n/N": {
+                    "8": [
+                        "-11.2"
+                    ],
+                    "9": [
+                        "-10.1(-18.6 to - 1.5)"
+                    ],
+                    "10": [
+                        "-8.1"
+                    ],
+                    "11": [
+                        "-8.3"
+                    ]
+                }
+            },
+            "Effect": {
+                "Mean difference  in change score OR Relative risk (95 % CI)": {
+                    "8": [
+                        "-6.3",
+                        "g"
+                    ],
+                    "9": [
+                        "6.5"
+                    ],
+                    "10": [
+                        "1.9",
+                        "g"
+                    ],
+                    "11": [
+                        "-4.7",
+                        "g"
+                    ]
+                }
+            },
+            "Certainty": [
+                "LOW"
+            ],
+            "Importance": [
+                "IMPORTANT"
+            ]
+        },
+        "Global cognitive function": {
+            "No of studies": [
+                "9",
+                "10"
+            ],
+            "Study design": "randomised trials",
+            "Risk of bias": [
+                "No serious"
+            ],
+            "Inconsistency": [
+                "Serious",
+                "h"
+            ],
+            "Indirectness": [
+                "No serious"
+            ],
+            "Imprecision": [
+                "Very serious",
+                "k"
+            ],
+            "Publication bias": [
+                "No serious"
+            ],
+            "Other considerations": [
+                "None"
+            ],
+            "Risk": {
+                "Treatment with haloperidol (comparator) mean change score OR n/N": {
+                    "9": [
+                        "-0.13"
+                    ],
+                    "10": [
+                        "-0.15"
+                    ]
+                },
+                "Treatment with atypical antipsychotics (intervention) mean change score (SD) OR n/N": {
+                    "9": [
+                        "0.53"
+                    ],
+                    "10": [
+                        "-0.42"
+                    ]
+                }
+            },
+            "Effect": {
+                "Mean difference  in change score OR Relative risk (95 % CI)": {
+                    "9": [
+                        "0.66",
+                        "m"
+                    ],
+                    "10": [
+                        "-0.27",
+                        "m"
+                    ]
+                }
+            },
+            "Certainty": [
+                "VERY LOW"
+            ],
+            "Importance": [
+                "IMPORTANT"
+            ]
+        },
+        "Serious adverse events": {
+            "No of studies": [
+                "8"
+            ],
+            "Study design": "randomised trials",
+            "Risk of bias": [
+                "No serious"
+            ],
+            "Inconsistency": [
+                "N/A",
+                "c"
+            ],
+            "Indirectness": [
+                "No serious"
+            ],
+            "Imprecision": [
+                "Very serious",
+                "r"
+            ],
+            "Publication bias": [
+                "No serious"
+            ],
+            "Other considerations": [
+                "None"
+            ],
+            "Risk": {
+                "Treatment with haloperidol (comparator) mean change score OR n/N": {
+                    "8": [
+                        "0/60"
+                    ]
+                },
+                "Treatment with atypical antipsychotics (intervention) mean change score (SD) OR n/N": {
+                    "8": [
+                        "0/60"
+                    ]
+                }
+            },
+            "Effect": {
+                "Mean difference  in change score OR Relative risk (95 % CI)": {
+                    "8": [
+                        "N/A",
+                        "c"
+                    ]
+                }
+            },
+            "Certainty": [
+                "VERY LOW"
+            ],
+            "Importance": [
+                "CRITICAL"
+            ]
+        }
+    }
+}

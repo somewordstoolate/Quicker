@@ -1,0 +1,101 @@
+{
+    "Disease activity (follow up: 3 months; assessed with: DAS 44 (Lower values --> benefit)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "a"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "csDMARD triple therapy": ["89", "b"],
+            "csDMARD monotherapy": ["90", "c"]
+        },
+        "Effect": {
+            "Relative (95% CI)": "-",
+            "Absolute (95% CI)": "MD 0.35 lower (0.64 lower to 0.06 lower)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "CRITICAL"
+    },
+
+    "Remission (follow up: 3 months; assessed with: DAS 44 <1.6)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "d"],
+        "Other considerations": "none",
+        "Nº of patients": {
+        "csDMARD triple therapy": ["38/89 (42.7%)", "b"],
+        "csDMARD monotherapy": ["28/90 (31.1%)", "c"]
+        },
+        "Effect": {
+        "Relative (95% CI)": "RR 1.37 (0.93 to 2.03)",
+        "Absolute (95% CI)": "115 more per 1,000 (from 22 fewer to 320 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "CRITICAL"
+    },
+
+    "Disability (follow up: 3 months; assessed with: HAQ-DI (Lower values --> benefit) (MCID -0.22)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["serious", "e"],
+        "Other considerations": "none",
+        "Nº of patients": {
+        "csDMARD triple therapy": ["78", "b"],
+        "csDMARD monotherapy": ["78", "c"]
+        },
+        "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 0.03 lower (0.2 lower to 0.14 higher)"
+        },
+        "Certainty": "⨁⨁⨁◯ MODERATE",
+        "Importance": "IMPORTANT"
+    },
+
+    "Serious adverse events (follow up: 3 months)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "d"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "csDMARD triple therapy": ["4/89 (4.5%)", "b"],
+            "csDMARD monotherapy": ["6/90 (6.7%)", "c"]
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.67 (0.20 to 2.31)",
+            "Absolute (95% CI)": "22 fewer per 1,000 (from 53 fewer to 87 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    },
+
+    "Withdrawal due to Adverse events (follow up: 3 months)": {
+        "No of studies": "3",
+        "Study design": "randomised trials",
+        "Risk of bias": "not serious",
+        "Inconsistency": "not serious",
+        "Indirectness": "not serious",
+        "Imprecision": ["very serious", "d"],
+        "Other considerations": "none",
+        "Nº of patients": {
+            "csDMARD triple therapy": ["0/93 (0.0%)", "b"],
+            "csDMARD monotherapy": ["3/97 (3.1%)", "c"]
+        },
+        "Effect": {
+            "Relative (95% CI)": "RR 0.15 (0.01 to 2.84)",
+            "Absolute (95% CI)": "26 fewer per 1,000 (from 31 fewer to 57 more)"
+        },
+        "Certainty": "⨁⨁◯◯ LOW",
+        "Importance": "IMPORTANT"
+    }
+}

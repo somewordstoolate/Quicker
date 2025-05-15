@@ -1,0 +1,35 @@
+Effect of uric acid-lowering therapy among people with chronic kidney disease (CKD) and hyperuricemia (Search date: March 2023)
+PubMed 
+1. Hyperuricemia[mh]
+2. Uric acid[mh]
+3. Hyperuricaemi*[tiab] OR hyperuricemi*[tiab]
+4. (“uric acid”[tiab] OR urate[tiab]) AND (elevat*[tiab] OR high[tiab] OR raise*[tiab] OR rise[tiab] OR rising[tiab])
+5. #1 OR #2 OR #3 OR #4
+6. “Gout suppressants”[mh]
+7. Allopurinol[mh] OR allopurinol[tiab]
+8. “Uricosuric agents”[mh]
+9. “Urate oxidase”[mh] OR uricase[tiab] OR “urate oxidase”[tiab]
+10. “Xanthin oxidase inhibit*”[tiab] OR “xanthine oxidoreductase”[tiab]
+11. Benzbromarone[mh] OR benzbromarone[tiab]
+12. Probenecid[mh] OR probenecid[tiab]
+13. Febuxostat[mh] OR febuxostat[tiab]
+14. Pegloticase[tiab]
+15. Topiroxostat[tiab] OR FYX-051[supplementary concept]
+16. Oxypurinol[mh] OR oxypurinol[tiab] OR oxipurinol[tiab]
+17. Sulfinpyrazone[mh] OR sulfinpyrazone[tiab] OR sulphinpyrazone[tiab] OR rasburicase[tiab] OR lesinurad[tiab]
+18. #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #15 OR #16 OR #17
+19. Randomized controlled trial[pt]
+20. Controlled clinical trial[pt]
+21. Randomized controlled trials[mh]
+22. randomized[tiab]
+23. placebo[tiab]
+24. "drug therapy"[Subheading]
+25. randomly[tiab]
+26. trial[tiab]
+27. groups[tiab]
+28. #19 OR #20 OR #21 OR #22 OR #23 OR #24 OR #25 OR #26 OR #27
+29. #5 AND #18 AND #28
+30. Animals[mh] NOT humans[mh]
+31. #29 NOT #30
+32. 2016/01/01:2023/03/15[dp]
+33. #31 AND #32

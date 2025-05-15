@@ -1,0 +1,19 @@
+{
+    "Question": "Should patients with RA on DMARDs who are NOT at target receive IA corticosteroids alone or add/switch DMARDs or IA corticosteroids and add/switch DMARD(s)?",
+    "Comparison": {
+        "IA steroids versus add/Switch DMARD(s). ": {
+            "filename": "PICO 28_Comparison 1.json",
+            "Explanations": {
+                "a": "Downgraded by two levels due to very serious risk of bias. Lack of allocation concealment, lack of blinding, and selective reporting.",
+                "b": "Downgraded by one level due to serious indirectness. Study compared IA GCs + csDMARD to csDMARDs.",
+                "c": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting no effect and value suggesting harm. Very small sample size.",
+                "d": "Downgraded by one level due to serious imprecision. Very small sample size.",
+                "e": "Downgraded by two levels due to very serious imprecision. Very small sample size and low number of events.",
+                "f": "Downgraded by two levels due to very serious imprecision. Confidence interval includes both values suggesting benefit and values suggesting no effect. Very small sample size."
+            }
+        }
+    },
+    "References": {
+        "1": "Menon Nea. Comparison of Intra-articular Glucocorticoid Injections with DMARDs versus DMARDs alone in Rheumatoid Arthritis. Journal of the association of physicians of india. 2014;62:673-6."
+    }
+}

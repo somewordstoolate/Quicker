@@ -1,0 +1,134 @@
+{
+  "Disease activity (follow up: 6 months; assessed with: DAS 28-ESR)": {
+    "No of studies": [
+      "4"
+    ],
+    "Study design": "observational studies",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "serious",
+      "a"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Switch to 2nd TNFi": "390",
+      "Switch to IL-6 inhibitor": "147"
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 1.3 lower (1.63 lower to 0.97 lower)"
+    },
+    "Certainty": " VERY LOW",
+    "Importance": "CRITICAL"
+  },
+  "Low disease activity (follow up: 6 months; assessed with: DAS28-ESR <3.2)": {
+    "No of studies": [
+      "4"
+    ],
+    "Study design": "observational studies",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Switch to 2nd TNFi": "43/103 (41.7%)",
+      "Switch to IL-6 inhibitor": "29/44 (65.9%)"
+    },
+    "Effect": {
+      "Relative (95% CI)": "RR 0.63 (0.46 to 0.87)",
+      "Absolute (95% CI)": "244 fewer per 1,000 (from 356 fewer to 86 fewer)"
+    },
+    "Certainty": "  LOW",
+    "Importance": "IMPORTANT"
+  },
+  "Pain (follow up: 6 months; assessed with: VAS 100)": {
+    "No of studies": [
+      "4"
+    ],
+    "Study design": "observational studies",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Switch to 2nd TNFi": "185",
+      "Switch to IL-6 inhibitor": "74"
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 1.1 lower (7.52 lower to 5.32 higher)"
+    },
+    "Certainty": "  LOW",
+    "Importance": "IMPORTANT"
+  },
+  "Disability (follow up: 6 months; assessed with: HAQ-DI)": {
+    "No of studies": [
+      "4"
+    ],
+    "Study design": "observational studies",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": [
+      "serious",
+      "a"
+    ],
+    "Other considerations": "none",
+    "No of patients": {
+      "Switch to 2nd TNFi": "185",
+      "Switch to IL-6 inhibitor": "74"
+    },
+    "Effect": {
+      "Relative (95% CI)": "-",
+      "Absolute (95% CI)": "MD 0.2 lower (0.4 lower to 0)"
+    },
+    "Certainty": " VERY LOW",
+    "Importance": "IMPORTANT"
+  },
+  "Withdrawal due to adverse events (follow up: 1 year)": {
+    "No of studies": [
+      "4"
+    ],
+    "Study design": "observational studies",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Switch to 2nd TNFi": "49/217 (22.6%)",
+      "Switch to IL-6 inhibitor": "19/35 (54.3%)"
+    },
+    "Effect": {
+      "Relative (95% CI)": "RR 0.42 (0.28 to 0.62)",
+      "Absolute (95% CI)": "315 fewer per 1,000 (from 391 fewer to 206 fewer)"
+    },
+    "Certainty": "  LOW",
+    "Importance": "IMPORTANT"
+  },
+  "Withdrawal due to lack of efficacy (follow up: 6 months)": {
+    "No of studies": [
+      "4"
+    ],
+    "Study design": "observational studies",
+    "Risk of bias": "not serious",
+    "Inconsistency": "not serious",
+    "Indirectness": "not serious",
+    "Imprecision": "not serious",
+    "Other considerations": "none",
+    "No of patients": {
+      "Switch to 2nd TNFi": "137/217 (63.1%)",
+      "Switch to IL-6 inhibitor": "11/35 (31.4%)"
+    },
+    "Effect": {
+      "Relative (95% CI)": "RR 2.01 (1.22 to 3.31)",
+      "Absolute (95% CI)": "317 more per 1,000 (from 69 more to 726 more)"
+    },
+    "Certainty": "  LOW",
+    "Importance": "IMPORTANT"
+  }
+}

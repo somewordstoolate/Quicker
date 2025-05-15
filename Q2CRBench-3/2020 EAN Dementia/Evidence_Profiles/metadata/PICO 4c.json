@@ -1,0 +1,405 @@
+{
+    "Question": "Should treatment with antipsychotics be routinely discontinued?",
+    "References": {
+        "12": "Stopping antipsychotic drug therapy in demented nursing home patients: a randomized placebo-controlled study--the Bergen District Nursing Home Study (BEDNURS). Ruths S, Straand J, Nygaard HA, Aarsland D International J Geriatr Psych 2008;23(9):889-95",
+        "13": "A randomized placebo-controlled trial of the discontinuation of long-term antipsychotics in dementia. van Reekum R, Clarke D, Conn D, Hermann N, Eryavec G, Cohen T, Ostrander L. International Psychogeriatrics 2002;14(2):197-210",
+        "14": "Withdrawal of neuroleptic medication from institutionalized dementia patients: results from a double-blind baseline-treatment-controlled pilot study. Bridges-Parlet S, Knopman D, Seffes S. J Geriatr Psych Neurol 1997;10(3):119-126",
+        "15": "Relapse risk after discontinuation of risperidone in Alzheimer's disease. Devanand D, Mintzer J, Schultz SK, Andrews HF, Sultzer DL, de la Pena D, Gupta S, Colon S, Schimming C, Pelton GH, Levin B, NEJM 2012;367(16):1497-1507",
+        "16": "A 3-month randomized placebo-controlled neuroleptic discontinuation study in 100 people with dementia: the neuropsychiatric inventory median cutoff is a predictor of clinical outcome. Ballard CG, Thomas A, Fossey J, Lee L, Jacoby R, Lana MM, Bannister C, McShane R, Swann A, Juszczak E al et. J Clin Psych 2004;65(1):114-119",
+        "17": "A randomised blinded placebo-controlled trial in dementia patients continuing or stopping neuroleptics (The DART-AD Trial). Ballard C, Lana MM, Theodoulou M, Douglas S, McShane R, Jacoby R, Kossakowski K, Yu LM, Juszczak E. PLoS Med 2008;5(4):0587-0599",
+        "18": "The dementia antipsychotic withdrawal trial (DART-AD): Long-term follow-up of a randomised placebo-controlled trial. Ballard C, Hanney ML, Theodoulou M, Douglas S, McShane R, Kossakowski K, Gill R, Juszczak E, Yu LM, Jacoby R. Lancet Neurol 2009;8(2):151-157",
+        "19": "A 6-month randomized double-blind placebocontrolled pilot discontinuation trial following response to haloperidol treatment of psychosis and agitation in Alzheimer’s disease. Devanand D, Pelton G, Cunqueiro K, Sackeim HA, Marder K. International J Geriatr Psych 2011;26(9):937–43"
+    },
+    "Characteristics": {
+        "12": [
+            {
+                "Number of patients randomized": "55",
+                "Age continuation": "84.6 (5.9)",
+                "Age discontinuation": "83.6 (8.1)",
+                "MMSE continuation": "Not reported",
+                "MMSE discontinuation": "Not reported",
+                "Baseline daily doses (median (range))": "risperidone 1.0 (0.5–2.0) mg, haloperidol 1.0 (0.5–1.5) mg, or olanzapine 5.0 mg (2.5–5.0)"
+            }
+        ],
+        "13": [
+            {
+                "Number of patients randomized": "34",
+                "Age continuation": "82.9 (6.9)",
+                "Age discontinuation": "84.4 (4.6)",
+                "MMSE continuation": "6.3 (7.6)",
+                "MMSE discontinuation": "8.8 (8.6)",
+                "Baseline daily doses": "Total daily dosage-chlorpromazine equivalent: Discont. 24.9 (15.9), Cont. 34.3 (13.6)"
+            }
+        ],
+        "14": [
+            {
+                "Number of patients randomized": "36",
+                "Age continuation": "83.9 (6.1)",
+                "Age discontinuation": "81.7 (6)",
+                "Baseline MMSE continuation": "Not reported (Number of participants with a score of 0 on the MMSE was reported: Discontinued: 19; Continued: 11)",
+                "Baseline MMSE discontinuation": "Not reported (Number of participants with a score of 0 on the MMSE was reported: Discontinued: 19; Continued: 11)",
+                "Baseline daily doses: Total daily dosage-chlorpromazine equivalents": "Discont.: 41.1 (21.7); cont.: 51.7 (25.5)"
+            }
+        ],
+        "15": [
+            {
+                "Number of patients randomized": "110",
+                "Age continuation": "80.7 (±7.9)",
+                "Age partly discontinuation": "79.1 (±8.0) ( The study had a lead-in period (phase A), where patients with psychosis or aggression/agitation were treated with risperidone. Responders were then included in phase B (discontinuation trial), whereas non-responders were excluded. Phase B was further divided into 2 phases. For the first phase, the responders were divided into 3 groups, 2 treated with antipsychotics, and the 3rd randomized to placebo (discontinuation). Data extracted for the present analysis is for the first phase of phase B. In the second phase, one of the groups treated with antipsychotics, were also switched to placebo.)",
+                "Age discontinuation": "80.3 (±7.7)",
+                "Baseline MMSE continuation": "13.4 (±6.6)",
+                "Baseline MMSE partly discontinuation": "13.6 (±6.7) ( The study had a lead-in period (phase A), where patients with psychosis or aggression/agitation were treated with risperidone. Responders were then included in phase B (discontinuation trial), whereas non-responders were excluded. Phase B was further divided into 2 phases. For the first phase, the responders were divided into 3 groups, 2 treated with antipsychotics, and the 3rd randomized to placebo (discontinuation). Data extracted for the present analysis is for the first phase of phase B. In the second phase, one of the groups treated with antipsychotics, were also switched to placebo.)",
+                "Baseline MMSE discontinuation": "15.5 (±6.6)",
+                "Baseline daily doses (mean (SD))": "Risperidone: 0.97(±0.74 mg)"
+            }
+        ],
+        "16": [
+            {
+                "Number of patients randomized": "100",
+                "Age continuation": "83.1 (7.1)",
+                "Age discontinuation": "83.6 (9.3)",
+                "Baseline MMSE continuation (median (range)": "2.5 (0-23)",
+                "Baseline MMSE discontinuation (median (range)": "3 (0-21)",
+                "Baseline daily doses (median (range)": "Risperidone 1.3 (0.7); Thioridazine 38 (26.2); Haloperidol: 0.9 (0.4); Trifluoperazine: 3.0 (1.4); Chlorpromazine: 20 (Only one patient)"
+            }
+        ],
+        "17": [
+            {
+                "Number of patients randomized": "165",
+                "Baseline age continuation": "84.8 (7.0)",
+                "Baseline age discontinuation": "84.9 (6.1)",
+                "Baseline MMSE continuation": "11 (6) (Data extracted at 12 months)",
+                "Baseline MMSE discontinuation": "11 (5) (Data extracted at 12 months)",
+                "Baseline daily doses (median (range)": "Not reported (Reported for standardized MMSE)"
+            }
+        ],
+        "18": [
+            {
+                "Number of patients randomized": "165",
+                "Baseline age continuation": "84.8 (7.0)",
+                "Baseline age discontinuation": "84.9 (6.1)",
+                "Baseline MMSE continuation": "11 (6) (Reported for standardized MMSE)",
+                "Baseline MMSE discontinuation": "11 (5) (Reported for standardized MMSE)",
+                "Baseline daily doses (median (range)": "Not reported (No. of patients on various antipsychotics (numbers are continue/discontinue): Chlorpromazine High 0/1 Very low/low 1/1; Haloperidol High 1/0; Very low/low 22/20; Olanzapine: High 0/2 Very low/low 4/3; Promazine: High 0/0 Very low/low 0/2; Quetiapine: High 0/0 Very low/low 1/3; Risperidone High 9/12 Very low/low 43/37; Thioridazine High 0/0 Very low/low 2/0; Trifluoperazine High 0/1 Very low/low 0/0)"
+            }
+        ],
+        "19": [
+            {
+                "Number of patients randomized": "20",
+                "Baseline age continuation": "75.0 (8.0) (Pooled mean for all responders.)",
+                "Baseline age discontinuation": "N/A",
+                "Baseline MMSE continuation": "12.3 (6.3) (Pooled mean for all responders.)",
+                "Baseline MMSE discontinuation": "N/A",
+                "Baseline daily doses (median (range)": "1.53 mg (0.9) (Pooled mean for all responders.)"
+            }
+        ]
+    },
+    "Explanations": {
+        "b": "Wide confidence intervals, Low number of patients, few events in any studies",
+        "c": "Due to no events in one or both arms RR cannot be calculated",
+        "d": "Wide confidence intervals, Low number of patients, low number of events",
+        "e": "Hazard ratios for the first 16 weeks of phase B. Hazard ratio for placebo compared to antipsychotics",
+        "f": "Only one study",
+        "g": "Wide confidence intervals, Low number of patients, Only data from one study",
+        "h": "Calculated",
+        "k": "Wide confidence intervals, Low number of patients, Only data from one study, low number of events"
+    },
+    "Outcome": {
+        "Mortality": {
+            "No of studies": [
+                "12",
+                "14",
+                "15",
+                "16",
+                "18",
+                "19"
+            ],
+            "Study design": "randomised trials",
+            "Risk of bias": [
+                "No serious"
+            ],
+            "Inconsistency": [
+                "No serious"
+            ],
+            "Indirectness": [
+                "No serious"
+            ],
+            "Imprecision": [
+                "Very serious",
+                "b"
+            ],
+            "Publication bias": [
+                "No serious"
+            ],
+            "Other considerations": [
+                "None"
+            ],
+            "Risk": {
+                "Continuation of treatment with anti-psychotics (Comparator) mean (SD) Or n/N": {
+                    "12": [
+                        "1/27"
+                    ],
+                    "14": [
+                        " 0/14"
+                    ],
+                    "15": [
+                        "1/69"
+                    ],
+                    "16": [
+                        "3/51"
+                    ],
+                    "18": [
+                        "10/72"
+                    ],
+                    "19": [
+                        "0/10"
+                    ]
+                },
+                "Discontinuation of treatment with anti-psychotics (intervention) mean change score (SD) OR n/N": {
+                    "12": [
+                        "3/24"
+                    ],
+                    "14": [
+                        "0/22"
+                    ],
+                    "15": [
+                        "1/39"
+                    ],
+                    "16": [
+                        "3/43"
+                    ],
+                    "18": [
+                        "2/83"
+                    ],
+                    "19": [
+                        "0/10"
+                    ]
+                }
+            },
+            "Effect": {
+                "Mean difference (95 % CI) OR Relative risk (95 % CI)": {
+                    "12": [
+                        "3.11 (0.34 - 28.09)"
+                    ],
+                    "14": [
+                        "NA",
+                        "c"
+                    ],
+                    "15": [
+                        "1.75"
+                    ],
+                    "16": [
+                        "1.17 (0.25 - 5.54)"
+                    ],
+                    "18": [
+                        "0.19 (0.046 to 0.90)"
+                    ],
+                    "19": [
+                        "NA",
+                        "c"
+                    ]
+                }
+            },
+            "Certainty": [
+                "LOW"
+            ],
+            "Importance": [
+                "CRITICAL"
+            ]
+        },
+        "Neuropsychiatric symptoms": {
+            "No of studies": [
+                "12",
+                "13",
+                "16",
+                "17",
+                "19"
+            ],
+            "Study design": "randomised trials",
+            "Risk of bias": [
+                "No serious"
+            ],
+            "Inconsistency": [
+                "No serious"
+            ],
+            "Indirectness": [
+                "No serious"
+            ],
+            "Imprecision": [
+                "Very serious",
+                "d"
+            ],
+            "Publication bias": [
+                "No serious"
+            ],
+            "Other considerations": [
+                "None"
+            ],
+            "Risk": {
+                "Continuation of treatment with anti-psychotics (Comparator) mean (SD) Or n/N": {
+                    "12": [
+                        "-1.79 (4.9)"
+                    ],
+                    "13": [
+                        "Results only reported in a figure. No measure of variance."
+                    ],
+                    "16": [
+                        "0.2 (12) "
+                    ],
+                    "17": [
+                        "3.52 (20.78) "
+                    ],
+                    "19": [
+                        "N/A"
+                    ]
+                },
+                "Discontinuation of treatment with anti-psychotics (intervention) mean change score (SD) OR n/N": {
+                    "12": [
+                        "-0.19 (5.3)"
+                    ],
+                    "13": [
+                        "N/A"
+                    ],
+                    "16": [
+                        "-1.3 (9.4)"
+                    ],
+                    "17": [
+                        " 2.04 (18.2)"
+                    ],
+                    "19": [
+                        "N/A"
+                    ]
+                }
+            },
+            "Effect": {
+                "Mean difference (95 % CI) OR Relative risk (95 % CI)": {
+                    "12": [
+                        "1.6 (95% CI   -1.16 to 4.36)"
+                    ],
+                    "13": [
+                        "N/A"
+                    ],
+                    "16": [
+                        "-1.5 (95% CI -6.34 to -3.34)"
+                    ],
+                    "17": [
+                        "-1.48 (-8.70 to 5.74)"
+                    ],
+                    "19": [
+                        "1.94; (1.09 to -3.45)",
+                        "e"
+                    ]
+                }
+            },
+            "Certainty": [
+                "LOW"
+            ],
+            "Importance": [
+                "IMPORTANT"
+            ]
+        },
+        "Global cognitive function": {
+            "No of studies": [
+                "17"
+            ],
+            "Study design": "randomised trials",
+            "Risk of bias": [
+                "No serious"
+            ],
+            "Inconsistency": [
+                "N/A",
+                "f"
+            ],
+            "Indirectness": [
+                "No serious"
+            ],
+            "Imprecision": [
+                "Very serious",
+                "g"
+            ],
+            "Publication bias": [
+                "No serious"
+            ],
+            "Other considerations": [
+                "None"
+            ],
+            "Risk": {
+                "Continuation of treatment with anti-psychotics (Comparator) mean (SD) Or n/N": {
+                    "17": [
+                        "-16.5 (23.1)"
+                    ]
+                },
+                "Discontinuation of treatment with anti-psychotics (intervention) mean change score (SD) OR n/N": {
+                    "17": [
+                        "-8.5 (13.4)"
+                    ]
+                }
+            },
+            "Effect": {
+                "Mean difference (95 % CI) OR Relative risk (95 % CI)": {
+                    "17": [
+                        "8 (2.20 - 13.80)",
+                        "h"
+                    ]
+                }
+            },
+            "Certainty": [
+                "VERY LOW"
+            ],
+            "Importance": [
+                "IMPORTANT"
+            ]
+        },
+        "Serious adverse events": {
+            "No of studies": [
+                "15"
+            ],
+            "Study design": "randomised trials",
+            "Risk of bias": [
+                "No serious"
+            ],
+            "Inconsistency": [
+                "N/A",
+                "f"
+            ],
+            "Indirectness": [
+                "No serious"
+            ],
+            "Imprecision": [
+                "Very serious",
+                "k"
+            ],
+            "Publication bias": [
+                "No serious"
+            ],
+            "Other considerations": [
+                "None"
+            ],
+            "Risk": {
+                "Continuation of treatment with anti-psychotics (Comparator) mean (SD) Or n/N": {
+                    "15": [
+                        "5/65"
+                    ]
+                },
+                "Discontinuation of treatment with anti-psychotics (intervention) mean change score (SD) OR n/N": {
+                    "15": [
+                        "8/32"
+                    ]
+                }
+            },
+            "Effect": {
+                "Mean difference (95 % CI) OR Relative risk (95 % CI)": {
+                    "15": [
+                        "2.80 (0.98 - 7.98)"
+                    ]
+                }
+            },
+            "Certainty": [
+                "VERY LOW"
+            ],
+            "Importance": [
+                "CRITICAL"
+            ]
+        }
+    }
+}

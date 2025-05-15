@@ -1,0 +1,140 @@
+{
+    "Disease activity (follow up: 6 months; assessed with: ACR20)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": ["serious", "b"],
+      "Imprecision": ["very serious", "c"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Add SSZ+HCQ": "89/159 (56.0%)",
+        "Add TNFi": "90/163 (55.2%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 1.01 (0.83 to 1.23)",
+        "Absolute (95% CI)": "6 more per 1,000 (from 94 fewer to 127 more)"
+      },
+      "Certainty": "VERY LOW",
+      "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: 6 months; assessed with: ACR50)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": ["serious", "b"],
+      "Imprecision": ["serious", "d"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Add SSZ+HCQ": "41/159 (25.8%)",
+        "Add TNFi": "58/163 (35.6%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.72 (0.52 to 1.01)",
+        "Absolute (95% CI)": "100 fewer per 1,000 (from 171 fewer to 4 more)"
+      },
+      "Certainty": "VERY LOW",
+      "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: 6 months; assessed with: ACR70)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": ["serious", "b"],
+      "Imprecision": "not serious",
+      "Other considerations": "none",
+      "No of patients": {
+        "Add SSZ+HCQ": "8/159 (5.0%)",
+        "Add TNFi": "26/163 (16.0%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.32 (0.15 to 0.68)",
+        "Absolute (95% CI)": "108 fewer per 1,000 (from 136 fewer to 51 fewer)"
+      },
+      "Certainty": "LOW",
+      "Importance": "CRITICAL"
+    },
+    "Disease activity (follow up: 6 months; assessed with: DAS28-ESR)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": ["serious", "b"],
+      "Imprecision": "not serious",
+      "Other considerations": "none",
+      "No of patients": {
+        "Add SSZ+HCQ": "157",
+        "Add TNFi": "161"
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 0.27 higher (0.01 lower to 0.55 higher)"
+      },
+      "Certainty": "LOW",
+      "Importance": "CRITICAL"
+    },
+    "Remission (follow up: 6 months; assessed with: DAS28-CRP < 2.6)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": ["serious", "b"],
+      "Imprecision": ["serious", "d"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Add SSZ+HCQ": "20/157 (12.7%)",
+        "Add TNFi": "35/161 (21.7%)"
+      },
+      "Effect": {
+        "Relative (95% CI)": "RR 0.59 (0.35 to 0.97)",
+        "Absolute (95% CI)": "89 fewer per 1,000 (from 141 fewer to 7 fewer)"
+      },
+      "Certainty": "VERY LOW",
+      "Importance": "CRITICAL"
+    },
+    "Radiographic progression (follow up: 6 months; assessed with: mTSS)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": ["serious", "b"],
+      "Imprecision": "not serious",
+      "Other considerations": "none",
+      "No of patients": {
+        "Add SSZ+HCQ": "158",
+        "Add TNFi": "160"
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 0.42 higher (0.22 lower to 1.05 higher)"
+      },
+      "Certainty": "LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Disability (follow up: 6 months; assessed with: HAQ-DI)": {
+      "No of studies": ["1"],
+      "Study design": "randomised trials",
+      "Risk of bias": ["serious", "a"],
+      "Inconsistency": "not serious",
+      "Indirectness": ["serious", "b"],
+      "Imprecision": ["serious", "d"],
+      "Other considerations": "none",
+      "No of patients": {
+        "Add SSZ+HCQ": "155",
+        "Add TNFi": "160"
+      },
+      "Effect": {
+        "Relative (95% CI)": "-",
+        "Absolute (95% CI)": "MD 0.07 higher (0.11 lower to 0.25 higher)"
+      },
+      "Certainty": "VERY LOW",
+      "Importance": "IMPORTANT"
+    },
+    "Malignancy (from SRs of harms)": {
+      "No of studies": ["2"],
+      "content": "The Systematic Review RefID=4638, 2012 (RCTs=9, n=3712) comparing csDMARD + placebo vs infliximab + MTX among RA showed that for cancer, the result was RR=0.83 (0.22-3.13) at 2 years and RR=0.56(0.22-1.47) at all time points (6 months, 1 year and 2 years combined)"
+    }
+  }
+  
