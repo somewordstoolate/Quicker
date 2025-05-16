@@ -1,3 +1,8 @@
+Database: MEDLINE
+Host: Ovid
+Data parameters: 1946 to present
+Date searched: Thursday June 21st 2018
+Search strategy:
 1	exp Dementia/
 2	(Dement$ or Alzheimer$ or Amnes$ or Parkinson$ or Huntington$ or lewy$ bod$ or pick$ disease or Posterior cortical atrophy or aphasia or (brain adj1 (disease$ or syndrome$)) or binswanger* or Progressive supranuclear palsy or Steele-Richardson-Olszewski syndrome or Frontotemporal disorder$ or Frontotemporal degeneration or Corticobasal degeneration or Corticobasal syndrome or cognitive disorder$ or Vascular cognitive).ti,ab,kw,ot.
 3	*Amnesia/
