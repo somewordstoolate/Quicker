@@ -1,5 +1,15 @@
 {
     "model": {
+        "question_decomposition_model": {
+            "model_name": "YOUR_MODEL_NAME",
+            "API_KEY": "YOUR_API_KEY",
+            "BASE_URL": "YOUR_BASE_URL"
+        },
+        "literature_search_model": {
+            "model_name": "YOUR_MODEL_NAME",
+            "API_KEY": "YOUR_API_KEY",
+            "BASE_URL": "YOUR_BASE_URL"
+        },
         "study_selection_model": {
             "model_name": "YOUR_MODEL_NAME",
             "API_KEY": "YOUR_API_KEY",
@@ -25,7 +35,7 @@
         "record_screening_method": "basic",
         "full_text_assessment_method": "RAG",
         "exp_num": 3,
-        "threshold": 3
+        "threshold": 2
     },
     "evidence_assessment": {
         "additional_requirements": {
