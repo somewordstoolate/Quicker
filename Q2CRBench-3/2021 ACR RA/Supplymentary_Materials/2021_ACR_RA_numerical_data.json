@@ -1,0 +1,2512 @@
+[
+    {
+        "file": "outcomeinfo_PICO2a_c2.json",
+        "outcome uid": "77864ca9",
+        "intervention": "MTX monotherapy",
+        "comparator": "SSZ",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "d7a31839": {
+                "label_intervention_data": {
+                    "total": [
+                        "35"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "34"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO2a_c2.json",
+        "outcome uid": "7319701a",
+        "intervention": "MTX monotherapy",
+        "comparator": "SSZ",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "d7a31839": {
+                "label_intervention_data": {
+                    "event": [
+                        "0",
+                        "0.0%"
+                    ],
+                    "total": [
+                        "35"
+                    ],
+                    "no_event": [
+                        "35"
+                    ]
+                },
+                "label_comparator_data": {
+                    "event": [
+                        "3",
+                        "8.8%"
+                    ],
+                    "total": [
+                        "34"
+                    ],
+                    "no_event": [
+                        "31"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO2b_c3.json",
+        "outcome uid": "72bb08ec",
+        "intervention": "MTX monotherapy",
+        "comparator": "LEF",
+        "outcome": "Disease activity (follow up: 4 months; assessed with: ACR 20)",
+        "paper_data": {
+            "ad9d3d6b": {
+                "label_intervention_data": {
+                    "total": [
+                        "21"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "19"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO3a_c2.json",
+        "outcome uid": "1c0b87ee",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD triple combination therapy",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS 44 (Lower values --> benefit)",
+        "paper_data": {
+            "ca2ae2ab": {
+                "label_comparator_data": {
+                    "total": [
+                        "89"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "90"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and low disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO3a_c2.json",
+        "outcome uid": "74ee272a",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD triple combination therapy",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS 44 (Lower values --> benefit)",
+        "paper_data": {
+            "ca2ae2ab": {
+                "label_comparator_data": {
+                    "event": [
+                        "38",
+                        "42.7%"
+                    ],
+                    "total": [
+                        "89"
+                    ],
+                    "no_event": [
+                        "51"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "28",
+                        "31.1%"
+                    ],
+                    "total": [
+                        "90"
+                    ],
+                    "no_event": [
+                        "62"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and low disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO3a_c2.json",
+        "outcome uid": "269f6930",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD triple combination therapy",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS 44 (Lower values --> benefit)",
+        "paper_data": {
+            "ca2ae2ab": {
+                "label_comparator_data": {
+                    "total": [
+                        "78"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "78"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and low disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO3a_c2.json",
+        "outcome uid": "c7d1d3f0",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD triple combination therapy",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS 44 (Lower values --> benefit)",
+        "paper_data": {
+            "ca2ae2ab": {
+                "label_comparator_data": {
+                    "event": [
+                        "4",
+                        "4.5%"
+                    ],
+                    "total": [
+                        "89"
+                    ],
+                    "no_event": [
+                        "85"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "6",
+                        "6.7%"
+                    ],
+                    "total": [
+                        "90"
+                    ],
+                    "no_event": [
+                        "84"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and low disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO3a_c2.json",
+        "outcome uid": "80f0d572",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD triple combination therapy",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS 44 (Lower values --> benefit)",
+        "paper_data": {
+            "ca2ae2ab": {
+                "label_comparator_data": {
+                    "event": [
+                        "0",
+                        "0.0%"
+                    ],
+                    "total": [
+                        "93"
+                    ],
+                    "no_event": [
+                        "93"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "3",
+                        "3.1%"
+                    ],
+                    "total": [
+                        "97"
+                    ],
+                    "no_event": [
+                        "94"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and low disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO4a_c1.json",
+        "outcome uid": "f87e2ec4",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD double combination therapy",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: DAS 44 (Lower values \u2013 > benefit) (MCID -1.2 based on the EULAR criteria)",
+        "paper_data": {
+            "d7a31839": {
+                "label_comparator_data": {
+                    "total": [
+                        "36"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "69"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA who have moderate to high disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO4a_c1.json",
+        "outcome uid": "be11ef8f",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD double combination therapy",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: DAS 44 (Lower values \u2013 > benefit) (MCID -1.2 based on the EULAR criteria)",
+        "paper_data": {
+            "d7a31839": {
+                "label_comparator_data": {
+                    "event": [
+                        "0",
+                        "0.0%"
+                    ],
+                    "total": [
+                        "36"
+                    ],
+                    "no_event": [
+                        "36"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "3",
+                        "4.3%"
+                    ],
+                    "total": [
+                        "69"
+                    ],
+                    "no_event": [
+                        "66"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA who have moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO4a_c2.json",
+        "outcome uid": "704512e6",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD triple combination therapy",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS 44 (Lower values \u2013 > benefit) (MCID -1.2)",
+        "paper_data": {
+            "1f1358a6": {
+                "label_comparator_data": {
+                    "total": [
+                        "89"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "90"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA who have moderate to high disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO4a_c2.json",
+        "outcome uid": "7c13259c",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD triple combination therapy",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS 44 (Lower values \u2013 > benefit) (MCID -1.2)",
+        "paper_data": {
+            "1f1358a6": {
+                "label_comparator_data": {
+                    "event": [
+                        "38",
+                        "42.7%"
+                    ],
+                    "total": [
+                        "89"
+                    ],
+                    "no_event": [
+                        "51"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "28",
+                        "31.1%"
+                    ],
+                    "total": [
+                        "90"
+                    ],
+                    "no_event": [
+                        "62"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA who have moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO4a_c2.json",
+        "outcome uid": "4792052e",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD triple combination therapy",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS 44 (Lower values \u2013 > benefit) (MCID -1.2)",
+        "paper_data": {
+            "1f1358a6": {
+                "label_comparator_data": {
+                    "total": [
+                        "89"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "90"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA who have moderate to high disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO4a_c2.json",
+        "outcome uid": "275f118d",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD triple combination therapy",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS 44 (Lower values \u2013 > benefit) (MCID -1.2)",
+        "paper_data": {
+            "1f1358a6": {
+                "label_comparator_data": {
+                    "event": [
+                        "4",
+                        "4.5%"
+                    ],
+                    "total": [
+                        "89"
+                    ],
+                    "no_event": [
+                        "85"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "6",
+                        "6.7%"
+                    ],
+                    "total": [
+                        "90"
+                    ],
+                    "no_event": [
+                        "84"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA who have moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO4a_c2.json",
+        "outcome uid": "b5505ade",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD triple combination therapy",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS 44 (Lower values \u2013 > benefit) (MCID -1.2)",
+        "paper_data": {
+            "1f1358a6": {
+                "label_comparator_data": {
+                    "event": [
+                        "0",
+                        "0.0%"
+                    ],
+                    "total": [
+                        "93"
+                    ],
+                    "no_event": [
+                        "93"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "3",
+                        "3.1%"
+                    ],
+                    "total": [
+                        "97"
+                    ],
+                    "no_event": [
+                        "94"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA who have moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO4b_c2.json",
+        "outcome uid": "49a6891e",
+        "intervention": "csDMARD monotherapy",
+        "comparator": "csDMARD triple combination therapy",
+        "outcome": "Disease activity (follow up: 6 months; assessed with: DAS 28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "ccd87125": {
+                "label_comparator_data": {
+                    "event": [
+                        "11",
+                        "8.3%"
+                    ],
+                    "total": [
+                        "132"
+                    ],
+                    "no_event": [
+                        "121"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "13",
+                        "3.4%"
+                    ],
+                    "total": [
+                        "379"
+                    ],
+                    "no_event": [
+                        "366"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA who have moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO8a_c1.json",
+        "outcome uid": "f8037ebf",
+        "intervention": "Mono or combination csDMARDs with long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs",
+        "comparator": "mono or combination csDMARDs alone (i.e. without long-term GCs)",
+        "outcome": "Disease activity (follow up: 2 years; assessed with: DAS28-ESR)",
+        "paper_data": {
+            "1b777329": {
+                "label_intervention_data": {
+                    "total": [
+                        "116"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "126"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO8a_c1.json",
+        "outcome uid": "71751a33",
+        "intervention": "Mono or combination csDMARDs with long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs",
+        "comparator": "mono or combination csDMARDs alone (i.e. without long-term GCs)",
+        "outcome": "Disease activity (follow up: 2 years; assessed with: DAS28-ESR)",
+        "paper_data": {
+            "1b777329": {
+                "label_intervention_data": {
+                    "total": [
+                        "108"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "117"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO8a_c1.json",
+        "outcome uid": "619f45f3",
+        "intervention": "Mono or combination csDMARDs with long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs",
+        "comparator": "mono or combination csDMARDs alone (i.e. without long-term GCs)",
+        "outcome": "Disease activity (follow up: 2 years; assessed with: DAS28-ESR)",
+        "paper_data": {
+            "1b777329": {
+                "label_intervention_data": {
+                    "total": [
+                        "116"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "126"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO8a_c1.json",
+        "outcome uid": "47ba5bac",
+        "intervention": "Mono or combination csDMARDs with long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs",
+        "comparator": "mono or combination csDMARDs alone (i.e. without long-term GCs)",
+        "outcome": "Disease activity (follow up: 2 years; assessed with: DAS28-ESR)",
+        "paper_data": {
+            "1b777329": {
+                "label_intervention_data": {
+                    "event": [
+                        "26",
+                        "22.4%"
+                    ],
+                    "total": [
+                        "116"
+                    ],
+                    "no_event": [
+                        "90"
+                    ]
+                },
+                "label_comparator_data": {
+                    "event": [
+                        "24",
+                        "19.0%"
+                    ],
+                    "total": [
+                        "126"
+                    ],
+                    "no_event": [
+                        "102"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO8a_c1.json",
+        "outcome uid": "1c6e268f",
+        "intervention": "Mono or combination csDMARDs with long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs",
+        "comparator": "mono or combination csDMARDs alone (i.e. without long-term GCs)",
+        "outcome": "Disease activity (follow up: 2 years; assessed with: DAS28-ESR)",
+        "paper_data": {
+            "1b777329": {
+                "label_intervention_data": {
+                    "event": [
+                        "1",
+                        "0.9%"
+                    ],
+                    "total": [
+                        "116"
+                    ],
+                    "no_event": [
+                        "115"
+                    ]
+                },
+                "label_comparator_data": {
+                    "event": [
+                        "0",
+                        "0.0%"
+                    ],
+                    "total": [
+                        "126"
+                    ],
+                    "no_event": [
+                        "126"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO8b_c1.json",
+        "outcome uid": "35c628c4",
+        "intervention": "Mono or combination csDMARDs with long-term (\u2265 3 months) low dose (\u2264 10mg per day) GCs",
+        "comparator": "mono or combination csDMARDs alone (i.e. without long-term GCs)",
+        "outcome": "Disability (follow up: 2 years; assessed with: HAQ)",
+        "paper_data": {
+            "ac248aa9": {
+                "label_intervention_data": {
+                    "total": [
+                        "77"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "74"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO9_c1.json",
+        "outcome uid": "9a3ef06c",
+        "intervention": "Oral MTX",
+        "comparator": "SC MTX",
+        "outcome": "Disease Activity (follow up: 4 months; assessed with: ACR 20)",
+        "paper_data": {
+            "5efdfbb8": {
+                "label_comparator_data": {
+                    "event": [
+                        "160",
+                        "85.1%"
+                    ],
+                    "total": [
+                        "188"
+                    ],
+                    "no_event": [
+                        "28"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "144",
+                        "77.0%"
+                    ],
+                    "total": [
+                        "187"
+                    ],
+                    "no_event": [
+                        "43"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA initiating MTX",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO10_c1.json",
+        "outcome uid": "163e6883",
+        "intervention": "MTX < 15mg per week",
+        "comparator": "MTX 15mg per week",
+        "outcome": "Disease Activity (follow up: 3 months; assessed with: DAS 28-ESR)",
+        "paper_data": {
+            "8113db3a": {
+                "label_comparator_data": {
+                    "total": [
+                        "53"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "47"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA initiating MTX",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO10_c1.json",
+        "outcome uid": "36189ed9",
+        "intervention": "MTX < 15mg per week",
+        "comparator": "MTX 15mg per week",
+        "outcome": "Disease Activity (follow up: 3 months; assessed with: DAS 28-ESR)",
+        "paper_data": {
+            "8113db3a": {
+                "label_comparator_data": {
+                    "total": [
+                        "53"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "47"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA initiating MTX",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO10_c1.json",
+        "outcome uid": "32b5a40f",
+        "intervention": "MTX < 15mg per week",
+        "comparator": "MTX 15mg per week",
+        "outcome": "Disease Activity (follow up: 3 months; assessed with: DAS 28-ESR)",
+        "paper_data": {
+            "8113db3a": {
+                "label_comparator_data": {
+                    "event": [
+                        "0",
+                        "0.0%"
+                    ],
+                    "total": [
+                        "53"
+                    ],
+                    "no_event": [
+                        "53"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "2",
+                        "4.3%"
+                    ],
+                    "total": [
+                        "47"
+                    ],
+                    "no_event": [
+                        "45"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA initiating MTX",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO10_c1.json",
+        "outcome uid": "e8d43408",
+        "intervention": "MTX < 15mg per week",
+        "comparator": "MTX 15mg per week",
+        "outcome": "Disease Activity (follow up: 3 months; assessed with: DAS 28-ESR)",
+        "paper_data": {
+            "8113db3a": {
+                "label_comparator_data": {
+                    "event": [
+                        "2",
+                        "3.8%"
+                    ],
+                    "total": [
+                        "53"
+                    ],
+                    "no_event": [
+                        "51"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "2",
+                        "4.3%"
+                    ],
+                    "total": [
+                        "47"
+                    ],
+                    "no_event": [
+                        "45"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA initiating MTX",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO12a_c1.json",
+        "outcome uid": "f12d7ed1",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Remission (follow up: range 6 months to 1.5 years; assessed with: DAS 44 <1.4 and DAS28 ESR <2.6)",
+        "paper_data": {
+            "2671be0a": {
+                "label_intervention_data": {
+                    "total": [
+                        "53"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "50"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO12a_c1.json",
+        "outcome uid": "551d3958",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Remission (follow up: range 6 months to 1.5 years; assessed with: DAS 44 <1.4 and DAS28 ESR <2.6)",
+        "paper_data": {
+            "2671be0a": {
+                "label_intervention_data": {
+                    "total": [
+                        "53"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "50"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO12a_c1.json",
+        "outcome uid": "7ca16a69",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Remission (follow up: range 6 months to 1.5 years; assessed with: DAS 44 <1.4 and DAS28 ESR <2.6)",
+        "paper_data": {
+            "6e1cd0bc": {
+                "label_intervention_data": {
+                    "event": [
+                        "2",
+                        "9.5%"
+                    ],
+                    "total": [
+                        "21"
+                    ],
+                    "no_event": [
+                        "19"
+                    ]
+                },
+                "label_comparator_data": {
+                    "event": [
+                        "1",
+                        "4.5%"
+                    ],
+                    "total": [
+                        "22"
+                    ],
+                    "no_event": [
+                        "21"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO12a_c1.json",
+        "outcome uid": "a90d73a8",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Remission (follow up: range 6 months to 1.5 years; assessed with: DAS 44 <1.4 and DAS28 ESR <2.6)",
+        "paper_data": {
+            "4b539132": {
+                "label_intervention_data": {
+                    "event": [
+                        "4",
+                        "2.7%"
+                    ],
+                    "total": [
+                        "149"
+                    ],
+                    "no_event": [
+                        "145"
+                    ]
+                },
+                "label_comparator_data": {
+                    "event": [
+                        "0",
+                        "0.0%"
+                    ],
+                    "total": [
+                        "140"
+                    ],
+                    "no_event": [
+                        "140"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO12a_c1.json",
+        "outcome uid": "ef58beaf",
+        "intervention": "T2T strategy",
+        "comparator": "usual care",
+        "outcome": "Remission (follow up: range 6 months to 1.5 years; assessed with: DAS 44 <1.4 and DAS28 ESR <2.6)",
+        "paper_data": {
+            "2671be0a": {
+                "label_intervention_data": {
+                    "event": [
+                        "1",
+                        "1.8%"
+                    ],
+                    "total": [
+                        "55"
+                    ],
+                    "no_event": [
+                        "54"
+                    ]
+                },
+                "label_comparator_data": {
+                    "event": [
+                        "3",
+                        "5.5%"
+                    ],
+                    "total": [
+                        "55"
+                    ],
+                    "no_event": [
+                        "52"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA who have not been previously treated with boDMARD and tsDAMRD",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO52_c1.json",
+        "outcome uid": "45ead543",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "abruptly withdraw DMARDs",
+        "outcome": "Disease activity (follow up: range 9 months to 12 months; assessed with: DAS28-ESR)",
+        "paper_data": {
+            "4e39bd02": {
+                "label_intervention_data": {
+                    "total": [
+                        "63"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "65"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO52_c1.json",
+        "outcome uid": "b3a0e27f",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "abruptly withdraw DMARDs",
+        "outcome": "Disease activity (follow up: range 9 months to 12 months; assessed with: DAS28-ESR)",
+        "paper_data": {
+            "4e39bd02": {
+                "label_intervention_data": {
+                    "total": [
+                        "63"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "65"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO52_c1.json",
+        "outcome uid": "eb136673",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "abruptly withdraw DMARDs",
+        "outcome": "Disease activity (follow up: range 9 months to 12 months; assessed with: DAS28-ESR)",
+        "paper_data": {
+            "d783a7f7": {
+                "label_intervention_data": {
+                    "total": [
+                        "201"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "197"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO52_c1.json",
+        "outcome uid": "08ee8250",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "abruptly withdraw DMARDs",
+        "outcome": "Disease activity (follow up: range 9 months to 12 months; assessed with: DAS28-ESR)",
+        "paper_data": {
+            "d783a7f7": {
+                "label_intervention_data": {
+                    "total": [
+                        "201"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "197"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO52_c1.json",
+        "outcome uid": "c0dc5d1a",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "abruptly withdraw DMARDs",
+        "outcome": "Disease activity (follow up: range 9 months to 12 months; assessed with: DAS28-ESR)",
+        "paper_data": {
+            "d783a7f7": {
+                "label_intervention_data": {
+                    "event": [
+                        "0",
+                        "0.0%"
+                    ],
+                    "total": [
+                        "202"
+                    ],
+                    "no_event": [
+                        "202"
+                    ]
+                },
+                "label_comparator_data": {
+                    "event": [
+                        "0",
+                        "0.0%"
+                    ],
+                    "total": [
+                        "200"
+                    ],
+                    "no_event": [
+                        "200"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO52_c2.json",
+        "outcome uid": "4cb7900f",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Continue DMARDs at same doses",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: DAS28-ESR)",
+        "paper_data": {
+            "d783a7f7": {
+                "label_comparator_data": {
+                    "total": [
+                        "200"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "201"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO52_c2.json",
+        "outcome uid": "eaee869b",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Continue DMARDs at same doses",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: DAS28-ESR)",
+        "paper_data": {
+            "d783a7f7": {
+                "label_comparator_data": {
+                    "total": [
+                        "184"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "184"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO52_c2.json",
+        "outcome uid": "0ae636e1",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Continue DMARDs at same doses",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: DAS28-ESR)",
+        "paper_data": {
+            "48d24eba": {
+                "label_comparator_data": {
+                    "total": [
+                        "201"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "201"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO52_c2.json",
+        "outcome uid": "5654b196",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Continue DMARDs at same doses",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: DAS28-ESR)",
+        "paper_data": {
+            "d783a7f7": {
+                "label_comparator_data": {
+                    "total": [
+                        "200"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "201"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO52_c2.json",
+        "outcome uid": "0773dbf8",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "Continue DMARDs at same doses",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: DAS28-ESR)",
+        "paper_data": {
+            "d783a7f7": {
+                "label_comparator_data": {
+                    "total": [
+                        "201"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "201"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on DMARDs who are in low disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO21a_c1.json",
+        "outcome uid": "d1319106",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Disease activity (follow up: range 4 months to 2 years; assessed with: ACR 20)",
+        "paper_data": {
+            "d76da5a9": {
+                "label_intervention_data": {
+                    "total": [
+                        "276"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "277"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO21a_c1.json",
+        "outcome uid": "1427b701",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Disease activity (follow up: range 4 months to 2 years; assessed with: ACR 20)",
+        "paper_data": {
+            "83353996": {
+                "label_intervention_data": {
+                    "total": [
+                        "384"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "762"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO21a_c1.json",
+        "outcome uid": "f1ccf0e0",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Disease activity (follow up: range 4 months to 2 years; assessed with: ACR 20)",
+        "paper_data": {
+            "83353996": {
+                "label_intervention_data": {
+                    "total": [
+                        "384"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "762"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO21a_c1.json",
+        "outcome uid": "3172e5ba",
+        "intervention": "Switch to another DMARD",
+        "comparator": "Add another DMARD",
+        "outcome": "Disease activity (follow up: range 4 months to 2 years; assessed with: ACR 20)",
+        "paper_data": {
+            "83353996": {
+                "label_intervention_data": {
+                    "total": [
+                        "384"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "762"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on non-biologic DMARD(s) who are not at target",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO53_c1.json",
+        "outcome uid": "24130573",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "abruptly withdraw DMARDs",
+        "outcome": "Disease activity (follow up: 9 months; assessed with: ACR 20)",
+        "paper_data": {
+            "0570bda2": {
+                "label_intervention_data": {
+                    "total": [
+                        "63"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "65"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on DMARDs in remission",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO53_c1.json",
+        "outcome uid": "bc6321b5",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "abruptly withdraw DMARDs",
+        "outcome": "Disease activity (follow up: 9 months; assessed with: ACR 20)",
+        "paper_data": {
+            "0570bda2": {
+                "label_intervention_data": {
+                    "total": [
+                        "63"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "65"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on DMARDs in remission",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO53_c1.json",
+        "outcome uid": "7d800e7a",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "abruptly withdraw DMARDs",
+        "outcome": "Disease activity (follow up: 9 months; assessed with: ACR 20)",
+        "paper_data": {
+            "4e39bd02": {
+                "label_intervention_data": {
+                    "total": [
+                        "63"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "65"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on DMARDs in remission",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO53_c1.json",
+        "outcome uid": "21da4e90",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "abruptly withdraw DMARDs",
+        "outcome": "Disease activity (follow up: 9 months; assessed with: ACR 20)",
+        "paper_data": {
+            "4e39bd02": {
+                "label_intervention_data": {
+                    "total": [
+                        "63"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "65"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on DMARDs in remission",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO53_c1.json",
+        "outcome uid": "cdaead90",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "abruptly withdraw DMARDs",
+        "outcome": "Disease activity (follow up: 9 months; assessed with: ACR 20)",
+        "paper_data": {
+            "4e39bd02": {
+                "label_intervention_data": {
+                    "total": [
+                        "63"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "65"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on DMARDs in remission",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO53_c1.json",
+        "outcome uid": "57cf7c47",
+        "intervention": "Taper off DMARDs (as long as the patient remains on at least one DMARD)",
+        "comparator": "abruptly withdraw DMARDs",
+        "outcome": "Disease activity (follow up: 9 months; assessed with: ACR 20)",
+        "paper_data": {
+            "0570bda2": {
+                "label_intervention_data": {
+                    "event": [
+                        "3",
+                        "4.8%"
+                    ],
+                    "total": [
+                        "63"
+                    ],
+                    "no_event": [
+                        "60"
+                    ]
+                },
+                "label_comparator_data": {
+                    "event": [
+                        "2",
+                        "3.1%"
+                    ],
+                    "total": [
+                        "65"
+                    ],
+                    "no_event": [
+                        "63"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on DMARDs in remission",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO54b_c1.json",
+        "outcome uid": "918aa04b",
+        "intervention": "Withdraw one DMARD (or more than one DMARD as long as the patient remains on at least one DMARD)",
+        "comparator": "continue current therapy",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "3ca3e366": {
+                "label_intervention_data": {
+                    "total": [
+                        "64"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "73"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on two or more DMARDs at target for six months and longer",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO54b_c1.json",
+        "outcome uid": "832b89f9",
+        "intervention": "Withdraw one DMARD (or more than one DMARD as long as the patient remains on at least one DMARD)",
+        "comparator": "continue current therapy",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "3ca3e366": {
+                "label_intervention_data": {
+                    "total": [
+                        "64"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "73"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on two or more DMARDs at target for six months and longer",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO59_c2.json",
+        "outcome uid": "c1ea71ee",
+        "intervention": "Withdraw (taper off or abruptly stop) MTX",
+        "comparator": "Continue same management",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "fab0cce3": {
+                "label_comparator_data": {
+                    "total": [
+                        "82"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "82"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO59_c2.json",
+        "outcome uid": "62de13cd",
+        "intervention": "Withdraw (taper off or abruptly stop) MTX",
+        "comparator": "Continue same management",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "fab0cce3": {
+                "label_comparator_data": {
+                    "total": [
+                        "82"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "82"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO59_c2.json",
+        "outcome uid": "e3029d33",
+        "intervention": "Withdraw (taper off or abruptly stop) MTX",
+        "comparator": "Continue same management",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "fab0cce3": {
+                "label_comparator_data": {
+                    "total": [
+                        "82"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "82"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO59_c2.json",
+        "outcome uid": "38450c06",
+        "intervention": "Withdraw (taper off or abruptly stop) MTX",
+        "comparator": "Continue same management",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "fab0cce3": {
+                "label_comparator_data": {
+                    "event": [
+                        "1",
+                        "1.2%"
+                    ],
+                    "total": [
+                        "83"
+                    ],
+                    "no_event": [
+                        "82"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "4",
+                        "4.9%"
+                    ],
+                    "total": [
+                        "82"
+                    ],
+                    "no_event": [
+                        "78"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO59_c2.json",
+        "outcome uid": "1cc42739",
+        "intervention": "Withdraw (taper off or abruptly stop) MTX",
+        "comparator": "Continue same management",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "fab0cce3": {
+                "label_comparator_data": {
+                    "event": [
+                        "0",
+                        "0.0%"
+                    ],
+                    "total": [
+                        "83"
+                    ],
+                    "no_event": [
+                        "83"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "1",
+                        "1.2%"
+                    ],
+                    "total": [
+                        "82"
+                    ],
+                    "no_event": [
+                        "81"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO59_c2.json",
+        "outcome uid": "a5c515ab",
+        "intervention": "Withdraw (taper off or abruptly stop) MTX",
+        "comparator": "Continue same management",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "fab0cce3": {
+                "label_comparator_data": {
+                    "event": [
+                        "3",
+                        "3.6%"
+                    ],
+                    "total": [
+                        "83"
+                    ],
+                    "no_event": [
+                        "80"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "1",
+                        "1.2%"
+                    ],
+                    "total": [
+                        "82"
+                    ],
+                    "no_event": [
+                        "81"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO59_c2.json",
+        "outcome uid": "f1bceaf4",
+        "intervention": "Withdraw (taper off or abruptly stop) MTX",
+        "comparator": "Continue same management",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "fab0cce3": {
+                "label_comparator_data": {
+                    "event": [
+                        "0",
+                        "0.0%"
+                    ],
+                    "total": [
+                        "83"
+                    ],
+                    "no_event": [
+                        "83"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "0",
+                        "0.0%"
+                    ],
+                    "total": [
+                        "82"
+                    ],
+                    "no_event": [
+                        "82"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on MTX + boDMARD or MTX + tsDMARD who are at target",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO62_c1.json",
+        "outcome uid": "360a8cc9",
+        "intervention": "Continue the same dose of the boDMARD or tsDMARD",
+        "comparator": "lower the dose of the boDMARD or tsDMARD",
+        "outcome": "Disease activity (follow up: range 6 months to 12 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "d2d2cd6c": {
+                "label_intervention_data": {
+                    "event": [
+                        "3",
+                        "15.8%"
+                    ],
+                    "total": [
+                        "19"
+                    ],
+                    "no_event": [
+                        "16"
+                    ]
+                },
+                "label_comparator_data": {
+                    "event": [
+                        "4",
+                        "14.3%"
+                    ],
+                    "total": [
+                        "28"
+                    ],
+                    "no_event": [
+                        "24"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO62_c1.json",
+        "outcome uid": "91aa1e42",
+        "intervention": "Continue the same dose of the boDMARD or tsDMARD",
+        "comparator": "lower the dose of the boDMARD or tsDMARD",
+        "outcome": "Disease activity (follow up: range 6 months to 12 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "d783a7f7": {
+                "label_intervention_data": {
+                    "event": [
+                        "2",
+                        "1.0%"
+                    ],
+                    "total": [
+                        "202"
+                    ],
+                    "no_event": [
+                        "200"
+                    ]
+                },
+                "label_comparator_data": {
+                    "event": [
+                        "4",
+                        "2.0%"
+                    ],
+                    "total": [
+                        "202"
+                    ],
+                    "no_event": [
+                        "198"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO62_c1.json",
+        "outcome uid": "ef69f0d0",
+        "intervention": "Continue the same dose of the boDMARD or tsDMARD",
+        "comparator": "lower the dose of the boDMARD or tsDMARD",
+        "outcome": "Disease activity (follow up: range 6 months to 12 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "d783a7f7": {
+                "label_intervention_data": {
+                    "event": [
+                        "2",
+                        "1.0%"
+                    ],
+                    "total": [
+                        "202"
+                    ],
+                    "no_event": [
+                        "200"
+                    ]
+                },
+                "label_comparator_data": {
+                    "event": [
+                        "0",
+                        "0.0%"
+                    ],
+                    "total": [
+                        "202"
+                    ],
+                    "no_event": [
+                        "202"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO62_c2.json",
+        "outcome uid": "2a38443d",
+        "intervention": "Continue the same dose of the boDMARD or tsDMARD",
+        "comparator": "increase the interval between the doses of the boDMARD or tsDMARD",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "3ca3e366": {
+                "label_intervention_data": {
+                    "total": [
+                        "73"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "64"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO62_c2.json",
+        "outcome uid": "882b0910",
+        "intervention": "Continue the same dose of the boDMARD or tsDMARD",
+        "comparator": "increase the interval between the doses of the boDMARD or tsDMARD",
+        "outcome": "Disease activity (follow up: 3 months; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "3ca3e366": {
+                "label_intervention_data": {
+                    "total": [
+                        "73"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "64"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on MTX + boDMARD or tsDMARD who are at target",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO9_c1.json",
+        "outcome uid": "9a3ef06c",
+        "intervention": "Oral MTX",
+        "comparator": "SC MTX",
+        "outcome": "Disease Activity (follow up: 4 months; assessed with: ACR 20)",
+        "paper_data": {
+            "5efdfbb8": {
+                "label_comparator_data": {
+                    "event": [
+                        "160",
+                        "85.1%"
+                    ],
+                    "total": [
+                        "188"
+                    ],
+                    "no_event": [
+                        "28"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "144",
+                        "77.0%"
+                    ],
+                    "total": [
+                        "187"
+                    ],
+                    "no_event": [
+                        "43"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA initiating MTX",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO54a_c1.json",
+        "outcome uid": "f2733cca",
+        "intervention": "Withdraw one DMARD (or more than one DMARD as long as the patient remains on at least one DMARD)",
+        "comparator": "continue current therapy",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: DAS28-ESR (Lower values \u2013 > benefit) (MCID -1.17)",
+        "paper_data": {
+            "d783a7f7": {
+                "label_intervention_data": {
+                    "total": [
+                        "398"
+                    ]
+                },
+                "label_comparator_data": {
+                    "total": [
+                        "201"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with RA on two or more DMARDs at target for less than six months",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO6a_c1.json",
+        "outcome uid": "c4d70f94",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor + MTX",
+        "outcome": "Disease activity (follow up: range 6 months to 1 year; assessed with: ACR 20)",
+        "paper_data": {
+            "d354991c": {
+                "label_comparator_data": {
+                    "total": [
+                        "55"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "55"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO6a_c1.json",
+        "outcome uid": "e40be137",
+        "intervention": "MTX monotherapy",
+        "comparator": "TNF Inhibitor + MTX",
+        "outcome": "Disease activity (follow up: range 6 months to 1 year; assessed with: ACR 20)",
+        "paper_data": {
+            "d354991c": {
+                "label_comparator_data": {
+                    "total": [
+                        "55"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "55"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO5a_c2.json",
+        "outcome uid": "c332fbab",
+        "intervention": "MTX monotherapy",
+        "comparator": "Abatacept",
+        "outcome": "Remission (follow up: 1 year; assessed with: DAS28 - CRP < 2.6)",
+        "paper_data": {
+            "2a7a858b": {
+                "label_comparator_data": {
+                    "event": [
+                        "48",
+                        "42.5%"
+                    ],
+                    "total": [
+                        "113"
+                    ],
+                    "no_event": [
+                        "65"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "52",
+                        "45.2%"
+                    ],
+                    "total": [
+                        "115"
+                    ],
+                    "no_event": [
+                        "63"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO5a_c2.json",
+        "outcome uid": "25ad7b5e",
+        "intervention": "MTX monotherapy",
+        "comparator": "Abatacept",
+        "outcome": "Remission (follow up: 1 year; assessed with: DAS28 - CRP < 2.6)",
+        "paper_data": {
+            "2a7a858b": {
+                "label_comparator_data": {
+                    "event": [
+                        "14",
+                        "12.1%"
+                    ],
+                    "total": [
+                        "116"
+                    ],
+                    "no_event": [
+                        "102"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "9",
+                        "7.8%"
+                    ],
+                    "total": [
+                        "116"
+                    ],
+                    "no_event": [
+                        "107"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO5a_c2.json",
+        "outcome uid": "614a8019",
+        "intervention": "MTX monotherapy",
+        "comparator": "Abatacept",
+        "outcome": "Remission (follow up: 1 year; assessed with: DAS28 - CRP < 2.6)",
+        "paper_data": {
+            "2a7a858b": {
+                "label_comparator_data": {
+                    "event": [
+                        "0",
+                        "0.0%"
+                    ],
+                    "total": [
+                        "116"
+                    ],
+                    "no_event": [
+                        "116"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "0",
+                        "0.0%"
+                    ],
+                    "total": [
+                        "116"
+                    ],
+                    "no_event": [
+                        "116"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO5a_c2.json",
+        "outcome uid": "0957c585",
+        "intervention": "MTX monotherapy",
+        "comparator": "Abatacept",
+        "outcome": "Remission (follow up: 1 year; assessed with: DAS28 - CRP < 2.6)",
+        "paper_data": {
+            "2a7a858b": {
+                "label_comparator_data": {
+                    "event": [
+                        "2",
+                        "1.7%"
+                    ],
+                    "total": [
+                        "116"
+                    ],
+                    "no_event": [
+                        "114"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "1",
+                        "0.9%"
+                    ],
+                    "total": [
+                        "116"
+                    ],
+                    "no_event": [
+                        "115"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs na\u00efve RA and moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO6b_c4.json",
+        "outcome uid": "a34e9db8",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor + MTX",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 20)",
+        "paper_data": {
+            "5fc10a78": {
+                "label_comparator_data": {
+                    "total": [
+                        "578  "
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "287  "
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO6b_c4.json",
+        "outcome uid": "b9d289d8",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor + MTX",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 20)",
+        "paper_data": {
+            "5fc10a78": {
+                "label_comparator_data": {
+                    "event": [
+                        "240",
+                        "41.5%"
+                    ],
+                    "total": [
+                        "578"
+                    ],
+                    "no_event": [
+                        "338"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "56",
+                        "19.5%"
+                    ],
+                    "total": [
+                        "287"
+                    ],
+                    "no_event": [
+                        "231"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO6b_c4.json",
+        "outcome uid": "775dc934",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor + MTX",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 20)",
+        "paper_data": {
+            "5fc10a78": {
+                "label_comparator_data": {
+                    "event": [
+                        "94",
+                        "16.2%"
+                    ],
+                    "total": [
+                        "579"
+                    ],
+                    "no_event": [
+                        "485"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "21",
+                        "7.4%"
+                    ],
+                    "total": [
+                        "282"
+                    ],
+                    "no_event": [
+                        "261"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO6b_c4.json",
+        "outcome uid": "2630e361",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor + MTX",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 20)",
+        "paper_data": {
+            "5fc10a78": {
+                "label_comparator_data": {
+                    "event": [
+                        "60",
+                        "10.4%"
+                    ],
+                    "total": [
+                        "579"
+                    ],
+                    "no_event": [
+                        "519"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "24",
+                        "8.5%"
+                    ],
+                    "total": [
+                        "282"
+                    ],
+                    "no_event": [
+                        "258"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO6b_c4.json",
+        "outcome uid": "0231d62a",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor + MTX",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 20)",
+        "paper_data": {
+            "5fc10a78": {
+                "label_comparator_data": {
+                    "event": [
+                        "5",
+                        "0.9%"
+                    ],
+                    "total": [
+                        "579"
+                    ],
+                    "no_event": [
+                        "574"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "3",
+                        "1.1%"
+                    ],
+                    "total": [
+                        "282"
+                    ],
+                    "no_event": [
+                        "279"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO6b_c4.json",
+        "outcome uid": "85f7287f",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor + MTX",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 20)",
+        "paper_data": {
+            "5fc10a78": {
+                "label_comparator_data": {
+                    "event": [
+                        "4",
+                        "0.7%"
+                    ],
+                    "total": [
+                        "579"
+                    ],
+                    "no_event": [
+                        "575"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "0",
+                        "0.0%"
+                    ],
+                    "total": [
+                        "282"
+                    ],
+                    "no_event": [
+                        "282"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO6b_c4.json",
+        "outcome uid": "2aeec28e",
+        "intervention": "MTX monotherapy",
+        "comparator": "IL-6 Receptor Inhibitor + MTX",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 20)",
+        "paper_data": {
+            "5fc10a78": {
+                "label_comparator_data": {
+                    "event": [
+                        "6",
+                        "1.0%"
+                    ],
+                    "total": [
+                        "579"
+                    ],
+                    "no_event": [
+                        "573"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "2",
+                        "0.7%"
+                    ],
+                    "total": [
+                        "282"
+                    ],
+                    "no_event": [
+                        "280"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO6b_c2.json",
+        "outcome uid": "35a89a7b",
+        "intervention": "MTX monotherapy",
+        "comparator": "Abatacept + MTX",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 70)",
+        "paper_data": {
+            "e4903996": {
+                "label_comparator_data": {
+                    "total": [
+                        "256"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "253"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO6b_c2.json",
+        "outcome uid": "14bf9a60",
+        "intervention": "MTX monotherapy",
+        "comparator": "Abatacept + MTX",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 70)",
+        "paper_data": {
+            "e4903996": {
+                "label_comparator_data": {
+                    "total": [
+                        "256"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "253"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO6b_c2.json",
+        "outcome uid": "9b32715a",
+        "intervention": "MTX monotherapy",
+        "comparator": "Abatacept + MTX",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 70)",
+        "paper_data": {
+            "e4903996": {
+                "label_comparator_data": {
+                    "total": [
+                        "256"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "253"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO6b_c2.json",
+        "outcome uid": "dbacab53",
+        "intervention": "MTX monotherapy",
+        "comparator": "Abatacept + MTX",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 70)",
+        "paper_data": {
+            "e4903996": {
+                "label_comparator_data": {
+                    "total": [
+                        "256"
+                    ]
+                },
+                "label_intervention_data": {
+                    "total": [
+                        "253"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "outcome_type": "Continuous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO6b_c2.json",
+        "outcome uid": "10cdb697",
+        "intervention": "MTX monotherapy",
+        "comparator": "Abatacept + MTX",
+        "outcome": "Disease activity (follow up: 1 year; assessed with: ACR 70)",
+        "paper_data": {
+            "e4903996": {
+                "label_comparator_data": {
+                    "event": [
+                        "20",
+                        "7.8%"
+                    ],
+                    "total": [
+                        "256"
+                    ],
+                    "no_event": [
+                        "236"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "20",
+                        "7.9%"
+                    ],
+                    "total": [
+                        "253"
+                    ],
+                    "no_event": [
+                        "233"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with MTX-na\u00efve and non-MTX csDMARDs exposed RA and moderate to high disease activity",
+        "outcome_type": "Dichotomous Data"
+    }
+]

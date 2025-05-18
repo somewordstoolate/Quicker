@@ -1,0 +1,1154 @@
+[
+    {
+        "file": "outcomeinfo_PICO4a.json",
+        "outcome uid": "c463b84c",
+        "intervention": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "comparator": " No pharmacological treatment ",
+        "outcome": "Mortality",
+        "paper_data": {
+            "50df60b4": {
+                "label_comparator_data": {
+                    "raw_data": "3.3% (placebo)"
+                },
+                "label_intervention_data": {
+                    "raw_data": "5.1% (quetiapine 200 mg/day), 7.3% (queti- apine 100 mg/day)"
+                }
+            },
+            "0643f463": {
+                "label_comparator_data": {
+                    "event": [
+                        "3"
+                    ],
+                    "total": [
+                        "142"
+                    ],
+                    "no_event": [
+                        "139"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "5"
+                    ],
+                    "total": [
+                        "279"
+                    ],
+                    "no_event": [
+                        "274"
+                    ]
+                }
+            },
+            "44c2f905": {
+                "label_comparator_data": {
+                    "event": [
+                        "0"
+                    ],
+                    "total": [
+                        "31"
+                    ],
+                    "no_event": [
+                        "31"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "1"
+                    ],
+                    "total": [
+                        "31"
+                    ],
+                    "no_event": [
+                        "30"
+                    ]
+                }
+            },
+            "d21566cc": {
+                "label_comparator_data": {
+                    "event": [
+                        "4"
+                    ],
+                    "total": [
+                        "170"
+                    ],
+                    "no_event": [
+                        "166"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "6"
+                    ],
+                    "total": [
+                        "167"
+                    ],
+                    "no_event": [
+                        "161"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with dementia and agitation/aggressive behavior ",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO4a.json",
+        "outcome uid": "e0b56f32",
+        "intervention": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "comparator": " No pharmacological treatment ",
+        "outcome": "Agitation/aggression",
+        "data_type": "Continuous Data",
+        "paper_data": {
+            "50df60b4": {
+                "total": 2,
+                "corrected": 0,
+                "label_comparator_data": "-2.5 (SD 0.9)",
+                "pred1_comparator_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "73",
+                        "Insufficient evidence to draw a conclusion",
+                        "92",
+                        "47"
+                    ],
+                    "mean": [
+                        "Insufficient evidence to draw a conclusion",
+                        "19.4 (SD 9.9)"
+                    ]
+                },
+                "label_intervention_data": "Intervention 1: - 2.5 (0.9); intervention 2: -1.8 (0.8)",
+                "pred1_intervention_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "114",
+                        "120",
+                        "333",
+                        "234",
+                        "Insufficient evidence to draw a conclusion"
+                    ],
+                    "mean": [
+                        "Quetiapine 200 mg/day: Baseline mean=18.4 (SD=8.4)",
+                        "Quetiapine 200 mg/day: Baseline mean = 18.4, SD = 8.4",
+                        "Quetiapine 100 mg/day: Baseline mean=18.3 (SD=8.2)",
+                        "Quetiapine 100 mg/day: Baseline mean = 18.3, SD = 8.2",
+                        "Placebo: Baseline mean = 19.4, SD = 9.9",
+                        "Quetiapine 100 mg/day: Baseline mean = 18.3 (SD 8.2)",
+                        "Quetiapine 200 mg/day: Baseline mean = 18.4 (SD 8.4)",
+                        "Placebo: Baseline mean = 19.4 (SD 9.9)",
+                        "Placebo: Baseline mean=19.4 (SD=9.9)",
+                        "Insufficient evidence to draw a conclusion"
+                    ]
+                }
+            },
+            "f5076959": {
+                "total": 2,
+                "corrected": 0,
+                "label_comparator_data": "-2.1 (SD 4.6)",
+                "pred1_comparator_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "52",
+                        "50",
+                        "Insufficient evidence to draw a conclusion"
+                    ],
+                    "mean": [
+                        "3.7\u00b110",
+                        "Insufficient evidence to draw a conclusion"
+                    ]
+                },
+                "label_intervention_data": "Intervention 1: -4.1 (3.7) Intervention 2: -3.9 (4.2) Intervention 3: -3.1 (4.1) ",
+                "pred1_intervention_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "159",
+                        "Insufficient evidence to draw a conclusion",
+                        "206"
+                    ],
+                    "mean": [
+                        "Insufficient evidence to draw a conclusion for aripiprazole, zoleptil, quetiapine, and clozapine",
+                        "7.6 \u00b1 7.7 for olanzapine 5 mg/d",
+                        "7.6 \u00b1 7.7 (5 mg/d olanzapine)",
+                        "Aggression scores significantly improved for risperidone, but specific values are not provided.",
+                        "3.7 \u00b1 10.0 (placebo)",
+                        "Insufficient evidence to draw a conclusion"
+                    ]
+                }
+            },
+            "44c2f905": {
+                "total": 2,
+                "corrected": 1,
+                "label_comparator_data": "-9.0 (16.5)",
+                "pred1_comparator_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "20\u201321",
+                        "21",
+                        "Insufficient evidence to draw a conclusion"
+                    ],
+                    "mean": [
+                        "At 6 weeks: Mean change = +6.2, SD = 17.6",
+                        "At 26 weeks: Mean change = -9.0, SD = 16.5",
+                        "Insufficient evidence to draw a conclusion"
+                    ]
+                },
+                "label_intervention_data": "-8.1 (12.7)",
+                "pred1_intervention_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "20\u201321",
+                        "Insufficient evidence to draw a conclusion"
+                    ],
+                    "mean": [
+                        "Insufficient evidence to draw a conclusion"
+                    ]
+                }
+            },
+            "d21566cc": {
+                "total": 2,
+                "corrected": 0,
+                "label_comparator_data": "-3.1",
+                "pred1_comparator_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "72, 79",
+                        "167",
+                        "27",
+                        "72",
+                        "79",
+                        "Insufficient evidence to draw a conclusion"
+                    ],
+                    "mean": [
+                        "Insufficient evidence to draw a conclusion"
+                    ]
+                },
+                "label_intervention_data": "-7.5",
+                "pred1_intervention_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "72, 81, 87",
+                        "39",
+                        "Insufficient evidence to draw a conclusion"
+                    ],
+                    "mean": [
+                        "Insufficient evidence to draw a conclusion"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "file": "outcomeinfo_PICO4a.json",
+        "outcome uid": "9fbb3c56",
+        "intervention": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "comparator": " No pharmacological treatment ",
+        "outcome": "Global cognitive function",
+        "data_type": "Continuous Data",
+        "paper_data": {
+            "f5076959": {
+                "label_comparator_data": "-0.3 (2.2) ",
+                "pred1_comparator_data": {
+                    "data_type": "Not Applicable"
+                },
+                "label_intervention_data": "Intervention 1: -0.5 (3.3); Intervention 2: -1 (3.1); Intervention 3: -0.3 (2.2) ",
+                "pred1_intervention_data": {
+                    "data_type": "Not Applicable"
+                }
+            },
+            "c6e3bcaf": {
+                "total": 2,
+                "corrected": 0,
+                "label_comparator_data": "-0.7 (2.7) ",
+                "pred1_comparator_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "Insufficient evidence to draw a conclusion"
+                    ],
+                    "mean": [
+                        "Insufficient evidence to draw a conclusion"
+                    ]
+                },
+                "label_intervention_data": "Intervention 1: -0.1 (3.7); Intervention 2: -0.8 (3.8); Intervention 3: -0.8 (3.2)",
+                "pred1_intervention_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "421",
+                        "Insufficient evidence to draw a conclusion"
+                    ],
+                    "mean": [
+                        "Insufficient evidence to draw a conclusion"
+                    ]
+                }
+            },
+            "44c2f905": {
+                "total": 2,
+                "corrected": 2,
+                "label_comparator_data": "3.3 (17.4) ",
+                "pred1_comparator_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "20-21",
+                        "18",
+                        "19",
+                        "20\u201321",
+                        "21",
+                        "Insufficient evidence to draw a conclusion"
+                    ],
+                    "mean": [
+                        "Mean change = +3.3 (SD 17.4, n=19) at 26 weeks",
+                        "Mean change = +3.2 (SD 15.1, n=18) at 6 weeks",
+                        "Mean change at 6 weeks: 3.2, SD: 15.1",
+                        "Insufficient evidence to draw a conclusion",
+                        "Mean change at 26 weeks: 3.3, SD: 17.4"
+                    ]
+                },
+                "label_intervention_data": "-11.3 (15.6)",
+                "pred1_intervention_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "Insufficient evidence to draw a conclusion",
+                        "61"
+                    ],
+                    "mean": [
+                        "Quetiapine: Mean change = -11.3 (SD 15.6) at 26 weeks",
+                        "Quetiapine: Mean change = -10.5 (SD 14.8) at 6 weeks",
+                        "Quetiapine: -11.3 (SD 15.6) at 26 weeks",
+                        "Insufficient evidence to draw a conclusion for aripiprazole, zoleptil, olanzapine, risperidone, or clozapine",
+                        "Quetiapine: -10.5 (SD 14.8) at 6 weeks; -11.3 (SD 15.6) at 26 weeks",
+                        "Insufficient evidence to draw a conclusion for other interventions (aripiprazole, zoleptil, olanzapine, risperidone, clozapine)",
+                        "Quetiapine 6 weeks: -10.5 (SD 14.8)",
+                        "Quetiapine: -10.5 (SD 14.8) at 6 weeks",
+                        "Quetiapine 26 weeks: -11.3 (SD 15.6)",
+                        "Insufficient evidence to draw a conclusion"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "file": "outcomeinfo_PICO4a.json",
+        "outcome uid": "5920def2",
+        "intervention": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "comparator": " No pharmacological treatment ",
+        "outcome": "SAEs",
+        "paper_data": {
+            "50df60b4": {
+                "label_comparator_data": {
+                    "event": [
+                        "9"
+                    ],
+                    "total": [
+                        "92"
+                    ],
+                    "no_event": [
+                        "83"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "21"
+                    ],
+                    "total": [
+                        "241"
+                    ],
+                    "no_event": [
+                        "220"
+                    ]
+                }
+            },
+            "baf84590": {
+                "label_comparator_data": {
+                    "event": [
+                        "2"
+                    ],
+                    "total": [
+                        "20"
+                    ],
+                    "no_event": [
+                        "18"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "2"
+                    ],
+                    "total": [
+                        "20"
+                    ],
+                    "no_event": [
+                        "18"
+                    ]
+                }
+            },
+            "0643f463": {
+                "label_comparator_data": {
+                    "event": [
+                        "19"
+                    ],
+                    "total": [
+                        "142"
+                    ],
+                    "no_event": [
+                        "123"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "40"
+                    ],
+                    "total": [
+                        "279"
+                    ],
+                    "no_event": [
+                        "239"
+                    ]
+                }
+            },
+            "d21566cc": {
+                "label_comparator_data": {
+                    "event": [
+                        "15"
+                    ],
+                    "total": [
+                        "170"
+                    ],
+                    "no_event": [
+                        "155"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "28"
+                    ],
+                    "total": [
+                        "167"
+                    ],
+                    "no_event": [
+                        "139"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with dementia and agitation/aggressive behavior ",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO4b.json",
+        "outcome uid": "b36ddbfc",
+        "intervention": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "comparator": "Haloperidol",
+        "outcome": "Mortality",
+        "paper_data": {
+            "2271541c": {
+                "label_comparator_data": {
+                    "event": [
+                        "0"
+                    ],
+                    "total": [
+                        "60"
+                    ],
+                    "no_event": [
+                        "60"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "0"
+                    ],
+                    "total": [
+                        "60"
+                    ],
+                    "no_event": [
+                        "60"
+                    ]
+                }
+            },
+            "793447a7": {
+                "label_comparator_data": {
+                    "event": [
+                        "0"
+                    ],
+                    "total": [
+                        "28"
+                    ],
+                    "no_event": [
+                        "28"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "0"
+                    ],
+                    "total": [
+                        "30"
+                    ],
+                    "no_event": [
+                        "30"
+                    ]
+                }
+            },
+            "8c317dba": {
+                "label_comparator_data": {
+                    "event": [
+                        "0"
+                    ],
+                    "total": [
+                        "29"
+                    ],
+                    "no_event": [
+                        "29"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "0"
+                    ],
+                    "total": [
+                        "29"
+                    ],
+                    "no_event": [
+                        "29"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with dementia and agitation/aggressive behavior ",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO4b.json",
+        "outcome uid": "19c9b59e",
+        "intervention": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "comparator": "Haloperidol",
+        "outcome": "Agitation/aggression",
+        "data_type": "Continuous Data",
+        "paper_data": {
+            "8c317dba": {
+                "total": 2,
+                "corrected": 2,
+                "label_comparator_data": "-10",
+                "pred1_comparator_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "28",
+                        "29"
+                    ],
+                    "mean": [
+                        "10.0",
+                        "Insufficient evidence to draw a conclusion",
+                        "36.34 \u00b1 10.4"
+                    ]
+                },
+                "label_intervention_data": "-8.1",
+                "pred1_intervention_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "29",
+                        "27"
+                    ],
+                    "mean": [
+                        "Haloperidol group: BEHAVE-AD aggressiveness score reduction = statistically significant (p < 0.011)",
+                        "Baseline CMAI: 48.94 \u00b1 14.5",
+                        "Insufficient evidence to draw a conclusion for aripiprazole, zoleptil, olanzapine, quetiapine, or clozapine",
+                        "Risperidone group: BEHAVE-AD aggressiveness score reduction = statistically significant (p < 0.019)",
+                        "Risperidone: 40.8 \u00b1 16.9",
+                        "Haloperidol group: CMAI total score reduction = 10.0 (p < 0.001)",
+                        "Endpoint Aggressiveness: 0.9 \u00b1 2.0",
+                        "Risperidone group: CMAI total score reduction = 8.1 (p < 0.002)",
+                        "Risperidone: CMAI Score (Endpoint) - 40.8 \u00b1 16.9",
+                        "Endpoint CMAI: 40.8 \u00b1 16.9",
+                        "Baseline Aggressiveness: 2.2 \u00b1 2.5",
+                        "Insufficient evidence to draw a conclusion",
+                        "Risperidone: Aggressiveness Score (Endpoint) - 0.9 \u00b1 2.0"
+                    ]
+                }
+            },
+            "64979d7f": {
+                "total": 2,
+                "corrected": 1,
+                "label_comparator_data": "-3.6",
+                "pred1_comparator_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "344",
+                        "81",
+                        "Insufficient evidence to draw a conclusion"
+                    ],
+                    "mean": [
+                        "Mean reduction in BEHAVE-AD total score at endpoint: -6.6",
+                        "BEHAVE-AD Aggressiveness Subscore: Haloperidol mean outcome value = -1.6",
+                        "CMAI Physical Aggression: Haloperidol mean outcome value = -2.3",
+                        "Insufficient evidence to draw a conclusion for standard deviation",
+                        "Insufficient evidence to draw a conclusion on standard deviation",
+                        "CMAI Verbal Aggression: Haloperidol mean outcome value = -1.0",
+                        "CMAI Verbal Aggression at Endpoint: -1.0",
+                        "CMAI Physical Aggression at Endpoint: -2.3",
+                        "Insufficient evidence to draw a conclusion",
+                        "BEHAVE-AD Aggressiveness Subscore at Endpoint: -1.6"
+                    ]
+                },
+                "label_intervention_data": "-8.3",
+                "pred1_intervention_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "115",
+                        "344",
+                        "68",
+                        "Insufficient evidence to draw a conclusion"
+                    ],
+                    "mean": [
+                        "Endpoint: Risperidone \u22125.2 (no SD), Haloperidol \u22126.6 (no SD), Placebo +4.2 (no SD)",
+                        "Endpoint (Physical Aggression): Risperidone 2.7 (no SD), Haloperidol \u22122.3 (no SD), Placebo \u22120.7 (no SD)",
+                        "Mean outcome value (aggression) for risperidone at endpoint: -1.7",
+                        "BEHAVE-AD total score reduction at endpoint: risperidone \u22125.2, haloperidol \u22126.6, placebo 4.2",
+                        "Physical aggression endpoint score: risperidone 2.7, haloperidol \u22122.3, placebo \u22120.7",
+                        "BEHAVE-AD aggressiveness score reduction at endpoint: risperidone 34%, placebo 16%",
+                        "Week 12 (Physical Aggression): Risperidone \u22125.9 (no SD), Placebo \u22123.5 (no SD)",
+                        "CMAI physical aggression score reduction at endpoint: risperidone 34%, placebo 8%",
+                        "Mean outcome value (aggression) for risperidone at week 12: -2.9",
+                        "BEHAVE-AD Total Scores at endpoint: Risperidone \u22125.2, Placebo +4.2",
+                        "BEHAVE-AD Total Scores at week 12: Risperidone \u22128.6, Placebo \u22126.2",
+                        "Physical Aggression Scores at week 12: Risperidone \u22125.9, Placebo \u22123.5",
+                        "Risperidone: -8.3 (CMAI Total Aggression at week 12)",
+                        "CMAI Total Aggression Scores at week 12: Risperidone \u22128.3, Placebo \u22124.9",
+                        "Endpoint (Aggressiveness Subscore): Risperidone \u22121.7 (no SD), Haloperidol \u22121.6 (no SD), Placebo \u22120.8 (no SD)",
+                        "CMAI total aggressiveness score reduction at endpoint: risperidone 34%, placebo 12%",
+                        "Endpoint (Verbal Aggression): Risperidone \u22121.0 (no SD), Haloperidol \u22121.0 (no SD), Placebo \u22120.8 (no SD)",
+                        "Week 12: Risperidone \u22128.6 (no SD), Placebo \u22126.2 (no SD)",
+                        "BEHAVE-AD Aggressiveness Subscores at endpoint: Risperidone \u22121.7, Placebo \u22120.8",
+                        "Risperidone: -5.2 (BEHAVE-AD Total Scores at endpoint)",
+                        "Week 12 (Total Aggression): Risperidone \u22128.3 (no SD), Placebo \u22124.9 (no SD)",
+                        "Insufficient evidence to draw a conclusion",
+                        "CMAI verbal aggression score reduction at endpoint: risperidone 32%, placebo 17%",
+                        "Week 12 (Aggressiveness Subscore): Risperidone \u22122.9 (no SD), Placebo \u22121.5 (no SD)",
+                        "Risperidone: -1.7 (BEHAVE-AD Aggressiveness Subscore at endpoint)",
+                        "Verbal Aggression Scores at endpoint: Risperidone \u22121.0, Placebo \u22120.8",
+                        "Standard deviation: Insufficient evidence to draw a conclusion"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "file": "outcomeinfo_PICO4b.json",
+        "outcome uid": "9394e2f2",
+        "intervention": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "comparator": "Haloperidol",
+        "outcome": "Global cognitive function",
+        "data_type": "Continuous Data",
+        "paper_data": {
+            "793447a7": {
+                "total": 2,
+                "corrected": 1,
+                "label_comparator_data": "-0.13",
+                "pred1_comparator_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "28"
+                    ],
+                    "mean": [
+                        "10.9 \u00b1 7.2",
+                        "Insufficient evidence to draw a conclusion",
+                        "10.9",
+                        "7.2"
+                    ]
+                },
+                "label_intervention_data": "0.53",
+                "pred1_intervention_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "30",
+                        "Insufficient evidence to draw a conclusion",
+                        "60"
+                    ],
+                    "mean": [
+                        "Haloperidol: Mean=-0.13, Standard Deviation=Not provided",
+                        "Olanzapine: +0.53",
+                        "Olanzapine: Mean=+0.53, Standard Deviation=Not provided",
+                        "Haloperidol: -0.13",
+                        "Olanzapine: +0.53, Haloperidol: -0.13",
+                        "Insufficient evidence to draw a conclusion"
+                    ]
+                }
+            },
+            "8c317dba": {
+                "total": 2,
+                "corrected": 1,
+                "label_comparator_data": "-0.15",
+                "pred1_comparator_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "31",
+                        "Insufficient evidence to draw a conclusion",
+                        "28",
+                        "29"
+                    ],
+                    "mean": [
+                        "-0.15",
+                        "8.2 \u00b1 5.0"
+                    ]
+                },
+                "label_intervention_data": "-0.42",
+                "pred1_intervention_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "27",
+                        "Insufficient evidence to draw a conclusion",
+                        "58",
+                        "29"
+                    ],
+                    "mean": [
+                        "Overall: 8.0 \u00b1 5.5",
+                        "8.2 \u00b1 5.0 for Haloperidol",
+                        "Risperidone: 7.9 \u00b1 6.0.",
+                        "7.9 \u00b1 6.0 for Risperidone",
+                        "8.0 \u00b1 5.5 Overall",
+                        "Haloperidol: 8.2 \u00b1 5.0",
+                        "Risperidone: 7.9, \u00b16.0",
+                        "Insufficient evidence to draw a conclusion",
+                        "Risperidone: 7.9 \u00b1 6.0"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "file": "outcomeinfo_PICO4b.json",
+        "outcome uid": "c44985bf",
+        "intervention": "Treatment with aripripazole, zoleptil, olanzapine, quetiapin, risperidone or clozapine",
+        "comparator": "Haloperidol",
+        "outcome": "Serious adverse events",
+        "paper_data": {
+            "2271541c": {
+                "label_comparator_data": {
+                    "event": [
+                        "0"
+                    ],
+                    "total": [
+                        "60"
+                    ],
+                    "no_event": [
+                        "60"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "0"
+                    ],
+                    "total": [
+                        "60"
+                    ],
+                    "no_event": [
+                        "60"
+                    ]
+                }
+            }
+        },
+        "population": "Patients with dementia and agitation/aggressive behavior ",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO4c.json",
+        "outcome uid": "d9b623af",
+        "intervention": "Discontinuation of antipsychotics",
+        "comparator": "Continuation of treatment",
+        "outcome": "Mortality",
+        "paper_data": {
+            "39351825": {
+                "label_comparator_data": {
+                    "event": [
+                        "1"
+                    ],
+                    "total": [
+                        "28"
+                    ],
+                    "no_event": [
+                        "27"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "3"
+                    ],
+                    "total": [
+                        "27"
+                    ],
+                    "no_event": [
+                        "24"
+                    ]
+                }
+            },
+            "7e48dccc": {
+                "label_comparator_data": {
+                    "event": [
+                        "0"
+                    ],
+                    "total": [
+                        "14"
+                    ],
+                    "no_event": [
+                        "14"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "0"
+                    ],
+                    "total": [
+                        "22"
+                    ],
+                    "no_event": [
+                        "22"
+                    ]
+                }
+            },
+            "8f835918": {
+                "label_comparator_data": {
+                    "event": [
+                        "1"
+                    ],
+                    "total": [
+                        "70"
+                    ],
+                    "no_event": [
+                        "69"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "1"
+                    ],
+                    "total": [
+                        "40"
+                    ],
+                    "no_event": [
+                        "39"
+                    ]
+                }
+            },
+            "c57b6880": {
+                "label_comparator_data": {
+                    "event": [
+                        "3"
+                    ],
+                    "total": [
+                        "54"
+                    ],
+                    "no_event": [
+                        "51"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "3"
+                    ],
+                    "total": [
+                        "46"
+                    ],
+                    "no_event": [
+                        "43"
+                    ]
+                }
+            },
+            "aead9e3a": {
+                "label_comparator_data": {
+                    "event": [
+                        "0"
+                    ],
+                    "total": [
+                        "10"
+                    ],
+                    "no_event": [
+                        "10"
+                    ]
+                },
+                "label_intervention_data": {
+                    "event": [
+                        "0"
+                    ],
+                    "total": [
+                        "10"
+                    ],
+                    "no_event": [
+                        "10"
+                    ]
+                }
+            }
+        },
+        "population": "Patients dementia who are currently being treated with anti-psychotics",
+        "outcome_type": "Dichotomous Data"
+    },
+    {
+        "file": "outcomeinfo_PICO4c.json",
+        "outcome uid": "401a51cf",
+        "intervention": "Discontinuation of antipsychotics",
+        "comparator": "Continuation of treatment",
+        "outcome": "Neuropsychiatric symptoms",
+        "data_type": "Continuous Data",
+        "paper_data": {
+            "39351825": {
+                "total": 2,
+                "corrected": 2,
+                "label_comparator_data": "-1.79 (4.9)",
+                "pred1_comparator_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "28"
+                    ],
+                    "mean": [
+                        "Depression: Baseline - 18 (SD not reported), Week 4 - 12 (SD not reported)",
+                        "+1.79 (SD=4.9)",
+                        "Anxiety: Baseline - 18 (SD not reported), Week 4 - 12 (SD not reported)",
+                        "4.9",
+                        "Mean outcome value: +1.79",
+                        "1.79",
+                        "Delusions: Baseline - 10 (SD 6), Week 4 - 5 (SD 4)",
+                        "Standard deviation: 4.9",
+                        "Agitation/Aggression: Baseline - 14 (SD not reported), Week 4 - 14 (SD not reported)",
+                        "+1.79, 4.9",
+                        "Insufficient evidence to draw a conclusion"
+                    ]
+                },
+                "label_intervention_data": "-0.19 (5.3)",
+                "pred1_intervention_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "Insufficient evidence to draw a conclusion",
+                        "24",
+                        "27"
+                    ],
+                    "mean": [
+                        "Depression - Week 4 - Mean: 8",
+                        "Agitation: +0.37 (2.6)",
+                        "Anxiety - Week 4 - Mean: 11",
+                        "Agitation/Aggression - Week 4 - Mean: 13",
+                        "Delusions - Week 4 - Mean: 9, SD: 4",
+                        "Restlessness/Sleep: -0.11 (1.1)",
+                        "Mood: -0.26 (1.1)",
+                        "Psychosis: -0.22 (0.89)",
+                        "Apathy/Appetite: +0.15 (2.1)",
+                        "Mean change: \u22120.19, SD=5.3",
+                        "8.6 \u00b1 5.1",
+                        "NPI Total Score: -0.19 (5.3)",
+                        "Insufficient evidence to draw a conclusion"
+                    ]
+                }
+            },
+            "c57b6880": {
+                "total": 2,
+                "corrected": 1,
+                "label_comparator_data": "0.2 (12) ",
+                "pred1_comparator_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "46",
+                        "54"
+                    ],
+                    "mean": [
+                        "\u22126.2 \u00b1 8.7 (NPI \u2264 14)",
+                        "-6.2 \u00b1 8.7",
+                        "\u22122.9 \u00b1 8.0 (NPI > 14)",
+                        "0.2 \u00b1 12.0",
+                        "Insufficient evidence to draw a conclusion",
+                        "\u22126.2 \u00b1 8.7",
+                        "-2.9 \u00b1 8.0",
+                        "0.9 \u00b1 3.0",
+                        "\u22122.9 \u00b1 8.0"
+                    ]
+                },
+                "label_intervention_data": "-1.3 (9.4)",
+                "pred1_intervention_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "46",
+                        "17",
+                        "19"
+                    ],
+                    "mean": [
+                        "-3.2 \u00b1 11.7 (for baseline NPI \u2264 14)",
+                        "-3.3 \u00b1 5.7 (for baseline NPI > 14)",
+                        "\u22123.2 \u00b1 11.7",
+                        "-3.3 \u00b1 5.7 (NPI > 14)",
+                        "-3.3 \u00b1 5.7",
+                        "-1.2 \u00b1 12.0 (placebo group), 0.2 \u00b1 12.0 (neuroleptic group)",
+                        "Mean change in NPI total score for patients with baseline NPI > 14: -3.3 \u00b1 5.7",
+                        "-1.2 \u00b1 12.0",
+                        "\u22123.3 \u00b1 5.7",
+                        "-3.2 \u00b1 11.7",
+                        "-3.2 \u00b1 11.7 (NPI \u2264 14)",
+                        "Mean change in NPI total score for patients with baseline NPI \u2264 14: -3.2 \u00b1 11.7",
+                        "Insufficient evidence to draw a conclusion"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "file": "outcomeinfo_PICO4c.json",
+        "outcome uid": "ddb1d46f",
+        "intervention": "Discontinuation of antipsychotics",
+        "comparator": "Continuation of treatment",
+        "outcome": "Global cognitive function",
+        "data_type": "Continuous Data",
+        "paper_data": {
+            "4f4e0f75": {
+                "total": 2,
+                "corrected": 0,
+                "label_comparator_data": "-16.5 (23.1)",
+                "pred1_comparator_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "83",
+                        "110",
+                        "64",
+                        "51"
+                    ],
+                    "mean": [
+                        "-6.2",
+                        "71.1",
+                        "Mean outcome value: 1.8, Standard Deviation: 3.6",
+                        "16.0",
+                        "Insufficient evidence to draw a conclusion"
+                    ]
+                },
+                "label_intervention_data": "-8.5 (13.4)",
+                "pred1_intervention_data": {
+                    "data_type": "Continuous Data",
+                    "total": [
+                        "82",
+                        "51"
+                    ],
+                    "mean": [
+                        "4.2 (standard deviation for SMMSE in the discontinuation group)",
+                        "\u22125.7 (mean outcome value for SIB in the discontinuation group)",
+                        "-5.7 \u00b1 14.2",
+                        "Mean SIB score (Global cognitive function) for discontinuation group: 76.3, Standard Deviation: 20.8",
+                        "76.3",
+                        "14.2 (standard deviation for SIB in the discontinuation group)",
+                        "\u22121.0 (mean outcome value for SMMSE in the discontinuation group)",
+                        "20.8",
+                        "Insufficient evidence to draw a conclusion"
+                    ]
+                }
+            }
+        }
+    },
+    {
+        "paper_uid": "50df60b4",
+        "label_data": {
+            "number of patients randomized": "333"
+        }
+    },
+    {
+        "paper_uid": "f5076959",
+        "label_data": {
+            "number of patients randomized": "206"
+        }
+    },
+    {
+        "paper_uid": "0643f463",
+        "label_data": {
+            "number of patients randomized": "421"
+        }
+    },
+    {
+        "paper_uid": "44c2f905",
+        "label_data": {
+            "number of patients randomized": "62"
+        }
+    },
+    {
+        "paper_uid": "d21566cc",
+        "label_data": {
+            "number of patients randomized": "345"
+        }
+    },
+    {
+        "paper_uid": "c6e3bcaf",
+        "label_data": {
+            "number of patients randomized": "421"
+        }
+    },
+    {
+        "paper_uid": "baf84590",
+        "label_data": {
+            "number of patients randomized": "40 (AD patients: 8; PD+dementia 9; LBD: 23)"
+        }
+    },
+    {
+        "paper_uid": "2271541c",
+        "label_data": {
+            "number of patients randomized": "120 AD: 79; VaD: 34; Mixed AD-VaD: 7"
+        }
+    },
+    {
+        "paper_uid": "793447a7",
+        "label_data": {
+            "number of patients randomized": "58"
+        }
+    },
+    {
+        "paper_uid": "8c317dba",
+        "label_data": {
+            "number of patients randomized": "120"
+        }
+    },
+    {
+        "paper_uid": "64979d7f",
+        "label_data": {
+            "number of patients randomized": "230 Randomized to either haloperidol or risperidone"
+        }
+    },
+    {
+        "paper_uid": "39351825",
+        "label_data": {
+            "number of patients randomized": "55"
+        }
+    },
+    {
+        "paper_uid": "7e48dccc",
+        "label_data": {
+            "number of patients randomized": "36"
+        }
+    },
+    {
+        "paper_uid": "8f835918",
+        "label_data": {
+            "number of patients randomized": "110"
+        }
+    },
+    {
+        "paper_uid": "c57b6880",
+        "label_data": {
+            "number of patients randomized": "100"
+        }
+    },
+    {
+        "paper_uid": "135b5748",
+        "label_data": {
+            "number of patients randomized": "165"
+        }
+    },
+    {
+        "paper_uid": "aead9e3a",
+        "label_data": {
+            "number of patients randomized": "20"
+        }
+    },
+    {
+        "paper_uid": "1ad70ba1",
+        "label_data": {
+            "number of patients randomized": "34"
+        }
+    },
+    {
+        "paper_uid": "4f4e0f75",
+        "label_data": {
+            "number of patients randomized": "165"
+        }
+    },
+    {
+        "paper_uid": "0e34e33b",
+        "label_data": {
+            "number of patients randomized": "25"
+        }
+    }
+]
