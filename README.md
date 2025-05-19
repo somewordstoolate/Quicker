@@ -42,8 +42,6 @@ You may use the `Q2CRBench-3` dataset or your own clinical question and study co
 
 Due to copyright restrictions, we are unable to share publications directly. However, you can reproduce the test records by following the provided search strategies and use public tools such as [Crossref](https://www.crossref.org/) and [OpenAlex](https://openalex.org/) to retrieve the necessary bibliographic and access information.
 
-# Todo List:
-- [ ] ⬜ Basic usage example
 
 
 ## Citation
