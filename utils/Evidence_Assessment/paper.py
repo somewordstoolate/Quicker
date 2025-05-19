@@ -24,7 +24,7 @@ from qdrant_client.http.models import Distance, VectorParams
 from utils.Evidence_Assessment.PDFprocessing import CustomizedGrobidParser
 
 
-class StudyDesign(str, Enum): 
+class StudyDesign(str, Enum):
     SYSTEMATIC_REVIEW = "Systematic Review"
     META_ANALYSIS = "Meta-Analysis"
     RANDOMIZED_CONTROLLED_TRIAL = "Randomized Controlled Trial"
@@ -47,7 +47,7 @@ class Paper:
         pmid: str = None,
         authors: str = None,
         year: str = None,
-        abstract: str = None, 
+        abstract: str = None,
         url: str = None,
         doi: str = None,
         journal: str = None,
@@ -195,6 +195,10 @@ class Paper:
     def vectorstore_save_path(self) -> str:
         return os.path.join(self.save_folder_path, f"{self.paper_uid}_vector_database")
 
+    def download_pdf(self, current_save_folder: str) -> str:
+        raise NotImplementedError(
+            "This method is not implemented. Please implement it according to your organization account or other resources."
+        )
 
     def get_pdf(self, current_save_folder: str) -> str:
         '''
@@ -207,8 +211,27 @@ class Paper:
             The path of the PDF file.
         '''
 
-        raise NotImplementedError(
-            "This method is not implemented. Please implement it according to your orgnization account or other resources.")
+        if self.pdf_save_path is not None:
+            logging.info(f"{str(self)} PDF file already exists: {self.pdf_save_path}")
+            return self.pdf_save_path
+        elif os.path.exists(
+            os.path.join(current_save_folder, self.paper_uid)
+        ) and os.path.isdir(os.path.join(current_save_folder, self.paper_uid)):
+            save_folder_path = os.path.join(current_save_folder, self.paper_uid)
+            pdf_files = glob.glob(os.path.join(save_folder_path, "*.pdf"))
+            if pdf_files:
+                self._update_info(save_folder_path=save_folder_path)
+                logging.info(f"{str(self)} PDF file already exists: {pdf_files[0]}")
+                return pdf_files[0]
+
+        # download the PDF file
+        pdf_path = self.download_pdf(current_save_folder)
+        if pdf_path is not None:
+
+            logging.info(f"{str(self)} PDF file downloaded: {pdf_path}")
+            return pdf_path
+        else:
+            raise ValueError("Cannot get PDF file.")
 
     @staticmethod
     def extract_text_from_pdf(

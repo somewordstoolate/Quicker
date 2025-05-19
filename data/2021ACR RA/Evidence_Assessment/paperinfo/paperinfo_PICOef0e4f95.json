@@ -1,0 +1,54 @@
+[
+    {
+        "title": "Full dose, reduced dose or discontinuation of etanercept in rheumatoid arthritis.",
+        "paper_uid": "566c1573",
+        "reference": null,
+        "pmid": "25873634",
+        "save_folder_path": "data/2021ACR RA/Paper_Library/PICOef0e4f95/566c1573",
+        "authors": null,
+        "year": "2015-04-14",
+        "study_design": "Randomized Controlled Trial",
+        "abstract": "BACKGROUND: The aim of the Dose Reduction or Discontinuation of Etanercept in Methotrexate-Treated Rheumatoid Arthritis Patients Who Have Achieved a Stable Low Disease Activity-State study was to investigate the effect of etanercept (ETN) dose maintenance, reduction or withdrawal on patients with rheumatoid arthritis (RA) who had already achieved stable low disease activity (LDA) on ETN 50 mg+methotrexate (MTX).\nMETHODS: Patients with RA (n=91) and stable LDA with ETN 50 mg once weekly (QW)+MTX were included. After 8 weeks with unchanged treatment, 73 patients were randomised in a double-blind design to ETN 50 mg QW+MTX (ETN50), ETN 25 mg QW+MTX (ETN25) or placebo QW+MTX (PBO) for 48 weeks. Patients who flared were declared failures and treated with open-label ETN50 until week 48. The primary outcome was the proportion of patients on ETN50 versus PBO who were non-failures after 48 weeks.\nRESULTS: The proportion of non-failure patients was significantly lower with ETN50 (52%; p=0.007) and ETN25 (44%; p=0.044) versus PBO (13%). Median time to failure was significantly shorter with PBO (6 weeks) compared with ETN50 (48 weeks; p=0.001) and ETN25 (36 weeks; p<0.001). The majority of patients who flared regained LDA with open-label ETN50 quickly. Adverse events were consistent with the known side effect profiles of these medications.\nCONCLUSIONS: In patients with established RA who have achieved stable LDA on ETN50+MTX, continuing both is superior to PBO+MTX. Reduced dose ETN was also more effective than PBO in maintaining a favourable response, suggesting that a maintenance strategy with reduced dose ETN may be possible in a number of patients with established RA.\nTRIAL REGISTRATION NUMBER: NCT00858780.",
+        "url": "10.1136/annrheumdis-2014-205726",
+        "doi": "10.1136/annrheumdis-2014-205726",
+        "journal": null,
+        "characteristics": {
+            "study_design_related_content": "Here we report the clinical results of a randomised, three-armed, placebo-controlled clinical trial in patients with RA who had achieved a stable LDA state with ETN+MTX treatment in regular rheumatology care. In this study, named Dose Reduction or Discontinuation of Etanercept in Methotrexate-Treated Rheumatoid Arthritis Patients Who Have Achieved a Stable Low Disease Activity-State (DOSERA), one-third of the patients continued with unchanged (but blinded) medication, one-third received a reduced dose of ETN and one-third continued on MTX alone.",
+            "population": {
+                "population": [
+                    "Patients with rheumatoid arthritis (RA) who are on Disease-Modifying Anti-Rheumatic Drugs (DMARDs) and in low disease activity"
+                ],
+                "population_related_content": [
+                    "Patients with RA (n=91) and stable LDA with ETN 50 mg once weekly (QW)+MTX were included."
+                ]
+            },
+            "intervention": {
+                "intervention": [
+                    "Gradually taper off DMARDs"
+                ],
+                "intervention_related_content": [
+                    "After 8 weeks with unchanged treatment, 73 patients were randomised in a double-blind design to ETN 50 mg QW+MTX (ETN50), ETN 25 mg QW+MTX (ETN25) or placebo QW+MTX (PBO) for 48 weeks. Patients who flared were declared failures and treated with open-label ETN50 until week 48."
+                ]
+            },
+            "comparator": {
+                "comparator": [
+                    "Abruptly withdraw DMARDs or continue DMARDs at the same doses"
+                ],
+                "comparator_related_content": [
+                    "Patients with RA (n=91) and stable LDA with ETN 50 mg once weekly (QW)+MTX were included. After 8 weeks with unchanged treatment, 73 patients were randomised in a double-blind design to ETN 50 mg QW+MTX (ETN50), ETN 25 mg QW+MTX (ETN25) or placebo QW+MTX (PBO) for 48 weeks."
+                ]
+            },
+            "outcome": {
+                "outcome": [
+                    "Flare (follow up: range 6 months to 12 months)"
+                ],
+                "outcome_related_content": [
+                    "The primary outcome was the proportion of patients on ETN50 versus PBO who were non-failures after 48 weeks.",
+                    "Patients who flared were declared failures and treated with open-label ETN50 until week 48.",
+                    "The proportion of non-failure patients was significantly lower with ETN50 (52%; p=0.007) and ETN25 (44%; p=0.044) versus PBO (13%).",
+                    "Median time to failure was significantly shorter with PBO (6 weeks) compared with ETN50 (48 weeks; p=0.001) and ETN25 (36 weeks; p<0.001)."
+                ]
+            }
+        }
+    }
+]

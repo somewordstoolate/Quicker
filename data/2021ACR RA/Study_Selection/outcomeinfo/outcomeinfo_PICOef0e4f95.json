@@ -1,0 +1,19 @@
+[
+    {
+        "outcome_uid": "19a3389b",
+        "clinical_question": "Should patients with RA on DMARDs who are in low disease activity gradually taper off DMARDs, abruptly withdraw DMARDs, or continue DMARDS at the same doses?",
+        "population": "Patients with rheumatoid arthritis (RA) who are on Disease-Modifying Anti-Rheumatic Drugs (DMARDs) and in low disease activity",
+        "intervention": "Gradually taper off DMARDs",
+        "comparator": "Abruptly withdraw DMARDs or continue DMARDs at the same doses",
+        "outcome": "Flare (follow up: range 6 months to 12 months)",
+        "importance": "CRITICAL",
+        "related_paper_list": [
+            "566c1573"
+        ],
+        "assessment_results": {
+            "GRADE": {
+                "Study design": "RANDOMIZED_CONTROLLED_TRIAL"
+            }
+        }
+    }
+]

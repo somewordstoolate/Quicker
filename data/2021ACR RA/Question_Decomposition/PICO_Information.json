@@ -1,0 +1,28 @@
+[
+    {
+        "Index": "ef0e4f95",
+        "Question": "Should patients with RA on DMARDs who are in low disease activity gradually taper off DMARDs, abruptly withdraw DMARDs, or continue DMARDS at the same doses?",
+        "P": "Patients with rheumatoid arthritis (RA) who are on Disease-Modifying Anti-Rheumatic Drugs (DMARDs) and in low disease activity",
+        "I": "Gradually taper off DMARDs",
+        "C": [
+            "Abruptly withdraw DMARDs or continue DMARDs at the same doses"
+        ],
+        "O": {
+            "Abruptly withdraw DMARDs or continue DMARDs at the same doses": [
+                "Disease activity (follow up: range 9 months to 12 months; assessed with: DAS28-ESR)",
+                "Flare (follow up: range 6 months to 12 months)",
+                "Radiographic progression (follow up: range 9 months to 12 months; assessed with: mTSS)",
+                "Fatigue (follow up: range 9 months to 12 months; assessed with: FACIT-F)",
+                "Quality of Life (follow up: 9 months; assessed with: SF-36 PCS)",
+                "Quality of Life (follow up: 9 months; assessed with: SF-36 MCS)",
+                "Disability (follow up: 12 months; assessed with: HAQ-DI)",
+                "Pain (follow up: 12 months; assessed with: VAS Pain)",
+                "Withdrawal due to lack of efficacy (follow up: 12 months)",
+                "Withdrawal due to adverse events (follow up: range 9 months to 12 months)",
+                "Serious adverse events (follow up: range 9 months to 12 months)",
+                "Malignancy (follow up: range 9 months to 12 months)",
+                "Death (follow up: 12 months)"
+            ]
+        }
+    }
+]
