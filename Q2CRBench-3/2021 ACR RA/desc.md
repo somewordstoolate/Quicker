@@ -7,7 +7,7 @@ The 2021 ACR RA dataset is derived from the [2021 ACR guideline for rheumatoid a
 ```bash
 2021_ACR_RA/
 │  desc.md                        # Description of this dataset
-│  Included_Studies_with_PMID.csv # Final studies included in the guideline with PMIDs
+│  Included_Studies_with_PMID.json # Final studies included in the guideline with PMIDs
 │  PICO_Information.json          # Clinical questions with their PICO components
 ├─ Evidence_Profiles/
 │   ├─ metadata                   # Raw evidence profile data
@@ -19,13 +19,13 @@ The 2021 ACR RA dataset is derived from the [2021 ACR guideline for rheumatoid a
 
 ### Description
 
-Each clinical question is assigned a `PICO_IDX` (indicating the broader research topic) and a `SUB_PICO_IDX` (indicating its unique position within that topic). The relationship between files can be traced through these index values.
+Each clinical question is assigned a `PICO_IDX`, which typically consists of one or two elements. The first element represents a broad research question, while the second element (if present) indicates a more specific sub-question. The relationship between files can be traced through these index values.
 
 If certain downstream files (e.g., evidence profiles) are missing for a given question, this reflects that the question did not progress to subsequent stages of guideline development due to limited or insufficient evidence.
 
 The `Search_Strategies` folder includes the exact queries used to perform literature searches in Ovid MEDLINE (These files are named according to the corresponding PICOs). 
 
-The `Included_Studies_with_PMID.csv` file lists all studies that were included in the final guideline. PMID identifiers are provided to facilitate retrieval. The `Date` column in this file reflects a search window one year earlier in our experiment than the actual search date in the original guideline, because Ovid MEDLINE does not support exact DD/MM search filtering.
+The `Included_Studies_with_PMID.json` file lists partial studies that were included in the final guideline (all included studies could be found in the `Evidence_Profiles/paperinfo` directory). PMID identifiers are provided to facilitate retrieval. The `Date` column in this file reflects a search window one year earlier in our experiment than the actual search date in the original guideline, because Ovid MEDLINE does not support exact DD/MM search filtering. This file was used as the label set for the literature search and study selection experiments in Quicker.
 
 In the `Evidence_Profiles` directory:
 
@@ -33,5 +33,6 @@ In the `Evidence_Profiles` directory:
 
 * The outcomeinfo and paperinfo folders divide these profiles into outcome-level results and study-level metadata, respectively, to facilitate targeted usage.
 
-Finally, the `Supplementary_Materials` folder contains `screened numerical data`, which serve as ground truth for evaluation.
+Finally, the `Supplementary_Materials` folder contains `expert-curated study screening results` and `screened numerical data`, which serve as ground truth for Quicker's evaluation.
+
 

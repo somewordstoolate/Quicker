@@ -40,7 +40,7 @@ Other parameters are under development and not covered in the current manuscript
 
 You may use the `Q2CRBench-3` dataset or your own clinical question and study corpus to evaluate Quicker. Detailed descriptions of the benchmark datasets can be found in the desc.md file within each corresponding dataset folder.
 
-Due to copyright restrictions, we are unable to share publications directly. However, you can reproduce the test records by following the provided search strategies and use public tools such as [Crossref](https://www.crossref.org/) and [OpenAlex](https://openalex.org/) to retrieve the necessary bibliographic and access information.
+Due to copyright restrictions, we are unable to share partial publications directly. However, you can reproduce the test records by following the provided search strategies and use public tools such as [Crossref](https://www.crossref.org/) and [OpenAlex](https://openalex.org/) to retrieve the necessary bibliographic and access information.
 
 
 

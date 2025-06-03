@@ -1,2 +1,3 @@
 __pycache__/
+huggingface_version/
 *.py[cod]

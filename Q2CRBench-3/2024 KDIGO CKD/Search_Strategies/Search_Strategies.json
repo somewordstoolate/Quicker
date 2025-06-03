@@ -1,0 +1,83 @@
+[
+    {
+        "Search_Strategy_ID": "1",
+        "Search_Strategy": "Diagnostic and prognostic benefit and safety of kidney biopsy (Search date: March 2023)\nPubMed \n1. “Biopsy\/adverse effects”[mh:noexp] OR “biopsy\/complications”[mh:noexp] OR “biopsy\/mortality”[mh:noexp]\n2. “Biopsy, needle”[mh]\n3. “Image-guided biopsy”[mh]\n4. biops*[ti]\n5. #1 OR #2 OR #3 OR #4\n6. “Renal insufficiency, chronic”[mh]\n7. CKD[tiab] OR “chronic kidney”[tiab] OR “chronic renal”[tiab] OR “progressive kidney”[tiab] OR “progressive renal”[tiab] OR “kidney insufficiency”[tiab] OR “renal insufficiency”[tiab]\n8. #6 OR #7\n9. #5 AND #8\n10. Animals[mh] NOT humans[mh]\n11. #9 NOT #10",
+        "Platform": "PubMed MEDLINE",
+        "Search_for_PICO_IDX": [
+            "a1"
+        ],
+        "Dataset": "2024 KDIGO CKD"
+    },
+    {
+        "Search_Strategy_ID": "2",
+        "Search_Strategy": "Diagnostic accuracy of eGFR based on measurements of cystatin C and creatinine (Search date: August 2022)\nPubMed \n1. Kidney glomerulus[mh]\n2. Kidney disease[mh]\n3. Kidney function tests[mh]\n4. Renal[tiab] OR kidney[tiab]\n5. #1 OR #2 OR #3 OR #4\n6. Glomerular filtration rate[tiab] OR GFR[tiab]\n7. Creatin*[tiab]\n8. Cystat*[tiab]\n9. #6 AND (#7 OR #8)\n10. DTPA[tiab] OR Diethylenetriaminepentaacetate[tiab] OR Diethylenetriaminepentaacetic acid[tiab] OR Pentetic acid[mh] OR Pentetic acid[tiab] OR EDTA[tiab] OR Chromium EDTA[tiab] OR Ethylenediaminetetraacetic acid[tiab] OR Ethylenediaminetetraacetate[tiab] OR Iohexol[mh] OR Iohexol[tiab] OR Iothalamic acid[mh] OR Iothalamic acid[tiab] OR Iothalamate[tiab] OR measure*[tiab]\n11. #6 AND #10\n12. Predict*[tiab]\n13. Formula*[tiab]\n14. Equation[tiab]\n15. Regression analysis[mh]\n16. #12 OR #13 OR #14 OR #15\n17. #5 AND #9 AND #11 AND #16\n18. Animals[mh] NOT humans[mh]\n19. #17 NOT #18\n20. #19 NOT review[pt]",
+        "Platform": "PubMed MEDLINE",
+        "Search_for_PICO_IDX": [
+            "a2"
+        ],
+        "Dataset": "2024 KDIGO CKD"
+    },
+    {
+        "Search_Strategy_ID": "3",
+        "Search_Strategy": "Effect of sodium-glucose cotransporter-2 inhibitors (SGLT2i) among people with CKD (Search date: April 2023)\nPubMed \n1. Randomized controlled trial[pt]\n2. Controlled clinical trial[pt]\n3. Randomized[tiab]\n4. Placebo[tiab]\n5. “Clinical trials as topic”[mh:noexp]\n6. Randomly[tiab]\n7. Trial[ti]\n8. #1 OR #2 OR #3 OR #4 OR #5 OR #6 OR #7\n9. “Sodium-glucose transporter 2 inhibitors”[mh]\n10. SGLT2[tiab] OR SGLT-2[tiab]\n11. “Sodium-glucose transporter 2”[mh]\n12. \"Sodium-glucose co-transporter”[tiab] OR “sodium-glucose cotransporter”[tiab]\n13. Canagliflozin[tiab] OR dapagliflozin[tiab] OR empagliflozin[tiab] OR ertugliflozin[tiab] OR ipragliflozin[tiab] OR luseogliflozin[tiab] OR remogliflozin[tiab] OR sotagliflozin[tiab] OR tofogliflozin[tiab]\n14. #9 OR #10 OR #11 OR #12 OR #13\n15. #8 AND #14\n16. Animals[mh] NOT humans[mh]\n17. #15 NOT #16",
+        "Platform": "PubMed MEDLINE",
+        "Search_for_PICO_IDX": [
+            "b1"
+        ],
+        "Dataset": "2024 KDIGO CKD"
+    },
+    {
+        "Search_Strategy_ID": "4",
+        "Search_Strategy": "Effect of uric acid-lowering therapy among people with chronic kidney disease (CKD) and hyperuricemia (Search date: March 2023)\nPubMed \n1. Hyperuricemia[mh]\n2. Uric acid[mh]\n3. Hyperuricaemi*[tiab] OR hyperuricemi*[tiab]\n4. (“uric acid”[tiab] OR urate[tiab]) AND (elevat*[tiab] OR high[tiab] OR raise*[tiab] OR rise[tiab] OR rising[tiab])\n5. #1 OR #2 OR #3 OR #4\n6. “Gout suppressants”[mh]\n7. Allopurinol[mh] OR allopurinol[tiab]\n8. “Uricosuric agents”[mh]\n9. “Urate oxidase”[mh] OR uricase[tiab] OR “urate oxidase”[tiab]\n10. “Xanthin oxidase inhibit*”[tiab] OR “xanthine oxidoreductase”[tiab]\n11. Benzbromarone[mh] OR benzbromarone[tiab]\n12. Probenecid[mh] OR probenecid[tiab]\n13. Febuxostat[mh] OR febuxostat[tiab]\n14. Pegloticase[tiab]\n15. Topiroxostat[tiab] OR FYX-051[supplementary concept]\n16. Oxypurinol[mh] OR oxypurinol[tiab] OR oxipurinol[tiab]\n17. Sulfinpyrazone[mh] OR sulfinpyrazone[tiab] OR sulphinpyrazone[tiab] OR rasburicase[tiab] OR lesinurad[tiab]\n18. #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #15 OR #16 OR #17\n19. Randomized controlled trial[pt]\n20. Controlled clinical trial[pt]\n21. Randomized controlled trials[mh]\n22. randomized[tiab]\n23. placebo[tiab]\n24. \"drug therapy\"[Subheading]\n25. randomly[tiab]\n26. trial[tiab]\n27. groups[tiab]\n28. #19 OR #20 OR #21 OR #22 OR #23 OR #24 OR #25 OR #26 OR #27\n29. #5 AND #18 AND #28\n30. Animals[mh] NOT humans[mh]\n31. #29 NOT #30\n32. 2016\/01\/01:2023\/03\/15[dp]\n33. #31 AND #32",
+        "Platform": "PubMed MEDLINE",
+        "Search_for_PICO_IDX": [
+            "b2"
+        ],
+        "Dataset": "2024 KDIGO CKD"
+    },
+    {
+        "Search_Strategy_ID": "5",
+        "Search_Strategy": "Effect of uric acid-lowering therapy among people with chronic kidney disease (CKD) and hyperuricemia (Search date: March 2023)\nPubMed \n1. Hyperuricemia[mh]\n2. Uric acid[mh]\n3. Hyperuricaemi*[tiab] OR hyperuricemi*[tiab]\n4. (“uric acid”[tiab] OR urate[tiab]) AND (elevat*[tiab] OR high[tiab] OR raise*[tiab] OR rise[tiab] OR rising[tiab])\n5. #1 OR #2 OR #3 OR #4\n6. “Gout suppressants”[mh]\n7. Allopurinol[mh] OR allopurinol[tiab]\n8. “Uricosuric agents”[mh]\n9. “Urate oxidase”[mh] OR uricase[tiab] OR “urate oxidase”[tiab]\n10. “Xanthin oxidase inhibit*”[tiab] OR “xanthine oxidoreductase”[tiab]\n11. Benzbromarone[mh] OR benzbromarone[tiab]\n12. Probenecid[mh] OR probenecid[tiab]\n13. Febuxostat[mh] OR febuxostat[tiab]\n14. Pegloticase[tiab]\n15. Topiroxostat[tiab] OR FYX-051[supplementary concept]\n16. Oxypurinol[mh] OR oxypurinol[tiab] OR oxipurinol[tiab]\n17. Sulfinpyrazone[mh] OR sulfinpyrazone[tiab] OR sulphinpyrazone[tiab] OR rasburicase[tiab] OR lesinurad[tiab]\n18. #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14 OR #15 OR #16 OR #17\n19. Randomized controlled trial[pt]\n20. Controlled clinical trial[pt]\n21. Randomized controlled trials[mh]\n22. randomized[tiab]\n23. placebo[tiab]\n24. \"drug therapy\"[Subheading]\n25. randomly[tiab]\n26. trial[tiab]\n27. groups[tiab]\n28. #19 OR #20 OR #21 OR #22 OR #23 OR #24 OR #25 OR #26 OR #27\n29. #5 AND #18 AND #28\n30. Animals[mh] NOT humans[mh]\n31. #29 NOT #30\n32. 2016\/01\/01:2023\/03\/15[dp]\n33. #31 AND #32",
+        "Platform": "PubMed MEDLINE",
+        "Search_for_PICO_IDX": [
+            "b3"
+        ],
+        "Dataset": "2024 KDIGO CKD"
+    },
+    {
+        "Search_Strategy_ID": "6",
+        "Search_Strategy": "Effects of aspirin in terms of primary prevention of CVD and safety among people with CKD (Search date: August 2022)\nPubMed \n1. “Renal insufficiency, chronic”[mh]\n2. CKD[tiab] OR kidney[tiab] OR nephro*[tiab] OR renal[tiab]\n3. #1 OR #2\n4. Aspirin[mh]\n5. Aspirin[tiab] OR *salicyl*[tiab] OR asa[tiab] OR anti-platelet[tiab] OR antiplatelet[tiab]\n6. #4 OR #5\n7. \"Randomized controlled trial\"[pt]\n8. \"Controlled clinical trial\"[pt]\n9. Randomized[tiab]\n10. Placebo[tiab]\n11. \"Drug therapy\"[sh]\n12. Randomly[tiab]\n13. Trial[tiab]\n14. Groups[tiab]\n15. #7 OR #8 OR #9 OR #10 OR #11 OR #12 OR #13 OR #14\n16. #3 AND #6 AND #15\n17. Infant[mh] OR “infant health”[mh] OR “infant welfare”[mh]\n18. prematur*[tiab] OR pre-matur*[tiab] OR preterm*[tiab] OR preterm*[tiab] OR infan*[tiab] OR newborn*[tiab] OR new-born*[tiab] OR perinat*[tiab] OR peri-nat*[tiab] OR neonat*[tiab] OR neonat*[tiab] OR baby*[tiab] OR babies[tiab] OR toddler*[tiab]\n19. Child[mh] OR “child behavior”[mh] OR “child health”[mh] OR “child welfare”[mh]\n20. Minors[mh]\n21. Child*[tiab] OR minor[tiab] OR minors[tiab] OR boy*[tiab] OR girl*[tiab] OR kid[tiab] OR kids[tiab] OR young*[tiab]\n22. Pediatrics[mh]\n23. Pediatric*[tiab] OR paediatric*[tiab] OR peadiatric*[tiab]\n24. Adolescent[mh] OR “adolescent health”[mh] OR “adolescent behavior”[mh]\n25. Puberty[mh]\n26. adolescen*[tiab] OR pubescen*[tiab] OR prepubescen*[tiab] OR pre-pubescen*[tiab] OR pubert*[tiab] OR prepubert*[tiab] OR prepubert*[tiab] OR teen*[tiab] OR preteen*[tiab] OR preteen*[tiab] OR juvenil*[tiab] OR youth*[tiab] OR under*age*[tiab]\n27. Schools[mh]\n28. Child Day Care Centers[mh] or Nurseries[mh] or Schools, Nursery[mh]\n29. pre-school*[tiab] OR preschool*[tiab] OR kindergar*[tiab] OR daycare[tiab] OR day-care[tiab] OR nurser*[tiab] OR school*[tiab] OR pupil*[tiab] OR student*[tiab]\n30. \"under 18*\"[tiab] OR \"under eighteen*\"[tiab] OR \"under 25*\"[tiab] OR \"under twenty five*\"[tiab]\n31. #17 OR #18 OR #19 OR #20 OR #21 OR #22 OR #23 OR #24 OR #25 OR #26 OR #27 OR #28 OR #29 OR #30\n32. #16 AND #31\n33. Animals[mh] NOT humans[mh]\n34. #32 NOT #33",
+        "Platform": "PubMed MEDLINE",
+        "Search_for_PICO_IDX": [
+            "b4"
+        ],
+        "Dataset": "2024 KDIGO CKD"
+    },
+    {
+        "Search_Strategy_ID": "7",
+        "Search_Strategy": "Effects of angiography or coronary revascularization among people with CKD and ischemic heart disease (Search date: March 2023)\nPubMed \n1. “Coronary artery disease”[mh]\n2. Arterioscleros*[tiab] OR atheroscleros*[tiab] OR coronary[tiab] OR ischemi*[tiab] OR occlusion*[tiab] OR STEMI[tiab] OR18 NSTEMI*[tiab] OR angina[tiab] OR ACS[tiab] OR “myocardial infarction”[tiab] OR “acute coronary syndrome”[tiab]\n3. #1 OR #2\n4. “Kidney failure, chronic”[mh]\n5. Kidney[tiab] OR renal[tiab] OR CKD[tiab]\n6. #4 OR #5\n7. #3 AND #6\n8. “Percutaneous coronary intervention”[mh]\n9. “Percutaneous coronary”[tiab] OR PCI[tiab] OR stent[tiab]\n10. “Coronary artery bypass”[mh]\n11. Graft[tiab] OR CABG[tiab] OR surgery[tiab] OR “coronary artery bypass”[tiab]\n12. #8 OR #9 OR #10 OR #11\n13. “Drug therapy”[mh]\n14. (((((Medici*[tiab]) OR (Drug[tiab])) OR (Conservative[tiab])) OR (OMT[tiab])) OR (MT[tiab])) OR (Pharmacotherap*[tiab]) OR “optimal medication”[tiab]\n15. #13 OR #14\n16. #7 AND #12 AND #15\n17. \"Randomized controlled trial\"[pt]\n18. \"Controlled clinical trial\"[pt]\n19. Randomized[tiab]\n20. Placebo[tiab]\n21. \"Drug therapy\"[sh]\n22. Randomly[tiab]\n23. Trial[tiab]\n24. Groups[tiab]\n25. #17 OR #18 OR #19 OR #20 OR #21 OR #22 OR #23 OR #24\n26. #16 AND #25\n27. Animals[mh] NOT humans[mh]\n28. #26 NOT #27\n29. Review[pt]\n30. #28 NOT #29",
+        "Platform": "PubMed MEDLINE",
+        "Search_for_PICO_IDX": [
+            "b5"
+        ],
+        "Dataset": "2024 KDIGO CKD"
+    },
+    {
+        "Search_Strategy_ID": "8",
+        "Search_Strategy": "Effect of non-vitamin K antagonist oral anticoagulants (NOAC) with or without warfarin among people with CKD and atrial fibrillation (Search date: March 2023)\nPubMed \n1. “Atrial fibrillation”[mh]\n2. “Atrial fibrillation”[tiab]\n3. “Auricular fibrillation”[tiab]\n4. #1 OR #2 OR #3\n5. New[tiab] AND anticoagulant*[tiab]\n6. Dabigatran[mh] OR dabigatran[tiab]\n7. Apixaban[SC] OR apixaban[tiab]\n8. Rivaroxaban[mh] OR rivaroxaban[tiab]\n9. Edoxaban[sc] OR edoxaban[tiab]\n10. Direct thrombin inhibit*[tiab]\n11. Anticoagulants[mh] AND “Factor Xa”[mh]\n12. Factor xa inhibit*[tiab]\n13. #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12\n14. #4 AND #13\n15. \"Randomized controlled trial\"[pt]\n16. \"Controlled clinical trial\"[pt]\n17. Randomized[tiab]\n18. Placebo[tiab]\n19. \"Drug therapy\"[sh]\n20. Randomly[tiab]\n21. Trial[tiab]\n22. Groups[tiab]\n23. #15 OR #16 OR #17 OR #18 OR #19 OR #20 OR #21 OR #22\n24. #14 AND #23\n25. 2016:2023 [dp]\n26. #24 AND #25\n27. Animals[mh] NOT humans[mh]\n28. #26 NOT #27\n29. Review[pt]\n30. #28 NOT #29\n31. 2016\/08\/01:2023\/03\/15[dp]\n32. #30 AND #31",
+        "Platform": "PubMed MEDLINE",
+        "Search_for_PICO_IDX": [
+            "b6"
+        ],
+        "Dataset": "2024 KDIGO CKD"
+    },
+    {
+        "Search_Strategy_ID": "9",
+        "Search_Strategy": "Effect of non-vitamin K antagonist oral anticoagulants (NOAC) with or without warfarin among people with CKD and atrial fibrillation (Search date: March 2023)\nPubMed \n1. “Atrial fibrillation”[mh]\n2. “Atrial fibrillation”[tiab]\n3. “Auricular fibrillation”[tiab]\n4. #1 OR #2 OR #3\n5. New[tiab] AND anticoagulant*[tiab]\n6. Dabigatran[mh] OR dabigatran[tiab]\n7. Apixaban[SC] OR apixaban[tiab]\n8. Rivaroxaban[mh] OR rivaroxaban[tiab]\n9. Edoxaban[sc] OR edoxaban[tiab]\n10. Direct thrombin inhibit*[tiab]\n11. Anticoagulants[mh] AND “Factor Xa”[mh]\n12. Factor xa inhibit*[tiab]\n13. #5 OR #6 OR #7 OR #8 OR #9 OR #10 OR #11 OR #12\n14. #4 AND #13\n15. \"Randomized controlled trial\"[pt]\n16. \"Controlled clinical trial\"[pt]\n17. Randomized[tiab]\n18. Placebo[tiab]\n19. \"Drug therapy\"[sh]\n20. Randomly[tiab]\n21. Trial[tiab]\n22. Groups[tiab]\n23. #15 OR #16 OR #17 OR #18 OR #19 OR #20 OR #21 OR #22\n24. #14 AND #23\n25. 2016:2023 [dp]\n26. #24 AND #25\n27. Animals[mh] NOT humans[mh]\n28. #26 NOT #27\n29. Review[pt]\n30. #28 NOT #29\n31. 2016\/08\/01:2023\/03\/15[dp]\n32. #30 AND #31",
+        "Platform": "PubMed MEDLINE",
+        "Search_for_PICO_IDX": [
+            "b7"
+        ],
+        "Dataset": "2024 KDIGO CKD"
+    }
+]

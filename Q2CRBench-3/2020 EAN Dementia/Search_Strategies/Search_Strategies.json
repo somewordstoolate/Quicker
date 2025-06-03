@@ -1,0 +1,51 @@
+[
+    {
+        "Search_Strategy_ID": "1",
+        "Search_Strategy": "Database: MEDLINE\nHost: Ovid\nData parameters: 1946 to present\nDate searched: Thursday June 21st 2018\nSearch strategy:\n1\texp Dementia\/\n2\t(Dement$ or Alzheimer$ or Amnes$ or Parkinson$ or Huntington$ or lewy$ bod$ or pick$ disease or Posterior cortical atrophy or aphasia or (brain adj1 (disease$ or syndrome$)) or binswanger* or Progressive supranuclear palsy or Steele-Richardson-Olszewski syndrome or Frontotemporal disorder$ or Frontotemporal degeneration or Corticobasal degeneration or Corticobasal syndrome or cognitive disorder$ or Vascular cognitive).ti,ab,kw,ot.\n3\t*Amnesia\/\n4\texp Parkinsonian Disorders\/\n5\t*Huntington Disease\/\n6\t*Supranuclear Palsy, Progressive\/\n7\t1 or 2 or 3 or 4 or 5 or 6\n8\t(Levetiracetam$ or Keppra or Elepsia or Matever or Spritam or Kopodex or Lo59 or lo 59 or N03AX14 or 102767-28-2).ti,ab,kw,ot.\n9\t(Lamotrigin$ or Lamictal or Labileno or Lamepil or Lamictin or Lamodex or Lamogine or Lamotrix or Neurium or NO3AX09 or 84057-84-1).ti,ab,kw,ot.\n10\t8 or 9\n11\trandomized controlled trial.pt.\n12\tcontrolled clinical trial.pt.\n13\tRandomi?ed.ab.\n14\tplacebo.ab.\n15\tclinical trials as topic.sh.\n16\trandomly.ab.\n17\ttrial.ti.\n18\t11 or 12 or 13 or 14 or 15 or 16 or 17\n19\t7 and 10 and 18",
+        "Platform": "Ovid MEDLINE",
+        "Search_for_PICO_IDX": [
+            "1"
+        ],
+        "Dataset": "2020 EAN Dementia"
+    },
+    {
+        "Search_Strategy_ID": "2",
+        "Search_Strategy": "Database: MEDLINE\nHost: Ovid\nData parameters: 1946 to present\nDate searched: Thursday June 21st 2018\nSearch strategy:\n1\texp Dementia\/\n2\t(Dement$ or Alzheimer$ or Amnes$ or Parkinson$ or Huntington$ or lewy$ bod$ or pick$ disease or Posterior cortical atrophy or aphasia or (brain adj1 (disease$ or syndrome$)) or binswanger* or Progressive supranuclear palsy or Steele-Richardson-Olszewski syndrome or Frontotemporal disorder$ or Frontotemporal degeneration or Corticobasal degeneration or Corticobasal syndrome or cognitive disorder$ or Vascular cognitive).ti,ab,kw,ot.\n3\t*Amnesia\/\n4\texp Parkinsonian Disorders\/\n5\t*Huntington Disease\/\n6\t*Supranuclear Palsy, Progressive\/\n7\t1 or 2 or 3 or 4 or 5 or 6\n8\tAtrial Fibrillation\/\n9\t((atrial adj3 fibrillat$) or (atrium adj3 fibrillat*) or (auricular* adj3 fibrillat*) or (irregular adj1 heart beat) or atrial arrhythmi*).ti,ab,kw,ot.\n10\t8 or 9\n11\texp *Hypertension\/\n12\t(hypertension or hyper tension or (high adj (blood pressure or BP))).ti,ab,kw.\n13\t11 or 12\n14\t*Hypercholesterolemia\/\n15\t(hypercholesterolemia or (high adj cholesterol)).ti,ab,kw.\n16\t14 or 15\n17\texp Diabetes Mellitus, Type 2\/\n18\tdiabet$.ti,ab,kw.\n19\t17 or 18\n20\t10 or 13 or 16 or 19\n21\t7 and 20\n22\trandomized controlled trial.pt.\n23\tcontrolled clinical trial.pt.\n24\trandomized.ab.\n25\tplacebo.ab.\n26\tclinical trials as topic.sh.\n27\trandomly.ab.\n28\ttrial.ti.\n29\t22 or 23 or 24 or 25 or 26 or 27 or 28\n30\tEpidemiologic studies\/\n31\texp case control studies\/\n32\texp cohort studies\/\n33\tCase control.tw.\n34\t(cohort adj (study or studies)).tw.\n35\tCohort analy$.tw.\n36\t(Follow up adj (study or studies)).tw.\n37\t(observational adj (study or studies)).tw.\n38\tLongitudinal.tw.\n39\tRetrospective.tw.\n40\tCross sectional.tw.\n41\tCross-sectional studies\/\n42\t30 or 31 or 32 or 33 or 34 or 35 or 36 or 37 or 38 or 39 or 40 or 41\n43\t29 or 42\n44\t21 and 43",
+        "Platform": "Ovid MEDLINE",
+        "Search_for_PICO_IDX": [
+            "2a",
+            "2b"
+        ],
+        "Dataset": "2020 EAN Dementia"
+    },
+    {
+        "Search_Strategy_ID": "3",
+        "Search_Strategy": "Database: MEDLINE\nHost: Ovid\nData parameters: 1946 to present\nDate searched: Thursday June 21st 2018\nSearch strategy:\n1\texp Dementia\/\n2\t(Dement$ or Alzheimer$ or Amnes$ or Parkinson$ or Huntington$ or lewy$ bod$ or pick$ disease or Posterior cortical atrophy or aphasia or (brain adj1 (disease$ or syndrome$)) or binswanger* or Progressive supranuclear palsy or Steele-Richardson-Olszewski syndrome or Frontotemporal disorder$ or Frontotemporal degeneration or Corticobasal degeneration or Corticobasal syndrome or cognitive disorder$ or Vascular cognitive).ti,ab,kw,ot.\n3\t*Amnesia\/\n4\texp Parkinsonian Disorders\/\n5\t*Huntington Disease\/\n6\t*Supranuclear Palsy, Progressive\/\n7\t1 or 2 or 3 or 4 or 5 or 6\n8\t(home or house or apartment or building).ti,ab,kw,ot.\n9\t(memor$ adj3 clinic$).ti,ab,kw,ot.\n10\t7 and 8 and 9",
+        "Platform": "Ovid MEDLINE",
+        "Search_for_PICO_IDX": [
+            "3"
+        ],
+        "Dataset": "2020 EAN Dementia"
+    },
+    {
+        "Search_Strategy_ID": "4",
+        "Search_Strategy": "Database: MEDLINE\nHost: Ovid\nData parameters: 1946 to present\nDate searched: Thursday June 21st 2018\nSearch strategy:\n1\texp Dementia\/\n2\t(Dement$ or Alzheimer$ or Amnes$ or Parkinson$ or Huntington$ or lewy$ bod$ or pick$ disease or Posterior cortical atrophy or aphasia or (brain adj1 (disease$ or syndrome$)) or binswanger* or Progressive supranuclear palsy or Steele-Richardson-Olszewski syndrome or Frontotemporal disorder$ or Frontotemporal degeneration or Corticobasal degeneration or Corticobasal syndrome or cognitive disorder$ or Vascular cognitive).ti,ab,kw,ot.\n3\t*Amnesia\/\n4\texp Parkinsonian Disorders\/\n5\t*Huntington Disease\/\n6\t*Supranuclear Palsy, Progressive\/\n7\t1 or 2 or 3 or 4 or 5 or 6\n8\texp Antipsychotic Agents\/\n9\t(antipsychotic* or \"anti-psychotic*\" or tranquilizer*).ti,ab.\n10\t(Droperidol or Flupentixol or Fluphenazine or Haloperidol or Pimozide or Prochlorperazine or Thioproperazine or Trifluoperazine or Zuclopenthixol or Loxapine or Molindone or Perphenazine or Thiothixene or Chlorpromazine or Chlorprothixene or Levomepromazine or Mesoridazine or Periciazine or Promazine or Thioridazine).ti,ab.\n11\t8 or 9 or 10\n12\t7 and 11\n13\trandomized controlled trial.pt.\n14\tcontrolled clinical trial.pt.\n15\trandomized.ab.\n16\tplacebo.ab.\n17\tclinical trials as topic.sh.\n18\trandomly.ab.\n19\ttrial.ti.\n20\t13 or 14 or 15 or 16 or 17 or 18 or 19\n21\t12 and 20",
+        "Platform": "Ovid MEDLINE",
+        "Search_for_PICO_IDX": [
+            "4a",
+            "4b",
+            "4c"
+        ],
+        "Dataset": "2020 EAN Dementia"
+    },
+    {
+        "Search_Strategy_ID": "5",
+        "Search_Strategy": "Database: MEDLINE\nHost: Ovid\nData parameters: 1946 to present\nDate searched: Thursday June 21st 2018\nSearch strategy:\n1\texp Dementia\/\n2\t(Dement$ or Alzheimer$ or Amnes$ or Parkinson$ or Huntington$ or lewy$ bod$ or pick$ disease or Posterior cortical atrophy or aphasia or (brain adj1 (disease$ or syndrome$)) or binswanger* or Progressive supranuclear palsy or Steele-Richardson-Olszewski syndrome or Frontotemporal disorder$ or Frontotemporal degeneration or Corticobasal degeneration or Corticobasal syndrome or cognitive disorder$ or Vascular cognitive).ti,ab,kw,ot.\n3\t*Amnesia\/\n4\texp Parkinsonian Disorders\/\n5\t*Huntington Disease\/\n6\t*Supranuclear Palsy, Progressive\/\n7\t1 or 2 or 3 or 4 or 5 or 6\n8\t*Analgesics, Opioid\/\n9\t(narcotic* or opioid* or morphine or buprenorphine or codeine or dextromoramide or diphenoxylate or dipipanone or dextropropoxyphene or propoxyphene or diamorphine or dihydrocodeine or alfentanil or fentanyl or remifentanil or meptazinol or methadone or nalbuphine or oxycodone or papaveretum or pentazocine or meperidine or pethidine or phenazocine or hydrocodone or hydromorphone or levorphanol or oxymorphone or butorphanol or dezocine or sufentanil or ketobemidone).ti,ab,kw,ot.\n10\tNarcotics\/\n11\tMorphine\/\n12\tBuprenorphine\/\n13\tCodeine\/\n14\tDextromoramide\/\n15\tDiphenoxylate\/\n16\tDextropropoxyphene\/\n17\tAlfentanil\/\n18\tFentanyl\/\n19\tMethadone\/\n20\tNalbuphine\/\n21\tOpium\/\n22\tOxycodone\/\n23\tPentazocine\/\n24\tMeperidine\/\n25\tPhenazocine\/\n26\tHydrocodone\/\n27\thydromorphone\/\n28\tLevorphanol\/\n29\tOxymorphone\/\n30\tbutorphanol\/\n31\tSufentanil\/\n32\t8 or 9 or 10 or 11 or 12 or 13 or 14 or 15 or 16 or 17 or 18 or 19 or 20 or 21 or 22 or 23 or 24 or 25 or 26 or 27 or 28 or 29 or 30 or 31\n33\trandomized controlled trial.pt.\n34\tcontrolled clinical trial.pt.\n35\trandomized.ab.\n36\tplacebo.ab.\n37\tclinical trials as topic.sh.\n38\trandomly.ab.\n39\ttrial.ti.\n40\t33 or 34 or 35 or 36 or 37 or 38 or 39\n41\t7 and 32 and 40",
+        "Platform": "Ovid MEDLINE",
+        "Search_for_PICO_IDX": [
+            "5a",
+            "5b"
+        ],
+        "Dataset": "2020 EAN Dementia"
+    }
+]

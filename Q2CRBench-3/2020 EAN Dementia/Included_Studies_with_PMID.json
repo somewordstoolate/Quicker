@@ -1,0 +1,156 @@
+[
+  {
+    "PICO_IDX": "2a",
+    "Date": "1946-2017",
+    "Ref": "Treatment of Atrial Fibrillation in Patients with Dementia: A Cohort Study from the Swedish Dementia Registry Subic A, Cermakova P, Religa D, Han S, von Euler M, Kareholt I, Johnell K, Fastbom J, Bognandi L, Winblad B, Kramberger MG, Eriksdotter M, Garcia-Ptacek S J Alz Dis 2018;61(3):1119-1128",
+    "PMID": "29286925",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "2b",
+    "Date": "1946-2017",
+    "Ref": "Treatment of vascular risk factors is associated with slower decline in Alzheimer disease Deschaintre Y, Richard F, Leys D, Pasquier F Neurology 2009;73(9):674-680",
+    "PMID": "19720973",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4a",
+    "Date": "1946-2017",
+    "Ref": "Quetiapine to treat agitation in dementia: a randomized double-blind placebo-controlled study Zhong KX, Tariot PN, Mintzer J, Minkwitz MC, Devine NA. Curr Alzheimer Res 2007;4(1):81-93 ",
+    "PMID": "17316169",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4a",
+    "Date": "1946-2017",
+    "Ref": "Quetiapine for agitation or psychosis in patients with dementia and parkinsonism Kurlan R, Cummings J, Raman R, Thal L. Neurology 2007;68(17):1356-1363",
+    "PMID": "17452579",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4a",
+    "Date": "1946-2017",
+    "Ref": "Olanzapine treatment of psychotic and behavioral symptoms in patients with Alzheimer disease in nursing care facilities: a double-blind randomized placebo-controlled trial The HGEU Study Group. Street JS, Clark WS, Gannon KS, Cummings JL, Bymaster FP, Tamura RN, Mitan SJ, Kadam DL, Sanger TM, Feldman PD, al et. Arch Gen Psychiatry; 200057(10):968-976",
+    "PMID": "11015815",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4a",
+    "Date": "1946-2017",
+    "Ref": "Clinical symptom responses to atypical antipsychotic medications in Alzheimer's disease: Phase 1 outcomes from the CATIE-AD effectiveness trial. Sultzer DL, Davis SM, Tariot PN, Dagerman KS, Lebowitz BD, Lyketsos CG, Rosenheck RA, Hsiao JK, Lieberman JA, Schneider LS. Am J Psychiatry 2008;165(7):844-854",
+    "PMID": "18519523",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4a",
+    "Date": "1946-2017",
+    "Ref": "Effectiveness of Atypical Antipsychotic Drugs in Patients with Alzheimer's Disease. Schneider LS, Tariot PN, Dagerman KS, Davis SM, Hsiao JK, Ismail M, Lebowitz BD, Lyketsos CG, Ryan J, Stroup T, Sultzer DL, Weintraub D, Lieberman JA.  NEJM 2006;355(15):1525-1538",
+    "PMID": "17035647",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4a",
+    "Date": "1946-2017",
+    "Ref": "Quetiapine and rivastigmine and cognitive decline in Alzheimer's disease: Randomised double blind placebo controlled trial. Ballard C, Margallo-Lana M, Juszczak E, Douglas S, Swann A, Thomas A, O'Brien J, Everatt A, Sadler S, Maddison C, Lee L, Bannister C, Elvish R, Jacoby R. BMJ 2005;330(7496):874",
+    "PMID": "15722369",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4a",
+    "Date": "1946-2017",
+    "Ref": "A randomized placebo-controlled trial of risperidone for the treatment of aggression agitation and psychosis of dementia. Brodaty H, Ames D, Snowdon J, Woodward M, Kirwan J, Clarnette R, Lee E, Lyons B, Grossman FJ Clin Psych 2003;64(2):134-43",
+    "PMID": "12633121",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4b",
+    "Date": "1946-2017",
+    "Ref": "A randomized double-blind crossover comparison of risperidone and haloperidol in Korean Dementia patients with behavioral disturbances Suh GH, Son HG, Ju YS, Jcho KH, Yeon BK, Shin YM, Kee BS, Choi SK. Am J Geriatr Psych 2004;12(5):509-516",
+    "PMID": "15353389",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4b",
+    "Date": "1946-2017",
+    "Ref": "Olanzapine versus Haloperidol in the Treatment of Agitation in Elderly Patients with Dementia: Results of a Randomized Controlled Double-Blind Trial. Verhey FR, Verkaaik M, Lousberg R. Dementia Geriatric Cogn Dis 2005;21(1):1-8.",
+    "PMID": "16244481",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4b",
+    "Date": "1946-2017",
+    "Ref": "A double-blind randomised comparison of risperidone and haloperidol in the treatment of behavioural and psychological symptoms in Chinese dementia patients. Chan W, Lam LC, Choy CN, Leung VP, Li S, Chiu H. International J Geriatr Psych 2001;16(12):1156-1162 ",
+    "PMID": "11748775",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4b",
+    "Date": "1946-2017",
+    "Ref": "A randomized trial of risperidone placebo and haloperidol for behavioral symptoms of dementia. De Deyn PP Rabheru K Rasmussen A Bocksberger JP Dautzenberg PLJ Eriksson S et al. Neurology 1999;53(5):946–946",
+    "PMID": "10496251",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4c",
+    "Date": "1946-2017",
+    "Ref": "Stopping antipsychotic drug therapy in demented nursing home patients: a randomized placebo-controlled study--the Bergen District Nursing Home Study (BEDNURS). Ruths S, Straand J, Nygaard HA, Aarsland D International J Geriatr Psych 2008;23(9):889-95",
+    "PMID": "18306150",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4c",
+    "Date": "1946-2017",
+    "Ref": "A randomized placebo-controlled trial of the discontinuation of long-term antipsychotics in dementia. van Reekum R, Clarke D, Conn D, Hermann N, Eryavec G, Cohen T, Ostrander L. International Psychogeriatrics 2002;14(2):197-210",
+    "PMID": "12243210",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4c",
+    "Date": "1946-2017",
+    "Ref": "Withdrawal of neuroleptic medication from institutionalized dementia patients: results from a double-blind baseline-treatment-controlled pilot study. Bridges-Parlet S, Knopman D, Seffes S. J Geriatr Psych Neurol 1997;10(3):119-126 ",
+    "PMID": "9322135",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4c",
+    "Date": "1946-2017",
+    "Ref": "Relapse risk after discontinuation of risperidone in Alzheimer's disease. Devanand D, Mintzer J, Schultz SK, Andrews HF, Sultzer DL, de la Pena D, Gupta S, Colon S, Schimming C, Pelton GH, Levin B, NEJM 2012;367(16):1497-1507 ",
+    "PMID": "23075176",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4c",
+    "Date": "1946-2017",
+    "Ref": "A 3-month randomized placebo-controlled neuroleptic discontinuation study in 100 people with dementia: the neuropsychiatric inventory median cutoff is a predictor of clinical outcome. Ballard CG, Thomas A, Fossey J, Lee L, Jacoby R, Lana MM, Bannister C, McShane R, Swann A, Juszczak E al et. J Clin Psych 2004;65(1):114-119",
+    "PMID": "14744180",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4c",
+    "Date": "1946-2017",
+    "Ref": "A randomised blinded placebo-controlled trial in dementia patients continuing or stopping neuroleptics (The DART-AD Trial). Ballard C, Lana MM, Theodoulou M, Douglas S, McShane R, Jacoby R, Kossakowski K, Yu LM, Juszczak E. PLoS Med 2008;5(4):0587-0599",
+    "PMID": "18384230",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4c",
+    "Date": "1946-2017",
+    "Ref": "The dementia antipsychotic withdrawal trial (DART-AD): Long-term follow-up of a randomised placebo-controlled trial. Ballard C, Hanney ML, Theodoulou M, Douglas S, McShane R, Kossakowski K, Gill R, Juszczak E, Yu LM, Jacoby R. Lancet Neurol 2009;8(2):151-157",
+    "PMID": "19138567",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "4c",
+    "Date": "1946-2017",
+    "Ref": "A 6-month randomized double-blind placebocontrolled pilot discontinuation trial following response to haloperidol treatment of psychosis and agitation in Alzheimer’s disease. Devanand D, Pelton G, Cunqueiro K, Sackeim HA, Marder K. International J Geriatr Psych 2011;26(9):937–43 ",
+    "PMID": "21845596",
+    "Dataset": "2020 EAN Dementia"
+  },
+  {
+    "PICO_IDX": "5b",
+    "Date": "1946-2017",
+    "Ref": "Effect of acetaminophen on behavior, well-being, and psychotropic medication use in nursing home residents with moderate-to-severe dementia. Chibnall JT, Tait RC, Harman B, Luebbert RA. J Am Geriatr Soc 2005;53(11):1921-1929",
+    "PMID": "16274373",
+    "Dataset": "2020 EAN Dementia"
+  }
+]

@@ -1,0 +1,94 @@
+[
+    {
+        "Search_Strategy_ID": "3",
+        "Search_Strategy": "Database: Ovid MEDLINE(R) and Epub Ahead of Print, In-Process & Other Non-Indexed Citations, Daily and Versions(R) <1946 to November 21, 2019> \nSearch Strategy:\n--------------------------------------------------------------------------------\n1     Arthritis, Rheumatoid\/ \n2     ((rheumatoid adj2 arthrit$) or (rheumatoid adj2 arthros$)).tw,kw. \n3     Rheumatoid nodule\/ or (rheumatoid adj2 nodule$).tw,kw. \n4     or\/1-3 \n5     (T2T or TTT or \"treat to target\" or \"treat-to-target\" or \"at target\" or remission or bridge therapy or treatment persistence or tight$ control$ or therapeutic target$ or low disease activity).tw,kw. \n6     Remission Induction\/ \n7     or\/5-6 \n8     4 and 7 [PICO 12-14]",
+        "Platform": "Ovid MEDLINE",
+        "Search_for_PICO_IDX": [
+            "12a",
+            "12b",
+            "13",
+            "14"
+        ],
+        "Dataset": "2021 ACR RA"
+    },
+    {
+        "Search_Strategy_ID": "1",
+        "Search_Strategy": "Database: Ovid MEDLINE(R) and Epub Ahead of Print, In-Process & Other Non-Indexed Citations, Daily and Versions(R) <1946 to November 21, 2019> \nSearch Strategy:\n--------------------------------------------------------------------------------\n1     Arthritis, Rheumatoid\/ \n2     ((rheumatoid adj2 arthrit$) or (rheumatoid adj2 arthros$)).tw,kw. \n3     Rheumatoid nodule\/ or (rheumatoid adj2 nodule$).tw,kw. \n4     or\/1-3  \n5     Methotrexate\/ or (methotrexate or Rheumatrex or Trexall or Otrexup or Rasuvo).tw,kw. \n6     exp Folic Acid\/ or folic acid$.tw,kw. \n7     4 and 5 and 6 [PICO15]",
+        "Platform": "Ovid MEDLINE",
+        "Search_for_PICO_IDX": [
+            "15"
+        ],
+        "Dataset": "2021 ACR RA"
+    },
+    {
+        "Search_Strategy_ID": "4",
+        "Search_Strategy": "Database: Ovid MEDLINE(R) and Epub Ahead of Print, In-Process & Other Non-Indexed Citations, Daily and Versions(R) <1946 to November 21, 2019> \nSearch Strategy:\n--------------------------------------------------------------------------------\n1     Arthritis, Rheumatoid\/ \n2     ((rheumatoid adj2 arthrit$) or (rheumatoid adj2 arthros$)).tw,kw. \n3     Rheumatoid nodule\/ or (rheumatoid adj2 nodule$).tw,kw. \n4     or\/1-3 \n5     Hydroxychloroquine\/ or (hydroxychloroquine or Plaquenil).tw,kw. \n6     (leflunomide or Arava).tw,kw. \n7     Methotrexate\/ or (methotrexate or Rheumatrex or Trexall or Otrexup or Rasuvo).tw,kw. \n8     Sulfasalazine\/ or (sulfasalazine$ or sulphasalazine$ or Azulfidine).tw,kw. \n9     or\/5-8 [conventional synthetic DMARDs] \n10     Adalimumab\/ or (adalimumab or Humira).tw,kw. \n11     Certolizumab Pegol\/ or (certolizumab or Cimzia).tw,kw. \n12     Etanercept\/ or (etanercept or Enbrel).tw,kw. \n13     (Golimumab or Simponi).tw,kw. \n14     Infliximab\/ or (infliximab or Remicade).tw,kw. \n15     Tumor Necrosis Factor-alpha\/tu [Therapeutic Use] \n16     Receptors, Tumor Necrosis Factor\/tu \n17     ((tumor or tumour) adj necrosis factor adj (block$ or inhibitor$)).tw. or (TNF inhibitor$ or TNFi).tw,kw. or (anti-TNF or anti TNF).tw,kw. \n18     Abatacept\/ or (abatacept or Orencia).tw,kw. \n19     Rituximab\/ or (rituximab or Rituxan or MabThera or Remsima).tw,kw. \n20     Antibodies, Monoclonal\/tu \n21     (Sarilumab or Kevzara).tw,kw. \n22     tocilizumab.tw,kw. \n23     Interleukin-6\/tu or Interleukin-1\/tu or Receptors, Interleukin-6\/tu or Receptors, Interleukin-1\/tu \n24     (interleukin 6 inhibit$ or IL 6 inhibit$).tw,kw. \n25     biologic$ DMARD$.tw,kw. \n26     biological products\/ and exp antirheumatic agents\/ \n27     or\/10-26 [biological DMARDs] \n28     (Amjevita or \"adalimumab-atto\").tw,kw. \n29     (Erelzi or \"etanercept szzs\").tw,kw.\n30     (infliximab-QBTZ or Ixifi).tw,kw. \n31     (\"Infliximab-DYBB\" or Inflectra).tw,kw. \n32     biosimilar pharmaceuticals\/ and antirheumatic agents\/ \n33     (biosimilar adj2 disease adj2 modifying adj2 anti-rheumatic$).tw,kw. \n34     (biosimilar adj3 DMARD$).tw,kw. \n35     (bs adj DMARD$).tw,kw. \n36     or\/28-35 [biosimiar dmards] \n37     (baricitinib or Olumiant).tw,kw. \n38     (fostamatanib or Tavalisse).tw,kw. \n39     (Filgotinib or GS-6034 or GLPG0634).tw,kw. \n40     (tofacitinib or tasocitinib or Xeljanz or cp690550 or \"cp 690550\" or \"cp 690 550\" or Upadacitinib or “ABT-494”).tw,kw. \n41     (((JAK 1 or JAK 2) adj inhibit$) or (Janus kinase 1 inhibit$ or Janus kinase 3 inhibit$)).tw,kw. \n42     Janus Kinase inhibitors\/ or Janus Kinase 1\/ai or Janus Kinase 3\/ai \n43     or\/37-42 [targeted dmards]\n44     4 and (9 or 27 or 36 or 43) [PICO 21-23,55]",
+        "Platform": "Ovid MEDLINE",
+        "Search_for_PICO_IDX": [
+            "21a",
+            "21b",
+            "21c",
+            "23",
+            "55"
+        ],
+        "Dataset": "2021 ACR RA"
+    },
+    {
+        "Search_Strategy_ID": "2",
+        "Search_Strategy": "Database: Ovid MEDLINE(R) and Epub Ahead of Print, In-Process & Other Non-Indexed Citations, Daily and Versions(R) <1946 to November 21, 2019> \nSearch Strategy:\n--------------------------------------------------------------------------------\n1     Arthritis, Rheumatoid\/ \n2     ((rheumatoid adj2 arthrit$) or (rheumatoid adj2 arthros$)).tw,kw. \n3     Rheumatoid nodule\/ or (rheumatoid adj2 nodule$).tw,kw. \n4     or\/1-3 \n5     Hydroxychloroquine\/ or (hydroxychloroquine or Plaquenil).tw,kw. \n6     (leflunomide or Arava).tw,kw. \n7     Methotrexate\/ or (methotrexate or Rheumatrex or Trexall or Otrexup or Rasuvo).tw,kw. \n8     Sulfasalazine\/ or (sulfasalazine$ or sulphasalazine$ or Azulfidine).tw,kw. \n9     or\/5-8 [conventional synthetic DMARDs] \n10     Adalimumab\/ or (adalimumab or Humira).tw,kw. \n11     Certolizumab Pegol\/ or (certolizumab or Cimzia).tw,kw. \n12     Etanercept\/ or (etanercept or Enbrel).tw,kw. \n13     (Golimumab or Simponi).tw,kw. \n14     Infliximab\/ or (infliximab or Remicade).tw,kw. \n15     Tumor Necrosis Factor-alpha\/tu [Therapeutic Use] \n16     Receptors, Tumor Necrosis Factor\/tu \n17     ((tumor or tumour) adj necrosis factor adj (block$ or inhibitor$)).tw. or (TNF inhibitor$ or TNFi).tw,kw. or (anti-TNF or anti TNF).tw,kw. \n18     Abatacept\/ or (abatacept or Orencia).tw,kw. \n19     Rituximab\/ or (rituximab or Rituxan or MabThera or Remsima).tw,kw. \n20     Antibodies, Monoclonal\/tu \n21     (Sarilumab or Kevzara).tw,kw. \n22     tocilizumab.tw,kw. \n23     Interleukin-6\/tu or Interleukin-1\/tu or Receptors, Interleukin-6\/tu or Receptors, Interleukin-1\/tu \n24     (interleukin 6 inhibit$ or IL 6 inhibit$).tw,kw. \n25     biologic$ DMARD$.tw,kw. \n26     biological products\/ and exp antirheumatic agents\/ \n27     or\/10-26 [biological DMARDs] \n28     (Amjevita or \"adalimumab-atto\").tw,kw. \n29     (Erelzi or \"etanercept szzs\").tw,kw.\n30     (infliximab-QBTZ or Ixifi).tw,kw. \n31     (\"Infliximab-DYBB\" or Inflectra).tw,kw. \n32     biosimilar pharmaceuticals\/ and antirheumatic agents\/ \n33     (biosimilar adj2 disease adj2 modifying adj2 anti-rheumatic$).tw,kw. \n34     (biosimilar adj3 DMARD$).tw,kw. \n35     (bs adj DMARD$).tw,kw. \n36     or\/28-35 [biosimiar dmards] \n37     (baricitinib or Olumiant).tw,kw. \n38     (fostamatanib or Tavalisse).tw,kw. \n39     (Filgotinib or GS-6034 or GLPG0634).tw,kw. \n40     (tofacitinib or tasocitinib or Xeljanz or cp690550 or \"cp 690550\" or \"cp 690 550\" or Upadacitinib or “ABT-494”).tw,kw. \n41     (((JAK 1 or JAK 2) adj inhibit$) or (Janus kinase 1 inhibit$ or Janus kinase 3 inhibit$)).tw,kw. \n42     Janus Kinase inhibitors\/ or Janus Kinase 1\/ai or Janus Kinase 3\/ai \n43     or\/37-42 [targeted dmards]\n44     Synovitis\/ or (exp Synovial Membrane\/ and exp Inflammation\/) or synovitis.tw,kw. or (inflammation and synovial membrane$).tw,kw. \n45     4 and 44 and (9 or 27 or 36 or 43) [PICO 28]",
+        "Platform": "Ovid MEDLINE",
+        "Search_for_PICO_IDX": [
+            "28"
+        ],
+        "Dataset": "2021 ACR RA"
+    },
+    {
+        "Search_Strategy_ID": "5",
+        "Search_Strategy": "Database: Ovid MEDLINE(R) and Epub Ahead of Print, In-Process & Other Non-Indexed Citations, Daily and Versions(R) <1946 to November 21, 2019> \nSearch Strategy:\n--------------------------------------------------------------------------------\n1     Arthritis, Rheumatoid\/ \n2     ((rheumatoid adj2 arthrit$) or (rheumatoid adj2 arthros$)).tw,kw. \n3     Rheumatoid nodule\/ or (rheumatoid adj2 nodule$).tw,kw. \n4     or\/1-3 \n5     Hydroxychloroquine\/ or (hydroxychloroquine or Plaquenil).tw,kw. \n6     (leflunomide or Arava).tw,kw. \n7     Methotrexate\/ or (methotrexate or Rheumatrex or Trexall or Otrexup or Rasuvo).tw,kw. \n8     Sulfasalazine\/ or (sulfasalazine$ or sulphasalazine$ or Azulfidine).tw,kw. \n9     or\/5-8 [conventional synthetic DMARDs] \n10     Adalimumab\/ or (adalimumab or Humira).tw,kw. \n11     Certolizumab Pegol\/ or (certolizumab or Cimzia).tw,kw. \n12     Etanercept\/ or (etanercept or Enbrel).tw,kw. \n13     (Golimumab or Simponi).tw,kw. \n14     Infliximab\/ or (infliximab or Remicade).tw,kw. \n15     Tumor Necrosis Factor-alpha\/tu [Therapeutic Use] \n16     Receptors, Tumor Necrosis Factor\/tu \n17     ((tumor or tumour) adj necrosis factor adj (block$ or inhibitor$)).tw. or (TNF inhibitor$ or TNFi).tw,kw. or (anti-TNF or anti TNF).tw,kw. \n18     Abatacept\/ or (abatacept or Orencia).tw,kw. \n19     Rituximab\/ or (rituximab or Rituxan or MabThera or Remsima).tw,kw. \n20     Antibodies, Monoclonal\/tu \n21     (Sarilumab or Kevzara).tw,kw. \n22     tocilizumab.tw,kw. \n23     Interleukin-6\/tu or Interleukin-1\/tu or Receptors, Interleukin-6\/tu or Receptors, Interleukin-1\/tu \n24     (interleukin 6 inhibit$ or IL 6 inhibit$).tw,kw. \n25     biologic$ DMARD$.tw,kw. \n26     biological products\/ and exp antirheumatic agents\/ \n27     or\/10-26 [biological DMARDs] \n28     (Amjevita or \"adalimumab-atto\").tw,kw. \n29     (Erelzi or \"etanercept szzs\").tw,kw.\n30     (infliximab-QBTZ or Ixifi).tw,kw. \n31     (\"Infliximab-DYBB\" or Inflectra).tw,kw. \n32     biosimilar pharmaceuticals\/ and antirheumatic agents\/ \n33     (biosimilar adj2 disease adj2 modifying adj2 anti-rheumatic$).tw,kw. \n34     (biosimilar adj3 DMARD$).tw,kw. \n35     (bs adj DMARD$).tw,kw. \n36     or\/28-35 [biosimiar dmards] \n37     (baricitinib or Olumiant).tw,kw. \n38     (fostamatanib or Tavalisse).tw,kw. \n39     (Filgotinib or GS-6034 or GLPG0634).tw,kw. \n40     (tofacitinib or tasocitinib or Xeljanz or cp690550 or \"cp 690550\" or \"cp 690 550\" or Upadacitinib or “ABT-494”).tw,kw. \n41     (((JAK 1 or JAK 2) adj inhibit$) or (Janus kinase 1 inhibit$ or Janus kinase 3 inhibit$)).tw,kw. \n42     Janus Kinase inhibitors\/ or Janus Kinase 1\/ai or Janus Kinase 3\/ai \n43     or\/37-42 [targeted dmards]\n44     4 and (9 or 27 or 36 or 43) [PICO 1-11,16-20,24-27,52-54,56-60-63]",
+        "Platform": "Ovid MEDLINE",
+        "Search_for_PICO_IDX": [
+            "1a",
+            "1b",
+            "2a",
+            "2b",
+            "3a",
+            "3b",
+            "4a",
+            "4b",
+            "5a",
+            "5b",
+            "6a",
+            "6b",
+            "7a",
+            "7b",
+            "8a",
+            "8b",
+            "9",
+            "10",
+            "11",
+            "16",
+            "17a",
+            "17b",
+            "18",
+            "19",
+            "20",
+            "24",
+            "25",
+            "26",
+            "27",
+            "52",
+            "53",
+            "54a",
+            "54b",
+            "56",
+            "57",
+            "58",
+            "59",
+            "60",
+            "61",
+            "62",
+            "63"
+        ],
+        "Dataset": "2021 ACR RA"
+    }
+]
