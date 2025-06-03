@@ -8,7 +8,7 @@ https://doi.org/10.48550/arXiv.2505.10282)
 
 `Q2CRBench-3` is a benchmark dataset designed to evaluate the performance of `Quicker` in generating clinical recommendations. It is derived from the development records of three authoritative clinical guidelines: [the 2020 EAN guideline for dementia](https://onlinelibrary.wiley.com/doi/10.1111/ene.14412), [the 2021 ACR guideline for rheumatoid arthritis](https://acrjournals.onlinelibrary.wiley.com/doi/10.1002/art.41752), and [the 2024 KDIGO guideline for chronic kidney disease](https://www.kidney-international.org/article/S0085-2538(23)00766-4/fulltext).
 
-Update: A more curated version of the dataset has been released on Hugging Face for broader accessibility and reproducibility.
+Update: A [more curated version of the dataset](https://huggingface.co/datasets/somewordstoolate/Q2CRBench-3) has been released on Hugging Face for broader accessibility and reproducibility.
 
 # 🚀 Quick Start
 
