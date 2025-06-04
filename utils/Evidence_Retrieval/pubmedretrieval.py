@@ -162,7 +162,13 @@ class PubMedRetrieval:
             tag='final conclusion', msg_content=response.msgs[0].content
         )
 
-        return True if final_conclusion[-1].lower() == 'yes' else False
+        if not final_conclusion:
+            logging.warning(
+                "No <final conclusion> tag found when judging valid component"
+            )
+            return False
+
+        return final_conclusion[-1].strip().lower() == 'yes'
 
     def get_search_terms(self, valid_components: dict) -> dict:
         professional_medical_librarian_msg_content = (
